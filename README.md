@@ -8,5 +8,5 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 0. Check the list of approved packages for your build environment (most likely [`ubuntu-precise`](./ubuntu-precise)).
 0. If it's not in there, open an issue requesting the package you need in the [primary issues
-   repo](https://github.com/travis-ci/travis-ci/issues/new).
+   repo](https://github.com/travis-ci/travis-ci/issues/new?title=APT+whitelist+request+for+___PACKAGE___).
 0. Please be patient :smiley_cat:
