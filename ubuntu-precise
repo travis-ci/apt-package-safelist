@@ -1,3 +1,4 @@
 curl
 git
 libgearman-dev
+pandoc
