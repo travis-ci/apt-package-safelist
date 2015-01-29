@@ -5,3 +5,5 @@ pandoc
 graphicsmagick
 time
 xutils-dev
+libicu-dev
+cmake
