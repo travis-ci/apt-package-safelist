@@ -1,9 +1,9 @@
+cmake
 curl
 git
-libgearman-dev
-pandoc
 graphicsmagick
+libgearman-dev
+libicu-dev
+pandoc
 time
 xutils-dev
-libicu-dev
-cmake
