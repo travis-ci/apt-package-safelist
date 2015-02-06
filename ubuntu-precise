@@ -1,5 +1,6 @@
 cmake
 curl
+gfortran
 git
 graphicsmagick
 graphviz
