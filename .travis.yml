@@ -1,0 +1,5 @@
+language: bash
+env:
+- DISTRO=ubuntu-precise
+- DISTRO=ubuntu-trusty
+script: diff -q "${DISTRO}" <(sort "${DISTRO}")
