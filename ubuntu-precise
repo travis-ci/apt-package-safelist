@@ -2,6 +2,7 @@ cmake
 curl
 git
 graphicsmagick
+graphviz
 libgearman-dev
 libicu-dev
 pandoc
