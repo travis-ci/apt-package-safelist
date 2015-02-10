@@ -2,4 +2,4 @@ language: bash
 env:
 - DISTRO=ubuntu-precise
 - DISTRO=ubuntu-trusty
-script: diff "${DISTRO}" <(sort "${DISTRO}")
+script: diff -u "${DISTRO}" <(sort "${DISTRO}")
