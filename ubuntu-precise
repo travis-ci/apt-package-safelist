@@ -26,8 +26,10 @@ libboost-test-dev
 libboost-thread-dev
 libboost-wave-dev
 libgearman-dev
+libgmp-dev
 libicu-dev
 liblapack-dev
+libmpfr-dev
 libxi-dev
 libxmu-dev
 pandoc
