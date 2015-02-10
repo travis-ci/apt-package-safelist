@@ -1,12 +1,16 @@
 cmake
 curl
 enchant
+freeglut3-dev
 gfortran
 git
 graphicsmagick
 graphviz
 libgearman-dev
 libicu-dev
+liblapack-dev
+libxi-dev
+libxmu-dev
 pandoc
 postgresql-9.0-plv8
 postgresql-9.1-plv8
@@ -106,5 +110,6 @@ texlive-publishers-doc
 texlive-science
 texlive-science-doc
 time
+valgrind
 wget
 xutils-dev
