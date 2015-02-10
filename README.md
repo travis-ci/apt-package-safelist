@@ -16,10 +16,12 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 The approval process is mostly about ensuring the `.deb` installation hooks don't do anything malicious or goofy that
 would open up a container to potential attack from a neighbor.  The primary concern is protecting Travis CI customers
-and their property :metal:.  The steps go like this (for ubuntu precise):
+and their property :metal:.  The steps go like this (for ubuntu precise), much of which is also available as the
+`travis-download-deb-sources` executable within the vagrant box:
 
 0. Bring up the vagrant box: `vagrant up precise`
 0. SSH into the vagrant box: `vagrant ssh precise`
+0. Switch to the ubuntu user, as the uid is the same as the travis user within the container: `sudo su - ubuntu`
 0. Start the Travis Ruby container: `docker run -v /var/tmp:/var/tmp -d travis:ruby`
 0. Get the container's IP address: `docker inspect <container-id>`
 0. SSH into the container: `ssh travis@<container-ip>` (password=`travis`)
@@ -28,3 +30,11 @@ and their property :metal:.  The steps go like this (for ubuntu precise):
 0. Grab the package sources: `apt-get source <package-name>`
 0. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *.pre* *.post*`
 0. If no malicious or goofy bits are found, :thumbsup: :shipit:
+
+Or the slightly simplified version:
+
+0. Bring up the vagrant box: `vagrant up precise`
+0. SSH into the vagrant box: `vagrant ssh precise`
+0. Switch to the ubuntu user, as the uid is the same as the travis user within the container: `sudo su - ubuntu`
+0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `travis-download-deb-sources git`
+0. Proceed with inspecting the `debian/*.pre*` and `debian/*.post*` hook scripts.

@@ -13,12 +13,24 @@ PROVISION_SCRIPTS = [
   EOF
 
   'usermod -a -G docker vagrant',
+  'usermod -a -G docker ubuntu',
   'docker pull quay.io/travisci/travis-ruby:latest',
 
   <<-EOF,
-    if ! grep -q travis:ruby <(docker images) ; then
-      docker tag quay.io/travisci/travis-ruby:latest travis:ruby
+    if ! jq --version ; then
+      curl -sSL -o /usr/local/bin/jq http://stedolan.github.io/jq/download/linux64/jq
+      chmod 0755 /usr/local/bin/jq
     fi
+  EOF
+
+  <<-EOF,
+    docker images | grep -q -E '^travis\\s+\\bruby\\b\\s+' || \\
+      docker tag quay.io/travisci/travis-ruby:latest travis:ruby
+  EOF
+
+  <<-EOF
+    cp -v /vagrant/bin/travis-download-deb-sources /usr/local/bin/
+    chmod 0755 /usr/local/bin/travis-download-deb-sources
   EOF
 ]
 
