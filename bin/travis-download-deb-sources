@@ -65,7 +65,7 @@ echo
 echo "---> The extracted ${PACKAGE_NAME} is inside the apt_packages container"
 echo "---> You can SSH in now like this:"
 echo
-echo "         ssh -i /var/tmp/ssh/id_rsa travis@${CONTAINER_IP}"
+echo "         sudo -u ubuntu -i -- ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /var/tmp/ssh/id_rsa travis@${CONTAINER_IP}"
 echo
 EOF
 

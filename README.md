@@ -21,8 +21,7 @@ and their property :metal:.  The steps go like this (for ubuntu precise), much o
 
 0. Bring up the vagrant box: `vagrant up precise`
 0. SSH into the vagrant box: `vagrant ssh precise`
-0. Switch to the ubuntu user, as the uid is the same as the travis user within the container: `sudo su - ubuntu`
-0. Start the Travis Ruby container: `docker run -v /var/tmp:/var/tmp -d travis:ruby`
+0. Start the Travis Ruby container: `sudo -u ubuntu -i docker run -v /var/tmp:/var/tmp -d travis:ruby`
 0. Get the container's IP address: `docker inspect <container-id>`
 0. SSH into the container: `ssh travis@<container-ip>` (password=`travis`)
 0. Freshen up the apt cache: `sudo apt-get update`
@@ -35,6 +34,5 @@ Or the slightly simplified version:
 
 0. Bring up the vagrant box: `vagrant up precise`
 0. SSH into the vagrant box: `vagrant ssh precise`
-0. Switch to the ubuntu user, as the uid is the same as the travis user within the container: `sudo su - ubuntu`
-0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `travis-download-deb-sources git`
+0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `sudo -u ubuntu -i travis-download-deb-sources git`
 0. Proceed with inspecting the `debian/*.pre*` and `debian/*.post*` hook scripts.
