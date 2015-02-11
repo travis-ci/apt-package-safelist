@@ -32,6 +32,7 @@ liblapack-dev
 libmpfr-dev
 libxi-dev
 libxmu-dev
+openjdk-6-source
 p7zip-full
 pandoc
 postgresql-9.0-plv8
