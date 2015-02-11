@@ -134,4 +134,5 @@ texlive-science-doc
 time
 valgrind
 wget
+wine
 xutils-dev
