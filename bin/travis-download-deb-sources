@@ -62,10 +62,7 @@ set +o xtrace
 
 echo >&2
 echo
-echo "---> The extracted ${PACKAGE_NAME} is inside the apt_packages container"
-echo "---> You can SSH in now like this:"
-echo
-echo "         sudo -u ubuntu -i -- ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /var/tmp/ssh/id_rsa travis@${CONTAINER_IP}"
+echo "---> The extracted ${PACKAGE_NAME} is in /var/tmp/shared/deb-sources"
 echo
 EOF
 
