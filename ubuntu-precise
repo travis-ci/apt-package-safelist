@@ -36,6 +36,7 @@ openjdk-6-source
 openjdk-7-source
 p7zip-full
 pandoc
+petsc
 postgresql-9.0-plv8
 postgresql-9.1-plv8
 postgresql-9.2-plv8
