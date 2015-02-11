@@ -30,10 +30,13 @@ libgmp-dev
 libicu-dev
 liblapack-dev
 libmpfr-dev
+libopenmpi-dev
 libxi-dev
 libxmu-dev
 openjdk-6-source
 openjdk-7-source
+openmpi
+openmpi-bin
 p7zip-full
 pandoc
 parallel
