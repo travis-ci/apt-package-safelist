@@ -38,3 +38,18 @@ Or the slightly simplified version:
 0. SSH into the vagrant box: `vagrant ssh precise`
 0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `sudo -u ubuntu -i travis-download-deb-sources git`
 0. Proceed with inspecting the `debian/*.pre*` and `debian/*.post*` hook scripts.
+
+All together now, for `poppler-utils`:
+
+``` bash
+# inside the vagrant box
+sudo -u ubuntu -i -- travis-download-deb-sources poppler-utils
+cd /var/tmp/shared/deb-sources/poppler-0.18.4/debian
+vim *.{pre,post,inst}*
+```
+
+``` bash
+# either inside the vagrant box in /vagrant or outside in the repo top level
+make add PACKAGE=poppler-utils
+git commit -v
+```
