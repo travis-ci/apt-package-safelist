@@ -66,11 +66,11 @@ texlive-doc-uk
 texlive-doc-vi
 texlive-doc-zh
 texlive-extra-utils
-texlive-font-utils
 texlive-fonts-extra
 texlive-fonts-extra-doc
 texlive-fonts-recommended
 texlive-fonts-recommended-doc
+texlive-font-utils
 texlive-formats-extra
 texlive-full
 texlive-games
@@ -108,13 +108,13 @@ texlive-lang-swedish
 texlive-lang-tibetan
 texlive-lang-ukenglish
 texlive-lang-vietnamese
+texlive-latex3
 texlive-latex-base
 texlive-latex-base-doc
 texlive-latex-extra
 texlive-latex-extra-doc
 texlive-latex-recommended
 texlive-latex-recommended-doc
-texlive-latex3
 texlive-luatex
 texlive-math-extra
 texlive-metapost
