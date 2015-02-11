@@ -44,7 +44,7 @@ start_apt_packages_container
 
 TMP_SCRIPT="/var/tmp/shared/download-deb-sources.$(date +%s)"
 
-CONTAINER_IP=$(docker inspect apt_packages | jq -r '.[] | .NetworkSettings.IPAddress' | head -1)
+CONTAINER_IP=$(docker inspect --format="{{.NetworkSettings.IPAddress}}" apt_packages)
 
 cat > "${TMP_SCRIPT}" <<EOF
 #!/bin/bash
