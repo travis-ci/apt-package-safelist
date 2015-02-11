@@ -29,6 +29,7 @@ libgearman-dev
 libgmp-dev
 libicu-dev
 liblapack-dev
+libmemcached-dev
 libmpfr-dev
 libopenmpi-dev
 libxi-dev
