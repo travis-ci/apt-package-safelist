@@ -41,6 +41,7 @@ p7zip-full
 pandoc
 parallel
 petsc
+poppler-utils
 postgresql-9.0-plv8
 postgresql-9.1-plv8
 postgresql-9.2-plv8
