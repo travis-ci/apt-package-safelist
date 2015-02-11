@@ -30,7 +30,7 @@ and their property :metal:.  The steps go like this (for ubuntu precise), much o
 0. Move into the shared dir or sub directory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
 0. Grab the package sources: `apt-get source <package-name>`
 0. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *.pre* *.post*`
-0. If no malicious or goofy bits are found, :thumbsup: :shipit:
+0. If no malicious or goofy bits are found, :thumbsup: :shipit: e.g.: `make add PACKAGE=<package-name>`
 
 Or the slightly simplified version:
 
