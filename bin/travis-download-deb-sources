@@ -1,0 +1,82 @@
+#!/bin/bash
+
+set -o errexit
+
+usage() {
+  cat <<EOF
+Usage: $(basename $0) <package-name>
+
+Download the given package name inside the apt_packages container, starting the container if needed.
+EOF
+}
+
+start_apt_packages_container() {
+  echo "---> Starting apt_packages container"
+  docker run -v /var/tmp/shared:/var/tmp/shared -v /var/tmp/ssh:/home/travis/.ssh --name apt_packages -d travis:ruby || true
+  sleep 10
+}
+
+PACKAGE_NAME="${1}"
+
+case "${PACKAGE_NAME}" in -h|--help|help|-?) usage ; exit 0 ;; esac
+[[ ${PACKAGE_NAME} ]] || { usage ; exit 1 ; }
+
+mkdir -p /var/tmp/shared/deb-sources /var/tmp/ssh
+
+if [[ ! -f /var/tmp/ssh/id_rsa.pub ]] ; then
+  ssh-keygen -f /var/tmp/ssh/id_rsa -t rsa -b 2048 -N ""
+fi
+
+if [[ ! -s /var/tmp/ssh/authorized_keys ]] ; then
+  cat /var/tmp/ssh/id_rsa.pub >> /var/tmp/ssh/authorized_keys
+fi
+
+chmod 0700 /var/tmp/ssh
+chmod 0644 /var/tmp/ssh/authorized_keys
+chmod 0600 /var/tmp/ssh/id_rsa*
+
+if [[ "$(docker ps -a | grep apt_packages)" ]] ; then
+  echo "---> Found existing container named apt_packages, so removing"
+  docker rm -f apt_packages || true
+fi
+
+start_apt_packages_container
+
+TMP_SCRIPT="/var/tmp/shared/download-deb-sources.$(date +%s)"
+
+CONTAINER_IP=$(docker inspect apt_packages | jq -r '.[] | .NetworkSettings.IPAddress' | head -1)
+
+cat > "${TMP_SCRIPT}" <<EOF
+#!/bin/bash
+
+set -o errexit
+set -o xtrace
+
+export DEBIAN_FRONTEND=noninteractive
+
+apt-get -y update
+pushd /var/tmp/shared/deb-sources
+apt-get source "${PACKAGE_NAME}"
+
+set +o xtrace
+
+echo >&2
+echo
+echo "---> The extracted ${PACKAGE_NAME} is inside the apt_packages container"
+echo "---> You can SSH in now like this:"
+echo
+echo "         sudo -u ubuntu -i -- ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -i /var/tmp/ssh/id_rsa travis@${CONTAINER_IP}"
+echo
+EOF
+
+chmod 0755 "${TMP_SCRIPT}"
+
+echo
+echo "---> Running ${TMP_SCRIPT} via ssh inside apt_packages container (travis@${CONTAINER_IP})"
+echo "---> HINT: The SSH password is 'travis'"
+echo
+exec ssh \
+  -i /var/tmp/ssh/id_rsa \
+  -o StrictHostKeyChecking=no \
+  -o UserKnownHostsFile=/dev/null \
+  travis@${CONTAINER_IP} sudo "${TMP_SCRIPT}"
