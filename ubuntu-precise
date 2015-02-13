@@ -4,6 +4,7 @@ cmake
 curl
 enchant
 freeglut3-dev
+freetds-dev
 gfortran
 git
 graphicsmagick
