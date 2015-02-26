@@ -2,6 +2,7 @@ antiword
 bc
 cmake
 curl
+emacs23-gtk
 enchant
 freeglut3-dev
 freetds-dev
