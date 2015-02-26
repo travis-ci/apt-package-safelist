@@ -36,6 +36,7 @@ libboost-test-dev
 libboost-thread-dev
 libboost-wave-dev
 libbz2-dev
+libfcgi-dev
 libgearman-dev
 libgmp-dev
 libhdf5-serial-dev
