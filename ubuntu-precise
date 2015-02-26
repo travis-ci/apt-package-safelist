@@ -10,6 +10,9 @@ gfortran
 git
 graphicsmagick
 graphviz
+lib32bz2-1.0
+lib32ncurses5
+lib32z1
 libatlas-base-dev
 libatlas-dev
 libblas-dev
