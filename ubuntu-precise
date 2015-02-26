@@ -48,6 +48,7 @@ libnotify-dev
 libmemcached-dev
 libmpfr-dev
 libopenmpi-dev
+libproj-dev
 libsqlite3-dev
 libwebkitgtk-dev
 libxcb-util0-dev
