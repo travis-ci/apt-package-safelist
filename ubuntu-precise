@@ -42,6 +42,7 @@ libmemcached-dev
 libmpfr-dev
 libopenmpi-dev
 libxi-dev
+libxmlsec1-dev
 libxmu-dev
 libzmq3-dev
 openjdk-6-source
