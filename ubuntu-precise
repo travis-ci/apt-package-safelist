@@ -59,6 +59,7 @@ postgresql-9.2-plv8
 postgresql-9.3-plv8
 postgresql-9.4-plv8
 python-nose
+swig
 texlive
 texlive-base
 texlive-bibtex-extra
