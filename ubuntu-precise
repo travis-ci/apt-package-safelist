@@ -70,6 +70,11 @@ postgresql-9.1-plv8
 postgresql-9.2-plv8
 postgresql-9.3-plv8
 postgresql-9.4-plv8
+postgresql-server-dev-9.1
+postgresql-server-dev-9.2
+postgresql-server-dev-9.3
+postgresql-server-dev-9.4
+postgresql-server-dev-all
 pylint
 python-nose
 swig
