@@ -70,6 +70,7 @@ postgresql-9.1-plv8
 postgresql-9.2-plv8
 postgresql-9.3-plv8
 postgresql-9.4-plv8
+pylint
 python-nose
 swig
 texlive
