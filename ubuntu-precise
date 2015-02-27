@@ -177,4 +177,5 @@ valgrind
 wget
 winbind
 wine
+x11proto-xf86vidmode-dev
 xutils-dev
