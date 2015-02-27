@@ -57,6 +57,7 @@ libxi-dev
 libxmlsec1-dev
 libxmu-dev
 libzmq3-dev
+libxxf86vm-dev
 openjdk-6-source
 openjdk-7-source
 openmpi
