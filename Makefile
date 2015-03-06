@@ -20,7 +20,7 @@ help:
 
 .PHONY: sort
 sort: $(DISTROS)
-	for distro in $< ; do sort -d $$distro | uniq | grep -v '^$$' > _tmp && mv _tmp $$distro ; done
+	for distro in $^ ; do sort -d $$distro | uniq | grep -v '^$$' > _tmp && mv _tmp $$distro ; done
 
 .PHONY: add
 add:
