@@ -29,7 +29,7 @@ and their property :metal:.  The steps go like this (for ubuntu precise), much o
 0. Freshen up the apt cache: `sudo apt-get update`
 0. Move into the shared dir or sub directory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
 0. Grab the package sources: `apt-get source <package-name>`
-0. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *.pre* *.post*` (see [inspecting packages](#inspecting-packages))
+0. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *pre* *post* *inst*` (see [inspecting packages](#inspecting-packages))
 0. If no malicious or goofy bits are found, :thumbsup: :shipit: e.g.: `make add PACKAGE=<package-name>`
 
 Or the slightly simplified version:
@@ -37,7 +37,7 @@ Or the slightly simplified version:
 0. Bring up the vagrant box: `vagrant up precise`
 0. SSH into the vagrant box: `vagrant ssh precise`
 0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `sudo -u ubuntu -i travis-download-deb-sources git`
-0. Proceed with inspecting the `debian/*.pre*` and `debian/*.post*` hook scripts. (see [inspecting packages](#inspecting-packages))
+0. Proceed with inspecting the `debian/*pre*` and `debian/*post*` hook scripts. (see [inspecting packages](#inspecting-packages))
 
 All together now, for `poppler-utils`:
 
@@ -45,7 +45,7 @@ All together now, for `poppler-utils`:
 # inside the vagrant box
 sudo -u ubuntu -i -- travis-download-deb-sources poppler-utils
 cd /var/tmp/shared/deb-sources/poppler-0.18.4/debian
-vim *.{pre,post,inst}*
+vi *{pre,post,inst}*
 ```
 
 ``` bash
@@ -74,5 +74,5 @@ pushd $(find . -name debian | head -1)
 
 # take a look at the hook scripts and such
 shopt -s nullglob
-vi *.post* *.pre* *.inst*
+vi *{pre,post,inst}*
 ```
