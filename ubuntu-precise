@@ -50,6 +50,7 @@ libmpfr-dev
 libnotify-dev
 libopenmpi-dev
 libproj-dev
+libprotobuf-dev
 libsqlite3-dev
 libwebkitgtk-dev
 libxcb-util0-dev
@@ -77,6 +78,7 @@ postgresql-server-dev-9.2
 postgresql-server-dev-9.3
 postgresql-server-dev-9.4
 postgresql-server-dev-all
+protobuf-compiler
 pylint
 python-nose
 swig
