@@ -89,6 +89,7 @@ postgresql-server-dev-9.4
 postgresql-server-dev-all
 protobuf-compiler
 pylint
+python-dbus
 python-nose
 swig
 texlive
