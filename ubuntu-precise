@@ -5,6 +5,8 @@ curl
 devscripts
 emacs23-gtk
 enchant
+fonts-inconsolata
+fonts-linuxlibertine
 freeglut3-dev
 freetds-dev
 gdb
