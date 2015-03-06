@@ -13,7 +13,9 @@ git
 graphicsmagick
 graphviz
 lib32bz2-1.0
+lib32gcc1
 lib32ncurses5
+lib32stdc++6
 lib32z1
 libatlas-base-dev
 libatlas-dev
@@ -38,6 +40,7 @@ libboost-test-dev
 libboost-thread-dev
 libboost-wave-dev
 libbz2-dev
+libc6-i386
 libfcgi-dev
 libgearman-dev
 libgmp-dev
