@@ -64,6 +64,7 @@ libmpfr-dev
 libnetcdf-dev
 libnotify-dev
 libopenmpi-dev
+libpcre3
 libproj-dev
 libprotobuf-dev
 libsqlite3-dev
