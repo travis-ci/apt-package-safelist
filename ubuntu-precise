@@ -5,6 +5,7 @@ curl
 devscripts
 emacs23-gtk
 enchant
+expect
 fonts-inconsolata
 fonts-linuxlibertine
 freeglut3-dev
@@ -99,6 +100,7 @@ pylint
 python-dbus
 python-nose
 swig
+tcl8.5
 texlive
 texlive-base
 texlive-bibtex-extra
