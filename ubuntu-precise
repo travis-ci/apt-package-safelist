@@ -100,7 +100,9 @@ postgresql-server-dev-all
 protobuf-compiler
 pylint
 python3-dbus
+python3-gi
 python-dbus
+python-gi
 python-nose
 rsync
 swig
