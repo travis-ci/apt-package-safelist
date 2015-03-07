@@ -99,6 +99,7 @@ postgresql-server-dev-9.4
 postgresql-server-dev-all
 protobuf-compiler
 pylint
+python3-dbus
 python-dbus
 python-nose
 rsync
