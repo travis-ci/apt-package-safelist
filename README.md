@@ -76,3 +76,18 @@ pushd $(find . -name debian | head -1)
 shopt -s nullglob
 vi *{pre,post,inst}*
 ```
+
+### github API handy bits
+
+To get the current list of issues that have already been labeled appropriately:
+
+``` bash
+curl -s https://api.github.com/repos/travis-ci/travis-ci/issues\?labels\=apt-whitelist
+```
+
+From which more complex fun things may be done:
+
+``` bash
+curl -s https://api.github.com/repos/travis-ci/travis-ci/issues\?labels\=apt-whitelist | \\
+  jq '.[] | {packages: .title[26:], body: .body, number: .number}'
+```
