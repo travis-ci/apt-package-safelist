@@ -57,6 +57,7 @@ liblzo2-dev
 libmagic-dev
 libmemcached-dev
 libmpfr-dev
+libnetcdf-dev
 libnotify-dev
 libopenmpi-dev
 libproj-dev
@@ -71,6 +72,7 @@ libxmu-dev
 libxxf86vm-dev
 libzmq3-dev
 mesa-utils
+netcdf-bin
 openjdk-6-source
 openjdk-7-source
 openmpi
