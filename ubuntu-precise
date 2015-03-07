@@ -197,6 +197,7 @@ texlive-publishers-doc
 texlive-science
 texlive-science-doc
 time
+uuid-dev
 valgrind
 wget
 winbind
