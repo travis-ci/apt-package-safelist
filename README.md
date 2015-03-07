@@ -79,15 +79,13 @@ vi *{pre,post,inst}*
 
 ### github API handy bits
 
-To get the current list of issues that have already been labeled appropriately:
+There is a helper script at `./bin/travis-list-apt-whitelist-issues` which may be used to query the open APT whitelist
+requests, as well as for automatic commit message formatting, e.g.:
 
 ``` bash
-curl -s https://api.github.com/repos/travis-ci/travis-ci/issues\?labels\=apt-whitelist
-```
+# list everything
+./bin/travis-list-apt-whitelist-issues
 
-From which more complex fun things may be done:
-
-``` bash
-curl -s https://api.github.com/repos/travis-ci/travis-ci/issues\?labels\=apt-whitelist | \\
-  jq '.[] | {packages: .title[26:], body: .body, number: .number}'
+# Show only the generated commit messages
+./bin/travis-list-apt-whitelist-issues | jq -r .commit_message
 ```

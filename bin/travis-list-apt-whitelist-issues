@@ -11,8 +11,10 @@ curl -s 'https://api.github.com/search/issues?q=is:issue+is:open+APT+whitelist+r
         body: .body,
         number: .number,
         commit_message: ([
+          "# (begin generated commit message)",
           (["Add", .title[26:], "to ubuntu-precise"] | join(" ")),
           "",
-          (["Closes travis-ci/travis-ci", (.number | tostring)] | join("#"))
+          (["Closes travis-ci/travis-ci", (.number | tostring)] | join("#")),
+          "# (end generated commit message)"
         ] | join("\n"))
       }'
