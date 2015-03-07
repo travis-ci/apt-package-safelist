@@ -3,6 +3,7 @@ bc
 cmake
 curl
 devscripts
+doxygen
 emacs23-gtk
 enchant
 expect
