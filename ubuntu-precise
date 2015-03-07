@@ -53,6 +53,7 @@ libhdf5-serial-dev
 libicu-dev
 libirrlicht1.7a
 libirrlicht-dev
+libisl10
 liblapack-dev
 liblzo2-dev
 libmagic-dev
