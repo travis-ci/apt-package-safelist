@@ -101,6 +101,7 @@ protobuf-compiler
 pylint
 python-dbus
 python-nose
+rsync
 swig
 tcl8.5
 texlive
