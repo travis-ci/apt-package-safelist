@@ -67,6 +67,7 @@ libopenmpi-dev
 libpcre3
 libproj-dev
 libprotobuf-dev
+libsensors4
 libsqlite3-dev
 libwebkitgtk-3.0-dev
 libwebkitgtk-dev
