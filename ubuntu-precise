@@ -200,6 +200,7 @@ texlive-publishers-doc
 texlive-science
 texlive-science-doc
 time
+tree
 uuid-dev
 valgrind
 wget
