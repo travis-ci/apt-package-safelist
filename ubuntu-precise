@@ -78,6 +78,7 @@ libxmlsec1-dev
 libxmu-dev
 libxxf86vm-dev
 libzmq3-dev
+linux-libc-dev
 mesa-utils
 netcdf-bin
 openjdk-6-source
