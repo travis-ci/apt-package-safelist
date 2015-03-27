@@ -185,11 +185,15 @@ findutils
 firebird2.5-dev
 firebird2.5-superclassic
 firefox-locale-en
+firefox-locale-ja
 flex
 fontconfig
 fontconfig-config
 fonts-inconsolata
 fonts-linuxlibertine
+fonts-takao-gothic
+fonts-takao-mincho
+fonts-takao-pgothic
 freeglut3
 freeglut3-dev
 freetds-dev
@@ -274,6 +278,7 @@ krb5-multidev
 ksh
 language-pack-en
 language-pack-en-base
+language-pack-gnome-ja
 less
 lib32bz2-1.0
 lib32gcc1
