@@ -1174,6 +1174,7 @@ ucf
 udev
 udisks
 unattended-upgrades
+unionfs-fuse
 unixodbc
 unixodbc-dev
 unzip
