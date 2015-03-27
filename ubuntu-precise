@@ -105,6 +105,7 @@ chefdk
 chromium-browser
 chromium-browser-l10n
 chromium-codecs-ffmpeg-extra
+chrpath
 cmake
 cmake-data
 cmap-adobe-japan1
