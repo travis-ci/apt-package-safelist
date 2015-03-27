@@ -617,6 +617,7 @@ librsvg2-common
 librsvg2-dev
 librtmp0
 librtmp-dev
+libruby
 libruby1.8
 libsasl2-2
 libsasl2-dev
@@ -945,6 +946,7 @@ rsync
 rsyslog
 ruby
 ruby1.8
+ruby-dev
 ruby-mysql
 scons
 sed
