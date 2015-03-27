@@ -191,6 +191,7 @@ firefox-locale-ja
 flex
 fontconfig
 fontconfig-config
+fontforge-nox
 fonts-inconsolata
 fonts-linuxlibertine
 fonts-takao-gothic
@@ -424,6 +425,7 @@ libfl-dev
 libfontconfig1
 libfontconfig1-dev
 libfontenc1
+libfontforge1
 libfreetype6
 libfreetype6-dev
 libfreexl1
