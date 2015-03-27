@@ -305,6 +305,7 @@ libalgorithm-diff-perl
 libalgorithm-diff-xs-perl
 libalgorithm-merge-perl
 libantlr-java
+libapache2-mod-fastcgi
 libapache-pom-java
 libapr1
 libaprutil1
