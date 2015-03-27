@@ -842,6 +842,7 @@ llvm
 llvm-2.9
 llvm-2.9-dev
 llvm-2.9-runtime
+llvm-3.4
 llvm-runtime
 locales
 lockfile-progs
