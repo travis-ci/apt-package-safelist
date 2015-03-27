@@ -368,6 +368,7 @@ libc-dev-bin
 libcdt4
 libcgraph5
 libck-connector0
+libclamav-dev
 libclass-isa-perl
 libcloog-isl4
 libcomerr2
