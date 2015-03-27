@@ -786,6 +786,8 @@ libunistring0
 libusb-0.1-4
 libutempter0
 libuuid1
+libvarnishapi1
+libvarnishapi-dev
 libvorbis0a
 libvorbisenc2
 libvorbisfile3
@@ -1213,6 +1215,7 @@ ureadahead
 util-linux
 uuid-dev
 valgrind
+varnish
 vim
 vim-common
 vim-runtime
