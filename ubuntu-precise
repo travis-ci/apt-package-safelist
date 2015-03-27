@@ -447,6 +447,8 @@ libgdk-pixbuf2.0-common
 libgdk-pixbuf2.0-dev
 libgdu0
 libgearman-dev
+libgecode
+libgecode-dev
 libgeos-3.2.2
 libgeos-3.3.8
 libgeos-c1
