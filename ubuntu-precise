@@ -206,9 +206,15 @@ g++
 g++-4.6
 gawk
 gcc
+gcc-4.4-multilib
+gcc-4.5-multilib
 gcc-4.6
 gcc-4.6-base
 gcc-4.6-base:i386
+gcc-4.6-multilib
+gcc-4.6-multilib-arm-linux-gnueabi
+gcc-4.6-multilib-arm-linux-gnueabihf
+gcc-multilib
 gconf2
 gconf2-common
 gconf-service
