@@ -755,6 +755,8 @@ libstdc++6:i386
 libsvn1
 libswitch-perl
 libsys-hostname-long-perl
+libtalloc2
+libtalloc-dev
 libtasn1-3
 libtasn1-3-dev
 libtdb1
