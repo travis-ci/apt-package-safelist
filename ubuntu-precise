@@ -930,6 +930,12 @@ netcat-openbsd
 netcdf-bin
 netpbm
 net-tools
+nginx
+nginx-common
+nginx-extras
+nginx-full
+nginx-light
+nginx-naxsi
 notification-daemon
 ntfs-3g
 ntpdate
