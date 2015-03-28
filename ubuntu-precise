@@ -135,6 +135,7 @@ debhelper
 debianutils
 devscripts
 dh-apparmor
+dh-make
 diffstat
 diffutils
 dmsetup
