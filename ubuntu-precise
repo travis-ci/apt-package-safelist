@@ -107,6 +107,9 @@ chromium-browser
 chromium-browser-l10n
 chromium-codecs-ffmpeg-extra
 chrpath
+clang-3.5
+clang-3.6
+clang-3.7
 cmake
 cmake-data
 cmap-adobe-japan1
