@@ -113,6 +113,10 @@ clang-3.7
 cmake
 cmake-data
 cmap-adobe-japan1
+collectd
+collectd-core
+collectd-dev
+collectd-utils
 comerr-dev
 consolekit
 console-setup
@@ -388,6 +392,8 @@ libck-connector0
 libclamav-dev
 libclass-isa-perl
 libcloog-isl4
+libcollectdclient0
+libcollectdclient-dev
 libcomerr2
 libcommons-cli-java
 libcommons-daemon-java
