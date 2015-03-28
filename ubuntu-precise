@@ -1079,6 +1079,7 @@ python-zope.interface
 qdbus
 qt4-linguist-tools
 qt4-qmake
+quilt
 rabbitmq-server
 ragel
 readline-common
