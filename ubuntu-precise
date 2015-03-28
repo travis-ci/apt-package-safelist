@@ -828,6 +828,8 @@ libvarnishapi-dev
 libvorbis0a
 libvorbisenc2
 libvorbisfile3
+libwbclient0
+libwbclient-dev
 libwebkitgtk-3.0-dev
 libwebkitgtk-dev
 libwind0-heimdal
