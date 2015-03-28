@@ -283,6 +283,7 @@ initramfs-tools-bin
 initscripts
 insserv
 intltool-debian
+iodbc
 iproute
 iptables
 iputils-ping
@@ -566,6 +567,8 @@ libidn11-dev
 libijs-0.35
 libilmbase6
 libilmbase-dev
+libiodbc2
+libiodbc2-dev
 libirrlicht1.7a
 libirrlicht-dev
 libisl10
