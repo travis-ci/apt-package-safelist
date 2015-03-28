@@ -882,6 +882,7 @@ libzeroc-ice3.4-java
 libzeroc-ice-ruby1.8
 libzmq3
 libzmq3-dev
+lintian
 linux-libc-dev
 lksctp-tools
 llvm
