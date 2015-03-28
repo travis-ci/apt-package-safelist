@@ -773,6 +773,9 @@ libslang2
 libsm6
 libsm-dev
 libsndfile1
+libsnmp15
+libsnmp-dev
+libsnmp-perl
 libspatialite3
 libsqlite3-0
 libsqlite3-dev
@@ -827,6 +830,7 @@ libwind0-heimdal
 libwmf0.2-7
 libwmf-dev
 libwrap0
+libwrap0-dev
 libx11-6
 libx11-data
 libx11-dev
