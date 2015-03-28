@@ -675,6 +675,8 @@ libp11-kit0
 libp11-kit-dev
 libpam0g
 libpam-ck-connector
+libpam-cracklib
+libpam-doc
 libpam-modules
 libpam-modules-bin
 libpam-runtime
