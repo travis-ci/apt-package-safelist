@@ -401,6 +401,8 @@ libcommons-daemon-java
 libcommons-lang-java
 libcommons-logging-java
 libcommons-parent-java
+libcouchbase2-libevent
+libcouchbase-dev
 libcroco3
 libcryptsetup4
 libcups2
