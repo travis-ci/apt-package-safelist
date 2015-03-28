@@ -388,6 +388,7 @@ libcap2
 libc-bin
 libc-dev-bin
 libcdt4
+libcgi-fast-perl
 libcgraph5
 libck-connector0
 libclamav-dev
@@ -694,6 +695,8 @@ libpcre3
 libpcre3-dev
 libpcrecpp0
 libpcsclite1
+libperl5.14
+libperl-dev
 libpgm-5.1-0
 libpipeline1
 libpixman-1-0
@@ -990,6 +993,8 @@ patch
 pbuilder
 perl
 perl-base
+perl-debug
+perl-doc
 perl-modules
 petsc
 pgdg-keyring
