@@ -303,6 +303,7 @@ ksh
 language-pack-en
 language-pack-en-base
 language-pack-gnome-ja
+ldnsutils
 less
 lib32bz2-1.0
 lib32gcc1
@@ -605,6 +606,8 @@ liblcms1-dev
 liblcms2-2
 libldap-2.4-2
 libldap2-dev
+libldns1
+libldns-dev
 libllvm2.9
 libllvm3.0
 liblocale-gettext-perl
@@ -815,6 +818,7 @@ libtinfo5
 libtinfo-dev
 libtool
 libudev0
+libunbound-dev
 libunistring0
 libusb-0.1-4
 libutempter0
@@ -1093,6 +1097,7 @@ python-keyring
 python-launchpadlib
 python-lazr.restfulclient
 python-lazr.uri
+python-ldns
 python-minimal
 python-nose
 python-oauth
@@ -1252,6 +1257,9 @@ ucf
 udev
 udisks
 unattended-upgrades
+unbound
+unbound-anchor
+unbound-host
 unionfs-fuse
 unixodbc
 unixodbc-dev
