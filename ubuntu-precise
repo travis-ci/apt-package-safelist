@@ -752,6 +752,9 @@ libspatialite3
 libsqlite3-0
 libsqlite3-dev
 libss2
+libssh2-1
+libssh2-1-dev
+libssh2-php
 libssl0.9.8
 libssl1.0.0
 libssl-dev
