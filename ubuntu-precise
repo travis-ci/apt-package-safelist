@@ -286,7 +286,6 @@ intltool-debian
 iodbc
 iproute
 iptables
-iputils-ping
 isc-dhcp-client
 isc-dhcp-common
 iso-codes
