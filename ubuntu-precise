@@ -970,6 +970,7 @@ pandoc
 parallel
 passwd
 patch
+pbuilder
 perl
 perl-base
 perl-modules
