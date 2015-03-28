@@ -678,6 +678,8 @@ libpaper1
 libpaper-utils
 libparted0debian1
 libpathplan4
+libpcap0.8-dev
+libpcap-dev
 libpciaccess0
 libpcre3
 libpcre3-dev
