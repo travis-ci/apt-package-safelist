@@ -1124,6 +1124,7 @@ readline-common
 redis-server
 resolvconf
 riak
+rpm
 rsync
 rsyslog
 ruby
