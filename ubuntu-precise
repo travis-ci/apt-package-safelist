@@ -910,6 +910,8 @@ libyaml-0-2
 libyaml-dev
 libykclient3
 libykclient-dev
+libyubikey0
+libyubikey-dev
 libzeroc-ice34
 libzeroc-ice3.4-cil
 libzeroc-ice34-dbg
