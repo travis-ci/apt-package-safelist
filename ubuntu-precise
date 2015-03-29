@@ -79,6 +79,7 @@ aspell-uk
 aspell-uz
 aspell-xh
 aspell-zu
+attr
 autoconf
 autogen
 automake
@@ -353,6 +354,7 @@ libatk-wrapper-java-jni
 libatlas-base-dev
 libatlas-dev
 libattr1
+libattr1-dev
 libaudio2
 libavahi-client3
 libavahi-common3
@@ -400,6 +402,7 @@ libcanberra0
 libcanberra-gtk3-0
 libcanberra-gtk3-module
 libcap2
+libcap-dev
 libc-bin
 libc-dev-bin
 libcdt4
@@ -699,6 +702,7 @@ libossp-uuid-dev
 libp11-kit0
 libp11-kit-dev
 libpam0g
+libpam-cap
 libpam-ck-connector
 libpam-cracklib
 libpam-doc
