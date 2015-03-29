@@ -303,6 +303,7 @@ ksh
 language-pack-en
 language-pack-en-base
 language-pack-gnome-ja
+latexmk
 ldnsutils
 less
 lib32bz2-1.0
