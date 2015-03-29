@@ -246,6 +246,7 @@ gettext
 gettext-base
 gfortran
 ghc
+ghdl
 ghostscript
 gir1.2-atk-1.0
 gir1.2-freedesktop
