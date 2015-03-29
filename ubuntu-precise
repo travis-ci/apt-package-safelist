@@ -639,6 +639,7 @@ libmockobjects-java
 libmount1
 libmozjs185-1.0
 libmpc2
+libmpc-dev
 libmpfr4
 libmpfr-dev
 libmysql++3
