@@ -194,8 +194,19 @@ fakeroot
 ffmpeg
 file
 findutils
+firebird2.5-classic
+firebird2.5-classic-common
+firebird2.5-classic-dbg
+firebird2.5-common
+firebird2.5-common-doc
 firebird2.5-dev
+firebird2.5-doc
+firebird2.5-examples
+firebird2.5-server-common
+firebird2.5-super
 firebird2.5-superclassic
+firebird2.5-super-dbg
+firebird-dev
 firefox-locale-en
 firefox-locale-ja
 flex
@@ -444,6 +455,9 @@ libexif12
 libexif-dev
 libexpat1
 libexpat1-dev
+libfbclient2
+libfbclient2-dbg
+libfbembed2.5
 libfcgi-dev
 libffi6
 libffi-dev
@@ -552,6 +566,7 @@ libhiredis0.10
 libhiredis-dev
 libhtml-template-perl
 libhx509-5-heimdal
+libib-util
 libice6
 libicebox34
 libicedb34
