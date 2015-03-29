@@ -938,8 +938,11 @@ libzeroc-ice34-dbg
 libzeroc-ice34-dev
 libzeroc-ice3.4-java
 libzeroc-ice-ruby1.8
+libzmq1
 libzmq3
 libzmq3-dev
+libzmq-dbg
+libzmq-dev
 lintian
 linux-libc-dev
 lksctp-tools
