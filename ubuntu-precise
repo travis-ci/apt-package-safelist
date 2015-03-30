@@ -263,6 +263,7 @@ gnupg
 gpgv
 graphicsmagick
 graphviz
+graphviz-dev
 grep
 groff-base
 groovy
@@ -982,6 +983,7 @@ mingw32-binutils
 mingw32-runtime
 module-init-tools
 mongodb-10gen
+mopidy
 mount
 mountall
 mtools
