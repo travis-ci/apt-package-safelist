@@ -107,6 +107,7 @@ chefdk
 chromium-browser
 chromium-browser-l10n
 chromium-codecs-ffmpeg-extra
+chroot
 chrpath
 clang-3.5
 clang-3.6
@@ -141,6 +142,7 @@ debconf-i18n
 debconf-utils
 debhelper
 debianutils
+debootstrap
 devscripts
 dh-apparmor
 dh-make
@@ -191,6 +193,7 @@ erlang-tools
 erlang-webtool
 erlang-xmerl
 expect
+fakechroot
 fakeroot
 ffmpeg
 file
