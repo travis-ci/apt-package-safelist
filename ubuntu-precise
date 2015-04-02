@@ -403,6 +403,9 @@ libbison-dev
 libblas3gf
 libblas-dev
 libblkid1
+libbluetooth3
+libbluetooth3-dbg
+libbluetooth-dev
 libbonobo2-0
 libbonobo2-common
 libboost-all-dev
