@@ -1107,6 +1107,7 @@ nginx-extras
 nginx-full
 nginx-light
 nginx-naxsi
+ninja-build
 notification-daemon
 ntfs-3g
 ntpdate
