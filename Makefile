@@ -20,7 +20,7 @@ help:
 
 .PHONY: sort
 sort: $(DISTROS)
-	for distro in $^ ; do sort -d $$distro | uniq | grep -v '^$$' > _tmp && mv _tmp $$distro ; done
+	for distro in $^ ; do ./bin/travis-sort-uniq-whitelist $$distro > _tmp && mv _tmp $$distro ; done
 
 .PHONY: add
 add:

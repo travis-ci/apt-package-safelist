@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+def main
+  whitelist = ARGV.first
+  abort 'Missing whitelist' if whitelist.nil?
+
+  puts File.read(whitelist).split($/).map(&:strip).sort.uniq.reject(&:empty?).join($/)
+  0
+end
+
+exit(main) if $PROGRAM_NAME == __FILE__
