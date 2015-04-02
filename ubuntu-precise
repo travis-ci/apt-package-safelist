@@ -1198,6 +1198,7 @@ python-dev
 python-gi
 python-gnupginterface
 python-httplib2
+python-indicate
 python-keyring
 python-launchpadlib
 python-lazr.restfulclient
