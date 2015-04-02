@@ -844,6 +844,8 @@ libpq5
 libpq-dev
 libproj0
 libproj-dev
+libprotobuf-c0
+libprotobuf-c0-dev
 libprotobuf-dev
 libpthread-stubs0
 libpthread-stubs0-dev
@@ -1225,6 +1227,7 @@ powermgmt-base
 procps
 proj-bin
 proj-data
+protobuf-c-compiler
 protobuf-compiler
 psmisc
 pulseaudio
