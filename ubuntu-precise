@@ -449,6 +449,7 @@ libdatrie1
 libdb4.8
 libdb5.1
 libdbd-mysql-perl
+libdbd-sqlite3
 libdbi-dev
 libdbi-perl
 libdbus-1-3
