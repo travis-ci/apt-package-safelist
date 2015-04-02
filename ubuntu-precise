@@ -1061,6 +1061,9 @@ libxstream-java
 libxt6
 libxt-dev
 libxtst6
+libxtst6-dbg
+libxtst6-udeb
+libxtst-dev
 libxv1
 libxxf86dga1
 libxxf86vm1
