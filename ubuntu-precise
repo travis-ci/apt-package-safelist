@@ -761,6 +761,7 @@ libopenexr-dev
 libopenmpi-dev
 libopts25
 libopts25-dev
+libopus-dev
 liborbit2
 liborc-0.4-0
 libosmesa6-dev
@@ -838,6 +839,7 @@ libqt4-script
 libqt4-scripttools
 libqt4-sql
 libqt4-sql-mysql
+libqt4-sql-sqlite
 libqt4-svg
 libqt4-test
 libqt4-xml
