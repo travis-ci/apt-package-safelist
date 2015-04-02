@@ -1,4 +1,5 @@
 language: bash
+sudo: false
 env:
 - DISTRO=ubuntu-precise
 - DISTRO=ubuntu-trusty
