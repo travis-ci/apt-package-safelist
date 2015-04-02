@@ -666,7 +666,10 @@ libjpeg8
 libjpeg8-dev
 libjpeg-dev
 libjpeg-turbo8
+libjpeg-turbo8-dbg
 libjpeg-turbo8-dev
+libjpeg-turbo-progs
+libjpeg-turbo-test
 libjs-jquery
 libjson0
 libjson0-dev
@@ -928,6 +931,7 @@ libtimedate-perl
 libtinfo5
 libtinfo-dev
 libtool
+libturbojpeg
 libudev0
 libunbound-dev
 libunistring0
