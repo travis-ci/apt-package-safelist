@@ -358,6 +358,9 @@ libalgorithm-diff-xs-perl
 libalgorithm-merge-perl
 libantlr-java
 libapache2-mod-fastcgi
+libapache2-mod-perl2
+libapache2-mod-perl2-dev
+libapache2-mod-perl2-doc
 libapache-pom-java
 libapr1
 libaprutil1
@@ -517,8 +520,8 @@ libfile-desktopentry-perl
 libfile-mimeinfo-perl
 libflac++6
 libflac8
-libflac-dev
 libflac++-dev
+libflac-dev
 libflac-doc
 libfl-dev
 libfontconfig1
