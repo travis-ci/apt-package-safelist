@@ -1215,9 +1215,11 @@ python-oauth
 python-paramiko
 python-pkg-resources
 python-pycurl
+python-scipy
 python-simplejson
 python-software-properties
 python-tables
+python-vtk
 python-wadllib
 python-zope.interface
 qdbus
