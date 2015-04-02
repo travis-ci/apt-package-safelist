@@ -306,6 +306,8 @@ hicolor-icon-theme
 hostname
 html2text
 ice34-services
+ice34-slice
+ice34-translators
 icebox
 icedtea-6-jre-cacao
 icedtea-6-jre-jamvm
@@ -315,6 +317,7 @@ icedtea-netx
 icedtea-netx-common
 icee-slice
 icee-translators
+icegrid-gui
 ifupdown
 imagemagick
 imagemagick-common
@@ -665,7 +668,9 @@ libicee12
 libicee-dev
 libicegrid34
 libicepatch2-34
+libicessl34
 libicestorm34
+libiceutil34
 libicexml34
 libicu48
 libicu-dev
@@ -912,6 +917,7 @@ libshout3
 libshout3-dev
 libsigsegv2
 libslang2
+libslice34
 libsm6
 libsm-dev
 libsndfile1
@@ -1185,6 +1191,7 @@ perl-doc
 perl-modules
 petsc
 pgdg-keyring
+php-zeroc-ice
 pkg-config
 plymouth
 po-debconf
@@ -1338,6 +1345,7 @@ python-software-properties
 python-tables
 python-vtk
 python-wadllib
+python-zeroc-ice
 python-zope.interface
 qdbus
 qt4-linguist-tools
@@ -1557,7 +1565,7 @@ xvfb
 xz-lzma
 xz-utils
 yajl-tools
-zeroc-ice134
+zeroc-ice34
 zeroc-icee
 zip
 zlib1g
