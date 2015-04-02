@@ -353,6 +353,7 @@ lib32gcc1
 lib32ncurses5
 lib32stdc++6
 lib32z1
+lib32z1-dev
 lib64asound2
 lib64asound2-dev
 libacl1
