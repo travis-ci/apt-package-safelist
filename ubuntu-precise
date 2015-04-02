@@ -1093,6 +1093,7 @@ mysql-common
 mysql-server
 mysql-server-5.5
 mysql-server-core-5.5
+ncftp
 ncurses-base
 ncurses-bin
 netbase
