@@ -227,6 +227,7 @@ freetds-dev
 fuse
 g++
 g++-4.6
+g++-4.8
 gawk
 gcc
 gcc-4.4
