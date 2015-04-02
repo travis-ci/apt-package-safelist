@@ -571,6 +571,7 @@ libgtk-3-bin
 libgtk-3-common
 libgtk-3-dev
 libgudev-1.0-0
+libgudev-1.0-dev
 libgvc5
 libgvpr1
 libhamcrest-java
