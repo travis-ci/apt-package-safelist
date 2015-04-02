@@ -1199,6 +1199,7 @@ python-dev
 python-gi
 python-gnupginterface
 python-httplib2
+python-imaging
 python-indicate
 python-keyring
 python-launchpadlib
@@ -1207,12 +1208,14 @@ python-lazr.uri
 python-ldns
 python-minimal
 python-nose
+python-numpy
 python-oauth
 python-paramiko
 python-pkg-resources
 python-pycurl
 python-simplejson
 python-software-properties
+python-tables
 python-wadllib
 python-zope.interface
 qdbus
