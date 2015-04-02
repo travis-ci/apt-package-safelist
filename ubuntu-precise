@@ -837,6 +837,7 @@ libsvn1
 libswitch-perl
 libsys-hostname-long-perl
 libtalloc2
+libtalloc2-dbg
 libtalloc-dev
 libtasn1-3
 libtasn1-3-dev
