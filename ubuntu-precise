@@ -92,6 +92,8 @@ bc
 binfmt-support
 binutils
 binutils-doc
+binutils-mingw-w64-i686
+binutils-mingw-w64-x86-64
 bison
 bsdmainutils
 bsdutils
@@ -251,6 +253,8 @@ gcc-4.9
 gcc-4.9-multilib
 gcc-5
 gcc-5-multilib
+gcc-mingw-w64-i686
+gcc-mingw-w64-x86-64
 gcc-multilib
 gconf2
 gconf2-common
@@ -273,6 +277,8 @@ gir1.2-rsvg-2.0
 git
 git-man
 glpk-utils
+g++-mingw-w64-i686
+g++-mingw-w64-x86-64
 gnupg
 gpgv
 graphicsmagick
@@ -540,10 +546,13 @@ libgif4
 libgif-dev
 libgirepository-1.0-1
 libgl1-mesa-dev
+libgl1-mesa-dev:i386
 libgl1-mesa-dri
 libgl1-mesa-glx
+libgl1-mesa-glx:i386
 libglacier2-34
 libglapi-mesa
+libglapi-mesa:i386
 libgles2-mesa-dev
 libglib2.0-0
 libglib2.0-bin
@@ -941,6 +950,7 @@ libxerces2-java
 libxerces-c28
 libxext6
 libxext-dev
+libxext-dev:i386
 libxfixes3
 libxfixes-dev
 libxfont1
@@ -965,8 +975,10 @@ libxpm4
 libxpp3-java
 libxrandr2
 libxrandr-dev
+libxrandr-dev:i386
 libxrender1
 libxrender-dev
+libxrender-dev:i386
 libxslt1.1
 libxslt1-dev
 libxss1
