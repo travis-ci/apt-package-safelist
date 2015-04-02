@@ -861,6 +861,9 @@ libudev0
 libunbound-dev
 libunistring0
 libusb-0.1-4
+libusb-1.0-0
+libusb-1.0-0-dev
+libusb-1.0-0-udeb
 libutempter0
 libuuid1
 libvarnishapi1
@@ -1305,6 +1308,7 @@ tzdata-java
 ubuntu-keyring
 ubuntu-minimal
 ucf
+udeb
 udev
 udisks
 unattended-upgrades
