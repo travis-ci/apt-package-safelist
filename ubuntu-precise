@@ -617,6 +617,8 @@ libgomp1
 libgpg-error0
 libgpg-error-dev
 libgpm2
+libgpm-dev
+libgpmg1-dev
 libgraph4
 libgraphviz-dev
 libgs9
