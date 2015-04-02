@@ -844,6 +844,8 @@ libsnmp15
 libsnmp-dev
 libsnmp-perl
 libspatialite3
+libspotify12
+libspotify-dev
 libsqlite3-0
 libsqlite3-dev
 libss2
