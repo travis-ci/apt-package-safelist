@@ -517,8 +517,8 @@ libfile-desktopentry-perl
 libfile-mimeinfo-perl
 libflac++6
 libflac8
-libflac++-dev
 libflac-dev
+libflac++-dev
 libflac-doc
 libfl-dev
 libfontconfig1
