@@ -105,6 +105,7 @@ ca-certificates
 ca-certificates-java
 cabal-install
 ccache
+checkstyle
 chef
 chefdk
 chromium-browser
@@ -335,6 +336,7 @@ iso-codes
 iverilog
 ivy
 java-common
+java-wrappers
 jsvc
 junit4
 kbd
@@ -481,6 +483,7 @@ libcloog-isl4
 libcollectdclient-dev
 libcollectdclient0
 libcomerr2
+libcommons-beanutils-java
 libcommons-cli-java
 libcommons-daemon-java
 libcommons-lang-java
@@ -620,6 +623,7 @@ libgnutls-openssl27
 libgnutls26
 libgnutlsxx27
 libgomp1
+libgoogle-collections-java
 libgpg-error-dev
 libgpg-error0
 libgpm-dev
@@ -708,6 +712,7 @@ libjpeg8-dev
 libjs-jquery
 libjson0
 libjson0-dev
+libjsr305-java
 libk5crypto3
 libkadm5clnt-mit8
 libkadm5srv-mit8
