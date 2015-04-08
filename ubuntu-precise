@@ -1176,6 +1176,7 @@ openmpi-bin
 openssh-client
 openssh-server
 openssl
+optipng
 oracle-java7-installer
 oracle-java8-installer
 p7zip-full
@@ -1194,6 +1195,7 @@ pgdg-keyring
 php-zeroc-ice
 pkg-config
 plymouth
+pngcrush
 po-debconf
 policykit-1
 policykit-1-gnome
