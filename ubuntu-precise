@@ -966,6 +966,7 @@ libtext-iconv-perl
 libtext-wrapi18n-perl
 libthai-data
 libthai0
+libtidy
 libtiff4
 libtiff4-dev
 libtiffxx0c2
@@ -1485,6 +1486,7 @@ texlive-publishers
 texlive-publishers-doc
 texlive-science
 texlive-science-doc
+tidy
 time
 tk
 tk-dev
