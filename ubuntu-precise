@@ -568,6 +568,7 @@ libgconf-2-4
 libgconf2-4
 libgcrypt11
 libgcrypt11-dev
+libgcrypt11-dev:i386
 libgd2-noxpm
 libgdal1
 libgdbm-dev
@@ -936,6 +937,7 @@ libssh2-1-dev
 libssh2-php
 libssl-dev
 libssl-dev/lucid
+libssl-dev:i386
 libssl-doc
 libssl0.9.8
 libssl1.0.0
@@ -1097,6 +1099,7 @@ libzmq3
 libzmq3-dev
 lintian
 linux-libc-dev
+linux-libc-dev:i386
 lksctp-tools
 llvm
 llvm-2.9
@@ -1570,4 +1573,5 @@ zeroc-icee
 zip
 zlib1g
 zlib1g-dev
+zlib1g-dev:i386
 zsh
