@@ -361,10 +361,12 @@ icegrid-gui
 ifupdown
 imagemagick
 imagemagick-common
+info
 initramfs-tools
 initramfs-tools-bin
 initscripts
 insserv
+install-info
 intltool-debian
 iodbc
 iproute
@@ -1552,6 +1554,7 @@ tcl8.5
 tcl8.5-dev
 tcpd
 telnet
+texinfo
 texlive
 texlive-base
 texlive-bibtex-extra
