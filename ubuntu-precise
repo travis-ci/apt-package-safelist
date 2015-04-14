@@ -273,6 +273,7 @@ gconf-service
 gconf-service-backend
 gconf2
 gconf2-common
+gdal-bin
 gdb
 gettext
 gettext-base
@@ -608,7 +609,13 @@ libgcrypt11
 libgcrypt11-dev
 libgcrypt11-dev:i386
 libgd2-noxpm
+libgdal-doc
+libgdal-perl
+libgdal-ruby
+libgdal-ruby1.8
 libgdal1
+libgdal1-1.7.0
+libgdal1-dev
 libgdbm-dev
 libgdbm3
 libgdk-pixbuf2.0-0
@@ -1339,6 +1346,7 @@ python-configobj
 python-crypto
 python-dbus
 python-dev
+python-gdal
 python-gi
 python-gnupginterface
 python-httplib2
