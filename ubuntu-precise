@@ -147,6 +147,9 @@ curl
 dash
 dbus
 dbus-x11
+dcmtk
+dcmtk-doc
+dcmtk-www
 dconf-gsettings-backend
 dconf-service
 debconf
@@ -540,6 +543,8 @@ libdbi-dev
 libdbi-perl
 libdbus-1-3
 libdbus-glib-1-2
+libdcmtk2
+libdcmtk2-dev
 libdconf0
 libdevmapper-event1.02.1
 libdevmapper1.02.1
