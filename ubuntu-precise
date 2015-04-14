@@ -580,7 +580,9 @@ libgdu0
 libgearman-dev
 libgecode
 libgecode-dev
+libgeos++-dev
 libgeos-3.2.2
+libgeos-3.3.3
 libgeos-3.3.8
 libgeos-c1
 libgeos-dev
