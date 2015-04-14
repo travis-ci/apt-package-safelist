@@ -343,6 +343,8 @@ klibc-utils
 krb5-locales
 krb5-multidev
 ksh
+lame
+lame-doc
 language-pack-en
 language-pack-en-base
 language-pack-gnome-ja
@@ -764,6 +766,8 @@ libmng1
 libmockobjects-java
 libmount1
 libmozjs185-1.0
+libmp3lame-dev
+libmp3lame0
 libmpc-dev
 libmpc2
 libmpfr-dev
