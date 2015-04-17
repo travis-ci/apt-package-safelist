@@ -364,6 +364,7 @@ happy
 happy-1.19.3
 happy-1.19.4
 happy-1.19.5
+haxe
 hdparm
 hicolor-icon-theme
 hostname
@@ -469,6 +470,8 @@ libavahi-client3
 libavahi-common-data
 libavahi-common3
 libavahi-glib1
+libbcel-java
+libbcel-java-doc
 libbison-dev
 libblas-dev
 libblas3gf
@@ -653,6 +656,7 @@ libgconf2-4
 libgcrypt11
 libgcrypt11-dev
 libgcrypt11-dev:i386
+libgd-gd2-perl
 libgd2-noxpm
 libgdal-doc
 libgdal-perl
@@ -1349,6 +1353,9 @@ nginx-full
 nginx-light
 nginx-naxsi
 ninja-build
+nodejs
+nodejs-dbg
+nodejs-dev
 notification-daemon
 ntfs-3g
 ntpdate
