@@ -1444,6 +1444,7 @@ python-launchpadlib
 python-lazr.restfulclient
 python-lazr.uri
 python-ldns
+python-lxml
 python-minimal
 python-nose
 python-numpy
