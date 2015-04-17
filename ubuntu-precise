@@ -863,6 +863,12 @@ liblqr-1-0
 liblqr-1-0-dev
 libltdl-dev
 libltdl7
+liblua5.1-0
+liblua5.1-0-dbg
+liblua5.1-0-dev
+liblua5.2-0
+liblua5.2-0-dbg
+liblua5.2-0-dev
 liblvm2app2.2
 liblwgeom-2.1.5
 liblzma-dev
@@ -1307,6 +1313,10 @@ logrotate
 lsb-base
 lsb-release
 lsof
+lua5.1
+lua5.1-doc
+lua5.2
+lua5.2-doc
 m4
 make
 makedev
