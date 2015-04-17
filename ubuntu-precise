@@ -532,6 +532,10 @@ libcommons-daemon-java
 libcommons-lang-java
 libcommons-logging-java
 libcommons-parent-java
+libconfig++8
+libconfig++8-dev
+libconfig8
+libconfig8-dev
 libconfuse-common
 libconfuse-dev
 libconfuse0
