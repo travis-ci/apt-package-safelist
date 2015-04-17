@@ -286,6 +286,7 @@ gconf2
 gconf2-common
 gdal-bin
 gdb
+genromfs
 gettext
 gettext-base
 gfortran
