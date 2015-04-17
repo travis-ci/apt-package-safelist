@@ -1428,11 +1428,14 @@ python
 python-alsaaudio
 python-apt
 python-apt-common
+python-argparse
 python-bzrlib
 python-configobj
 python-crypto
 python-dbus
 python-dev
+python-empy
+python-fontforge
 python-gdal
 python-gi
 python-gnupginterface
@@ -1450,6 +1453,7 @@ python-nose
 python-numpy
 python-oauth
 python-paramiko
+python-pip
 python-pkg-resources
 python-pycurl
 python-qt4
@@ -1465,9 +1469,11 @@ python-qt4-phonon-dbg
 python-qt4-sql
 python-qt4-sql-dbg
 python-scipy
+python-serial
 python-simplejson
 python-software-properties
 python-tables
+python-virtualenv
 python-vtk
 python-wadllib
 python-zeroc-ice
