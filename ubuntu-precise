@@ -354,6 +354,7 @@ groovy
 gs-cjk-resource
 gsfonts
 gsfonts-x11
+gsl-bin
 guile-1.8-libs
 gvfs
 gvfs-common
@@ -740,6 +741,10 @@ libgraph4
 libgraphviz-dev
 libgs9
 libgs9-common
+libgsl0-dbg
+libgsl0-dev
+libgsl0-prof
+libgsl0ldbl
 libgssapi-krb5-2
 libgssapi3-heimdal
 libgssrpc4
