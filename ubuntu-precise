@@ -570,6 +570,7 @@ libdrm-nouveau1a
 libdrm-nouveau2
 libdrm-radeon1
 libdrm2
+libedit-dev
 libedit2
 libegl1-mesa
 libegl1-mesa-dbg
