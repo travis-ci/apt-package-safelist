@@ -1529,6 +1529,7 @@ ruby
 ruby-dev
 ruby-mysql
 ruby1.8
+s3cmd
 scons
 sed
 sensible-utils
