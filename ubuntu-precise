@@ -1722,6 +1722,7 @@ x11proto-xf86vidmode-dev
 x11proto-xinerama-dev
 xauth
 xbitmaps
+xclip
 xdg-utils
 xfonts-base
 xfonts-encodings
