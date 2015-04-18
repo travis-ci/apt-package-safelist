@@ -112,6 +112,8 @@ cabal-install-1.18
 cabal-install-1.20
 cabal-install-1.22
 cabal-install-head
+camlp4
+camlp4-extra
 ccache
 chef
 chefdk
@@ -1388,6 +1390,15 @@ nodejs-dev
 notification-daemon
 ntfs-3g
 ntpdate
+ocaml
+ocaml-base
+ocaml-base-nox
+ocaml-compiler-libs
+ocaml-interp
+ocaml-mode
+ocaml-native-compilers
+ocaml-nox
+ocaml-source
 odbcinst
 odbcinst1debian2
 openjdk-6-jdk
