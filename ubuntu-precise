@@ -1000,6 +1000,10 @@ libpcsclite1
 libperl-dev
 libperl5.14
 libpgm-5.1-0
+libphonon-dev
+libphonon4
+libphononexperimental-dev
+libphononexperimental4
 libpipeline1
 libpixman-1-0
 libpixman-1-dev
@@ -1452,6 +1456,9 @@ perl-doc
 perl-modules
 petsc
 pgdg-keyring
+phonon
+phonon-backend-null
+phonon-dbg
 php-zeroc-ice
 pkg-config
 plymouth
