@@ -196,6 +196,8 @@ binutils-mingw-w64-x86-64:i386
 binutils:i386
 bison
 bison:i386
+bottleneck
+bottleneck:i386
 bsdmainutils
 bsdmainutils:i386
 bsdutils
@@ -468,6 +470,8 @@ file
 file:i386
 findutils
 findutils:i386
+fiona
+fiona:i386
 firebird-dev
 firebird-dev:i386
 firebird2.5-classic
@@ -506,6 +510,8 @@ flashplugin-installer
 flashplugin-installer:i386
 flex
 flex:i386
+folium
+folium:i386
 fontconfig
 fontconfig-config
 fontconfig-config:i386
@@ -636,6 +642,8 @@ gfortran-multilib:i386
 gfortran-spu
 gfortran-spu:i386
 gfortran:i386
+ggplot
+ggplot:i386
 ghc
 ghc-6.12.3
 ghc-6.12.3:i386
@@ -698,6 +706,8 @@ git
 git-man
 git-man:i386
 git:i386
+gloo
+gloo:i386
 glpk-utils
 glpk-utils:i386
 gnupg
@@ -3080,6 +3090,8 @@ mount
 mount:i386
 mountall
 mountall:i386
+mpltools
+mpltools:i386
 mtools
 mtools:i386
 multiarch-support
@@ -3198,6 +3210,8 @@ oracle-java8-installer
 oracle-java8-installer:i386
 p7zip-full
 p7zip-full:i386
+pandas
+pandas:i386
 pandoc
 pandoc:i386
 parallel
@@ -3206,6 +3220,8 @@ passwd
 passwd:i386
 patch
 patch:i386
+patsy
+patsy:i386
 pbuilder
 pbuilder:i386
 perl
@@ -3422,6 +3438,8 @@ pulseaudio-utils-dbg
 pulseaudio-utils-dbg:i386
 pulseaudio-utils:i386
 pulseaudio:i386
+pvlib
+pvlib:i386
 pylint
 pylint:i386
 pypy
@@ -3537,6 +3555,10 @@ python-vtkgdcm
 python-vtkgdcm:i386
 python-wadllib
 python-wadllib:i386
+python-xlrd
+python-xlrd:i386
+python-xy-meta-devel
+python-xy-meta-devel:i386
 python-zeroc-ice
 python-zeroc-ice:i386
 python-zope.interface
@@ -3660,8 +3682,12 @@ s3cmd
 s3cmd:i386
 samtools
 samtools:i386
+scikits.timeseries
+scikits.timeseries:i386
 scons
 scons:i386
+seaborn
+seaborn:i386
 sed
 sed:i386
 sensible-utils
@@ -3676,6 +3702,8 @@ sound-theme-freedesktop
 sound-theme-freedesktop:i386
 specific
 specific:i386
+spyder
+spyder:i386
 sqlite3
 sqlite3-doc
 sqlite3-doc:i386
@@ -3686,6 +3714,8 @@ ssh-import-id:i386
 ssh:i386
 ssl-cert
 ssl-cert:i386
+statsmodels
+statsmodels:i386
 strace
 strace:i386
 subversion
@@ -3980,6 +4010,8 @@ vim-runtime:i386
 vim-tiny
 vim-tiny:i386
 vim:i386
+vincent
+vincent:i386
 wamerican
 wamerican:i386
 wget
@@ -4048,6 +4080,8 @@ xfonts-utils
 xfonts-utils:i386
 xkb-data
 xkb-data:i386
+xlswriter
+xlswriter:i386
 xml-core
 xml-core:i386
 xorg-sgml-doctools
