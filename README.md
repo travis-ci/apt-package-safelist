@@ -143,3 +143,12 @@ Grab the generated commit message
 ``` bash
 ./bin/travis-list-apt-whitelist-issues | jq -r '.commit_message' | grep -A2 abc
 ```
+
+Commit and push, then restart all `travis-build` apps with a bit o' sleep
+
+``` bash
+for app in $(hk apps | awk '/travis.*build-(prod|stag)/ { print $1 }') ; do
+  hk restart -a ${app} ;
+  sleep 5 ;
+done
+```
