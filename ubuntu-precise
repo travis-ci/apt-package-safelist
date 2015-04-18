@@ -653,6 +653,9 @@ libfontconfig1
 libfontconfig1-dev
 libfontenc1
 libfontforge1
+libfreeimage-dev
+libfreeimage3
+libfreeimage3-dbg
 libfreetype6
 libfreetype6-dev
 libfreexl1
