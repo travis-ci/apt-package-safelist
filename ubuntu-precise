@@ -830,6 +830,8 @@ libjansi-native-java
 libjasper-dev
 libjasper1
 libjbig2dec0
+libjemalloc-dev
+libjemalloc1
 libjline-java
 libjpeg-dev
 libjpeg-turbo-progs
