@@ -1794,6 +1794,12 @@ liblockfile-bin
 liblockfile-bin:i386
 liblockfile1
 liblockfile1:i386
+liblog4cxx10
+liblog4cxx10-dev
+liblog4cxx10-dev:i386
+liblog4cxx10-doc
+liblog4cxx10-doc:i386
+liblog4cxx10:i386
 liblqr-1-0
 liblqr-1-0-dev
 liblqr-1-0-dev:i386
