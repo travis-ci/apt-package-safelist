@@ -1709,6 +1709,7 @@ texlive-publishers
 texlive-publishers-doc
 texlive-science
 texlive-science-doc
+texlive-xetex
 time
 tk
 tk-dev
