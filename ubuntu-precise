@@ -686,6 +686,8 @@ gir1.2-gdkpixbuf-2.0
 gir1.2-gdkpixbuf-2.0:i386
 gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
+gir1.2-gnomekeyring-1.0
+gir1.2-gnomekeyring-1.0:i386
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-pango-1.0
@@ -1488,7 +1490,11 @@ libgmpxx4ldbl
 libgmpxx4ldbl:i386
 libgnome-keyring-common
 libgnome-keyring-common:i386
+libgnome-keyring-dev
+libgnome-keyring-dev:i386
 libgnome-keyring0
+libgnome-keyring0-dbg
+libgnome-keyring0-dbg:i386
 libgnome-keyring0:i386
 libgnome2-0
 libgnome2-0:i386
