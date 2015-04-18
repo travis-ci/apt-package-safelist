@@ -455,6 +455,8 @@ erlang-webtool:i386
 erlang-xmerl
 erlang-xmerl:i386
 expect
+expect-dev
+expect-dev:i386
 expect:i386
 fakeroot
 fakeroot:i386
