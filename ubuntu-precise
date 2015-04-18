@@ -101,6 +101,7 @@ bsdmainutils
 bsdutils
 build-essential
 busybox-initramfs
+bwa
 bzip2
 bzr
 ca-certificates
@@ -132,6 +133,8 @@ clang-3.7-doc
 clang-format-3.5
 clang-format-3.6
 clang-format-3.7
+clustalo
+clustalw
 cmake
 cmake-data
 cmap-adobe-japan1
@@ -187,6 +190,11 @@ emacs23-gtk
 emacs23-nox
 emacs24
 emacsen-common
+emboss
+emboss-data
+emboss-doc
+emboss-lib
+emboss-test
 enchant
 erlang-asn1
 erlang-base-hipe
@@ -402,6 +410,7 @@ iso-codes
 iverilog
 ivy
 java-common
+jemboss
 jsvc
 junit4
 kbd
@@ -471,6 +480,7 @@ libavahi-client3
 libavahi-common-data
 libavahi-common3
 libavahi-glib1
+libbam-dev
 libbcel-java
 libbcel-java-doc
 libbison-dev
@@ -549,6 +559,8 @@ libck-connector0
 libclamav-dev
 libclass-isa-perl
 libcloog-isl4
+libclustalo-dev
+libclustalo-doc
 libcollectdclient-dev
 libcollectdclient0
 libcomerr2
@@ -1323,6 +1335,7 @@ lua5.1-doc
 lua5.2
 lua5.2-doc
 m4
+mafft
 make
 makedev
 man-db
@@ -1346,6 +1359,7 @@ mount
 mountall
 mtools
 multiarch-support
+muscle
 mysql-client
 mysql-client-5.5
 mysql-client-core-5.5
@@ -1448,6 +1462,8 @@ postgresql-server-dev-9.3
 postgresql-server-dev-9.4
 postgresql-server-dev-all
 powermgmt-base
+probcons
+probcons-extra
 procps
 proj-bin
 proj-data
@@ -1590,6 +1606,7 @@ ruby-dev
 ruby-mysql
 ruby1.8
 s3cmd
+samtools
 scons
 sed
 sensible-utils
@@ -1755,6 +1772,8 @@ winbind
 wine
 wireless-tools
 wireless-tools-udeb
+wise
+wise-doc
 wkhtmltopdf
 x11-common
 x11-utils
