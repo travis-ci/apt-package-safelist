@@ -89,3 +89,57 @@ requests, as well as for automatic commit message formatting, e.g.:
 # Show only the generated commit messages
 ./bin/travis-list-apt-whitelist-issues | jq -r .commit_message
 ```
+
+### @meatballhat's workflow
+
+First things first
+
+``` bash
+shopt -s nullglob
+```
+
+Grab 1 or more packages
+
+``` bash
+for pkg in abc def xyz ; do
+  sudo -u ubuntu -- /usr/local/bin/travis-download-deb-sources "${pkg}" ;
+done
+```
+
+Edit any matches for `set(uid|euid|gid|egid)`
+
+``` bash
+vim $(grep -l -R -i -E 'set(uid|euid|gid)' . | grep -v -E '\binstall-sh\b')
+```
+
+Edit any debian package files
+
+``` bash
+for d in $(find . -name debian) ; do
+  pushd $d && vim *{pre,post,inst}* ; popd ;
+done
+```
+
+If all clear, list all audited package names on one line
+
+``` bash
+for d in $(find . -name debian) ; do
+  pushd $d &>/dev/null && \
+    grep ^Package control | awk -F: '{ print $2 }' | xargs echo ;
+  popd &>/dev/null ;
+done | xargs echo
+```
+
+Back outside of the Vagrant box, pass this list of packages for addition
+
+``` bash
+for pkg in abc def xyz ; do
+  make add PACKAGE=$pkg ;
+done
+```
+
+Grab the generated commit message
+
+``` bash
+./bin/travis-list-apt-whitelist-issues | jq -r '.commit_message' | grep -A2 abc
+```
