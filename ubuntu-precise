@@ -1760,6 +1760,7 @@ texlive-science
 texlive-science-doc
 texlive-xetex
 time
+tinc
 tk
 tk-dev
 tk8.5
@@ -1793,6 +1794,7 @@ vamp-examples
 vamp-plugin-sdk
 vamp-plugin-sdk-doc
 varnish
+vde2
 vim
 vim-common
 vim-runtime
