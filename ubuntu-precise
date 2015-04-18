@@ -1082,6 +1082,8 @@ libslang2
 libslice34
 libsm-dev
 libsm6
+libsnappy-dev
+libsnappy1
 libsndfile1
 libsndfile1-dev
 libsnmp-dev
