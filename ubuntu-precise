@@ -686,6 +686,12 @@ libgdal1-1.7.0
 libgdal1-dev
 libgdbm-dev
 libgdbm3
+libgdcm-cil
+libgdcm-java
+libgdcm-tools
+libgdcm2-dev
+libgdcm2.0
+libgdcm2.0-dbg
 libgdk-pixbuf2.0-0
 libgdk-pixbuf2.0-common
 libgdk-pixbuf2.0-dev
@@ -1157,6 +1163,11 @@ libvarnishapi1
 libvorbis0a
 libvorbisenc2
 libvorbisfile3
+libvtkgdcm-cil
+libvtkgdcm-java
+libvtkgdcm-tools
+libvtkgdcm2-dev
+libvtkgdcm2.0
 libwbclient-dev
 libwbclient0
 libwebkitgtk-3.0-dev
@@ -1526,6 +1537,7 @@ python-dev
 python-empy
 python-fontforge
 python-gdal
+python-gdcm
 python-gi
 python-gnupginterface
 python-httplib2
@@ -1564,6 +1576,7 @@ python-software-properties
 python-tables
 python-virtualenv
 python-vtk
+python-vtkgdcm
 python-wadllib
 python-zeroc-ice
 python-zope.interface
