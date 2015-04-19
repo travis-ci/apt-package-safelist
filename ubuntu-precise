@@ -2890,6 +2890,8 @@ libdb5.1
 libdb5.1:i386
 libdbd-mysql-perl
 libdbd-mysql-perl:i386
+libdbd-pg-perl
+libdbd-pg-perl:i386
 libdbd-sqlite3
 libdbd-sqlite3:i386
 libdbi-dev
