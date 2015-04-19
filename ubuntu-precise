@@ -314,6 +314,8 @@ couchdb-bin:i386
 couchdb-common
 couchdb-common:i386
 couchdb:i386
+cpanminus
+cpanminus:i386
 cpio
 cpio:i386
 cpp
