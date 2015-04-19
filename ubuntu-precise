@@ -198,8 +198,12 @@ bison
 bison:i386
 bottleneck
 bottleneck:i386
+bsdcpio
+bsdcpio:i386
 bsdmainutils
 bsdmainutils:i386
+bsdtar
+bsdtar:i386
 bsdutils
 bsdutils:i386
 build-essential
@@ -928,6 +932,8 @@ libapt-inst1.4
 libapt-inst1.4:i386
 libapt-pkg4.12
 libapt-pkg4.12:i386
+libarchive-dev
+libarchive-dev:i386
 libarchive12
 libarchive12:i386
 libarmadillo2
