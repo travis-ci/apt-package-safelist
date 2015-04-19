@@ -232,6 +232,8 @@ cabal-install-1.22:i386
 cabal-install-head
 cabal-install-head:i386
 cabal-install:i386
+cabextract
+cabextract:i386
 camlidl
 camlidl:i386
 camlp4
