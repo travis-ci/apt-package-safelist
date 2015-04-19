@@ -3953,6 +3953,8 @@ libpam-modules:i386
 libpam-runtime
 libpam-runtime:i386
 libpam0g
+libpam0g-dev
+libpam0g-dev:i386
 libpam0g:i386
 libpango1.0-0
 libpango1.0-0:i386
