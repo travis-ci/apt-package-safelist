@@ -534,6 +534,8 @@ fontconfig-config:i386
 fontconfig:i386
 fontforge-nox
 fontforge-nox:i386
+fonts-humor-sans
+fonts-humor-sans:i386
 fonts-inconsolata
 fonts-inconsolata:i386
 fonts-linuxlibertine
