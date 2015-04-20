@@ -4994,6 +4994,10 @@ odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
 odbcinst:i386
+opam
+opam-docs
+opam-docs:i386
+opam:i386
 openjdk-6-jdk
 openjdk-6-jdk:i386
 openjdk-6-jre
