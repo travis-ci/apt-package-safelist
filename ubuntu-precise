@@ -378,6 +378,8 @@ dpkg
 dpkg-dev
 dpkg-dev:i386
 dpkg:i386
+dvipng
+dvipng:i386
 e2fslibs
 e2fslibs:i386
 e2fsprogs
