@@ -564,6 +564,8 @@ g++-multilib:i386
 g++-spu
 g++-spu:i386
 g++:i386
+gammu
+gammu:i386
 gawk
 gawk:i386
 gcc
@@ -3523,9 +3525,9 @@ liblua5.1-0:i386
 liblua5.2-0
 liblua5.2-0-dbg
 liblua5.2-0-dbg:i386
+liblua5.2-0:i386
 liblua5.2-dev
 liblua5.2-dev:i386
-liblua5.2-0:i386
 liblvm2app2.2
 liblvm2app2.2:i386
 liblwgeom-2.1.5
@@ -5758,6 +5760,8 @@ vlc-plugin-zvbi:i386
 vlc:i386
 wamerican
 wamerican:i386
+wammu
+wammu:i386
 wget
 wget:i386
 whiptail
