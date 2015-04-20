@@ -828,6 +828,8 @@ initramfs-tools-bin:i386
 initramfs-tools:i386
 initscripts
 initscripts:i386
+inkscape
+inkscape:i386
 insserv
 insserv:i386
 install-info
