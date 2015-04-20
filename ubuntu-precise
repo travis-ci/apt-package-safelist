@@ -4894,6 +4894,8 @@ md5deep
 md5deep:i386
 memcached
 memcached:i386
+mencoder
+mencoder:i386
 mercurial
 mercurial-common
 mercurial-common:i386
@@ -4960,6 +4962,14 @@ mount
 mount:i386
 mountall
 mountall:i386
+mplayer
+mplayer-dbg
+mplayer-dbg:i386
+mplayer-doc
+mplayer-doc:i386
+mplayer-gui
+mplayer-gui:i386
+mplayer:i386
 mpltools
 mpltools:i386
 mtools
