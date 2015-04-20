@@ -5996,6 +5996,8 @@ xlswriter
 xlswriter:i386
 xml-core
 xml-core:i386
+xmlto
+xmlto:i386
 xorg-sgml-doctools
 xorg-sgml-doctools:i386
 xserver-common
