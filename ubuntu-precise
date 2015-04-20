@@ -796,6 +796,10 @@ hostname
 hostname:i386
 html2text
 html2text:i386
+ia32-libs
+ia32-libs-multiarch
+ia32-libs-multiarch:i386
+ia32-libs:i386
 ice34-services
 ice34-services:i386
 ice34-slice
@@ -3124,8 +3128,16 @@ libgcrypt11-dev:i386
 libgcrypt11:i386
 libgd-gd2-perl
 libgd-gd2-perl:i386
+libgd-tools
+libgd-tools:i386
 libgd2-noxpm
+libgd2-noxpm-dev
+libgd2-noxpm-dev:i386
 libgd2-noxpm:i386
+libgd2-xpm
+libgd2-xpm-dev
+libgd2-xpm-dev:i386
+libgd2-xpm:i386
 libgdal-doc
 libgdal-doc:i386
 libgdal-perl
