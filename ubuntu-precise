@@ -173,9 +173,9 @@ autoconf:i386
 autogen
 autogen:i386
 automake
-automake:i386
 automake1.9
 automake1.9:i386
+automake:i386
 autotools-dev
 autotools-dev:i386
 base-files
@@ -372,11 +372,11 @@ diffutils
 diffutils:i386
 dmsetup
 dmsetup:i386
-dpatch
 dosfstools
 dosfstools:i386
 doxygen
 doxygen:i386
+dpatch
 dpkg
 dpkg-dev
 dpkg-dev:i386
