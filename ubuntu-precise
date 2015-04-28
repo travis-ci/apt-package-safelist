@@ -5018,8 +5018,10 @@ net-tools
 net-tools:i386
 netbase
 netbase:i386
+netcat
 netcat-openbsd
 netcat-openbsd:i386
+netcat:i386
 netcdf-bin
 netcdf-bin:i386
 netpbm
