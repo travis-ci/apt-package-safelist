@@ -4458,6 +4458,8 @@ libthai-data
 libthai-data:i386
 libthai0
 libthai0:i386
+libtidy
+libtidy:i386
 libtiff4
 libtiff4-dev
 libtiff4-dev:i386
@@ -5842,6 +5844,8 @@ texlive-science:i386
 texlive-xetex
 texlive-xetex:i386
 texlive:i386
+tidy
+tidy:i386
 time
 time:i386
 tinc
