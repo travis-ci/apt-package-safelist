@@ -383,6 +383,7 @@ dosfstools:i386
 doxygen
 doxygen:i386
 dpatch
+dpatch:i386
 dpkg
 dpkg-dev
 dpkg-dev:i386
@@ -798,6 +799,7 @@ happy-1.19.5
 happy-1.19.5:i386
 happy:i386
 hardening-wrapper
+hardening-wrapper:i386
 haxe
 haxe:i386
 hdparm
