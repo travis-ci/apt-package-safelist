@@ -242,6 +242,8 @@ camlp4-extra:i386
 camlp4:i386
 ccache
 ccache:i386
+checkstyle
+checkstyle:i386
 chef
 chef:i386
 chefdk
@@ -872,6 +874,8 @@ ivy
 ivy:i386
 java-common
 java-common:i386
+java-wrappers
+java-wrappers:i386
 jemboss
 jemboss:i386
 jsvc
@@ -2886,6 +2890,8 @@ libcollectdclient0
 libcollectdclient0:i386
 libcomerr2
 libcomerr2:i386
+libcommons-beanutils-java
+libcommons-beanutils-java:i386
 libcommons-cli-java
 libcommons-cli-java:i386
 libcommons-daemon-java
@@ -3300,6 +3306,8 @@ libgnutlsxx27
 libgnutlsxx27:i386
 libgomp1
 libgomp1:i386
+libgoogle-collections-java
+libgoogle-collections-java:i386
 libgpg-error-dev
 libgpg-error-dev:i386
 libgpg-error0
@@ -3488,6 +3496,8 @@ libjson0
 libjson0-dev
 libjson0-dev:i386
 libjson0:i386
+libjsr305-java
+libjsr305-java:i386
 libk5crypto3
 libk5crypto3:i386
 libkadm5clnt-mit8
