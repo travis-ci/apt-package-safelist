@@ -252,6 +252,8 @@ chromium-browser-l10n:i386
 chromium-browser:i386
 chromium-codecs-ffmpeg-extra
 chromium-codecs-ffmpeg-extra:i386
+chroot
+chroot:i386
 chrpath
 chrpath:i386
 clang
@@ -358,6 +360,8 @@ debhelper
 debhelper:i386
 debianutils
 debianutils:i386
+debootstrap
+debootstrap:i386
 devscripts
 devscripts:i386
 dh-apparmor
@@ -474,6 +478,8 @@ expect
 expect-dev
 expect-dev:i386
 expect:i386
+fakechroot
+fakechroot:i386
 fakeroot
 fakeroot:i386
 ffmpeg
