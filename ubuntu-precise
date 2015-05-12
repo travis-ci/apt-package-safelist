@@ -5112,6 +5112,8 @@ openssh-server
 openssh-server:i386
 openssl
 openssl:i386
+optipng
+optipng:i386
 oracle-java7-installer
 oracle-java7-installer:i386
 oracle-java8-installer
@@ -5210,6 +5212,8 @@ pkg-config
 pkg-config:i386
 plymouth
 plymouth:i386
+pngcrush
+pngcrush:i386
 po-debconf
 po-debconf:i386
 policykit-1
