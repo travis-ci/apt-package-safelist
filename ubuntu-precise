@@ -173,6 +173,8 @@ autoconf:i386
 autogen
 autogen:i386
 automake
+automake1.9
+automake1.9:i386
 automake:i386
 autotools-dev
 autotools-dev:i386
@@ -380,6 +382,7 @@ dosfstools
 dosfstools:i386
 doxygen
 doxygen:i386
+dpatch
 dpkg
 dpkg-dev
 dpkg-dev:i386
@@ -794,6 +797,7 @@ happy-1.19.4:i386
 happy-1.19.5
 happy-1.19.5:i386
 happy:i386
+hardening-wrapper
 haxe
 haxe:i386
 hdparm
@@ -2602,6 +2606,8 @@ lib64asound2-dev:i386
 lib64asound2:i386
 libacl1
 libacl1:i386
+libaio-dev
+libaio-dev:i386
 libalgorithm-diff-perl
 libalgorithm-diff-perl:i386
 libalgorithm-diff-xs-perl
@@ -4214,6 +4220,8 @@ libraspell-ruby1.9.1:i386
 libraspell-ruby:i386
 libreadline-dev
 libreadline-dev:i386
+libreadline-gplv2-dev
+libreadline-gplv2-dev:i386
 libreadline5
 libreadline5:i386
 libreadline6
