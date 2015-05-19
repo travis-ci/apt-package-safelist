@@ -4514,6 +4514,8 @@ libutempter0
 libutempter0:i386
 libuuid1
 libuuid1:i386
+libv8-dev
+libv8-dev:i386
 libvamp-hostsdk3
 libvamp-hostsdk3:i386
 libvamp-sdk2
@@ -5574,6 +5576,8 @@ python3:i386
 python:i386
 qdbus
 qdbus:i386
+qt4-dev-tools
+qt4-dev-tools:i386
 qt4-linguist-tools
 qt4-linguist-tools:i386
 qt4-qmake
