@@ -5680,6 +5680,7 @@ sound-theme-freedesktop
 sound-theme-freedesktop:i386
 specific
 specific:i386
+sphinxsearch
 spyder
 spyder:i386
 sqlite3
