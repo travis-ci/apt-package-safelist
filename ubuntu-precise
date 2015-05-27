@@ -5588,6 +5588,10 @@ qt4-qmake
 qt4-qmake:i386
 quilt
 quilt:i386
+r-base
+r-base-dev
+r-base-dev:i386
+r-base:i386
 r-cran-boot
 r-cran-boot:i386
 r-cran-class
