@@ -738,6 +738,7 @@ gir1.2-rsvg-2.0:i386
 git
 git-man
 git-man:i386
+git-svn
 git:i386
 gloo
 gloo:i386
