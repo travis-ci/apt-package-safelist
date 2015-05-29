@@ -767,6 +767,10 @@ graphviz-dev:i386
 graphviz:i386
 grep
 grep:i386
+gridengine-client
+gridengine-common
+gridengine-exec
+gridengine-master
 groff-base
 groff-base:i386
 groovy
