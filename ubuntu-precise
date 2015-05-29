@@ -410,6 +410,7 @@ emacs23-gtk:i386
 emacs23-nox
 emacs23-nox:i386
 emacs24
+emacs24-nox
 emacs24:i386
 emacsen-common
 emacsen-common:i386
