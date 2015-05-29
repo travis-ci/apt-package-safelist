@@ -21,8 +21,8 @@ would open up a container to potential attack from a neighbor.  The primary conc
 and their property :metal:.  The steps go like this (for ubuntu precise), much of which is also available as the
 `travis-download-deb-sources` executable within the vagrant box:
 
-0. Bring up the vagrant box: `vagrant up precise`
-0. SSH into the vagrant box: `vagrant ssh precise`
+0. Bring up the vagrant box: `vagrant up trusty`
+0. SSH into the vagrant box: `vagrant ssh trusty`
 0. Start the Travis Ruby container: `sudo -u ubuntu -i docker run -v /var/tmp:/var/tmp -d travis:ruby`
 0. Get the container's IP address: `docker inspect <container-id>`
 0. SSH into the container: `ssh travis@<container-ip>` (password=`travis`)
@@ -34,8 +34,8 @@ and their property :metal:.  The steps go like this (for ubuntu precise), much o
 
 Or the slightly simplified version:
 
-0. Bring up the vagrant box: `vagrant up precise`
-0. SSH into the vagrant box: `vagrant ssh precise`
+0. Bring up the vagrant box: `vagrant up trusty`
+0. SSH into the vagrant box: `vagrant ssh trusty`
 0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `sudo -u ubuntu -i travis-download-deb-sources git`
 0. Proceed with inspecting the `debian/*pre*` and `debian/*post*` hook scripts. (see [inspecting packages](#inspecting-packages))
 
