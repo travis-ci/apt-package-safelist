@@ -4608,6 +4608,7 @@ libxau6:i386
 libxaw7
 libxaw7:i386
 libxcb-glx0
+libxcb-glx0-dev
 libxcb-glx0:i386
 libxcb-render0
 libxcb-render0-dev
