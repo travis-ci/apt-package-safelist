@@ -246,6 +246,7 @@ camlp4-extra:i386
 camlp4:i386
 ccache
 ccache:i386
+check
 checkstyle
 checkstyle:i386
 chef
