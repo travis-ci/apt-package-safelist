@@ -480,6 +480,10 @@ erlang-webtool
 erlang-webtool:i386
 erlang-xmerl
 erlang-xmerl:i386
+espeak
+espeak-data
+espeak-data:i386
+espeak:i386
 expect
 expect-dev
 expect-dev:i386
@@ -2884,6 +2888,18 @@ libck-connector0
 libck-connector0:i386
 libclamav-dev
 libclamav-dev:i386
+libclang-3.3-dev
+libclang-3.3-dev:i386
+libclang-3.4-dev
+libclang-3.4-dev:i386
+libclang-common-3.3-dev
+libclang-common-3.3-dev:i386
+libclang-common-3.4-dev
+libclang-common-3.4-dev:i386
+libclang1-3.3
+libclang1-3.3:i386
+libclang1-3.4
+libclang1-3.4:i386
 libclass-isa-perl
 libclass-isa-perl:i386
 libcloog-isl4
@@ -3034,6 +3050,8 @@ libepsilon0
 libepsilon0:i386
 liberror-perl
 liberror-perl:i386
+libespeak1
+libespeak1:i386
 libev-dev
 libev-dev:i386
 libevent-2.0-5
@@ -4298,6 +4316,8 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsonic0
+libsonic0:i386
 libspatialite3
 libspatialite3:i386
 libspotify-dev
