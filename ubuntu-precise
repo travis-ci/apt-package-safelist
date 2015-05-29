@@ -5084,6 +5084,7 @@ ntfs-3g
 ntfs-3g:i386
 ntpdate
 ntpdate:i386
+nunit-console
 ocaml
 ocaml-base
 ocaml-base-nox
