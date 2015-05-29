@@ -40,11 +40,6 @@ Vagrant.configure('2') do |config|
     trusty.vm.box = 'ubuntu/trusty64'
   end
 
-  config.vm.define 'precise' do |precise|
-    precise.vm.hostname = 'apt-package-whitelist-precise'
-    precise.vm.box = 'ubuntu/precise64'
-  end
-
   config.vm.provider 'virtualbox' do |vbox|
     vbox.memory = 4096
     vbox.cpus = 2
