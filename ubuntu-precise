@@ -4275,6 +4275,7 @@ libsensors4
 libsensors4:i386
 libservlet2.5-java
 libservlet2.5-java:i386
+libsfml-dev
 libsgutils2-2
 libsgutils2-2:i386
 libshout3
