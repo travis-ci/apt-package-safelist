@@ -3512,6 +3512,7 @@ libjson0-dev:i386
 libjson0:i386
 libjsr305-java
 libjsr305-java:i386
+libjudy-dev
 libk5crypto3
 libk5crypto3:i386
 libkadm5clnt-mit8
