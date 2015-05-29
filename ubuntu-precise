@@ -4300,6 +4300,7 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsparsehash-dev
 libspatialite3
 libspatialite3:i386
 libspotify-dev
