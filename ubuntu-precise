@@ -2929,6 +2929,7 @@ libcouchbase-dev
 libcouchbase-dev:i386
 libcouchbase2-libevent
 libcouchbase2-libevent:i386
+libcppunit-dev
 libcroco3
 libcroco3:i386
 libcryptsetup4
