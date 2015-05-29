@@ -4111,6 +4111,7 @@ libplrpc-perl
 libplrpc-perl:i386
 libplymouth2
 libplymouth2:i386
+libpng-dev
 libpng12-0
 libpng12-0:i386
 libpng12-dev
