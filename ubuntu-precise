@@ -4625,6 +4625,7 @@ libxcb-util0
 libxcb-util0-dev
 libxcb-util0-dev:i386
 libxcb-util0:i386
+libxcb-xfixes0-dev
 libxcb1
 libxcb1-dev
 libxcb1-dev:i386
