@@ -4607,6 +4607,7 @@ libxau6
 libxau6:i386
 libxaw7
 libxaw7:i386
+libxcb-dri2-0-dev
 libxcb-glx0
 libxcb-glx0-dev
 libxcb-glx0:i386
