@@ -6119,6 +6119,7 @@ xserver-common
 xserver-common:i386
 xserver-xorg-core
 xserver-xorg-core:i386
+xserver-xorg-dev
 xterm
 xterm:i386
 xtrans-dev
