@@ -4497,6 +4497,7 @@ libtool
 libtool:i386
 libturbojpeg
 libturbojpeg:i386
+libudev-dev
 libudev0
 libudev0:i386
 libunbound-dev
