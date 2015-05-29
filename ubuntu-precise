@@ -800,6 +800,7 @@ happy-1.19.5:i386
 happy:i386
 hardening-wrapper
 hardening-wrapper:i386
+haveged
 haxe
 haxe:i386
 hdparm
