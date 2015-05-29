@@ -4918,6 +4918,7 @@ lua5.2
 lua5.2-doc
 lua5.2-doc:i386
 lua5.2:i386
+luarocks
 lzop
 lzop:i386
 m4
