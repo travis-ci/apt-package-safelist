@@ -4598,6 +4598,7 @@ libvlccore-dev
 libvlccore-dev:i386
 libvlccore5
 libvlccore5:i386
+libvorbis-dev
 libvorbis0a
 libvorbis0a:i386
 libvorbisenc2
