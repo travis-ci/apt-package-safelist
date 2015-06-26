@@ -25,3 +25,9 @@ sort: $(DISTROS)
 .PHONY: add
 add:
 	[[ $(PACKAGE) ]] && echo $(PACKAGE) >> $(DISTRO) ; $(MAKE) sort
+
+.PHONY: resolve
+resolve: add
+	git add $(DISTRO)
+	git commit -m "Add $(PACKAGE) to $(DISTRO); resolves travis-ci/travis-ci#$(TICKET)"
+
