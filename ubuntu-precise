@@ -3517,6 +3517,7 @@ libirrlicht1.7a
 libirrlicht1.7a:i386
 libisl10
 libisl10:i386
+libisofs-dev
 libiw-dev
 libiw-dev:i386
 libiw30
