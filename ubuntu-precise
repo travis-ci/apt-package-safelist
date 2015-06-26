@@ -5711,6 +5711,7 @@ sndfile-programs
 sndfile-programs:i386
 sound-theme-freedesktop
 sound-theme-freedesktop:i386
+spatialite-bin
 specific
 specific:i386
 spyder
