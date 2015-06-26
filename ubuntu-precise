@@ -6034,6 +6034,7 @@ unzip
 unzip:i386
 upstart
 upstart:i386
+upx-ucl
 ureadahead
 ureadahead:i386
 util-linux
