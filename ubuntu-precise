@@ -3140,6 +3140,7 @@ libfribidi0
 libfribidi0:i386
 libfuse2
 libfuse2:i386
+libgammu-dev
 libgbm-dev
 libgbm-dev:i386
 libgbm1
