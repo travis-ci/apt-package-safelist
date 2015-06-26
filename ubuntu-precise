@@ -4180,6 +4180,7 @@ libpoppler19
 libpoppler19:i386
 libpopt0
 libpopt0:i386
+libportaudio-dev
 libportaudio2
 libportaudio2:i386
 libportaudiocpp0
