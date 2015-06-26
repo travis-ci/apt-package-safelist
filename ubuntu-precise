@@ -5755,6 +5755,7 @@ sgml-base
 sgml-base:i386
 shared-mime-info
 shared-mime-info:i386
+slapd
 sndfile-programs
 sndfile-programs:i386
 sound-theme-freedesktop
