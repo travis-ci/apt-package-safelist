@@ -2600,6 +2600,7 @@ ldnsutils
 ldnsutils:i386
 less
 less:i386
+lftp
 lib32asound2
 lib32asound2-dev
 lib32asound2-dev:i386
