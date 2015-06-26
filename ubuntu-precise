@@ -5240,6 +5240,7 @@ petsc
 petsc:i386
 pgdg-keyring
 pgdg-keyring:i386
+pgf
 phonon
 phonon-backend-null
 phonon-backend-null:i386
