@@ -3170,6 +3170,7 @@ libfreeze34
 libfreeze34:i386
 libfribidi0
 libfribidi0:i386
+libfuse-dev
 libfuse2
 libfuse2:i386
 libgammu-dev
