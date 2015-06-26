@@ -3356,6 +3356,7 @@ libgnomevfs2-0
 libgnomevfs2-0:i386
 libgnomevfs2-common
 libgnomevfs2-common:i386
+libgnomevfs2-dev
 libgnutls-dev
 libgnutls-dev:i386
 libgnutls-openssl27
