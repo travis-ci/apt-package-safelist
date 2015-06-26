@@ -3410,6 +3410,7 @@ libgstreamer-plugins-base0.10-0
 libgstreamer-plugins-base0.10-0:i386
 libgstreamer0.10-0
 libgstreamer0.10-0:i386
+libgtest-dev
 libgtk-3-0
 libgtk-3-0:i386
 libgtk-3-bin
