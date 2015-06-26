@@ -3635,6 +3635,7 @@ libllvm3.7-dbg:i386
 libllvm3.7:i386
 liblocale-gettext-perl
 liblocale-gettext-perl:i386
+liblocale-po-perl
 liblockfile-bin
 liblockfile-bin:i386
 liblockfile1
