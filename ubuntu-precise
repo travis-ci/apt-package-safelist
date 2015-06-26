@@ -2592,6 +2592,7 @@ language-pack-zu
 language-pack-zu-base
 language-pack-zu-base:i386
 language-pack-zu:i386
+latex-xcolor
 latexmk
 latexmk:i386
 ldnsutils
