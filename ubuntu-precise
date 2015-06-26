@@ -4490,6 +4490,7 @@ libstdc++6-armel-cross:i386
 libstdc++6-armhf-cross
 libstdc++6-armhf-cross:i386
 libstdc++6:i386
+libstxxl1
 libsvn1
 libsvn1:i386
 libswitch-perl
