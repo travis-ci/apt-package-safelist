@@ -5710,6 +5710,8 @@ r-cran-spatial
 r-cran-spatial:i386
 r-cran-survival
 r-cran-survival:i386
+r-recommended
+r-recommended:i386
 rabbitmq-server
 rabbitmq-server:i386
 ragel
