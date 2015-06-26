@@ -5170,6 +5170,7 @@ ocaml-base
 ocaml-base-nox
 ocaml-base-nox:i386
 ocaml-base:i386
+ocaml-batteries-included
 ocaml-compiler-libs
 ocaml-compiler-libs:i386
 ocaml-interp
