@@ -337,6 +337,8 @@ cron
 cron:i386
 cryptsetup-bin
 cryptsetup-bin:i386
+csh
+csh:i386
 curl
 curl:i386
 dash
@@ -536,6 +538,8 @@ firefox-locale-en
 firefox-locale-en:i386
 firefox-locale-ja
 firefox-locale-ja:i386
+fish
+fish:i386
 flac
 flac:i386
 flashplugin-downloader
