@@ -130,11 +130,12 @@ for d in $(find . -name debian) ; do
 done | xargs echo
 ```
 
-Back outside of the Vagrant box, pass this list of packages for addition
+Back outside of the Vagrant box, pass this list of packages for addition.  Adding both the package name and its' `:i386` variant is not always necessary, but doesn't hurt.
 
 ``` bash
 for pkg in abc def xyz ; do
-  make add PACKAGE=$pkg ;
+  make add PACKAGE=$pkg
+  make add PACKAGE=${pkg}:i386
 done
 ```
 
