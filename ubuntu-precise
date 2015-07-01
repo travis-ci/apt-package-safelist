@@ -343,6 +343,8 @@ curl
 curl:i386
 dash
 dash:i386
+db-util
+db-util:i386
 dbus
 dbus-x11
 dbus-x11:i386
@@ -3013,6 +3015,16 @@ libdapclient3
 libdapclient3:i386
 libdatrie1
 libdatrie1:i386
+libdb++-dev
+libdb++-dev:i386
+libdb-dev
+libdb-dev:i386
+libdb-java
+libdb-java-dev
+libdb-java-dev:i386
+libdb-java:i386
+libdb-sql-dev
+libdb-sql-dev:i386
 libdb4.8
 libdb4.8:i386
 libdb5.1
