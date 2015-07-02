@@ -967,6 +967,8 @@ icee-translators
 icee-translators:i386
 icegrid-gui
 icegrid-gui:i386
+icnsutils
+icnsutils:i386
 ifupdown
 ifupdown:i386
 imagemagick
@@ -3915,6 +3917,10 @@ libiceutil34
 libiceutil34:i386
 libicexml34
 libicexml34:i386
+libicns-dev
+libicns-dev:i386
+libicns1
+libicns1:i386
 libicu-dev
 libicu-dev:i386
 libicu48
