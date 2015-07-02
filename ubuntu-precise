@@ -694,6 +694,10 @@ gdc-v1:i386
 gdc:i386
 genromfs
 genromfs:i386
+geoip-bin
+geoip-bin:i386
+geoip-database
+geoip-database:i386
 gettext
 gettext-base
 gettext-base:i386
@@ -3317,6 +3321,10 @@ libgecode
 libgecode-dev
 libgecode-dev:i386
 libgecode:i386
+libgeoip-dev
+libgeoip-dev:i386
+libgeoip1
+libgeoip1:i386
 libgeos++-dev
 libgeos++-dev:i386
 libgeos-3.2.2
