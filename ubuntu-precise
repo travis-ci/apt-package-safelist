@@ -4812,7 +4812,11 @@ libpolkit-gobject-1-0
 libpolkit-gobject-1-0:i386
 libpoppler19
 libpoppler19:i386
+libpopt-dev
+libpopt-dev:i386
 libpopt0
+libpopt0-udeb
+libpopt0-udeb:i386
 libpopt0:i386
 libportaudio-dev
 libportaudio2
