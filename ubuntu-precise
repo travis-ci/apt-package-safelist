@@ -4597,6 +4597,10 @@ libodbc1
 libodbc1:i386
 libogg0
 libogg0:i386
+libopenblas-base
+libopenblas-base:i386
+libopenblas-dev
+libopenblas-dev:i386
 libopencv-calib3d-dev
 libopencv-calib3d-dev:i386
 libopencv-calib3d2.3
