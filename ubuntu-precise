@@ -833,8 +833,12 @@ git-svn
 git:i386
 gloo
 gloo:i386
+glpk
+glpk-doc
+glpk-doc:i386
 glpk-utils
 glpk-utils:i386
+glpk:i386
 gnat-5
 gnat-5-doc
 gnat-5-doc:i386
@@ -3642,6 +3646,12 @@ libglib2.0-data
 libglib2.0-data:i386
 libglib2.0-dev
 libglib2.0-dev:i386
+libglpk-dev
+libglpk-dev:i386
+libglpk0
+libglpk0-dbg
+libglpk0-dbg:i386
+libglpk0:i386
 libglu1-mesa
 libglu1-mesa-dev
 libglu1-mesa-dev:i386
