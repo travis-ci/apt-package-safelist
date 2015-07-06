@@ -6242,6 +6242,8 @@ python-crypto
 python-crypto:i386
 python-dbus
 python-dbus:i386
+python-demjson
+python-demjson:i386
 python-dev
 python-dev:i386
 python-empy
