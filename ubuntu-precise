@@ -6265,6 +6265,14 @@ python-ldns:i386
 python-lxml
 python-lxml:i386
 python-m2crypto
+python-matplotlib
+python-matplotlib-data
+python-matplotlib-data:i386
+python-matplotlib-dbg
+python-matplotlib-dbg:i386
+python-matplotlib-doc
+python-matplotlib-doc:i386
+python-matplotlib:i386
 python-minimal
 python-minimal:i386
 python-nose
