@@ -26,6 +26,8 @@ apt-utils:i386
 apt:i386
 asciidoc
 asciidoc:i386
+aspcud
+aspcud:i386
 aspell
 aspell-af
 aspell-af:i386
