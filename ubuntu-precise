@@ -5982,6 +5982,8 @@ oracle-java7-installer
 oracle-java7-installer:i386
 oracle-java8-installer
 oracle-java8-installer:i386
+oracle-java9-installer
+oracle-java9-installer:i386
 p7zip-full
 p7zip-full:i386
 pandas
