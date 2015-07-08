@@ -6950,6 +6950,8 @@ xfonts-utils
 xfonts-utils:i386
 xkb-data
 xkb-data:i386
+xlstproc
+xlstproc:i386
 xlswriter
 xlswriter:i386
 xml-core
