@@ -611,6 +611,16 @@ g++-4.6-multilib-arm-linux-gnueabi:i386
 g++-4.6-multilib-arm-linux-gnueabihf
 g++-4.6-multilib-arm-linux-gnueabihf:i386
 g++-4.6:i386
+g++-4.7
+g++-4.7-arm-linux-gnueabi
+g++-4.7-arm-linux-gnueabi:i386
+g++-4.7-arm-linux-gnueabihf
+g++-4.7-arm-linux-gnueabihf:i386
+g++-4.7-multilib-arm-linux-gnueabi
+g++-4.7-multilib-arm-linux-gnueabi:i386
+g++-4.7-multilib-arm-linux-gnueabihf
+g++-4.7-multilib-arm-linux-gnueabihf:i386
+g++-4.7:i386
 g++-4.8
 g++-4.8:i386
 g++-4.9
