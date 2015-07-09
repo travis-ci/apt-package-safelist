@@ -274,6 +274,7 @@ clang-3.3:i386
 clang-3.4
 clang-3.4-doc
 clang-3.4-doc:i386
+clang-3.4-examples
 clang-3.4:i386
 clang-3.5
 clang-3.5-doc
@@ -287,12 +288,14 @@ clang-3.7
 clang-3.7-doc
 clang-3.7-doc:i386
 clang-3.7:i386
+clang-format-3.4
 clang-format-3.5
 clang-format-3.5:i386
 clang-format-3.6
 clang-format-3.6:i386
 clang-format-3.7
 clang-format-3.7:i386
+clang-modernize-3.4
 clang:i386
 clustalo
 clustalo:i386
@@ -343,6 +346,7 @@ cpp-5-doc:i386
 cpp-5:i386
 cpp-doc
 cpp-doc:i386
+cpp11-migrate-3.4
 cpp:i386
 cron
 cron:i386
@@ -3191,6 +3195,10 @@ libck-connector0
 libck-connector0:i386
 libclamav-dev
 libclamav-dev:i386
+libclang-3.4-dev
+libclang-common-3.4-dev
+libclang1-3.4
+libclang1-3.4-dbg
 libclass-isa-perl
 libclass-isa-perl:i386
 libcloog-isl4
@@ -4085,6 +4093,7 @@ libldns-dev
 libldns-dev:i386
 libldns1
 libldns1:i386
+libllvm-3.4-ocaml-dev
 libllvm2.8
 libllvm2.8:i386
 libllvm2.9
@@ -6250,6 +6259,7 @@ python-argparse
 python-argparse:i386
 python-bzrlib
 python-bzrlib:i386
+python-clang-3.4
 python-configobj
 python-configobj:i386
 python-crypto
