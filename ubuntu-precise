@@ -6969,6 +6969,7 @@ xorg-sgml-doctools
 xorg-sgml-doctools:i386
 xserver-common
 xserver-common:i386
+xserver-xephyr
 xserver-xorg-core
 xserver-xorg-core:i386
 xserver-xorg-dev
