@@ -5933,6 +5933,7 @@ mysql-server-5.5:i386
 mysql-server-core-5.5
 mysql-server-core-5.5:i386
 mysql-server:i386
+nasm
 ncftp
 ncftp:i386
 ncurses-base
