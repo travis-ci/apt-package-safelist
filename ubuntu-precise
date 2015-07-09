@@ -5796,6 +5796,7 @@ mingw32-binutils:i386
 mingw32-runtime
 mingw32-runtime:i386
 mingw32:i386
+mksh
 module-init-tools
 module-init-tools:i386
 mongodb-10gen
