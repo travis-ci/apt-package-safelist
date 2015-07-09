@@ -6361,6 +6361,7 @@ python-xlrd
 python-xlrd:i386
 python-xy-meta-devel
 python-xy-meta-devel:i386
+python-yaml
 python-zeroc-ice
 python-zeroc-ice:i386
 python-zope.interface
