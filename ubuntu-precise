@@ -412,6 +412,7 @@ dpkg
 dpkg-dev
 dpkg-dev:i386
 dpkg:i386
+dtdinst
 dvipng
 dvipng:i386
 e2fslibs
@@ -1028,6 +1029,8 @@ java-wrappers
 java-wrappers:i386
 jemboss
 jemboss:i386
+jing
+jing-trang-doc
 jsvc
 jsvc:i386
 junit4
@@ -3345,6 +3348,7 @@ libdrm-radeon1:i386
 libdrm2
 libdrm2:i386
 libdrmaa1.0
+libdtdinst-java
 libdvdnav4
 libdw-dev
 libdw-dev:i386
@@ -4023,6 +4027,7 @@ libjemalloc-dev
 libjemalloc-dev:i386
 libjemalloc1
 libjemalloc1:i386
+libjing-java
 libjline-java
 libjline-java:i386
 libjpeg-dev
@@ -5331,6 +5336,7 @@ libtinfo5
 libtinfo5:i386
 libtool
 libtool:i386
+libtrang-java
 libtsan0
 libtsan0-dbg
 libtsan0-dbg:i386
@@ -6807,6 +6813,7 @@ tk8.5-dev
 tk8.5-dev:i386
 tk8.5:i386
 tk:i386
+trang
 tree
 tree:i386
 ttf-dejavu
@@ -6971,6 +6978,7 @@ xfonts-encodings
 xfonts-encodings:i386
 xfonts-utils
 xfonts-utils:i386
+xhtml-relaxng
 xkb-data
 xkb-data:i386
 xlstproc
