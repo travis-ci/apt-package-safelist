@@ -5547,6 +5547,7 @@ libxrender-dev
 libxrender-dev:i386
 libxrender1
 libxrender1:i386
+libxslt1-dbg
 libxslt1-dev
 libxslt1-dev:i386
 libxslt1.1
@@ -6309,6 +6310,8 @@ python-ldns
 python-ldns:i386
 python-libxml2
 python-libxml2-dbg
+python-libxslt1
+python-libxslt1-dbg
 python-lxml
 python-lxml:i386
 python-m2crypto
