@@ -4013,6 +4013,7 @@ libilmbase-dev
 libilmbase-dev:i386
 libilmbase6
 libilmbase6:i386
+libimage-exiftool-perl
 libio-pty-perl
 libiodbc2
 libiodbc2-dev
