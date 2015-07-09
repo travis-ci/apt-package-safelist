@@ -5333,6 +5333,7 @@ libunbound-dev
 libunbound-dev:i386
 libunistring0
 libunistring0:i386
+liburiparser1
 libusb-0.1-4
 libusb-0.1-4:i386
 libusb-1.0-0
