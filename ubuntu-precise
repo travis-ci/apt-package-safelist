@@ -6557,6 +6557,7 @@ ragel
 ragel:i386
 readline-common
 readline-common:i386
+realpath
 redis-server
 redis-server:i386
 resolvconf
