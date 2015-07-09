@@ -6415,6 +6415,7 @@ python-vtkgdcm
 python-vtkgdcm:i386
 python-wadllib
 python-wadllib:i386
+python-xcbgen
 python-xlrd
 python-xlrd:i386
 python-xy-meta-devel
@@ -7002,6 +7003,7 @@ xauth
 xauth:i386
 xbitmaps
 xbitmaps:i386
+xcb-proto
 xclip
 xclip:i386
 xdg-utils
