@@ -6324,6 +6324,7 @@ python-imaging
 python-imaging:i386
 python-indicate
 python-indicate:i386
+python-ipaddr
 python-keyring
 python-keyring:i386
 python-launchpadlib
@@ -6466,6 +6467,7 @@ python3-dev
 python3-dev:i386
 python3-gi
 python3-gi:i386
+python3-ipaddr
 python3-minimal
 python3-minimal:i386
 python3-pyqt4
