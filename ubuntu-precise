@@ -3104,6 +3104,7 @@ libboost1.55-doc
 libboost1.55-tools-dev
 libbsd-dev
 libbsd-dev:i386
+libbsd-resource-perl
 libbsd0
 libbsd0:i386
 libbsf-java
@@ -3995,6 +3996,7 @@ libilmbase-dev
 libilmbase-dev:i386
 libilmbase6
 libilmbase6:i386
+libio-pty-perl
 libiodbc2
 libiodbc2-dev
 libiodbc2-dev:i386
