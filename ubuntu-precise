@@ -214,6 +214,7 @@ bsdutils
 bsdutils:i386
 build-essential
 build-essential:i386
+busybox
 busybox-initramfs
 busybox-initramfs:i386
 bwa
