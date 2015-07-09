@@ -4875,6 +4875,10 @@ libpq-dev
 libpq-dev:i386
 libpq5
 libpq5:i386
+libpqxx-3.1
+libpqxx-3.1-dbg
+libpqxx3-dev
+libpqxx3-doc
 libproj-dev
 libproj-dev:i386
 libproj0
