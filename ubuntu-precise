@@ -890,6 +890,7 @@ gobjc-multilib
 gobjc-multilib:i386
 gobjc:i386
 gobject-introspection
+google-perftools
 gpc
 gpc-doc
 gpc-doc:i386
@@ -3753,6 +3754,9 @@ libgomp1-dbg:i386
 libgomp1:i386
 libgoogle-collections-java
 libgoogle-collections-java:i386
+libgoogle-perftools-dev
+libgoogle-perftools0
+libgoogle-perftools0-dbg
 libgpg-error-dev
 libgpg-error-dev:i386
 libgpg-error0
@@ -5313,6 +5317,8 @@ libtasn1-3-dev
 libtasn1-3-dev:i386
 libtasn1-3:i386
 libtbb-dev
+libtcmalloc-minimal0
+libtcmalloc-minimal0-dbg
 libtdb1
 libtdb1:i386
 libterm-readkey-perl
