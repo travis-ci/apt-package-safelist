@@ -6908,6 +6908,7 @@ wise-doc:i386
 wise:i386
 wkhtmltopdf
 wkhtmltopdf:i386
+x11-apps
 x11-common
 x11-common:i386
 x11-utils
