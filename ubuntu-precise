@@ -3772,6 +3772,8 @@ libgpg-error-dev
 libgpg-error-dev:i386
 libgpg-error0
 libgpg-error0:i386
+libgpgme11
+libgpgme11-dev
 libgpm-dev
 libgpm-dev:i386
 libgpm2
