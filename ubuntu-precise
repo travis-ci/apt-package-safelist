@@ -889,6 +889,7 @@ gobjc-5:i386
 gobjc-multilib
 gobjc-multilib:i386
 gobjc:i386
+gobject-introspection
 gpc
 gpc-doc
 gpc-doc:i386
@@ -3618,6 +3619,8 @@ libgif4
 libgif4:i386
 libgirepository-1.0-1
 libgirepository-1.0-1:i386
+libgirepository1.0-dev
+libgirepository1.0-doc
 libgl1-mesa-dev
 libgl1-mesa-dev:i386
 libgl1-mesa-dri
