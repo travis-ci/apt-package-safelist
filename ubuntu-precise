@@ -5517,8 +5517,11 @@ libxml-commons-resolver1.1-java
 libxml-commons-resolver1.1-java:i386
 libxml-parser-perl
 libxml2
+libxml2-dbg
 libxml2-dev
 libxml2-dev:i386
+libxml2-doc
+libxml2-udeb
 libxml2-utils
 libxml2-utils:i386
 libxml2:i386
@@ -6304,6 +6307,8 @@ python-lazr.uri
 python-lazr.uri:i386
 python-ldns
 python-ldns:i386
+python-libxml2
+python-libxml2-dbg
 python-lxml
 python-lxml:i386
 python-m2crypto
