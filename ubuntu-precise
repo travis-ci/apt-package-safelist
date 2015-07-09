@@ -501,6 +501,10 @@ erlang-webtool
 erlang-webtool:i386
 erlang-xmerl
 erlang-xmerl:i386
+espeak
+espeak-data
+espeak-data-udeb
+espeak-dbg
 expect
 expect-dev
 expect-dev:i386
@@ -3362,6 +3366,8 @@ libepsilon0
 libepsilon0:i386
 liberror-perl
 liberror-perl:i386
+libespeak-dev
+libespeak1
 libev-dev
 libev-dev:i386
 libevent-2.0-5
