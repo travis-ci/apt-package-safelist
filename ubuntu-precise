@@ -518,6 +518,7 @@ espeak
 espeak-data
 espeak-data-udeb
 espeak-dbg
+exiv2
 expect
 expect-dev
 expect-dev:i386
@@ -3438,6 +3439,10 @@ libexif-dev
 libexif-dev:i386
 libexif12
 libexif12:i386
+libexiv2-11
+libexiv2-dbg
+libexiv2-dev
+libexiv2-doc
 libexpat1
 libexpat1-dev
 libexpat1-dev:i386
