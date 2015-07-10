@@ -4227,6 +4227,10 @@ libmagickwand4
 libmagickwand4:i386
 libmail-sendmail-perl
 libmail-sendmail-perl:i386
+libmariadbclient-dev
+libmariadbclient-dev:i386
+libmariadbclient18
+libmariadbclient18:i386
 libmemcached-dev
 libmemcached-dev:i386
 libmemcached6
@@ -5837,6 +5841,10 @@ manpages
 manpages-dev
 manpages-dev:i386
 manpages:i386
+mariadb-client
+mariadb-client:i386
+mariadb-server
+mariadb-server:i386
 mawk
 mawk:i386
 md5deep
