@@ -355,6 +355,7 @@ cryptsetup-bin:i386
 csh
 csh:i386
 curl
+curl-udeb
 curl:i386
 dash
 dash:i386
@@ -3280,9 +3281,14 @@ libcups2:i386
 libcupsimage2
 libcupsimage2:i386
 libcurl3
+libcurl3-dbg
 libcurl3-gnutls
 libcurl3-gnutls:i386
+libcurl3-nss
+libcurl3-udeb
 libcurl3:i386
+libcurl4-gnutls-dev
+libcurl4-nss-dev
 libcurl4-openssl-dev
 libcurl4-openssl-dev:i386
 libcv-dev
