@@ -4261,6 +4261,8 @@ libmemcachedutil1:i386
 libmicrohttpd-dbg
 libmicrohttpd-dev
 libmicrohttpd5
+libminidjvu-dev
+libminidjvu0
 libmng1
 libmng1:i386
 libmockobjects-java
@@ -5910,6 +5912,7 @@ mingw32-binutils:i386
 mingw32-runtime
 mingw32-runtime:i386
 mingw32:i386
+minidjvu
 mksh
 module-init-tools
 module-init-tools:i386
