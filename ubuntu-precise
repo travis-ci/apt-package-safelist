@@ -6379,6 +6379,8 @@ pylint:i386
 pypy
 pypy-dev
 pypy-dev:i386
+pypy-doc
+pypy-lib
 pypy:i386
 pyqt4-dev-tools
 pyqt4-dev-tools:i386
@@ -6466,6 +6468,7 @@ python-pkg-resources
 python-pkg-resources:i386
 python-pycurl
 python-pycurl:i386
+python-pypy.translator.sandbox
 python-qt4
 python-qt4-dbg
 python-qt4-dbg:i386
