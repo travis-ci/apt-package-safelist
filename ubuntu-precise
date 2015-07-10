@@ -5063,6 +5063,10 @@ libruby
 libruby1.8
 libruby1.8:i386
 libruby:i386
+libsane
+libsane-common
+libsane-dbg
+libsane-dev
 libsasl2-2
 libsasl2-2:i386
 libsasl2-dev
