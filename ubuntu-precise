@@ -573,6 +573,7 @@ flashplugin-installer
 flashplugin-installer:i386
 flex
 flex:i386
+fluidsynth
 folium
 folium:i386
 fontconfig
@@ -3469,6 +3470,8 @@ libflac-doc
 libflac-doc:i386
 libflac8
 libflac8:i386
+libfluidsynth-dev
+libfluidsynth1
 libfontconfig1
 libfontconfig1-dev
 libfontconfig1-dev:i386
