@@ -3212,6 +3212,10 @@ libcc1-0
 libcc1-0:i386
 libcdt4
 libcdt4:i386
+libcgal-demo
+libcgal-dev
+libcgal-ipelets
+libcgal8
 libcgi-fast-perl
 libcgi-fast-perl:i386
 libcgraph5
