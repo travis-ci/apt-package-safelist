@@ -5900,6 +5900,7 @@ manpages-dev:i386
 manpages:i386
 mawk
 mawk:i386
+mcl
 md5deep
 md5deep:i386
 memcached
