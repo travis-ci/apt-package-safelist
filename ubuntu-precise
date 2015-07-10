@@ -4229,6 +4229,9 @@ libmemcachedprotocol0
 libmemcachedprotocol0:i386
 libmemcachedutil1
 libmemcachedutil1:i386
+libmicrohttpd-dbg
+libmicrohttpd-dev
+libmicrohttpd5
 libmng1
 libmng1:i386
 libmockobjects-java
