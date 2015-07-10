@@ -5761,6 +5761,8 @@ libzmq3
 libzmq3-dev
 libzmq3-dev:i386
 libzmq3:i386
+libzzip-0-13
+libzzip-dev
 lintian
 lintian:i386
 linux-headers-3.13.0-40-generic
@@ -7224,3 +7226,4 @@ zlib1g-udeb
 zlib1g:i386
 zsh
 zsh:i386
+zziplib-bin
