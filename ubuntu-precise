@@ -4728,6 +4728,8 @@ libodbc1
 libodbc1:i386
 libogg0
 libogg0:i386
+libois-1.3.0
+libois-dev
 libopenal-data
 libopenal-dev
 libopenal1
