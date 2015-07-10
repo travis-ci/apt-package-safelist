@@ -776,6 +776,9 @@ gfortran-4.6-multilib-arm-linux-gnueabi
 gfortran-4.6-multilib-arm-linux-gnueabi:i386
 gfortran-4.6-multilib-arm-linux-gnueabihf
 gfortran-4.6-multilib-arm-linux-gnueabihf:i386
+gfortran-4.7
+gfortran-4.8
+gfortran-4.9
 gfortran-5
 gfortran-5-doc
 gfortran-5-doc:i386
