@@ -5944,6 +5944,9 @@ mesa-utils
 mesa-utils:i386
 mime-support
 mime-support:i386
+mingw-w64
+mingw-w64-dev
+mingw-w64-tools
 mingw32
 mingw32-binutils
 mingw32-binutils:i386
