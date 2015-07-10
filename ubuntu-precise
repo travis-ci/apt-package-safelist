@@ -971,6 +971,7 @@ hardening-wrapper:i386
 haveged
 haxe
 haxe:i386
+hdfview
 hdparm
 hdparm:i386
 heirloom-mailx
@@ -4098,6 +4099,11 @@ libjemalloc-dev
 libjemalloc-dev:i386
 libjemalloc1
 libjemalloc1:i386
+libjhdf-doc
+libjhdf4-java
+libjhdf4-jni
+libjhdf5-java
+libjhdf5-jni
 libjing-java
 libjline-java
 libjline-java:i386
