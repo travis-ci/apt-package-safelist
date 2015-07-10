@@ -4285,6 +4285,8 @@ libmemcachedprotocol0
 libmemcachedprotocol0:i386
 libmemcachedutil1
 libmemcachedutil1:i386
+libmetacity-dev
+libmetacity-private0
 libmicrohttpd-dbg
 libmicrohttpd-dev
 libmicrohttpd5
@@ -5942,6 +5944,8 @@ mesa-common-dev
 mesa-common-dev:i386
 mesa-utils
 mesa-utils:i386
+metacity
+metacity-common
 mime-support
 mime-support:i386
 mingw-w64
