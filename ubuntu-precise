@@ -1013,6 +1013,7 @@ icegrid-gui
 icegrid-gui:i386
 icnsutils
 icnsutils:i386
+icoutils
 ifupdown
 ifupdown:i386
 imagemagick
