@@ -321,6 +321,7 @@ console-setup
 console-setup:i386
 consolekit
 consolekit:i386
+context
 coreutils
 coreutils:i386
 couchdb
@@ -5832,6 +5833,7 @@ llvm-gcc-4.6:i386
 llvm-runtime
 llvm-runtime:i386
 llvm:i386
+lmodern
 locales
 locales:i386
 lockfile-progs
