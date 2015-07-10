@@ -400,6 +400,12 @@ diffstat
 diffstat:i386
 diffutils
 diffutils:i386
+djview
+djview3
+djvulibre-bin
+djvulibre-dbg
+djvulibre-desktop
+djvuserve
 dmsetup
 dmsetup:i386
 dnsutils
