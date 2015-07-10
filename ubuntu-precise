@@ -2903,6 +2903,8 @@ lib64ubsan0
 lib64ubsan0-dbg
 lib64ubsan0-dbg:i386
 lib64ubsan0:i386
+lib64z1
+lib64z1-dev
 libacl1
 libacl1-dev
 libacl1-dev:i386
@@ -4639,6 +4641,8 @@ libn32stdc++6
 libn32stdc++6-5-dbg
 libn32stdc++6-5-dbg:i386
 libn32stdc++6:i386
+libn32z1
+libn32z1-dev
 libncurses5
 libncurses5-dev
 libncurses5-dev:i386
@@ -7173,9 +7177,12 @@ zeroc-icee
 zeroc-icee:i386
 zip
 zip:i386
+zlib-bin
 zlib1g
+zlib1g-dbg
 zlib1g-dev
 zlib1g-dev:i386
+zlib1g-udeb
 zlib1g:i386
 zsh
 zsh:i386
