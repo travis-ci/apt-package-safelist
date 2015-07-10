@@ -3431,6 +3431,9 @@ libevent-openssl-2.0-5
 libevent-openssl-2.0-5:i386
 libevent-pthreads-2.0-5
 libevent-pthreads-2.0-5:i386
+libexempi-dev
+libexempi3
+libexempi3-dbg
 libexif-dev
 libexif-dev:i386
 libexif12
