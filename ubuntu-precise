@@ -6515,8 +6515,11 @@ qt4-qmake:i386
 quilt
 quilt:i386
 r-base
+r-base-core
+r-base-core-dbg
 r-base-dev
 r-base-dev:i386
+r-base-html
 r-base:i386
 r-cran-boot
 r-cran-boot:i386
@@ -6550,6 +6553,10 @@ r-cran-spatial
 r-cran-spatial:i386
 r-cran-survival
 r-cran-survival:i386
+r-doc-html
+r-doc-info
+r-doc-pdf
+r-mathlib
 r-recommended
 r-recommended:i386
 rabbitmq-server
