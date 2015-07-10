@@ -4961,6 +4961,9 @@ libpthread-stubs0
 libpthread-stubs0-dev
 libpthread-stubs0-dev:i386
 libpthread-stubs0:i386
+libptscotch-5.1
+libptscotch-dbg
+libptscotch-dev
 libpulse-dev
 libpulse-dev:i386
 libpulse-mainloop-glib0
@@ -5095,6 +5098,11 @@ libsasl2-dev
 libsasl2-dev:i386
 libsasl2-modules
 libsasl2-modules:i386
+libscotch-5.1
+libscotch-dbg
+libscotch-dev
+libscotchmetis-dev
+libscotchparmetis-dev
 libsctp1
 libsctp1:i386
 libsdl-image1.2-dev
@@ -6316,6 +6324,8 @@ protobuf-compiler
 protobuf-compiler:i386
 psmisc
 psmisc:i386
+ptscotch
+ptscotch-dbg
 pulseaudio
 pulseaudio-dbg
 pulseaudio-dbg:i386
@@ -6689,6 +6699,8 @@ scikits.timeseries
 scikits.timeseries:i386
 scons
 scons:i386
+scotch
+scotch-dbg
 seaborn
 seaborn:i386
 sed
