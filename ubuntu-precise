@@ -171,6 +171,7 @@ aspell:i386
 attr
 attr:i386
 autoconf
+autoconf-archive
 autoconf:i386
 autogen
 autogen:i386
