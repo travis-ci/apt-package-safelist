@@ -193,13 +193,20 @@ bc:i386
 binfmt-support
 binfmt-support:i386
 binutils
+binutils-dev
 binutils-doc
 binutils-doc:i386
 binutils-gold
+binutils-hppa64
 binutils-mingw-w64-i686
 binutils-mingw-w64-i686:i386
 binutils-mingw-w64-x86-64
 binutils-mingw-w64-x86-64:i386
+binutils-multiarch
+binutils-source
+binutils-spu
+binutils-static
+binutils-static-udeb
 binutils:i386
 bison
 bison:i386
@@ -875,6 +882,7 @@ glpk-doc:i386
 glpk-utils
 glpk-utils:i386
 glpk:i386
+gmp-ecm
 gnat-5
 gnat-5-doc
 gnat-5-doc:i386
@@ -3399,6 +3407,8 @@ libdw-dev
 libdw-dev:i386
 libdw1
 libdw1:i386
+libecm-dev
+libecm0
 libedit-dev
 libedit-dev:i386
 libedit2
