@@ -4728,6 +4728,9 @@ libodbc1
 libodbc1:i386
 libogg0
 libogg0:i386
+libopenal-data
+libopenal-dev
+libopenal1
 libopenblas-base
 libopenblas-base:i386
 libopenblas-dev
