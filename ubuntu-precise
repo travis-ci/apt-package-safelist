@@ -2760,6 +2760,7 @@ language-pack-zu:i386
 latex-xcolor
 latexmk
 latexmk:i386
+lcov
 ldap-utils
 ldnsutils
 ldnsutils:i386
