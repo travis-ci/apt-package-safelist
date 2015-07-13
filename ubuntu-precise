@@ -994,6 +994,16 @@ ia32-libs
 ia32-libs-multiarch
 ia32-libs-multiarch:i386
 ia32-libs:i386
+iamerican
+iamerican-huge
+iamerican-insane
+iamerican-large
+iamerican-small
+ibritish
+ibritish-huge
+ibritish-insane
+ibritish-large
+ibritish-small
 ice34-services
 ice34-services:i386
 ice34-slice
@@ -1023,6 +1033,7 @@ icegrid-gui:i386
 icnsutils
 icnsutils:i386
 icoutils
+ienglish-common
 ifupdown
 ifupdown:i386
 imagemagick
@@ -1057,6 +1068,7 @@ isc-dhcp-common
 isc-dhcp-common:i386
 iso-codes
 iso-codes:i386
+ispell
 iverilog
 iverilog:i386
 ivy
