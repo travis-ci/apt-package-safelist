@@ -4185,6 +4185,7 @@ libldns-dev
 libldns-dev:i386
 libldns1
 libldns1:i386
+libleveldb-dev
 libllvm-3.4-ocaml-dev
 libllvm2.8
 libllvm2.8:i386
