@@ -866,6 +866,7 @@ gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
+gir1.2-gtk-3.0
 gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-rsvg-2.0
@@ -955,6 +956,7 @@ gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
 gsl-bin:i386
+gtk-3-examples
 guile-1.8-libs
 guile-1.8-libs:i386
 gvfs
@@ -3550,6 +3552,10 @@ libfribidi0:i386
 libfuse-dev
 libfuse2
 libfuse2:i386
+libgail-3-0
+libgail-3-0-dbg
+libgail-3-dev
+libgail-3-doc
 libgammu-dev
 libgbm-dev
 libgbm-dev:i386
@@ -3884,6 +3890,8 @@ libgstreamer0.10-0
 libgstreamer0.10-0:i386
 libgtest-dev
 libgtk-3-0
+libgtk-3-0-dbg
+libgtk-3-0-udeb
 libgtk-3-0:i386
 libgtk-3-bin
 libgtk-3-bin:i386
@@ -3891,6 +3899,7 @@ libgtk-3-common
 libgtk-3-common:i386
 libgtk-3-dev
 libgtk-3-dev:i386
+libgtk-3-doc
 libgtk2.0-0
 libgtk2.0-0:i386
 libgtk2.0-bin
