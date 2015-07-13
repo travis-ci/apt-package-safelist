@@ -6293,6 +6293,14 @@ portaudio19-dev
 portaudio19-dev:i386
 portaudio19-doc
 portaudio19-doc:i386
+postfix
+postfix-cdb
+postfix-dev
+postfix-doc
+postfix-ldap
+postfix-mysql
+postfix-pcre
+postfix-pgsql
 postgresql-9.0-plv8
 postgresql-9.0-plv8:i386
 postgresql-9.1
