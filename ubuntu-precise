@@ -5084,6 +5084,10 @@ libquadmath0
 libquadmath0-dbg
 libquadmath0-dbg:i386
 libquadmath0:i386
+libraptor2-0
+libraptor2-0-dbg
+libraptor2-dev
+libraptor2-doc
 libraspell-ruby
 libraspell-ruby1.8
 libraspell-ruby1.8:i386
@@ -6731,6 +6735,7 @@ rabbitmq-server
 rabbitmq-server:i386
 ragel
 ragel:i386
+raptor2-utils
 readline-common
 readline-common:i386
 realpath
