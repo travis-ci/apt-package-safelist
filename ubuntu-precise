@@ -6809,6 +6809,7 @@ rabbitmq-server:i386
 ragel
 ragel:i386
 raptor2-utils
+re2c
 readline-common
 readline-common:i386
 realpath
