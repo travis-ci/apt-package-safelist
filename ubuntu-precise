@@ -4151,6 +4151,9 @@ libjansi-java
 libjansi-java:i386
 libjansi-native-java
 libjansi-native-java:i386
+libjansson-dev
+libjansson-doc
+libjansson4
 libjasper-dev
 libjasper-dev:i386
 libjasper1
