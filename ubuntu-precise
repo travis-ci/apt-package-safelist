@@ -6407,6 +6407,14 @@ postgresql-9.4-postgis-2.1:i386
 postgresql-9.4-postgis-scripts
 postgresql-9.4-postgis-scripts:i386
 postgresql-9.4:i386
+postgresql-9.5
+postgresql-9.5-plv8
+postgresql-9.5-plv8:i386
+postgresql-9.5-postgis-2.1
+postgresql-9.5-postgis-2.1:i386
+postgresql-9.5-postgis-scripts
+postgresql-9.5-postgis-scripts:i386
+postgresql-9.5:i386
 postgresql-client
 postgresql-client-9.1
 postgresql-client-9.1:i386
