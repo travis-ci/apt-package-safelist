@@ -366,6 +366,10 @@ csh:i386
 curl
 curl-udeb
 curl:i386
+cyrus-sasl2-dbg
+cyrus-sasl2-doc
+cyrus-sasl2-heimdal-dbg
+cyrus-sasl2-mit-dbg
 dash
 dash:i386
 db-util
@@ -5179,6 +5183,11 @@ libsasl2-2:i386
 libsasl2-dev
 libsasl2-dev:i386
 libsasl2-modules
+libsasl2-modules-gssapi-heimdal
+libsasl2-modules-gssapi-mit
+libsasl2-modules-ldap
+libsasl2-modules-otp
+libsasl2-modules-sql
 libsasl2-modules:i386
 libscotch-5.1
 libscotch-dbg
@@ -6824,6 +6833,7 @@ s3cmd
 s3cmd:i386
 samtools
 samtools:i386
+sasl2-bin
 scikits.timeseries
 scikits.timeseries:i386
 scons
