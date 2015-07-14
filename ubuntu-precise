@@ -794,6 +794,7 @@ gettext-base
 gettext-base:i386
 gettext:i386
 gfortran
+gfortran-4.6
 gfortran-4.6-arm-linux-gnueabi
 gfortran-4.6-arm-linux-gnueabi:i386
 gfortran-4.6-arm-linux-gnueabihf
