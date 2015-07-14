@@ -4956,6 +4956,7 @@ libpcre3-dev:i386
 libpcre3:i386
 libpcrecpp0
 libpcrecpp0:i386
+libpcsclite-dev
 libpcsclite1
 libpcsclite1:i386
 libperl-dev
@@ -6256,6 +6257,7 @@ patsy
 patsy:i386
 pbuilder
 pbuilder:i386
+pcscd
 perl
 perl-base
 perl-base:i386
