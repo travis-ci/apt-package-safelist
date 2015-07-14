@@ -6418,6 +6418,8 @@ postgresql-9.4-postgis-scripts
 postgresql-9.4-postgis-scripts:i386
 postgresql-9.4:i386
 postgresql-9.5
+postgresql-9.5-dbg
+postgresql-9.5-dbg:i386
 postgresql-9.5-plv8
 postgresql-9.5-plv8:i386
 postgresql-9.5-postgis-2.1
@@ -6434,6 +6436,8 @@ postgresql-client-9.3
 postgresql-client-9.3:i386
 postgresql-client-9.4
 postgresql-client-9.4:i386
+postgresql-client-9.5
+postgresql-client-9.5:i386
 postgresql-client-common
 postgresql-client-common:i386
 postgresql-client:i386
@@ -6447,6 +6451,18 @@ postgresql-contrib-9.3
 postgresql-contrib-9.3:i386
 postgresql-contrib-9.4
 postgresql-contrib-9.4:i386
+postgresql-contrib-9.5
+postgresql-contrib-9.5:i386
+postgresql-doc-9.5
+postgresql-doc-9.5:i386
+postgresql-plperl-9.5
+postgresql-plperl-9.5:i386
+postgresql-plpython-9.5
+postgresql-plpython-9.5:i386
+postgresql-plpython3-9.5
+postgresql-plpython3-9.5:i386
+postgresql-pltcl-9.5
+postgresql-pltcl-9.5:i386
 postgresql-server-dev-9.1
 postgresql-server-dev-9.1:i386
 postgresql-server-dev-9.2
@@ -6455,6 +6471,8 @@ postgresql-server-dev-9.3
 postgresql-server-dev-9.3:i386
 postgresql-server-dev-9.4
 postgresql-server-dev-9.4:i386
+postgresql-server-dev-9.5
+postgresql-server-dev-9.5:i386
 postgresql-server-dev-all
 postgresql-server-dev-all:i386
 powermgmt-base
