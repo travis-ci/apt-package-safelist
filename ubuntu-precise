@@ -4188,6 +4188,7 @@ libjpeg8:i386
 libjs-jquery
 libjs-jquery:i386
 libjs-sphinxdoc
+libjs-underscore
 libjson0
 libjson0-dev
 libjson0-dev:i386
@@ -6179,6 +6180,7 @@ nginx-naxsi:i386
 nginx:i386
 ninja-build
 ninja-build:i386
+node-underscore
 nodejs
 nodejs-dbg
 nodejs-dbg:i386
