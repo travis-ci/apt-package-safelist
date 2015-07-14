@@ -4187,6 +4187,7 @@ libjpeg8-dev:i386
 libjpeg8:i386
 libjs-jquery
 libjs-jquery:i386
+libjs-sphinxdoc
 libjson0
 libjson0-dev
 libjson0-dev:i386
@@ -6657,6 +6658,7 @@ python-simplejson
 python-simplejson:i386
 python-software-properties
 python-software-properties:i386
+python-sphinx
 python-tables
 python-tables:i386
 python-virtualenv
@@ -6745,6 +6747,7 @@ python3-pyqt4.qtsql-dbg:i386
 python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-roman
+python3-sphinx
 python3.2
 python3.2-dev
 python3.2-dev:i386
@@ -6890,6 +6893,8 @@ sound-theme-freedesktop:i386
 spatialite-bin
 specific
 specific:i386
+sphinx-common
+sphinx-doc
 spyder
 spyder:i386
 sqlite3
