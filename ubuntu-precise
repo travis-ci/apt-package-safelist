@@ -4056,6 +4056,7 @@ libhiredis-dev
 libhiredis-dev:i386
 libhiredis0.10
 libhiredis0.10:i386
+libhogweed2
 libhtml-template-perl
 libhtml-template-perl:i386
 libhx509-5-heimdal
@@ -6148,6 +6149,9 @@ netcdf-bin
 netcdf-bin:i386
 netpbm
 netpbm:i386
+nettle-bin
+nettle-dbg
+nettle-dev
 nginx
 nginx-common
 nginx-common:i386
