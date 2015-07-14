@@ -1003,6 +1003,8 @@ hostname
 hostname:i386
 html2text
 html2text:i386
+hwloc
+hwloc-nox
 ia32-libs
 ia32-libs-multiarch
 ia32-libs-multiarch:i386
@@ -4062,6 +4064,10 @@ libhiredis0.10:i386
 libhogweed2
 libhtml-template-perl
 libhtml-template-perl:i386
+libhwloc-common
+libhwloc-dev
+libhwloc-doc
+libhwloc4
 libhx509-5-heimdal
 libhx509-5-heimdal:i386
 libib-util
