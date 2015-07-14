@@ -543,6 +543,8 @@ ffmpeg-doc:i386
 ffmpeg:i386
 file
 file:i386
+finch
+finch-dev
 findutils
 findutils:i386
 fiona
@@ -5051,6 +5053,9 @@ libpulsedsp
 libpulsedsp-dbg
 libpulsedsp-dbg:i386
 libpulsedsp:i386
+libpurple-bin
+libpurple-dev
+libpurple0
 libpython2.7
 libpython2.7:i386
 libpython3.2
@@ -6317,6 +6322,10 @@ php5-xmlrpc:i386
 php5-xsl
 php5-xsl:i386
 php5:i386
+pidgin
+pidgin-data
+pidgin-dbg
+pidgin-dev
 pkg-config
 pkg-config:i386
 plymouth
@@ -6866,6 +6875,7 @@ sysv-rc
 sysv-rc:i386
 sysvinit-utils
 sysvinit-utils:i386
+tango-icon-theme
 tar
 tar:i386
 tcl
