@@ -999,6 +999,7 @@ heirloom-mailx
 help2man
 hicolor-icon-theme
 hicolor-icon-theme:i386
+hlint
 hostname
 hostname:i386
 html2text
@@ -3713,6 +3714,9 @@ libgfortran3-dbg-armhf-cross
 libgfortran3-dbg-armhf-cross:i386
 libgfortran3-dbg:i386
 libgfortran3:i386
+libghc-hlint-dev
+libghc-hlint-doc
+libghc-hlint-prof
 libgif-dev
 libgif-dev:i386
 libgif4
