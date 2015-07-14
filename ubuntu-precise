@@ -7180,6 +7180,10 @@ tzdata
 tzdata-java
 tzdata-java:i386
 tzdata:i386
+u-boot
+u-boot-tools
+uboot-envtools
+uboot-mkimage
 ubuntu-keyring
 ubuntu-keyring:i386
 ubuntu-minimal
