@@ -4659,6 +4659,8 @@ libmudflap0-dbg-armel-cross
 libmudflap0-dbg-armel-cross:i386
 libmudflap0-dbg-armhf-cross
 libmudflap0-dbg-armhf-cross:i386
+libmunge-dev
+libmunge2
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
@@ -6112,6 +6114,7 @@ mtools
 mtools:i386
 multiarch-support
 multiarch-support:i386
+munge
 muscle
 muscle:i386
 mysql-client
