@@ -6325,6 +6325,7 @@ pngcrush
 pngcrush:i386
 po-debconf
 po-debconf:i386
+po4a
 policykit-1
 policykit-1-gnome
 policykit-1-gnome:i386
