@@ -6197,6 +6197,7 @@ nodejs:i386
 notification-daemon
 notification-daemon:i386
 nsis
+nsis-common
 ntfs-3g
 ntfs-3g:i386
 ntpdate
