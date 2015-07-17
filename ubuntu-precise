@@ -900,6 +900,8 @@ gnat-5-doc:i386
 gnat-5:i386
 gnupg
 gnupg:i386
+gnutls-bin
+gnutls-doc
 gobjc
 gobjc++
 gobjc++-4.6-arm-linux-gnueabi
@@ -3837,6 +3839,7 @@ libgnutls-dev:i386
 libgnutls-openssl27
 libgnutls-openssl27:i386
 libgnutls26
+libgnutls26-dbg
 libgnutls26:i386
 libgnutlsxx27
 libgnutlsxx27:i386
