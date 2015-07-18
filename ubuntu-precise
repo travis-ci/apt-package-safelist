@@ -6300,6 +6300,8 @@ patsy:i386
 pbuilder
 pbuilder:i386
 pcscd
+pdftk
+pdftk:i386
 perl
 perl-base
 perl-base:i386
