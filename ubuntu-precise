@@ -6947,6 +6947,7 @@ specific
 specific:i386
 sphinx-common
 sphinx-doc
+sphinxsearch
 spyder
 spyder:i386
 sqlite3
