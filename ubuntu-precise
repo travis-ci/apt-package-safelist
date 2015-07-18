@@ -6243,6 +6243,7 @@ opam
 opam-docs
 opam-docs:i386
 opam:i386
+opencl-headers
 opencv-doc
 opencv-doc:i386
 openjdk-6-jdk
