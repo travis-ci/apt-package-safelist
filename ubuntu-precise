@@ -363,6 +363,7 @@ cryptsetup-bin
 cryptsetup-bin:i386
 csh
 csh:i386
+ctpl
 curl
 curl-udeb
 curl:i386
@@ -880,6 +881,7 @@ gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-rsvg-2.0
 gir1.2-rsvg-2.0:i386
+gir1.2-soup-2.4
 git
 git-man
 git-man:i386
@@ -3330,6 +3332,9 @@ libcroco3
 libcroco3:i386
 libcryptsetup4
 libcryptsetup4:i386
+libctpl-dev
+libctpl-doc
+libctpl2
 libcunit1
 libcunit1-dev
 libcunit1-dev:i386
@@ -5358,6 +5363,12 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsoup-gnome2.4-1
+libsoup-gnome2.4-dev
+libsoup2.4-1
+libsoup2.4-dbg
+libsoup2.4-dev
+libsoup2.4-doc
 libsparsehash-dev
 libspatialite3
 libspatialite3:i386
