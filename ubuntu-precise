@@ -6294,6 +6294,7 @@ passwd
 passwd:i386
 patch
 patch:i386
+patchutils
 patsy
 patsy:i386
 pbuilder
