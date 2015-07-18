@@ -4754,7 +4754,10 @@ libnetcdf-dev:i386
 libnetcdf6
 libnetcdf6:i386
 libnetpbm10
+libnetpbm10-dev
 libnetpbm10:i386
+libnetpbm9
+libnetpbm9-dev
 libnettle4
 libnettle4:i386
 libnewt0.52
