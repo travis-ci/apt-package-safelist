@@ -3953,6 +3953,7 @@ libhcrypto4-heimdal
 libhcrypto4-heimdal:i386
 libhdf4-0-alt
 libhdf4-0-alt:i386
+libhdf5-dev
 libhdf5-doc
 libhdf5-lam-1.8.4
 libhdf5-lam-dev
