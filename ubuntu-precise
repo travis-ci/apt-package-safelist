@@ -7302,6 +7302,7 @@ wamerican
 wamerican:i386
 wammu
 wammu:i386
+wcslib-dev
 wget
 wget:i386
 whiptail
