@@ -6769,6 +6769,7 @@ python2.7-minimal
 python2.7-minimal:i386
 python2.7:i386
 python3
+python3-dbg
 python3-dbus
 python3-dbus.mainloop.qt
 python3-dbus.mainloop.qt-dbg
