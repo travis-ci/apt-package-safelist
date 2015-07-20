@@ -5018,6 +5018,7 @@ libpixman-1-0
 libpixman-1-0:i386
 libpixman-1-dev
 libpixman-1-dev:i386
+libplack-perl
 libplrpc-perl
 libplrpc-perl:i386
 libplymouth2
