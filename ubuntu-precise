@@ -6785,6 +6785,7 @@ python3-gi:i386
 python3-ipaddr
 python3-minimal
 python3-minimal:i386
+python3-pkg-resources
 python3-pyqt4
 python3-pyqt4-dbg
 python3-pyqt4-dbg:i386
