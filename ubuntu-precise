@@ -6808,6 +6808,7 @@ python3-gi-cairo
 python3-gi-dbg
 python3-gi:i386
 python3-ipaddr
+python3-markdown
 python3-minimal
 python3-minimal:i386
 python3-pkg-resources
