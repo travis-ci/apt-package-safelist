@@ -7392,6 +7392,7 @@ xorg
 xorg-dev
 xorg-sgml-doctools
 xorg-sgml-doctools:i386
+xpdf
 xserver-common
 xserver-common:i386
 xserver-xephyr
