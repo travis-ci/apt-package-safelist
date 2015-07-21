@@ -5219,6 +5219,7 @@ libroken18-heimdal
 libroken18-heimdal:i386
 librrd-dev
 librrd4
+librrdp-perl
 librrds-perl
 librsvg2-2
 librsvg2-2:i386
