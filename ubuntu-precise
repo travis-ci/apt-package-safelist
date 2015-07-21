@@ -4184,6 +4184,8 @@ libhwloc-doc
 libhwloc4
 libhx509-5-heimdal
 libhx509-5-heimdal:i386
+libhypre-2.8.0b
+libhypre-dev
 libib-util
 libib-util:i386
 libice-dev
