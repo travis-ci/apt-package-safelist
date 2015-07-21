@@ -5262,6 +5262,7 @@ libsensors4:i386
 libservlet2.5-java
 libservlet2.5-java:i386
 libservlet3.0-java
+libservlet3.0-java-doc
 libsfasan2
 libsfasan2-dbg
 libsfasan2-dbg:i386
