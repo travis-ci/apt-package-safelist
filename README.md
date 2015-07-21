@@ -6,6 +6,8 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 ## Package approval process
 
+<img alt="CAUTION!" align="center" width="300" src="https://cloud.githubusercontent.com/assets/25666/8801956/1d82c37c-2f8c-11e5-8860-d9b0c8db3a9d.png"/>
+
 **PLEASE READ CAREFULLY!**
 
 0. Check the list of approved packages for your build environment (most likely [`ubuntu-precise`](./ubuntu-precise)).
@@ -16,8 +18,9 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
    (and be sure to replace `__PACKAGE__` in the issue title :wink:).
 
 0. Currently, we are in the process of automating request approval process.
-  1. This means that the issues' subject should follow exactly the one indicated. The process would not work with
-  multiple package requests in one issue.
+  1. This means that the issues' subject should follow exactly the one indicated.
+  That is, there should be **exactly one package** per issue.
+  The process would not work with multiple package requests in one issue.
 0. PRs are not accepted, since we have not run tests on them.
 0. Please be patient :smiley_cat:
 
