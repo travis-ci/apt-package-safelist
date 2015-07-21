@@ -6418,6 +6418,7 @@ postfix-ldap
 postfix-mysql
 postfix-pcre
 postfix-pgsql
+postgis
 postgresql-9.0-plv8
 postgresql-9.0-plv8:i386
 postgresql-9.1
