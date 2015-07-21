@@ -6669,6 +6669,8 @@ python-matplotlib-doc:i386
 python-matplotlib:i386
 python-minimal
 python-minimal:i386
+python-mysqldb
+python-mysqldb:i386
 python-nose
 python-nose:i386
 python-numpy
