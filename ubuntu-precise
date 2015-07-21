@@ -6943,6 +6943,7 @@ rpm
 rpm:i386
 rrdcached
 rrdtool
+rrdtool-dbg
 rst2pdf
 rsync
 rsync:i386
