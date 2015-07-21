@@ -951,6 +951,7 @@ gpc-doc
 gpc-doc:i386
 gpc:i386
 gperf
+gperf-ace
 gpgv
 gpgv:i386
 graphicsmagick
