@@ -5414,6 +5414,9 @@ libsqlite3-0
 libsqlite3-0:i386
 libsqlite3-dev
 libsqlite3-dev:i386
+libsrecord-dev
+libsrecord0
+libsrecord0-dbg
 libss2
 libss2:i386
 libssh2-1
@@ -6990,6 +6993,7 @@ sqlite3
 sqlite3-doc
 sqlite3-doc:i386
 sqlite3:i386
+srecord
 ssh
 ssh-import-id
 ssh-import-id:i386
