@@ -474,6 +474,7 @@ emboss-test:i386
 emboss:i386
 enchant
 enchant:i386
+equivs
 erlang-asn1
 erlang-asn1:i386
 erlang-base-hipe
