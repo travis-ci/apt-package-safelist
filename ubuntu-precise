@@ -6747,6 +6747,7 @@ python-rpy-doc:i386
 python-rpy2
 python-rpy2:i386
 python-rpy:i386
+python-rrdtool
 python-scipy
 python-scipy:i386
 python-serial
