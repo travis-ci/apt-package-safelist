@@ -448,6 +448,7 @@ eject
 eject:i386
 elasticsearch
 elasticsearch:i386
+electric-fence
 elfutils
 elfutils:i386
 emacs23-bin-common
