@@ -6941,6 +6941,7 @@ riak
 riak:i386
 rpm
 rpm:i386
+rrdcached
 rrdtool
 rst2pdf
 rsync
