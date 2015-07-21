@@ -5363,6 +5363,7 @@ libsm-dev
 libsm-dev:i386
 libsm6
 libsm6:i386
+libsmi2-dev
 libsnappy-dev
 libsnappy-dev:i386
 libsnappy1
