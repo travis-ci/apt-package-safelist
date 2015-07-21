@@ -2976,6 +2976,10 @@ lib64ubsan0-dbg:i386
 lib64ubsan0:i386
 lib64z1
 lib64z1-dev
+libaa-bin
+libaa1
+libaa1-dbg
+libaa1-dev
 libace-6.2.8
 libace-dev
 libace-doc
