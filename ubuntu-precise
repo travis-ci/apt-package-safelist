@@ -7095,6 +7095,8 @@ slapd
 sndfile-programs
 sndfile-programs:i386
 socat
+socklog
+socklog-run
 sound-theme-freedesktop
 sound-theme-freedesktop:i386
 spatialite-bin
