@@ -357,6 +357,7 @@ cpp-doc
 cpp-doc:i386
 cpp11-migrate-3.4
 cpp:i386
+cppcheck
 cron
 cron:i386
 cryptsetup-bin
