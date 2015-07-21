@@ -1093,6 +1093,7 @@ iverilog
 iverilog:i386
 ivy
 ivy:i386
+jansson
 java-common
 java-common:i386
 java-wrappers
