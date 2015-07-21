@@ -423,6 +423,7 @@ devscripts
 devscripts:i386
 dh-apparmor
 dh-apparmor:i386
+dh-autoreconf
 dh-make
 dh-make:i386
 diffstat
