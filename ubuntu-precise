@@ -4228,6 +4228,12 @@ libiodbc2-dev:i386
 libiodbc2:i386
 libipc-run-perl
 libipc-run3-perl
+libiptcdata
+libiptcdata-bin
+libiptcdata-doc
+libiptcdata0
+libiptcdata0-dbg
+libiptcdata0-dev
 libirrlicht-dev
 libirrlicht-dev:i386
 libirrlicht1.7a
@@ -6748,6 +6754,7 @@ python-imaging:i386
 python-indicate
 python-indicate:i386
 python-ipaddr
+python-iptcdata
 python-keyring
 python-keyring:i386
 python-launchpadlib
