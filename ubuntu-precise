@@ -2964,6 +2964,7 @@ libace-6.2.8
 libace-dev
 libace-doc
 libace-htbp-6.2.8
+libace-htbp-dev
 libace-rmcast-6.2.8
 libace-rmcast-dev
 libace-ssl-6.2.8
