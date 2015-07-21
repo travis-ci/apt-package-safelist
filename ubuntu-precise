@@ -5220,6 +5220,7 @@ libroken18-heimdal:i386
 librrd-dev
 librrd-ruby
 librrd-ruby1.8
+librrd-ruby1.9.1
 librrd4
 librrdp-perl
 librrds-perl
