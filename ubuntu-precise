@@ -5048,6 +5048,7 @@ libpng12-dev
 libpng12-dev:i386
 libpoco-dev
 libpolarssl-dev
+libpolarssl-runtime
 libpolkit-agent-1-0
 libpolkit-agent-1-0:i386
 libpolkit-backend-1-0
