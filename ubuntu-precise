@@ -427,6 +427,7 @@ dnsutils
 dnsutils:i386
 docutils-common
 docutils-doc
+done
 dosfstools
 dosfstools:i386
 doxygen
