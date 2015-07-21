@@ -465,6 +465,9 @@ elasticsearch:i386
 electric-fence
 elfutils
 elfutils:i386
+elinks
+elinks-data
+elinks-doc
 emacs23-bin-common
 emacs23-bin-common:i386
 emacs23-common
