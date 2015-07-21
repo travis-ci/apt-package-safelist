@@ -6670,6 +6670,7 @@ python-libxslt1-dbg
 python-lxml
 python-lxml:i386
 python-m2crypto
+python-markdown
 python-matplotlib
 python-matplotlib-data
 python-matplotlib-data:i386
