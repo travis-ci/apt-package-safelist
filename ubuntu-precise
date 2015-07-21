@@ -2995,6 +2995,7 @@ libarchive-dev
 libarchive-dev:i386
 libarchive12
 libarchive12:i386
+libarmadillo-dev
 libarmadillo2
 libarmadillo2:i386
 libasan2
