@@ -6,13 +6,21 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 ## Package approval process
 
+**PLEASE READ CAREFULLY!**
+
 0. Check the list of approved packages for your build environment (most likely [`ubuntu-precise`](./ubuntu-precise)).
-0. If it's not in there, check for [existing issues requesting the package you 
+0. If it's not in there, check for [existing issues requesting the package you
    want](https://github.com/travis-ci/travis-ci/labels/apt-whitelist), and if one doesn't exist please
    open an issue requesting the package you need in the [primary issues
-   repo](https://github.com/travis-ci/travis-ci/issues/new?title=APT+whitelist+request+for+___PACKAGE___)
+   repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___)
    (and be sure to replace `__PACKAGE__` in the issue title :wink:).
+
+0. Currently, we are in the process of automating request approval process.
+  1. This means that the issues' subject should follow exactly the one indicated. The process would not work with
+  multiple package requests in one issue.
+0. PRs are not accepted, since we have not run tests on them.
 0. Please be patient :smiley_cat:
+
 
 ### nitty gritty details
 
