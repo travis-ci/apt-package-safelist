@@ -190,6 +190,7 @@ bash
 bash:i386
 bc
 bc:i386
+biblatex
 binfmt-support
 binfmt-support:i386
 binutils
