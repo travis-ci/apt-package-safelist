@@ -1074,6 +1074,7 @@ insserv
 insserv:i386
 install-info
 install-info:i386
+intltool
 intltool-debian
 intltool-debian:i386
 iodbc
