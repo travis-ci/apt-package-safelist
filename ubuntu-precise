@@ -6903,6 +6903,7 @@ riak
 riak:i386
 rpm
 rpm:i386
+rst2pdf
 rsync
 rsync:i386
 rsyslog
