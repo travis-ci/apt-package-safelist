@@ -6966,6 +6966,7 @@ ruby-dev
 ruby-dev:i386
 ruby-mysql
 ruby-mysql:i386
+ruby-rrd
 ruby1.8
 ruby1.8:i386
 ruby:i386
