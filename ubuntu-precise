@@ -4816,6 +4816,7 @@ libnetpbm10-dev
 libnetpbm10:i386
 libnetpbm9
 libnetpbm9-dev
+libnetsvcs-6.2.8
 libnettle4
 libnettle4:i386
 libnewt0.52
