@@ -7085,6 +7085,7 @@ tcl8.5:i386
 tcl:i386
 tcpd
 tcpd:i386
+tcpdump
 tcsh
 telnet
 telnet:i386
