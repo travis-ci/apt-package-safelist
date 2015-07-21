@@ -3359,6 +3359,8 @@ libclang1-3.4
 libclang1-3.4-dbg
 libclass-isa-perl
 libclass-isa-perl:i386
+libcln-dev
+libcln6
 libcloog-isl4
 libcloog-isl4:i386
 libclustalo-dev
@@ -6527,6 +6529,7 @@ php5-xmlrpc:i386
 php5-xsl
 php5-xsl:i386
 php5:i386
+pi
 pidgin
 pidgin-data
 pidgin-dbg
