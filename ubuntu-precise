@@ -189,6 +189,7 @@ base-files:i386
 base-passwd
 base-passwd:i386
 bash
+bash-completion
 bash:i386
 bc
 bc:i386
