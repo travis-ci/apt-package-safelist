@@ -6176,6 +6176,7 @@ mount
 mount:i386
 mountall
 mountall:i386
+mpc-ace
 mplayer
 mplayer-dbg
 mplayer-dbg:i386
