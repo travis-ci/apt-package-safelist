@@ -726,6 +726,7 @@ gcc-5-plugin-dev:i386
 gcc-5-source
 gcc-5-source:i386
 gcc-5:i386
+gcc-arm-none-eabi
 gcc-doc
 gcc-doc:i386
 gcc-mingw-w64-i686
@@ -2995,6 +2996,7 @@ libarchive-dev
 libarchive-dev:i386
 libarchive12
 libarchive12:i386
+libarmadillo-dev
 libarmadillo2
 libarmadillo2:i386
 libasan2
@@ -3254,6 +3256,7 @@ libcanberra0
 libcanberra0:i386
 libcap-dev
 libcap-dev:i386
+libcap-ng-dev
 libcap2
 libcap2-bin
 libcap2-bin:i386
@@ -5080,6 +5083,7 @@ libprotobuf-c0-dev:i386
 libprotobuf-c0:i386
 libprotobuf-dev
 libprotobuf-dev:i386
+libprotoc-dev
 libpthread-stubs0
 libpthread-stubs0-dev
 libpthread-stubs0-dev:i386
@@ -5363,6 +5367,7 @@ libsm-dev
 libsm-dev:i386
 libsm6
 libsm6:i386
+libsmi2-dev
 libsnappy-dev
 libsnappy-dev:i386
 libsnappy1
@@ -5744,6 +5749,7 @@ libxdmcp6
 libxdmcp6:i386
 libxdot4
 libxdot4:i386
+libxerces-c-dev
 libxerces-c28
 libxerces-c28:i386
 libxerces2-java
