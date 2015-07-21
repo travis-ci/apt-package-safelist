@@ -4927,6 +4927,7 @@ libopenexr-dev
 libopenexr-dev:i386
 libopenexr6
 libopenexr6:i386
+libopenjpeg-dev
 libopenmpi-dev
 libopenmpi-dev:i386
 libopenvg1-mesa
