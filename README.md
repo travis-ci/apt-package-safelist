@@ -21,6 +21,8 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
   1. This means that the issues' subject should follow exactly the one indicated.
   That is, there should be **exactly one package** per issue.
   The process would not work with multiple package requests in one issue.
+  1. If the source package defines multiple packages, those will be processed at once.
+  In this case, list only one.
 0. PRs are not accepted, since we have not run tests on them.
 0. Please be patient :smiley_cat:
 
