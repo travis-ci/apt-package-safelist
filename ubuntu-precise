@@ -4378,6 +4378,8 @@ liblua5.1-0-dbg:i386
 liblua5.1-0-dev
 liblua5.1-0-dev:i386
 liblua5.1-0:i386
+liblua5.1-rrd-dev
+liblua5.1-rrd0
 liblua5.2-0
 liblua5.2-0-dbg
 liblua5.2-0-dbg:i386
@@ -5253,6 +5255,13 @@ libregexp-java
 libregexp-java:i386
 libroken18-heimdal
 libroken18-heimdal:i386
+librrd-dev
+librrd-ruby
+librrd-ruby1.8
+librrd-ruby1.9.1
+librrd4
+librrdp-perl
+librrds-perl
 librsvg2-2
 librsvg2-2:i386
 librsvg2-bin
@@ -6780,6 +6789,7 @@ python-rpy-doc:i386
 python-rpy2
 python-rpy2:i386
 python-rpy:i386
+python-rrdtool
 python-scipy
 python-scipy:i386
 python-serial
@@ -6978,6 +6988,10 @@ riak
 riak:i386
 rpm
 rpm:i386
+rrdcached
+rrdtool
+rrdtool-dbg
+rrdtool-tcl
 rst2pdf
 rsync
 rsync:i386
@@ -6994,6 +7008,7 @@ ruby-dev
 ruby-dev:i386
 ruby-mysql
 ruby-mysql:i386
+ruby-rrd
 ruby1.8
 ruby1.8:i386
 ruby:i386
