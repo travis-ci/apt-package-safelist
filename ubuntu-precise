@@ -1013,6 +1013,7 @@ hostname
 hostname:i386
 html2text
 html2text:i386
+hunspell
 hwloc
 hwloc-nox
 ia32-libs
