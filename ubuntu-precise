@@ -4797,6 +4797,14 @@ libmudflap0-dbg-armel-cross
 libmudflap0-dbg-armel-cross:i386
 libmudflap0-dbg-armhf-cross
 libmudflap0-dbg-armhf-cross:i386
+libmumps-4.10.0
+libmumps-dev
+libmumps-ptscotch-4.10.0
+libmumps-ptscotch-dev
+libmumps-scotch-4.10.0
+libmumps-scotch-dev
+libmumps-seq-4.10.0
+libmumps-seq-dev
 libmunge-dev
 libmunge2
 libmysql++-dev
@@ -6298,6 +6306,7 @@ mtools
 mtools:i386
 multiarch-support
 multiarch-support:i386
+mumps-test
 munge
 muscle
 muscle:i386
