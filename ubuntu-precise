@@ -956,6 +956,9 @@ gperf-ace
 gpgv
 gpgv:i386
 graphicsmagick
+graphicsmagick-dbg
+graphicsmagick-imagemagick-compat
+graphicsmagick-libmagick-dev-compat
 graphicsmagick:i386
 graphviz
 graphviz-dev
@@ -3939,6 +3942,11 @@ libgq-gconf0
 libgq-gconf0-dbg
 libgraph4
 libgraph4:i386
+libgraphics-magick-perl
+libgraphicsmagick++1-dev
+libgraphicsmagick++3
+libgraphicsmagick1-dev
+libgraphicsmagick3
 libgraphviz-dev
 libgraphviz-dev:i386
 libgs9
@@ -7084,6 +7092,7 @@ tcl8.5-dev
 tcl8.5-dev:i386
 tcl8.5:i386
 tcl:i386
+tclmagick
 tcpd
 tcpd:i386
 tcpdump
