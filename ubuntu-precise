@@ -7099,6 +7099,7 @@ ruby-rrd
 ruby1.8
 ruby1.8:i386
 ruby:i386
+runit
 s3cmd
 s3cmd:i386
 samtools
