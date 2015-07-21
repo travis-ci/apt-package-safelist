@@ -5137,6 +5137,7 @@ libprotobuf-c0:i386
 libprotobuf-dev
 libprotobuf-dev:i386
 libprotoc-dev
+libpstreams-dev
 libpthread-stubs0
 libpthread-stubs0-dev
 libpthread-stubs0-dev:i386
