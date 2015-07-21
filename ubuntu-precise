@@ -726,6 +726,7 @@ gcc-5-plugin-dev:i386
 gcc-5-source
 gcc-5-source:i386
 gcc-5:i386
+gcc-arm-none-eabi
 gcc-doc
 gcc-doc:i386
 gcc-mingw-w64-i686
