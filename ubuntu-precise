@@ -5261,6 +5261,8 @@ libsensors4
 libsensors4:i386
 libservlet2.5-java
 libservlet2.5-java:i386
+libservlet3.0-java
+libservlet3.0-java-doc
 libsfasan2
 libsfasan2-dbg
 libsfasan2-dbg:i386
@@ -5597,6 +5599,7 @@ libtinfo-dev
 libtinfo-dev:i386
 libtinfo5
 libtinfo5:i386
+libtomcat7-java
 libtool
 libtool:i386
 libtrang-java
@@ -7221,6 +7224,12 @@ tk8.5-dev
 tk8.5-dev:i386
 tk8.5:i386
 tk:i386
+tomcat7
+tomcat7-admin
+tomcat7-common
+tomcat7-docs
+tomcat7-examples
+tomcat7-user
 trang
 tree
 tree:i386
