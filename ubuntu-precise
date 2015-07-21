@@ -6758,6 +6758,7 @@ python-pkg-resources:i386
 python-pycurl
 python-pycurl:i386
 python-pypy.translator.sandbox
+python-pywbem
 python-qt4
 python-qt4-dbg
 python-qt4-dbg:i386
