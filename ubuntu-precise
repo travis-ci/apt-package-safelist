@@ -981,6 +981,7 @@ graphicsmagick:i386
 graphviz
 graphviz-dev
 graphviz-dev:i386
+graphviz-doc
 graphviz:i386
 grep
 grep:i386
@@ -3331,6 +3332,7 @@ libcc1-0
 libcc1-0:i386
 libcdt4
 libcdt4:i386
+libcdt5
 libcfitsio3
 libcfitsio3-dbg
 libcfitsio3-dev
@@ -3343,6 +3345,7 @@ libcgi-fast-perl
 libcgi-fast-perl:i386
 libcgraph5
 libcgraph5:i386
+libcgraph6
 libchromaprint-dev
 libchromaprint-dev:i386
 libchromaprint-tools
@@ -3993,6 +3996,7 @@ libgraphicsmagick1-dev
 libgraphicsmagick3
 libgraphviz-dev
 libgraphviz-dev:i386
+libgraphviz4
 libgs9
 libgs9-common
 libgs9-common:i386
@@ -4039,10 +4043,20 @@ libgudev-1.0-0
 libgudev-1.0-0:i386
 libgudev-1.0-dev
 libgudev-1.0-dev:i386
+libgv-guile
+libgv-lua
+libgv-perl
+libgv-php5
+libgv-python
+libgv-ruby
+libgv-tcl
 libgvc5
 libgvc5:i386
+libgvc6
+libgvc6-plugins-gtk
 libgvpr1
 libgvpr1:i386
+libgvpr2
 libhamcrest-java
 libhamcrest-java:i386
 libhashkit0
