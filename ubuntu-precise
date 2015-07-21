@@ -5207,6 +5207,8 @@ libprotobuf-c0:i386
 libprotobuf-dev
 libprotobuf-dev:i386
 libprotoc-dev
+libproxychains-dev
+libproxychains3
 libpstreams-dev
 libpthread-stubs0
 libpthread-stubs0-dev
@@ -6688,6 +6690,7 @@ protobuf-c-compiler
 protobuf-c-compiler:i386
 protobuf-compiler
 protobuf-compiler:i386
+proxychains
 psmisc
 psmisc:i386
 ptscotch
