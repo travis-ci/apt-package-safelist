@@ -3254,6 +3254,7 @@ libcanberra0
 libcanberra0:i386
 libcap-dev
 libcap-dev:i386
+libcap-ng-dev
 libcap2
 libcap2-bin
 libcap2-bin:i386
