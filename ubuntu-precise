@@ -335,6 +335,9 @@ console-setup:i386
 consolekit
 consolekit:i386
 context
+coq
+coq-theories
+coqide
 coreutils
 coreutils:i386
 couchdb
@@ -3400,6 +3403,8 @@ libconfuse-dev
 libconfuse-dev:i386
 libconfuse0
 libconfuse0:i386
+libcoq-ocaml
+libcoq-ocaml-dev
 libcouchbase-dev
 libcouchbase-dev:i386
 libcouchbase2-libevent
