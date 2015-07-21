@@ -7496,6 +7496,7 @@ xorg
 xorg-dev
 xorg-sgml-doctools
 xorg-sgml-doctools:i386
+xsdcxx
 xserver-common
 xserver-common:i386
 xserver-xephyr
