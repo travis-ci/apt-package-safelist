@@ -2972,6 +2972,7 @@ libace-inet-dev
 libace-inet-ssl-6.2.8
 libace-inet-ssl-dev
 libace-qtreactor-6.2.8
+libace-qtreactor-dev
 libace-rmcast-6.2.8
 libace-rmcast-dev
 libace-ssl-6.2.8
