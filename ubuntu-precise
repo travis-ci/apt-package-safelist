@@ -6835,6 +6835,8 @@ python-opencv
 python-opencv:i386
 python-paramiko
 python-paramiko:i386
+python-pexpect
+python-pexpect-doc
 python-pip
 python-pip:i386
 python-pkg-resources
@@ -6959,6 +6961,7 @@ python3-ipaddr
 python3-markdown
 python3-minimal
 python3-minimal:i386
+python3-pexpect
 python3-pkg-resources
 python3-pyqt4
 python3-pyqt4-dbg
