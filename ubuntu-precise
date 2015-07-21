@@ -3516,6 +3516,7 @@ libexpat1
 libexpat1-dev
 libexpat1-dev:i386
 libexpat1:i386
+libexplain-dev
 libfbclient2
 libfbclient2-dbg
 libfbclient2-dbg:i386
