@@ -6680,6 +6680,8 @@ python-libxslt1-dbg
 python-lxml
 python-lxml:i386
 python-m2crypto
+python-markdown
+python-markdown-doc
 python-matplotlib
 python-matplotlib-data
 python-matplotlib-data:i386
@@ -6817,6 +6819,7 @@ python3-gi-cairo
 python3-gi-dbg
 python3-gi:i386
 python3-ipaddr
+python3-markdown
 python3-minimal
 python3-minimal:i386
 python3-pkg-resources
