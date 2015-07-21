@@ -6263,6 +6263,7 @@ monodoc-manual
 monodoc-manual:i386
 mopidy
 mopidy:i386
+moreutils
 mount
 mount:i386
 mountall
