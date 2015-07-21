@@ -5218,6 +5218,7 @@ libregexp-java:i386
 libroken18-heimdal
 libroken18-heimdal:i386
 librrd-dev
+librrd-ruby
 librrd4
 librrdp-perl
 librrds-perl
