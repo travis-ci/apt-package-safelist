@@ -2964,6 +2964,7 @@ libace-6.2.8
 libace-dev
 libace-doc
 libace-ssl-6.2.8
+libace-ssl-dev
 libacl1
 libacl1-dev
 libacl1-dev:i386
