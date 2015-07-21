@@ -2962,6 +2962,7 @@ lib64z1
 lib64z1-dev
 libace-6.2.8
 libace-dev
+libace-doc
 libacl1
 libacl1-dev
 libacl1-dev:i386
