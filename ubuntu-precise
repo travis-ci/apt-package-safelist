@@ -4270,6 +4270,7 @@ libkeyutils1
 libkeyutils1:i386
 libklibc
 libklibc:i386
+libkokyu-6.2.8
 libkrb5-26-heimdal
 libkrb5-26-heimdal:i386
 libkrb5-3
