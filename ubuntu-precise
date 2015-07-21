@@ -4351,6 +4351,15 @@ libkrb5-dev
 libkrb5-dev:i386
 libkrb5support0
 libkrb5support0:i386
+liblablgtk2-gl-ocaml
+liblablgtk2-gl-ocaml-dev
+liblablgtk2-gnome-ocaml
+liblablgtk2-gnome-ocaml-dev
+liblablgtk2-ocaml
+liblablgtk2-ocaml-dev
+liblablgtk2-ocaml-doc
+liblablgtksourceview2-ocaml
+liblablgtksourceview2-ocaml-dev
 liblapack-dev
 liblapack-dev:i386
 liblapack3gf
