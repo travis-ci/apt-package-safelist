@@ -6070,6 +6070,7 @@ manpages
 manpages-dev
 manpages-dev:i386
 manpages:i386
+markdown
 mawk
 mawk:i386
 mcl
