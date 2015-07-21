@@ -210,6 +210,8 @@ binutils-static-udeb
 binutils:i386
 bison
 bison:i386
+bisonc++
+bisonc++:i386
 bottleneck
 bottleneck:i386
 bsdcpio
@@ -598,6 +600,8 @@ flashplugin-installer
 flashplugin-installer:i386
 flex
 flex:i386
+flexc++
+flexc++:i386
 fluidsynth
 folium
 folium:i386
