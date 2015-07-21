@@ -5597,6 +5597,7 @@ libtinfo-dev
 libtinfo-dev:i386
 libtinfo5
 libtinfo5:i386
+libtomcat7-java
 libtool
 libtool:i386
 libtrang-java
