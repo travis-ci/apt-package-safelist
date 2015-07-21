@@ -5217,6 +5217,7 @@ libregexp-java
 libregexp-java:i386
 libroken18-heimdal
 libroken18-heimdal:i386
+librrd4
 librsvg2-2
 librsvg2-2:i386
 librsvg2-bin
