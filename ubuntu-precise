@@ -4302,6 +4302,7 @@ libjansi-java
 libjansi-java:i386
 libjansi-native-java
 libjansi-native-java:i386
+libjansson-dbg
 libjansson-dev
 libjansson-doc
 libjansson4
