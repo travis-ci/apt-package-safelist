@@ -4089,6 +4089,8 @@ libhdf5-serial-1.8.4
 libhdf5-serial-1.8.4:i386
 libhdf5-serial-dev
 libhdf5-serial-dev:i386
+libhdfeos-dev
+libhdfeos0
 libheimbase1-heimdal
 libheimbase1-heimdal:i386
 libheimntlm0-heimdal
