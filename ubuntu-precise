@@ -4982,6 +4982,17 @@ libopenblas-base
 libopenblas-base:i386
 libopenblas-dev
 libopenblas-dev:i386
+libopencascade-dev
+libopencascade-foundation-6.5.0
+libopencascade-foundation-dev
+libopencascade-modeling-6.5.0
+libopencascade-modeling-dev
+libopencascade-ocaf-6.5.0
+libopencascade-ocaf-dev
+libopencascade-ocaf-lite-6.5.0
+libopencascade-ocaf-lite-dev
+libopencascade-visualization-6.5.0
+libopencascade-visualization-dev
 libopencv-calib3d-dev
 libopencv-calib3d-dev:i386
 libopencv-calib3d2.3
@@ -6458,6 +6469,8 @@ opam
 opam-docs
 opam-docs:i386
 opam:i386
+opencascade-draw
+opencascade-examples
 opencl-headers
 opencv-doc
 opencv-doc:i386
