@@ -6871,6 +6871,8 @@ python-minimal
 python-minimal:i386
 python-nose
 python-nose:i386
+python-numexpr
+python-numexpr-dbg
 python-numpy
 python-numpy:i386
 python-oauth
@@ -7007,6 +7009,8 @@ python3-ipaddr
 python3-markdown
 python3-minimal
 python3-minimal:i386
+python3-numexpr
+python3-numexpr-dbg
 python3-pexpect
 python3-pkg-resources
 python3-pyqt4
