@@ -6781,6 +6781,8 @@ pulseaudio-utils:i386
 pulseaudio:i386
 pvlib
 pvlib:i386
+pwgen
+pwgen-udeb
 pylint
 pylint:i386
 pypy
