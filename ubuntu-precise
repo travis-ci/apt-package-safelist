@@ -4932,6 +4932,10 @@ libobjc4-dbg:i386
 libobjc4:i386
 libodbc1
 libodbc1:i386
+libode-dev
+libode-sp-dev
+libode1
+libode1sp
 libogg0
 libogg0:i386
 libois-1.3.0
