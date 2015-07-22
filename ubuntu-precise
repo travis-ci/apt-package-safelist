@@ -5773,6 +5773,10 @@ libtinfo-dev
 libtinfo-dev:i386
 libtinfo5
 libtinfo5:i386
+libtinyxml-dev
+libtinyxml-doc
+libtinyxml2.6.2
+libtinyxml2.6.2-dbg
 libtomcat7-java
 libtool
 libtool:i386
