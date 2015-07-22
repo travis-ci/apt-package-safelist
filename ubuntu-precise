@@ -3069,6 +3069,7 @@ libarchive12:i386
 libarmadillo-dev
 libarmadillo2
 libarmadillo2:i386
+libarmadillo5
 libarpack2
 libarpack2-dbg
 libarpack2-dev
