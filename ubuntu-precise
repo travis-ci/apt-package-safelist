@@ -3635,6 +3635,8 @@ libfile-desktopentry-perl
 libfile-desktopentry-perl:i386
 libfile-mimeinfo-perl
 libfile-mimeinfo-perl:i386
+libfindlib-ocaml
+libfindlib-ocaml-dev
 libfl-dev
 libfl-dev:i386
 libflac++-dev
@@ -6438,6 +6440,8 @@ ocaml-base:i386
 ocaml-batteries-included
 ocaml-compiler-libs
 ocaml-compiler-libs:i386
+ocaml-findlib
+ocaml-findlib-wizard
 ocaml-interp
 ocaml-interp:i386
 ocaml-mode
