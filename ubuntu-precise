@@ -4476,6 +4476,8 @@ libmagickwand4
 libmagickwand4:i386
 libmail-sendmail-perl
 libmail-sendmail-perl:i386
+libmatheval-dev
+libmatheval1
 libmcrypt-dev
 libmcrypt4
 libmemcached-dev
