@@ -448,6 +448,8 @@ djvulibre-desktop
 djvuserve
 dmsetup
 dmsetup:i386
+dnet-common
+dnet-progs
 dnsutils
 dnsutils:i386
 docutils-common
@@ -3522,6 +3524,8 @@ libdjvulibre-text
 libdjvulibre-text:i386
 libdjvulibre21
 libdjvulibre21:i386
+libdnet
+libdnet-dev
 libdpkg-perl
 libdpkg-perl:i386
 libdrm-dev
