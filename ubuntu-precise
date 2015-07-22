@@ -1094,6 +1094,7 @@ icegrid-gui:i386
 icnsutils
 icnsutils:i386
 icoutils
+idle-python3.2
 ienglish-common
 ifupdown
 ifupdown:i386
@@ -7028,10 +7029,14 @@ python3-pyqt4:i386
 python3-roman
 python3-sphinx
 python3.2
+python3.2-dbg
 python3.2-dev
 python3.2-dev:i386
+python3.2-doc
+python3.2-examples
 python3.2-minimal
 python3.2-minimal:i386
+python3.2-udeb
 python3.2:i386
 python3.3
 python3.3-dev
