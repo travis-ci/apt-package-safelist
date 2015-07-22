@@ -7185,6 +7185,7 @@ slapd
 smbclient
 sndfile-programs
 sndfile-programs:i386
+snmp-mibs-downloader
 socat
 socklog
 socklog-run
