@@ -6839,6 +6839,7 @@ python-pexpect
 python-pexpect-doc
 python-pip
 python-pip:i386
+python-pivy
 python-pkg-resources
 python-pkg-resources:i386
 python-pycurl
