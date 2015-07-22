@@ -5549,7 +5549,10 @@ libsmbclient
 libsmbclient-dev
 libsmbsharemodes-dev
 libsmbsharemodes0
+libsmi2-common
+libsmi2-dbg
 libsmi2-dev
+libsmi2ldbl
 libsnappy-dev
 libsnappy-dev:i386
 libsnappy1
@@ -7183,6 +7186,8 @@ shared-mime-info
 shared-mime-info:i386
 slapd
 smbclient
+smistrip
+smitools
 sndfile-programs
 sndfile-programs:i386
 socat
