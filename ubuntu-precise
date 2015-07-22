@@ -5521,6 +5521,9 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsoqt-dev-common
+libsoqt4-20
+libsoqt4-dev
 libsoup-gnome2.4-1
 libsoup-gnome2.4-dev
 libsoup2.4-1
