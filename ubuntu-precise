@@ -901,6 +901,7 @@ gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
+gir1.2-gst-plugins-base-0.10
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
@@ -1000,6 +1001,13 @@ gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
 gsl-bin:i386
+gstreamer0.10-alsa
+gstreamer0.10-gnomevfs
+gstreamer0.10-plugins-base
+gstreamer0.10-plugins-base-apps
+gstreamer0.10-plugins-base-dbg
+gstreamer0.10-plugins-base-doc
+gstreamer0.10-x
 gtk-3-examples
 guile-1.8-libs
 guile-1.8-libs:i386
@@ -4013,6 +4021,7 @@ libgssrpc4
 libgssrpc4:i386
 libgstreamer-plugins-base0.10-0
 libgstreamer-plugins-base0.10-0:i386
+libgstreamer-plugins-base0.10-dev
 libgstreamer0.10-0
 libgstreamer0.10-0:i386
 libgtest-dev
