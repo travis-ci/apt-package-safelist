@@ -4930,6 +4930,9 @@ libobjc4
 libobjc4-dbg
 libobjc4-dbg:i386
 libobjc4:i386
+libocamlgraph-ocaml-dev
+libocamlgraph-ocaml-doc
+libocamlgraph-viewer-ocaml-dev
 libodbc1
 libodbc1:i386
 libogg0
@@ -6406,6 +6409,7 @@ ocaml-nox:i386
 ocaml-source
 ocaml-source:i386
 ocaml:i386
+ocamlgraph-editor
 odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
