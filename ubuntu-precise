@@ -5894,10 +5894,13 @@ libxdmcp6:i386
 libxdot4
 libxdot4:i386
 libxerces-c-dev
+libxerces-c-doc
+libxerces-c-samples
 libxerces-c2-dev
 libxerces-c2-doc
 libxerces-c28
 libxerces-c28:i386
+libxerces-c3.1
 libxerces2-java
 libxerces2-java:i386
 libxext-dev
