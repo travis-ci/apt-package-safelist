@@ -5044,6 +5044,8 @@ libopenexr-dev
 libopenexr-dev:i386
 libopenexr6
 libopenexr6:i386
+libopenimageio-dev
+libopenimageio1.5
 libopenjpeg-dev
 libopenmpi-dev
 libopenmpi-dev:i386
@@ -6417,6 +6419,7 @@ opam:i386
 opencl-headers
 opencv-doc
 opencv-doc:i386
+openimageio-tools
 openjdk-6-jdk
 openjdk-6-jdk:i386
 openjdk-6-jre
