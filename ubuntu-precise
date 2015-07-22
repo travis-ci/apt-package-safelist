@@ -1111,6 +1111,7 @@ initscripts
 initscripts:i386
 inkscape
 inkscape:i386
+insighttoolkit3-examples
 insserv
 insserv:i386
 install-info
@@ -4268,6 +4269,8 @@ libilmbase-dev:i386
 libilmbase6
 libilmbase6:i386
 libimage-exiftool-perl
+libinsighttoolkit3-dev
+libinsighttoolkit3.20
 libio-pty-perl
 libiodbc2
 libiodbc2-dev
