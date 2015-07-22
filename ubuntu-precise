@@ -6796,6 +6796,8 @@ python-indicate
 python-indicate:i386
 python-ipaddr
 python-iptcdata
+python-jinja2
+python-jinja2-doc
 python-keyring
 python-keyring:i386
 python-launchpadlib
@@ -6958,6 +6960,7 @@ python3-gi-cairo
 python3-gi-dbg
 python3-gi:i386
 python3-ipaddr
+python3-jinja2
 python3-markdown
 python3-minimal
 python3-minimal:i386
