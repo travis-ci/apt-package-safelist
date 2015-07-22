@@ -401,6 +401,9 @@ dash:i386
 db-util
 db-util:i386
 dbus
+dbus-1-dbg
+dbus-1-doc
+dbus-udeb
 dbus-x11
 dbus-x11:i386
 dbus:i386
@@ -3503,7 +3506,9 @@ libdbi-dev:i386
 libdbi-perl
 libdbi-perl:i386
 libdbus-1-3
+libdbus-1-3-udeb
 libdbus-1-3:i386
+libdbus-1-dev
 libdbus-glib-1-2
 libdbus-glib-1-2:i386
 libdcmtk2
