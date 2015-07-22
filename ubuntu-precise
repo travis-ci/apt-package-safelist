@@ -1,3 +1,4 @@
+No
 ace-gperf
 ace-netsvcs
 adduser
@@ -335,6 +336,7 @@ console-setup:i386
 consolekit
 consolekit:i386
 context
+control:
 coq
 coq-theories
 coqide
@@ -433,6 +435,7 @@ diffstat
 diffstat:i386
 diffutils
 diffutils:i386
+directory
 discount
 djview
 djview3
@@ -983,6 +986,7 @@ graphviz-dev
 graphviz-dev:i386
 graphviz:i386
 grep
+grep:
 grep:i386
 gridengine-client
 gridengine-common
@@ -4898,6 +4902,24 @@ libnih-dbus1
 libnih-dbus1:i386
 libnih1
 libnih1:i386
+libnl-3-200
+libnl-3-200-dbg
+libnl-3-200-udeb
+libnl-3-dev
+libnl-cli-3-200
+libnl-cli-3-dev
+libnl-genl-3-200
+libnl-genl-3-200-udeb
+libnl-genl-3-dev
+libnl-idiag-3-200
+libnl-idiag-3-dev
+libnl-nf-3-200
+libnl-nf-3-dev
+libnl-route-3-200
+libnl-route-3-dev
+libnl-utils
+libnl-xfrm-3-200
+libnl-xfrm-3-dev
 libnotify-dev
 libnotify-dev:i386
 libnotify4
@@ -6447,6 +6469,7 @@ openssl
 openssl:i386
 optipng
 optipng:i386
+or
 oracle-java7-installer
 oracle-java7-installer:i386
 oracle-java8-installer
@@ -7157,6 +7180,7 @@ strace
 strace:i386
 subversion
 subversion:i386
+such
 sudo
 sudo:i386
 swig
