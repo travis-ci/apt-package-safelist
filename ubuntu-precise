@@ -5881,6 +5881,8 @@ libx11-doc:i386
 libx11-xcb-dev
 libx11-xcb1
 libx11-xcb1:i386
+libx264-146
+libx264-dev
 libxatracker-dev
 libxatracker-dev:i386
 libxatracker1
@@ -7613,6 +7615,7 @@ x11proto-xf86vidmode-dev
 x11proto-xf86vidmode-dev:i386
 x11proto-xinerama-dev
 x11proto-xinerama-dev:i386
+x264
 xauth
 xauth:i386
 xbase-clients
