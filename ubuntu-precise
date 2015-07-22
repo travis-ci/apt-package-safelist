@@ -4924,7 +4924,9 @@ libnettle4
 libnettle4:i386
 libnewt0.52
 libnewt0.52:i386
+libnfnetlink-dev
 libnfnetlink0
+libnfnetlink0-dbg
 libnfnetlink0:i386
 libnih-dbus1
 libnih-dbus1:i386
