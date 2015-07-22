@@ -1087,6 +1087,7 @@ icegrid-gui:i386
 icnsutils
 icnsutils:i386
 icoutils
+idle-python2.7
 ienglish-common
 ifupdown
 ifupdown:i386
@@ -5236,6 +5237,11 @@ libpurple-bin
 libpurple-dev
 libpurple0
 libpython2.7
+libpython2.7-dbg
+libpython2.7-dev
+libpython2.7-minimal
+libpython2.7-stdlib
+libpython2.7-testsuite
 libpython2.7:i386
 libpython3.2
 libpython3.2:i386
@@ -6937,8 +6943,11 @@ python2.6-minimal
 python2.6-minimal:i386
 python2.6:i386
 python2.7
+python2.7-dbg
 python2.7-dev
 python2.7-dev:i386
+python2.7-doc
+python2.7-examples
 python2.7-minimal
 python2.7-minimal:i386
 python2.7:i386
