@@ -1031,6 +1031,8 @@ happy:i386
 hardening-wrapper
 hardening-wrapper:i386
 haskell-platform
+haskell-platform-doc
+haskell-platform-prof
 haveged
 haxe
 haxe:i386
