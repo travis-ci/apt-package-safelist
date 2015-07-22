@@ -4825,6 +4825,11 @@ libmpfr-dev
 libmpfr-dev:i386
 libmpfr4
 libmpfr4:i386
+libmpich-dev
+libmpich12
+libmpich2-dev
+libmpl-dev
+libmpl1
 libmudflap0-4.6-dev-armel-cross
 libmudflap0-4.6-dev-armel-cross:i386
 libmudflap0-4.6-dev-armhf-cross
@@ -4975,6 +4980,8 @@ libois-dev
 libonig-dev
 libonig2
 libonig2-dbg
+libopa-dev
+libopa1
 libopenal-data
 libopenal-dev
 libopenal1
@@ -6345,6 +6352,11 @@ mount:i386
 mountall
 mountall:i386
 mpc-ace
+mpich
+mpich-bin
+mpich-doc
+mpich2
+mpich2-doc
 mplayer
 mplayer-dbg
 mplayer-dbg:i386
