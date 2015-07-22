@@ -391,6 +391,11 @@ cyrus-sasl2-dbg
 cyrus-sasl2-doc
 cyrus-sasl2-heimdal-dbg
 cyrus-sasl2-mit-dbg
+cython
+cython-dbg
+cython-doc
+cython3
+cython3-dbg
 dash
 dash:i386
 db-util
