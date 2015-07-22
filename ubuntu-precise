@@ -5506,7 +5506,10 @@ libsm-dev
 libsm-dev:i386
 libsm6
 libsm6:i386
+libsmi2-common
+libsmi2-dbg
 libsmi2-dev
+libsmi2ldbl
 libsnappy-dev
 libsnappy-dev:i386
 libsnappy1
@@ -7125,6 +7128,8 @@ sgml-base:i386
 shared-mime-info
 shared-mime-info:i386
 slapd
+smistrip
+smitools
 sndfile-programs
 sndfile-programs:i386
 socat
