@@ -574,6 +574,9 @@ ffmpeg-dbg:i386
 ffmpeg-doc
 ffmpeg-doc:i386
 ffmpeg:i386
+fglrx
+fglrx-amdcccle
+fglrx-dev
 file
 file:i386
 finch
