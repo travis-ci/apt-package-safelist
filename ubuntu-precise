@@ -1,3 +1,4 @@
+No
 ace-gperf
 ace-netsvcs
 adduser
@@ -184,6 +185,13 @@ automake:i386
 autopoint
 autotools-dev
 autotools-dev:i386
+avahi-autoipd
+avahi-daemon
+avahi-dbg
+avahi-discover
+avahi-dnsconfd
+avahi-ui-utils
+avahi-utils
 base-files
 base-files:i386
 base-passwd
@@ -336,6 +344,7 @@ console-setup:i386
 consolekit
 consolekit:i386
 context
+control:
 coq
 coq-theories
 coqide
@@ -439,6 +448,7 @@ diffstat
 diffstat:i386
 diffutils
 diffutils:i386
+directory
 discount
 djview
 djview3
@@ -990,6 +1000,7 @@ graphviz-dev:i386
 graphviz-doc
 graphviz:i386
 grep
+grep:
 grep:i386
 gridengine-client
 gridengine-common
@@ -3136,14 +3147,29 @@ libav-source
 libav-source:i386
 libav-tools
 libav-tools:i386
+libavahi-client-dev
 libavahi-client3
 libavahi-client3:i386
 libavahi-common-data
 libavahi-common-data:i386
+libavahi-common-dev
 libavahi-common3
 libavahi-common3:i386
+libavahi-compat-libdnssd-dev
+libavahi-compat-libdnssd1
+libavahi-core-dev
+libavahi-core7
+libavahi-glib-dev
 libavahi-glib1
 libavahi-glib1:i386
+libavahi-gobject-dev
+libavahi-gobject0
+libavahi-qt4-1
+libavahi-qt4-dev
+libavahi-ui-dev
+libavahi-ui-gtk3-0
+libavahi-ui-gtk3-dev
+libavahi-ui0
 libavcodec-dev
 libavcodec-dev:i386
 libavcodec53
@@ -6491,6 +6517,7 @@ openssl
 openssl:i386
 optipng
 optipng:i386
+or
 oracle-java7-installer
 oracle-java7-installer:i386
 oracle-java8-installer
@@ -6800,6 +6827,7 @@ python-apt-common:i386
 python-apt:i386
 python-argparse
 python-argparse:i386
+python-avahi
 python-bzrlib
 python-bzrlib:i386
 python-clang-3.4
@@ -7215,6 +7243,7 @@ strace
 strace:i386
 subversion
 subversion:i386
+such
 sudo
 sudo:i386
 swig
