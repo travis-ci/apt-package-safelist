@@ -253,6 +253,7 @@ cabal-install-head:i386
 cabal-install:i386
 cabextract
 cabextract:i386
+caca-utils
 camlidl
 camlidl:i386
 camlp4
@@ -3306,6 +3307,8 @@ libc6-prof:i386
 libc6-xen
 libc6-xen:i386
 libc6:i386
+libcaca-dev
+libcaca0
 libcairo-gobject2
 libcairo-gobject2:i386
 libcairo-script-interpreter2
