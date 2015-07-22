@@ -5570,6 +5570,15 @@ libsoup2.4-1
 libsoup2.4-dbg
 libsoup2.4-dev
 libsoup2.4-doc
+libsox-dev
+libsox-fmt-all
+libsox-fmt-alsa
+libsox-fmt-ao
+libsox-fmt-base
+libsox-fmt-mp3
+libsox-fmt-oss
+libsox-fmt-pulse
+libsox2
 libsparsehash-dev
 libspatialite3
 libspatialite3:i386
@@ -7190,6 +7199,7 @@ socklog
 socklog-run
 sound-theme-freedesktop
 sound-theme-freedesktop:i386
+sox
 spatialite-bin
 specific
 specific:i386
