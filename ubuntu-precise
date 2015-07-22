@@ -6845,6 +6845,8 @@ python-pycurl
 python-pycurl:i386
 python-pyfann
 python-pyfann-dbg
+python-pygresql
+python-pygresql-dbg
 python-pypy.translator.sandbox
 python-pywbem
 python-qt4
