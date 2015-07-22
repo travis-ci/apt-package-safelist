@@ -923,6 +923,8 @@ glpk-utils
 glpk-utils:i386
 glpk:i386
 gmp-ecm
+gmsh
+gmsh-doc
 gnat-5
 gnat-5-doc
 gnat-5-doc:i386
@@ -3902,6 +3904,8 @@ libgmp3c2
 libgmp3c2:i386
 libgmpxx4ldbl
 libgmpxx4ldbl:i386
+libgmsh-dev
+libgmsh2
 libgnat-5
 libgnat-5-dbg
 libgnat-5-dbg:i386
@@ -4286,6 +4290,7 @@ libjasper-dev
 libjasper-dev:i386
 libjasper1
 libjasper1:i386
+libjava-gmsh2
 libjbig2dec0
 libjbig2dec0:i386
 libjemalloc-dev
@@ -6783,6 +6788,7 @@ python-gi-cairo
 python-gi-dbg
 python-gi-dev
 python-gi:i386
+python-gmsh
 python-gnupginterface
 python-gnupginterface:i386
 python-gobject
