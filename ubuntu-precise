@@ -6833,6 +6833,9 @@ python-oauth
 python-oauth:i386
 python-opencv
 python-opencv:i386
+python-pandas
+python-pandas-doc
+python-pandas-lib
 python-paramiko
 python-paramiko:i386
 python-pexpect
@@ -6961,6 +6964,8 @@ python3-ipaddr
 python3-markdown
 python3-minimal
 python3-minimal:i386
+python3-pandas
+python3-pandas-lib
 python3-pexpect
 python3-pkg-resources
 python3-pyqt4
