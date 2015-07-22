@@ -6,7 +6,7 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 ## Package approval process
 
-<img alt="CAUTION!" align="center" width="300" src="https://cloud.githubusercontent.com/assets/25666/8801956/1d82c37c-2f8c-11e5-8860-d9b0c8db3a9d.png"/>
+<img alt="CAUTION!" style="display: block; margin-left: auto; margin-right: auto" src="http://ih2.redbubble.net/image.9123042.8591/flat,550x550,075,f.jpg"/>
 
 **PLEASE READ CAREFULLY!**
 
