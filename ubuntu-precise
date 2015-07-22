@@ -5492,6 +5492,9 @@ libsfubsan0-dbg:i386
 libsfubsan0:i386
 libsgutils2-2
 libsgutils2-2:i386
+libshiboken-dev
+libshiboken-py3-1.2
+libshiboken1.2
 libshout3
 libshout3-dev
 libshout3-dev:i386
@@ -7124,6 +7127,9 @@ sgml-base
 sgml-base:i386
 shared-mime-info
 shared-mime-info:i386
+shiboken
+shiboken-dbg
+shiboken-doc
 slapd
 sndfile-programs
 sndfile-programs:i386
