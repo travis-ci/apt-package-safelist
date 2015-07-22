@@ -455,6 +455,10 @@ docutils-doc
 dosfstools
 dosfstools:i386
 doxygen
+doxygen-dbg
+doxygen-doc
+doxygen-gui
+doxygen-latex
 doxygen:i386
 dpatch
 dpatch:i386
