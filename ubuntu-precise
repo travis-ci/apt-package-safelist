@@ -904,6 +904,7 @@ gir1.2-gnomekeyring-1.0:i386
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
+gir1.2-networkmanager-1.0
 gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-rsvg-2.0
@@ -4898,6 +4899,14 @@ libnih-dbus1
 libnih-dbus1:i386
 libnih1
 libnih1:i386
+libnm-dev
+libnm-glib-dev
+libnm-glib-vpn-dev
+libnm-glib-vpn1
+libnm-glib4
+libnm-util-dev
+libnm-util2
+libnm0
 libnotify-dev
 libnotify-dev:i386
 libnotify4
@@ -6358,6 +6367,9 @@ netpbm:i386
 nettle-bin
 nettle-dbg
 nettle-dev
+network-manager
+network-manager-dbg
+network-manager-dev
 nginx
 nginx-common
 nginx-common:i386
