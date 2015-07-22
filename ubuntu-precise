@@ -5047,6 +5047,9 @@ libopenexr6:i386
 libopenjpeg-dev
 libopenmpi-dev
 libopenmpi-dev:i386
+libopenmpi1.5-2
+libopenmpi1.5-dbg
+libopenmpi1.5-dev
 libopenvg1-mesa
 libopenvg1-mesa-dbg
 libopenvg1-mesa-dbg:i386
@@ -6438,6 +6441,10 @@ openjdk-7-source:i386
 openmpi
 openmpi-bin
 openmpi-bin:i386
+openmpi1.5-bin
+openmpi1.5-checkpoint
+openmpi1.5-common
+openmpi1.5-doc
 openmpi:i386
 openssh-client
 openssh-client:i386
