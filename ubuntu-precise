@@ -3496,7 +3496,10 @@ libdbi-perl:i386
 libdbus-1-3
 libdbus-1-3:i386
 libdbus-glib-1-2
+libdbus-glib-1-2-dbg
 libdbus-glib-1-2:i386
+libdbus-glib-1-dev
+libdbus-glib-1-doc
 libdcmtk2
 libdcmtk2-dev
 libdcmtk2-dev:i386
