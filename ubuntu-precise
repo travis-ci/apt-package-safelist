@@ -6381,6 +6381,8 @@ nodejs-dev:i386
 nodejs:i386
 notification-daemon
 notification-daemon:i386
+noweb
+nowebm
 nsis
 ntfs-3g
 ntfs-3g:i386
