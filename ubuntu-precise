@@ -263,6 +263,7 @@ camlp5
 ccache
 ccache:i386
 check
+checkinstall
 checkstyle
 checkstyle:i386
 chef
