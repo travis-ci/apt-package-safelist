@@ -4940,6 +4940,9 @@ libnss-winbind
 libnss3
 libnss3-1d
 libnss3-1d:i386
+libnss3-dbg
+libnss3-dev
+libnss3-tools
 libnss3:i386
 libobjc-5-dev
 libobjc-5-dev:i386
