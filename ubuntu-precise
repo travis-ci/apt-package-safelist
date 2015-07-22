@@ -5239,6 +5239,8 @@ libpython2.7
 libpython2.7:i386
 libpython3.2
 libpython3.2:i386
+libqrencode-dev
+libqrencode3
 libqt4-assistant
 libqt4-core
 libqt4-dbg
@@ -6999,6 +7001,7 @@ python3:i386
 python:i386
 qdbus
 qdbus:i386
+qrencode
 qt4-bin-dbg
 qt4-demos
 qt4-demos-dbg
