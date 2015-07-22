@@ -1034,6 +1034,7 @@ haskell-platform
 haveged
 haxe
 haxe:i386
+hdf4-tools
 hdf5-tools
 hdfview
 hdparm
@@ -4074,8 +4075,13 @@ libhawtjni-runtime-java
 libhawtjni-runtime-java:i386
 libhcrypto4-heimdal
 libhcrypto4-heimdal:i386
+libhdf4-0
 libhdf4-0-alt
 libhdf4-0-alt:i386
+libhdf4-alt-dev
+libhdf4-dev
+libhdf4-doc
+libhdf4g-dev
 libhdf5-dev
 libhdf5-doc
 libhdf5-lam-1.8.4
