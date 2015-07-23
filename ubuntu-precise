@@ -1117,6 +1117,7 @@ iodbc:i386
 iproute
 iproute:i386
 iptables
+iptables-dev
 iptables:i386
 isc-dhcp-client
 isc-dhcp-client:i386
@@ -6034,6 +6035,7 @@ libxt-dev
 libxt-dev:i386
 libxt6
 libxt6:i386
+libxtables10
 libxtst-dev
 libxtst-dev:i386
 libxtst6
