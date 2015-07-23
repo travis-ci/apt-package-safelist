@@ -1,4 +1,3 @@
-No
 ace-gperf
 ace-netsvcs
 adduser
@@ -337,7 +336,6 @@ console-setup:i386
 consolekit
 consolekit:i386
 context
-control:
 coq
 coq-theories
 coqide
@@ -441,7 +439,6 @@ diffstat
 diffstat:i386
 diffutils
 diffutils:i386
-directory
 discount
 djview
 djview3
@@ -993,7 +990,6 @@ graphviz-dev:i386
 graphviz-doc
 graphviz:i386
 grep
-grep:
 grep:i386
 gridengine-client
 gridengine-common
@@ -6497,7 +6493,6 @@ openssl
 openssl:i386
 optipng
 optipng:i386
-or
 oracle-java7-installer
 oracle-java7-installer:i386
 oracle-java8-installer
@@ -7222,7 +7217,6 @@ strace
 strace:i386
 subversion
 subversion:i386
-such
 sudo
 sudo:i386
 swig
