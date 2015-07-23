@@ -428,6 +428,7 @@ dh-apparmor:i386
 dh-autoreconf
 dh-make
 dh-make:i386
+diatheke
 diffstat
 diffstat:i386
 diffutils
@@ -5669,6 +5670,11 @@ libsvn1
 libsvn1:i386
 libswitch-perl
 libswitch-perl:i386
+libsword-common
+libsword-dbg
+libsword-dev
+libsword-utils
+libsword11
 libswscale-dev
 libswscale-dev:i386
 libswscale2
