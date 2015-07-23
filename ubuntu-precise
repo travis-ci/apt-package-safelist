@@ -4470,6 +4470,9 @@ libmagickwand4
 libmagickwand4:i386
 libmail-sendmail-perl
 libmail-sendmail-perl:i386
+libmarkdown2
+libmarkdown2-dbg
+libmarkdown2-dev
 libmcrypt-dev
 libmcrypt4
 libmemcached-dev
