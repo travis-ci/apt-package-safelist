@@ -644,6 +644,7 @@ fonts-takao-mincho
 fonts-takao-mincho:i386
 fonts-takao-pgothic
 fonts-takao-pgothic:i386
+fonts-texgyre
 freeglut3
 freeglut3-dev
 freeglut3-dev:i386
@@ -7197,6 +7198,7 @@ tcpd:i386
 tcsh
 telnet
 telnet:i386
+tex-gyre
 texinfo
 texinfo:i386
 texlive
