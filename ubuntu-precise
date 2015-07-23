@@ -5404,6 +5404,10 @@ libraspell-ruby1.8:i386
 libraspell-ruby1.9.1
 libraspell-ruby1.9.1:i386
 libraspell-ruby:i386
+libraw-bin
+libraw-dev
+libraw-doc
+libraw10
 libreadline-dev
 libreadline-dev:i386
 libreadline-gplv2-dev
