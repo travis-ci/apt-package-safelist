@@ -1149,6 +1149,8 @@ imagemagick
 imagemagick-common
 imagemagick-common:i386
 imagemagick:i386
+indent
+indent-doc
 info
 info:i386
 initramfs-tools
