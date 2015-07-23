@@ -3389,6 +3389,11 @@ libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
 libclustalo-doc:i386
+libcoin60-doc
+libcoin80
+libcoin80-dev
+libcoin80-doc
+libcoin80-runtime
 libcollectdclient-dev
 libcollectdclient-dev:i386
 libcollectdclient0
