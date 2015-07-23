@@ -7190,6 +7190,9 @@ python2.7-minimal
 python2.7-minimal:i386
 python2.7:i386
 python3
+python3-cairo
+python3-cairo-dev
+python3-cairo-doc
 python3-dbg
 python3-dbus
 python3-dbus.mainloop.qt
