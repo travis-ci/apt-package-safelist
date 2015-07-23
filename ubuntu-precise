@@ -3434,6 +3434,7 @@ libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
 libclustalo-doc:i386
+libcoin60-dev
 libcoin60-doc
 libcoin80
 libcoin80-dev
