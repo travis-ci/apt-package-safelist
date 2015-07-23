@@ -3316,6 +3316,11 @@ libcc1-0:i386
 libcdt4
 libcdt4:i386
 libcdt5
+libcfitsio-bin
+libcfitsio-dev
+libcfitsio-doc
+libcfitsio2
+libcfitsio2-dbg
 libcfitsio3
 libcfitsio3-dbg
 libcfitsio3-dev
