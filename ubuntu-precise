@@ -234,6 +234,7 @@ bwa:i386
 bzip2
 bzip2:i386
 bzr
+bzr-fastimport
 bzr:i386
 ca-certificates
 ca-certificates-java
