@@ -6879,6 +6879,8 @@ python-lxml:i386
 python-m2crypto
 python-markdown
 python-markdown-doc
+python-markupsafe
+python-markupsafe-dbg
 python-matplotlib
 python-matplotlib-data
 python-matplotlib-data:i386
@@ -7029,6 +7031,8 @@ python3-gi:i386
 python3-ipaddr
 python3-jinja2
 python3-markdown
+python3-markupsafe
+python3-markupsafe-dbg
 python3-minimal
 python3-minimal:i386
 python3-pexpect
