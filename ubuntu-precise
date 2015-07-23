@@ -7385,6 +7385,7 @@ texlive-science:i386
 texlive-xetex
 texlive-xetex:i386
 texlive:i386
+thrift-compiler
 tidy
 tidy:i386
 time
