@@ -4588,6 +4588,9 @@ liblua5.2-0-dbg:i386
 liblua5.2-0:i386
 liblua5.2-dev
 liblua5.2-dev:i386
+libluajit-5.1-2
+libluajit-5.1-common
+libluajit-5.1-dev
 liblvm2app2.2
 liblvm2app2.2:i386
 liblwgeom-2.1.5
@@ -6500,6 +6503,7 @@ lua5.2
 lua5.2-doc
 lua5.2-doc:i386
 lua5.2:i386
+luajit
 luarocks
 lzop
 lzop:i386
