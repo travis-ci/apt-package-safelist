@@ -6808,6 +6808,7 @@ pypy-lib
 pypy:i386
 pyqt4-dev-tools
 pyqt4-dev-tools:i386
+pyside-tools
 python
 python-alsaaudio
 python-alsaaudio:i386
