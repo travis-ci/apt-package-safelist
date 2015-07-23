@@ -5583,6 +5583,8 @@ libsox2
 libsparsehash-dev
 libspatialite3
 libspatialite3:i386
+libspnav-dev
+libspnav0
 libspotify-dev
 libspotify-dev:i386
 libspotify12
