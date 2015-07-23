@@ -794,6 +794,8 @@ gcj-jre
 gcj-jre-headless
 gcj-jre-headless:i386
 gcj-jre:i386
+gconf-defaults-service
+gconf-gsettings-backend
 gconf-service
 gconf-service-backend
 gconf-service-backend:i386
@@ -899,6 +901,7 @@ gir1.2-atk-1.0
 gir1.2-atk-1.0:i386
 gir1.2-freedesktop
 gir1.2-freedesktop:i386
+gir1.2-gconf-2.0
 gir1.2-gdkpixbuf-2.0
 gir1.2-gdkpixbuf-2.0:i386
 gir1.2-glib-2.0
@@ -3737,6 +3740,8 @@ libgconf-2-4
 libgconf-2-4:i386
 libgconf2-4
 libgconf2-4:i386
+libgconf2-dev
+libgconf2-doc
 libgcrypt11
 libgcrypt11-dev
 libgcrypt11-dev:i386
