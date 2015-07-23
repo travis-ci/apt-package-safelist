@@ -4453,6 +4453,8 @@ liblvm2app2.2
 liblvm2app2.2:i386
 liblwgeom-2.1.5
 liblwgeom-2.1.5:i386
+liblwgeom-2.1.8
+liblwgeom-dev
 liblzma-dev
 liblzma-dev:i386
 liblzma5
@@ -5199,6 +5201,8 @@ libportmidi-dev
 libportmidi-dev:i386
 libportmidi0
 libportmidi0:i386
+libpostgis-java
+libpostgis-java-doc
 libpostproc-dev
 libpostproc-dev:i386
 libpostproc52
@@ -6619,6 +6623,7 @@ postfix-mysql
 postfix-pcre
 postfix-pgsql
 postgis
+postgis-doc
 postgresql-9.0-plv8
 postgresql-9.0-plv8:i386
 postgresql-9.1
@@ -6649,6 +6654,7 @@ postgresql-9.4
 postgresql-9.4-plv8
 postgresql-9.4-plv8:i386
 postgresql-9.4-postgis-2.1
+postgresql-9.4-postgis-2.1-scripts
 postgresql-9.4-postgis-2.1:i386
 postgresql-9.4-postgis-scripts
 postgresql-9.4-postgis-scripts:i386
