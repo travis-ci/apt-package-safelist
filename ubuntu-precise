@@ -5688,6 +5688,10 @@ libstdc++6-armhf-cross:i386
 libstdc++6:i386
 libstxxl1
 libsvm-dev
+libsvm-java
+libsvm-tools
+libsvm3
+libsvm3-java
 libsvn1
 libsvn1:i386
 libswitch-perl
@@ -6839,6 +6843,7 @@ python-lazr.uri
 python-lazr.uri:i386
 python-ldns
 python-ldns:i386
+python-libsvm
 python-libxml2
 python-libxml2-dbg
 python-libxslt1
