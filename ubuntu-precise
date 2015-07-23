@@ -4027,6 +4027,7 @@ libgq-gconf-dev
 libgq-gconf-doc
 libgq-gconf0
 libgq-gconf0-dbg
+libgraph-easy-perl
 libgraph4
 libgraph4:i386
 libgraphics-magick-perl
