@@ -5211,7 +5211,11 @@ libprotobuf-c0-dev:i386
 libprotobuf-c0:i386
 libprotobuf-dev
 libprotobuf-dev:i386
+libprotobuf-java
+libprotobuf-lite9
+libprotobuf9
 libprotoc-dev
+libprotoc9
 libproxychains-dev
 libproxychains3
 libpstreams-dev
@@ -6855,6 +6859,7 @@ python-pip
 python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
+python-protobuf
 python-pycurl
 python-pycurl:i386
 python-pyfann
