@@ -571,6 +571,7 @@ erlang-webtool
 erlang-webtool:i386
 erlang-xmerl
 erlang-xmerl:i386
+esound-common
 espeak
 espeak-data
 espeak-data-udeb
@@ -3645,6 +3646,8 @@ libepsilon0
 libepsilon0:i386
 liberror-perl
 liberror-perl:i386
+libesd0
+libesd0-dev
 libespeak-dev
 libespeak1
 libev-dev
