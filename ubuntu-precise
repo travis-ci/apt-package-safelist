@@ -1005,6 +1005,7 @@ gridengine-client
 gridengine-common
 gridengine-exec
 gridengine-master
+groff
 groff-base
 groff-base:i386
 groovy
