@@ -636,6 +636,7 @@ flashplugin-installer
 flashplugin-installer:i386
 flex
 flex:i386
+flexc++
 fluidsynth
 folium
 folium:i386
