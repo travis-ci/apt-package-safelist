@@ -4997,6 +4997,8 @@ libobjc4:i386
 libocamlgraph-ocaml-dev
 libocamlgraph-ocaml-doc
 libocamlgraph-viewer-ocaml-dev
+liboctave-dev
+liboctave3
 libodbc1
 libodbc1:i386
 libode-dev
@@ -6555,6 +6557,12 @@ ocaml-source
 ocaml-source:i386
 ocaml:i386
 ocamlgraph-editor
+octave
+octave-common
+octave-dbg
+octave-doc
+octave-htmldoc
+octave-info
 odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
