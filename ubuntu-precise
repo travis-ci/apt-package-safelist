@@ -3636,6 +3636,12 @@ libfreeze34
 libfreeze34:i386
 libfribidi0
 libfribidi0:i386
+libftdi-dev
+libftdi1
+libftdi1-dbg
+libftdipp-dev
+libftdipp1
+libftdipp1-dbg
 libfuse-dev
 libfuse2
 libfuse2:i386
@@ -6776,6 +6782,7 @@ python-empy
 python-empy:i386
 python-fontforge
 python-fontforge:i386
+python-ftdi
 python-gdal
 python-gdal:i386
 python-gdcm
