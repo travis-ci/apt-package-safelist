@@ -7114,6 +7114,8 @@ python-lazr.restfulclient
 python-lazr.restfulclient:i386
 python-lazr.uri
 python-lazr.uri:i386
+python-ldap
+python-ldap-dbg
 python-ldns
 python-ldns:i386
 python-libsvm
