@@ -6530,6 +6530,9 @@ notification-daemon:i386
 noweb
 nowebm
 nsis
+nsis-common
+nsis-doc
+nsis-pluginapi
 ntfs-3g
 ntfs-3g:i386
 ntpdate
