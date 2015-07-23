@@ -322,6 +322,8 @@ cmake-data:i386
 cmake:i386
 cmap-adobe-japan1
 cmap-adobe-japan1:i386
+coffeescript
+coffeescript-doc
 collectd
 collectd-core
 collectd-core:i386
@@ -4367,6 +4369,7 @@ libjpeg8
 libjpeg8-dev
 libjpeg8-dev:i386
 libjpeg8:i386
+libjs-coffeescript
 libjs-jquery
 libjs-jquery:i386
 libjs-sphinxdoc
