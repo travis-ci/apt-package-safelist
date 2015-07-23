@@ -4808,6 +4808,10 @@ libmumps-seq-4.10.0
 libmumps-seq-dev
 libmunge-dev
 libmunge2
+libmuparser-dev
+libmuparser-doc
+libmuparser0debian1
+libmuparser2
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
