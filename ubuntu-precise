@@ -24,6 +24,7 @@ apt-transport-https:i386
 apt-utils
 apt-utils:i386
 apt:i386
+aria2
 asciidoc
 asciidoc:i386
 aspcud
