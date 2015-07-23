@@ -216,6 +216,8 @@ binutils-static-udeb
 binutils:i386
 bison
 bison:i386
+bisonc++
+bisonc++-doc
 bottleneck
 bottleneck:i386
 bsdcpio
