@@ -43,9 +43,27 @@ and their property :metal:.  The steps go like this (for ubuntu precise), much o
 0. Move into the shared dir or sub directory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
 0. Grab the package sources: `apt-get source <package-name>`
 0. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *pre* *post* *inst*` (see [inspecting packages](#inspecting-packages))
-0. If no malicious or goofy bits are found, :thumbsup: :shipit: e.g.: `make add PACKAGE=<package-name>`
+0. If no malicious or goofy bits are found, :thumbsup: :shipit:
 
-Or the slightly simplified version:
+#### `pre-commit` hook
+
+If you work with this repository, installing this `pre-commit` hook (in your local `~/.git/hooks/pre-commit`)
+will make your life so much easier:
+
+```bash
+for f in ubuntu-precise ubuntu-trusty; do
+        sed -e 's/^\s*//' $f > $f.tmp
+        sed -e 's/\s*$//' $f.tmp
+        sed -e '/^\s*$/d' $f.tmp
+        sort $f.tmp | uniq > $f
+        rm $f.tmp
+        git add $f
+done
+```
+
+This ensures that the files we need are always sorted without duplicates or blank lines.
+
+### The slightly simplified version:
 
 0. Bring up the vagrant box: `vagrant up trusty`
 0. SSH into the vagrant box: `vagrant ssh trusty`
@@ -61,6 +79,7 @@ cd /var/tmp/shared/deb-sources/poppler-0.18.4/debian
 vi *{pre,post,inst}*
 ```
 
+(If you don't have the `pre-commit` hook)
 ``` bash
 # either inside the vagrant box in /vagrant or outside in the repo top level
 make add PACKAGE=poppler-utils
@@ -144,6 +163,8 @@ done | xargs echo
 ```
 
 Back outside of the Vagrant box, pass this list of packages for addition.  Adding both the package name and its' `:i386` variant is not always necessary, but doesn't hurt.
+
+(If you don't have the `pre-commit` hook)
 
 ``` bash
 for pkg in abc def xyz ; do
