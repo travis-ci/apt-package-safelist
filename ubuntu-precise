@@ -3879,6 +3879,8 @@ libglu1-mesa
 libglu1-mesa-dev
 libglu1-mesa-dev:i386
 libglu1-mesa:i386
+libglui-dev
+libglui2c2
 libgme-dev
 libgme0
 libgmp-dev
