@@ -5649,6 +5649,8 @@ libshout3-dev:i386
 libshout3:i386
 libsigsegv2
 libsigsegv2:i386
+libsimage-dev
+libsimage20
 libslang2
 libslang2:i386
 libslice34
