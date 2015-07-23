@@ -6098,6 +6098,9 @@ libzeroc-ice34-dbg:i386
 libzeroc-ice34-dev
 libzeroc-ice34-dev:i386
 libzeroc-ice34:i386
+libzipios++-dev
+libzipios++-doc
+libzipios++0c2a
 libzmq-dbg
 libzmq-dbg:i386
 libzmq-dev
