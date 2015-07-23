@@ -1214,6 +1214,9 @@ krb5-multidev
 krb5-multidev:i386
 ksh
 ksh:i386
+lam-mpidoc
+lam-runtime
+lam4-dev
 lame
 lame-doc
 lame-doc:i386
@@ -4490,6 +4493,7 @@ liblablgtk2-ocaml-dev
 liblablgtk2-ocaml-doc
 liblablgtksourceview2-ocaml
 liblablgtksourceview2-ocaml-dev
+liblam4
 liblapack-dev
 liblapack-dev:i386
 liblapack3gf
