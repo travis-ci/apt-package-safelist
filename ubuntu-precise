@@ -4616,6 +4616,8 @@ libmail-sendmail-perl:i386
 libmarkdown2
 libmarkdown2-dbg
 libmarkdown2-dev
+libmatheval-dev
+libmatheval1
 libmcrypt-dev
 libmcrypt4
 libmemcached-dev
