@@ -1071,6 +1071,7 @@ hostname:i386
 html2text
 html2text:i386
 hunspell
+hunspell-en-us
 hunspell-tools
 hwloc
 hwloc-nox
