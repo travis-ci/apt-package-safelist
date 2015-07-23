@@ -182,6 +182,7 @@ automake:i386
 autopoint
 autotools-dev
 autotools-dev:i386
+awesome
 base-files
 base-files:i386
 base-passwd
