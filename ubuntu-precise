@@ -327,6 +327,7 @@ collectd-dev:i386
 collectd-utils
 collectd-utils:i386
 collectd:i386
+colormake
 comerr-dev
 comerr-dev:i386
 console-setup
