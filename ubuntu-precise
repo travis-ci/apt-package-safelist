@@ -5810,6 +5810,8 @@ libstdc++6-armel-cross:i386
 libstdc++6-armhf-cross
 libstdc++6-armhf-cross:i386
 libstdc++6:i386
+libstroke0
+libstroke0-dev
 libstxxl1
 libsvm-dev
 libsvm-java
