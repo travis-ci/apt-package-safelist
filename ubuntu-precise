@@ -5047,6 +5047,9 @@ libopenexr-dev:i386
 libopenexr6
 libopenexr6:i386
 libopenjpeg-dev
+libopenjpeg-java
+libopenjpeg5
+libopenjpeg5-dbg
 libopenmpi-dev
 libopenmpi-dev:i386
 libopenvg1-mesa
@@ -6454,6 +6457,11 @@ openjdk-7-jre-headless:i386
 openjdk-7-jre:i386
 openjdk-7-source
 openjdk-7-source:i386
+openjpeg-tools
+openjpip-dec-server
+openjpip-server
+openjpip-viewer
+openjpip-viewer-xerces
 openmpi
 openmpi-bin
 openmpi-bin:i386
