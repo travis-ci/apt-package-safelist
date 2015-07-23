@@ -6878,6 +6878,7 @@ protobuf-compiler:i386
 proxychains
 psmisc
 psmisc:i386
+psutils
 ptscotch
 ptscotch-dbg
 pulseaudio
