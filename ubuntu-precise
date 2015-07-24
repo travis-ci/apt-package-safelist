@@ -7283,6 +7283,8 @@ python-pycurl
 python-pycurl:i386
 python-pyfann
 python-pyfann-dbg
+python-pygments
+python-pygments-doc
 python-pygresql
 python-pygresql-dbg
 python-pypy.translator.sandbox
@@ -7417,6 +7419,7 @@ python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
+python3-pygments
 python3-pyqt4
 python3-pyqt4-dbg
 python3-pyqt4-dbg:i386
