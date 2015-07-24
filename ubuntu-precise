@@ -173,6 +173,10 @@ asymptote
 asymptote-doc
 attr
 attr:i386
+augeas-dbg
+augeas-doc
+augeas-lenses
+augeas-tools
 autoconf
 autoconf-archive
 autoconf:i386
@@ -3179,6 +3183,8 @@ libattr1-dev:i386
 libattr1:i386
 libaudio2
 libaudio2:i386
+libaugeas-dev
+libaugeas0
 libav-dbg
 libav-dbg:i386
 libav-doc
