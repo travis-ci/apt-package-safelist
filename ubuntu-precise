@@ -697,6 +697,7 @@ g++-4.7-multilib-arm-linux-gnueabihf:i386
 g++-4.7:i386
 g++-4.8
 g++-4.8-multilib
+g++-4.8-multilib:i386
 g++-4.8:i386
 g++-4.9
 g++-4.9:i386
