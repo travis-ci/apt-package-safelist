@@ -99,9 +99,9 @@ git checkout $DEFAULT_BRANCH
 git branch -D $BRANCH
 
 notice "Creating PR"
-COMMENT="For travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}. adding packages: ${PACKAGES[*]}"
+COMMENT="Add packages: ${PACKAGES[*]}"
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
-	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
+	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}; Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\",\"body\":\"${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
 	https://api.github.com/repos/travis-ci/apt-package-whitelist/pulls
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "[\"apt-whitelist-check-run\"]" \
