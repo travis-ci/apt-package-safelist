@@ -376,6 +376,7 @@ cpp-5
 cpp-5-doc
 cpp-5-doc:i386
 cpp-5:i386
+cpp-arm-linux-gnueabihf
 cpp-doc
 cpp-doc:i386
 cpp11-migrate-3.4
@@ -709,6 +710,7 @@ g++-5
 g++-5-multilib
 g++-5-multilib:i386
 g++-5:i386
+g++-arm-linux-gnueabihf
 g++-mingw-w64-i686
 g++-mingw-w64-i686:i386
 g++-mingw-w64-x86-64
@@ -782,6 +784,7 @@ gcc-5-plugin-dev:i386
 gcc-5-source
 gcc-5-source:i386
 gcc-5:i386
+gcc-arm-linux-gnueabihf
 gcc-arm-none-eabi
 gcc-doc
 gcc-doc:i386
@@ -884,6 +887,7 @@ gfortran-5-doc:i386
 gfortran-5-multilib
 gfortran-5-multilib:i386
 gfortran-5:i386
+gfortran-arm-linux-gnueabihf
 gfortran-doc
 gfortran-doc:i386
 gfortran-multilib
@@ -996,6 +1000,7 @@ gobjc++-5
 gobjc++-5-multilib
 gobjc++-5-multilib:i386
 gobjc++-5:i386
+gobjc++-arm-linux-gnueabihf
 gobjc++-multilib
 gobjc++-multilib:i386
 gobjc++:i386
@@ -1013,6 +1018,7 @@ gobjc-5
 gobjc-5-multilib
 gobjc-5-multilib:i386
 gobjc-5:i386
+gobjc-arm-linux-gnueabihf
 gobjc-multilib
 gobjc-multilib:i386
 gobjc:i386
@@ -6974,6 +6980,7 @@ pidgin-data
 pidgin-dbg
 pidgin-dev
 pkg-config
+pkg-config-arm-linux-gnueabihf
 pkg-config:i386
 plymouth
 plymouth:i386
