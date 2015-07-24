@@ -2898,6 +2898,7 @@ language-pack-zu-base
 language-pack-zu-base:i386
 language-pack-zu:i386
 latex-xcolor
+latex2html
 latexmk
 latexmk:i386
 lcov
