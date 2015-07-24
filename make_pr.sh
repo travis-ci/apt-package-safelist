@@ -49,11 +49,11 @@ if [ -z "$PACKAGES"  ]; then
 	fi
 fi
 
-ISSUE_PACKAGE=${PACKAGES[0]}
+ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
 
 notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
 
-BRANCH="apt-package-whitelist-test-${ISSUE_NUMBER}"
+BRANCH="apt-package-whitelist-test-${ISSUE_REPO}-${ISSUE_NUMBER}"
 notice "Setting up Git"
 
 if [ -z "`git config --get --global credential.helper`" ]; then
@@ -78,7 +78,9 @@ for p in ${PACKAGES[*]}; do
 	env PACKAGE=${p} make add > /dev/null
 done
 git add ubuntu-precise
-git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-precise; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}"
+git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-precise; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}
+
+Packages: ${PACKAGES}"
 
 COMMIT_EXIT_STATUS=$?
 if [ $COMMIT_EXIT_STATUS -gt 0 ]; then
