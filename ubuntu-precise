@@ -7288,6 +7288,7 @@ python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
 python-protobuf
+python-pycountry
 python-pycurl
 python-pycurl:i386
 python-pyfann
@@ -7428,6 +7429,7 @@ python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
+python3-pycountry
 python3-pygments
 python3-pyqt4
 python3-pyqt4-dbg
