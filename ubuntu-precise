@@ -4512,6 +4512,7 @@ liblapack-dev
 liblapack-dev:i386
 liblapack3gf
 liblapack3gf:i386
+liblcms-utils
 liblcms1
 liblcms1-dev
 liblcms1-dev:i386
@@ -7232,6 +7233,7 @@ python-ldap
 python-ldap-dbg
 python-ldns
 python-ldns:i386
+python-liblcms
 python-libsvm
 python-libxml2
 python-libxml2-dbg
