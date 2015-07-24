@@ -53,7 +53,7 @@ ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
 
 notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
 
-BRANCH="apt-package-whitelist-test-${ISSUE_REPO}-${ISSUE_NUMBER}"
+BRANCH="test-${ISSUE_REPO}-${ISSUE_NUMBER}"
 notice "Setting up Git"
 
 if [ -z "`git config --get --global credential.helper`" ]; then
