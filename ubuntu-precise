@@ -6885,6 +6885,7 @@ pbuilder:i386
 pcscd
 pdftk
 pdftk:i386
+percona-toolkit
 perl
 perl-base
 perl-base:i386
