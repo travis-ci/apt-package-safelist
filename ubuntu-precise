@@ -954,6 +954,7 @@ gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-rsvg-2.0
 gir1.2-rsvg-2.0:i386
+gir1.2-secret-1
 gir1.2-soup-2.4
 git
 git-man
@@ -4512,6 +4513,7 @@ liblapack-dev
 liblapack-dev:i386
 liblapack3gf
 liblapack3gf:i386
+liblcms-utils
 liblcms1
 liblcms1-dev
 liblcms1-dev:i386
@@ -5642,6 +5644,10 @@ libsdl1.2-dbg
 libsdl1.2-dev
 libsdl1.2-dev:i386
 libsdl1.2debian
+libsecret-1-0
+libsecret-1-dev
+libsecret-common
+libsecret-tools
 libselinux1
 libselinux1:i386
 libsensors4
@@ -6885,6 +6891,7 @@ pbuilder:i386
 pcscd
 pdftk
 pdftk:i386
+percona-toolkit
 perl
 perl-base
 perl-base:i386
@@ -7232,6 +7239,7 @@ python-ldap
 python-ldap-dbg
 python-ldns
 python-ldns:i386
+python-liblcms
 python-libsvm
 python-libxml2
 python-libxml2-dbg
