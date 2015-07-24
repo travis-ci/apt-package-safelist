@@ -6287,7 +6287,9 @@ libxtst6-dbg:i386
 libxtst6-udeb
 libxtst6-udeb:i386
 libxtst6:i386
+libxv-dev
 libxv1
+libxv1-dbg
 libxv1:i386
 libxvidcore-dev
 libxvidcore4
