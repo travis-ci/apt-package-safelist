@@ -6931,6 +6931,7 @@ php5-gd
 php5-gd:i386
 php5-gmp
 php5-gmp:i386
+php5-gnupg
 php5-intl
 php5-intl:i386
 php5-ldap
