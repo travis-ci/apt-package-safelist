@@ -59,7 +59,7 @@ notice "Setting up Git"
 if [ -z "`git config --get --global credential.helper`" ]; then
 	notice "set up credential.helper"
 	git config credential.helper "store --file=.git/credentials"
-	notice "https://${GITHUB_OAUTH_TOKEN}:@github.com" > .git/credentials 2>/dev/null
+	echo "https://${GITHUB_OAUTH_TOKEN}:@github.com" > .git/credentials 2>/dev/null
 fi
 if [ -z "`git config --get --global user.email`" ]; then
 	notice "set up user.email"
