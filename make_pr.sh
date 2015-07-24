@@ -86,7 +86,7 @@ Packages: ${PACKAGES}"
 COMMIT_EXIT_STATUS=$?
 if [ $COMMIT_EXIT_STATUS -gt 0 ]; then
 	notice "Nothing to commit"
-	exit EXIT_NOTHING_TO_COMMIT
+	exit $EXIT_NOTHING_TO_COMMIT
 fi
 
 notice "Pushing commit"
