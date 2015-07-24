@@ -7265,6 +7265,7 @@ python-minimal:i386
 python-mysqldb
 python-mysqldb-dbg
 python-nose
+python-nose-doc
 python-nose:i386
 python-numexpr
 python-numexpr-dbg
@@ -7420,6 +7421,7 @@ python3-markupsafe
 python3-markupsafe-dbg
 python3-minimal
 python3-minimal:i386
+python3-nose
 python3-numexpr
 python3-numexpr-dbg
 python3-pexpect
