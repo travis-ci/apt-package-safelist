@@ -8,6 +8,7 @@ ANSI_CLEAR="\033[0K"
 EXIT_SUCCSS=0
 EXIT_SOURCE_NOT_FOUND=1
 EXIT_SOURCE_HAS_SETUID=2
+EXIT_NOTHING_TO_COMMIT=3
 
 DEFAULT_BRANCH=master
 
@@ -85,7 +86,7 @@ Packages: ${PACKAGES}"
 COMMIT_EXIT_STATUS=$?
 if [ $COMMIT_EXIT_STATUS -gt 0 ]; then
 	notice "Nothing to commit"
-	exit 0
+	exit EXIT_NOTHING_TO_COMMIT
 fi
 
 notice "Pushing commit"
