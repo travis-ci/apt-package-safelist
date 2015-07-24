@@ -51,14 +51,8 @@ If you work with this repository, installing this `pre-commit` hook (in your loc
 will make your life so much easier:
 
 ```bash
-for f in ubuntu-precise ubuntu-trusty; do
-        sed -e 's/^\s*//' $f > $f.tmp
-        sed -e 's/\s*$//' $f.tmp
-        sed -e '/^\s*$/d' $f.tmp
-        sort $f.tmp | uniq > $f
-        rm $f.tmp
-        git add $f
-done
+make sort
+git add ubuntu-{precise,trusty}
 ```
 
 This ensures that the files we need are always sorted without duplicates or blank lines.
