@@ -1092,6 +1092,8 @@ heirloom-mailx
 help2man
 hicolor-icon-theme
 hicolor-icon-theme:i386
+highlight
+highlight-common
 hlint
 hostname
 hostname:i386
@@ -4306,6 +4308,7 @@ libhighgui2.3
 libhighgui2.3:i386
 libhighgui2.4
 libhighgui2.4:i386
+libhighlight-perl
 libhiredis-dev
 libhiredis-dev:i386
 libhiredis0.10
