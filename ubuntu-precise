@@ -5850,6 +5850,7 @@ libstdc++-5-doc
 libstdc++-5-doc:i386
 libstdc++-5-pic
 libstdc++-5-pic:i386
+libstdc++-arm-none-eabi-newlib
 libstdc++5
 libstdc++5:i386
 libstdc++6
