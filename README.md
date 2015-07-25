@@ -11,11 +11,12 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 **PLEASE READ CAREFULLY!**
 
 0. Check the list of approved packages for your build environment (most likely [`ubuntu-precise`](./ubuntu-precise)).
-0. If it's not in there, check for [existing issues requesting the package you
-   want](https://github.com/travis-ci/travis-ci/labels/apt-whitelist), and if one doesn't exist please
+0. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-whitelist/issues)
+   and [pull requests](https://github.com/travis-ci/apt-package-whitelist/pulls) requesting the package you
+   want, and if one doesn't exist please
    open an issue requesting the package you need in the [this
    repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___)
-   (and be sure to replace `__PACKAGE__` in the issue title :wink:).
+   (and be sure to replace `__PACKAGE__` in the issue title).
 
 0. Currently, we are in the process of automating request approval process.
   1. This means that the issues' subject should follow exactly the one indicated.
@@ -24,8 +25,14 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
   1. If the source package defines multiple packages, those will be processed at once.
   In this case, list only one.
 0. PRs are not accepted, since we have not run tests on them.
-0. Please be patient :smiley_cat:
-
+0. The automation process will test the source package as described below.
+  1. If no issues are found, a PR will be opened, and it will be merged shortly thereafter.
+  1. If no matching source packages is found, a comment indicating this is posted on the issue.
+  This means that either the package name is incorrect, or that your request requires
+  a package repository that is not currently listed in [APT source whitelist](https://github.com/travis-ci/apt-source-whitelist).
+  1. If any of the files include text matching a regular expression `set(uid|euid|gid)` (case-insensitive),
+  a comment to this effect will be posted on the issue, prompting us to examine further.
+  If no further problems are found, it will be added to the list.
 
 ### nitty gritty details
 
