@@ -30,8 +30,10 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
   1. If no matching source packages is found, a comment indicating this is posted on the issue.
   This means that either the package name is incorrect, or that your request requires
   a package repository that is not currently listed in [APT source whitelist](https://github.com/travis-ci/apt-source-whitelist).
-  1. If any of the files include text matching a regular expression `set(uid|euid|gid)` (case-insensitive),
-  a comment to this effect will be posted on the issue, prompting us to examine further.
+  1. The command
+      grep -R -i -H -C5 -E --color 'set(uid|euid|gid)' --exclude install-sh .
+  is run on the source package.
+  If any file matches, a comment to this effect will be posted on the issue, prompting further examination.
   If no further problems are found, it will be added to the list.
 
 ### nitty gritty details
