@@ -5104,6 +5104,9 @@ libnotify-dev:i386
 libnotify4
 libnotify4:i386
 libnspr4
+libnspr4-0d
+libnspr4-dbg
+libnspr4-dev
 libnspr4:i386
 libnss-winbind
 libnss3
