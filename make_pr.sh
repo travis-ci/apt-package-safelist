@@ -105,7 +105,7 @@ if [ -n ${TRAVIS_BUILD_ID} ]; then
 	COMMENT="${COMMENT}\n\nSee http://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}."
 fi
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
-	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}; Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\",\"body\":\"${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
+	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
 	https://api.github.com/repos/travis-ci/apt-package-whitelist/pulls
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "[\"apt-whitelist-check-run\"]" \
