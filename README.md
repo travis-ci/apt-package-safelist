@@ -38,7 +38,7 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
   is run on the source package.
   If any file matches, a comment to this effect will be posted on the issue, prompting further examination.
-  If no further problems are found, it will be added to the list.
+  If no further problems are found in the further examination, it will be added to the list.
 
 ### nitty gritty details
 
