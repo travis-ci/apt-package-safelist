@@ -23,8 +23,20 @@ function warn() {
 }
 
 function usage() {
-	echo "Usage: $0 repo issue_number [package [additional_packages …]]"
+	echo "Usage: $0 [-y] repo issue_number [package [additional_packages …]]"
 }
+
+while getopts "y" opt; do
+	case "$opt" in
+	y)
+		create_pr=1
+		;;
+	esac
+done
+
+shift $((OPTIND-1))
+
+echo $create_pr
 
 if [ $# -lt 2 ]; then
 	usage
@@ -98,6 +110,11 @@ fi
 git push origin $BRANCH
 git checkout $DEFAULT_BRANCH
 git branch -D $BRANCH
+
+if [ -z $create_pr ]; then
+	# bail before creating a pr
+	exit 0
+fi
 
 notice "Creating PR"
 COMMENT="Add packages: ${PACKAGES[*]}"
