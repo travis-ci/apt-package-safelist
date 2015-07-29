@@ -7378,6 +7378,8 @@ python-qt4-sql-dbg
 python-qt4-sql-dbg:i386
 python-qt4-sql:i386
 python-qt4:i386
+python-requests
+python-requests-whl
 python-roman
 python-rpy
 python-rpy-doc
@@ -7512,6 +7514,7 @@ python3-pyqt4.qtsql-dbg
 python3-pyqt4.qtsql-dbg:i386
 python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
+python3-requests
 python3-roman
 python3-sphinx
 python3-venv
