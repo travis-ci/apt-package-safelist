@@ -7355,6 +7355,7 @@ python-wxgtk2.8-dbg
 python-wxtools
 python-wxversion
 python-xcbgen
+python-xdg
 python-xlrd
 python-xlrd:i386
 python-xy-meta-devel
@@ -7447,6 +7448,7 @@ python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-roman
 python3-sphinx
+python3-xdg
 python3.2
 python3.2-dev
 python3.2-dev:i386
