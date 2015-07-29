@@ -3,4 +3,7 @@ sudo: false
 env:
 - DISTRO=ubuntu-precise
 - DISTRO=ubuntu-trusty
-script: diff -u "${DISTRO}" <(./bin/travis-sort-uniq-whitelist "${DISTRO}")
+
+script:
+  - diff -u "${DISTRO}" <(./bin/travis-sort-uniq-whitelist "${DISTRO}")
+  - bash -n make_pr.sh

@@ -947,6 +947,7 @@ gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
 gir1.2-gst-plugins-base-0.10
+gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
@@ -1061,6 +1062,8 @@ gstreamer0.10-plugins-base-apps
 gstreamer0.10-plugins-base-dbg
 gstreamer0.10-plugins-base-doc
 gstreamer0.10-x
+gstreamer1.0-doc
+gstreamer1.0-tools
 gtk-3-examples
 guile-1.8-libs
 guile-1.8-libs:i386
@@ -1154,6 +1157,8 @@ icegrid-gui:i386
 icnsutils
 icnsutils:i386
 icoutils
+idle
+idle3
 ienglish-common
 ifupdown
 ifupdown:i386
@@ -1223,6 +1228,8 @@ krb5-multidev
 krb5-multidev:i386
 ksh
 ksh:i386
+kyotocabinet-doc
+kyotocabinet-utils
 lam-mpidoc
 lam-runtime
 lam4-dev
@@ -3336,6 +3343,13 @@ libbz2-1.0
 libbz2-1.0:i386
 libbz2-dev
 libbz2-dev:i386
+libc++-dev
+libc++-helpers
+libc++-test
+libc++1
+libc++abi-dev
+libc++abi-test
+libc++abi1
 libc-ares-dev
 libc-bin
 libc-bin:i386
@@ -4144,6 +4158,9 @@ libgstreamer-plugins-base0.10-0:i386
 libgstreamer-plugins-base0.10-dev
 libgstreamer0.10-0
 libgstreamer0.10-0:i386
+libgstreamer1.0-0
+libgstreamer1.0-0-dbg
+libgstreamer1.0-dev
 libgtest-dev
 libgtk-3-0
 libgtk-3-0-dbg
@@ -4499,6 +4516,9 @@ libkrb5-dev
 libkrb5-dev:i386
 libkrb5support0
 libkrb5support0:i386
+libkyotocabinet-dev
+libkyotocabinet16
+libkyotocabinet16-dbg
 liblablgtk2-gl-ocaml
 liblablgtk2-gl-ocaml-dev
 liblablgtk2-gnome-ocaml
@@ -5104,6 +5124,9 @@ libnotify-dev:i386
 libnotify4
 libnotify4:i386
 libnspr4
+libnspr4-0d
+libnspr4-dbg
+libnspr4-dev
 libnspr4:i386
 libnss-winbind
 libnss3
@@ -5477,8 +5500,18 @@ libpulsedsp:i386
 libpurple-bin
 libpurple-dev
 libpurple0
+libpython-all-dbg
+libpython-all-dev
+libpython-dbg
+libpython-dev
+libpython-stdlib
 libpython2.7
 libpython2.7:i386
+libpython3-all-dbg
+libpython3-all-dev
+libpython3-dbg
+libpython3-dev
+libpython3-stdlib
 libpython3.2
 libpython3.2:i386
 libqglviewer-dev
@@ -5644,6 +5677,9 @@ libsdl1.2-dbg
 libsdl1.2-dev
 libsdl1.2-dev:i386
 libsdl1.2debian
+libsdl2-2.0-0
+libsdl2-dbg
+libsdl2-dev
 libsecret-1-0
 libsecret-1-dev
 libsecret-common
@@ -7174,6 +7210,9 @@ pyqt4-dev-tools
 pyqt4-dev-tools:i386
 pyside-tools
 python
+python-all
+python-all-dbg
+python-all-dev
 python-alsaaudio
 python-alsaaudio:i386
 python-apt
@@ -7190,15 +7229,18 @@ python-configobj
 python-configobj:i386
 python-crypto
 python-crypto:i386
+python-dbg
 python-dbus
 python-dbus:i386
 python-demjson
 python-demjson:i386
 python-dev
 python-dev:i386
+python-doc
 python-docutils
 python-empy
 python-empy:i386
+python-examples
 python-fontforge
 python-fontforge:i386
 python-ftdi
@@ -7290,6 +7332,7 @@ python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
 python-protobuf
+python-pycountry
 python-pycurl
 python-pycurl:i386
 python-pyfann
@@ -7342,6 +7385,7 @@ python-simplejson:i386
 python-software-properties
 python-software-properties:i386
 python-sphinx
+python-swiftclient
 python-tables
 python-tables:i386
 python-virtualenv
@@ -7397,6 +7441,9 @@ python2.7-minimal
 python2.7-minimal:i386
 python2.7:i386
 python3
+python3-all
+python3-all-dbg
+python3-all-dev
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
@@ -7409,7 +7456,9 @@ python3-dbus.mainloop.qt:i386
 python3-dbus:i386
 python3-dev
 python3-dev:i386
+python3-doc
 python3-docutils
+python3-examples
 python3-gdal
 python3-gi
 python3-gi-cairo
@@ -7431,6 +7480,7 @@ python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
+python3-pycountry
 python3-pygments
 python3-pyqt4
 python3-pyqt4-dbg
@@ -7450,6 +7500,7 @@ python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-roman
 python3-sphinx
+python3-venv
 python3.2
 python3.2-dev
 python3.2-dev:i386
@@ -7627,6 +7678,7 @@ sgml-base
 sgml-base:i386
 shared-mime-info
 shared-mime-info:i386
+shellcheck
 shiboken
 shiboken-dbg
 shiboken-doc
