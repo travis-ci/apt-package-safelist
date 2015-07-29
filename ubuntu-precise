@@ -5411,6 +5411,7 @@ libphononexperimental-dev
 libphononexperimental-dev:i386
 libphononexperimental4
 libphononexperimental4:i386
+libpipeline-dev
 libpipeline1
 libpipeline1:i386
 libpixman-1-0
