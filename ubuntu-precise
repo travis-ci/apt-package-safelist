@@ -5180,6 +5180,16 @@ libobjc4:i386
 libocamlgraph-ocaml-dev
 libocamlgraph-ocaml-doc
 libocamlgraph-viewer-ocaml-dev
+liboce-foundation-dev
+liboce-foundation8
+liboce-modeling-dev
+liboce-modeling8
+liboce-ocaf-dev
+liboce-ocaf-lite-dev
+liboce-ocaf-lite8
+liboce-ocaf8
+liboce-visualization-dev
+liboce-visualization8
 liboctave-dev
 liboctave3
 libodbc1
@@ -6888,6 +6898,7 @@ ocaml-source
 ocaml-source:i386
 ocaml:i386
 ocamlgraph-editor
+oce-draw
 octave
 octave-common
 octave-dbg
