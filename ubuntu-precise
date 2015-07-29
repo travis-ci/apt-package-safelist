@@ -2933,6 +2933,7 @@ lcov
 ldap-utils
 ldnsutils
 ldnsutils:i386
+lemon
 less
 less:i386
 levelone
@@ -5881,9 +5882,11 @@ libspotify12
 libspotify12:i386
 libsql-translator-perl
 libsqlite3-0
+libsqlite3-0-dbg
 libsqlite3-0:i386
 libsqlite3-dev
 libsqlite3-dev:i386
+libsqlite3-tcl
 libsrecord-dev
 libsrecord0
 libsrecord0-dbg
