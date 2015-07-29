@@ -7319,6 +7319,8 @@ python-fontforge:i386
 python-ftdi
 python-gdal
 python-gdal:i386
+python-gdbm
+python-gdbm-dbg
 python-gdcm
 python-gdcm:i386
 python-gi
@@ -7467,6 +7469,8 @@ python-sphinx
 python-swiftclient
 python-tables
 python-tables:i386
+python-tk
+python-tk-dbg
 python-vipscc
 python-virtualenv
 python-virtualenv:i386
