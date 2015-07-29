@@ -1055,11 +1055,16 @@ gsfonts:i386
 gsl-bin
 gsl-bin:i386
 gstreamer0.10-alsa
+gstreamer0.10-gconf
 gstreamer0.10-gnomevfs
 gstreamer0.10-plugins-base
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-plugins-base-dbg
 gstreamer0.10-plugins-base-doc
+gstreamer0.10-plugins-good
+gstreamer0.10-plugins-good-dbg
+gstreamer0.10-plugins-good-doc
+gstreamer0.10-pulseaudio
 gstreamer0.10-x
 gtk-3-examples
 guile-1.8-libs
