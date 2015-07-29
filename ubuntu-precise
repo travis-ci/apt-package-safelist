@@ -6068,6 +6068,7 @@ libterm-readkey-perl
 libterm-readkey-perl:i386
 libtesseract-dev
 libtesseract3
+libtest-html-w3c-perl
 libtext-aspell-perl
 libtext-aspell-perl:i386
 libtext-charwidth-perl
