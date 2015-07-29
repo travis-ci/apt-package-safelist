@@ -585,6 +585,7 @@ expect
 expect-dev
 expect-dev:i386
 expect:i386
+exuberant-ctags
 faad
 faad2-dbg
 fakechroot
