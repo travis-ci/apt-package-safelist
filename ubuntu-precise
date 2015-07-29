@@ -6050,6 +6050,8 @@ libtdb1
 libtdb1:i386
 libterm-readkey-perl
 libterm-readkey-perl:i386
+libtesseract-dev
+libtesseract3
 libtext-aspell-perl
 libtext-aspell-perl:i386
 libtext-charwidth-perl
@@ -7767,6 +7769,9 @@ tcpd:i386
 tcsh
 telnet
 telnet:i386
+tesseract-ocr
+tesseract-ocr-all
+tesseract-ocr-dev
 tex-gyre
 texinfo
 texinfo:i386
