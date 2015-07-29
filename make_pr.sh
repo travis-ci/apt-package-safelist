@@ -39,8 +39,6 @@ done
 
 shift $((OPTIND-1))
 
-echo $create_pr
-
 if [ $# -lt 2 ]; then
 	usage
 	exit 0
