@@ -670,7 +670,6 @@ fonts-takao-mincho:i386
 fonts-takao-pgothic
 fonts-takao-pgothic:i386
 fonts-texgyre
-foo
 freeglut3
 freeglut3-dev
 freeglut3-dev:i386
@@ -7214,7 +7213,6 @@ python-empy:i386
 python-examples
 python-fontforge
 python-fontforge:i386
-python-foo
 python-ftdi
 python-gdal
 python-gdal:i386
