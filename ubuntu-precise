@@ -6739,6 +6739,7 @@ ncurses-base
 ncurses-base:i386
 ncurses-bin
 ncurses-bin:i386
+ndiff
 net-tools
 net-tools:i386
 netbase
@@ -6768,6 +6769,7 @@ nginx-naxsi:i386
 nginx:i386
 ninja-build
 ninja-build:i386
+nmap
 node-underscore
 nodejs
 nodejs-dbg
@@ -8130,6 +8132,7 @@ yasm
 yubikey-personalization
 yubikey-personalization:i386
 yum
+zenmap
 zeroc-ice34
 zeroc-ice34:i386
 zeroc-icee
