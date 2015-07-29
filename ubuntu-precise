@@ -6126,6 +6126,10 @@ libvarnishapi-dev
 libvarnishapi-dev:i386
 libvarnishapi1
 libvarnishapi1:i386
+libvips-dev
+libvips-doc
+libvips-tools
+libvips38
 libvlc-dev
 libvlc-dev:i386
 libvlc5
@@ -7401,6 +7405,7 @@ python-sphinx
 python-swiftclient
 python-tables
 python-tables:i386
+python-vipscc
 python-virtualenv
 python-virtualenv:i386
 python-vtk
