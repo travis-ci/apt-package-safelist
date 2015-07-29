@@ -656,6 +656,9 @@ fontconfig
 fontconfig-config
 fontconfig-config:i386
 fontconfig:i386
+fontforge
+fontforge-common
+fontforge-dbg
 fontforge-nox
 fontforge-nox:i386
 fonts-humor-sans
@@ -3769,6 +3772,7 @@ libfontconfig1-dev:i386
 libfontconfig1:i386
 libfontenc1
 libfontenc1:i386
+libfontforge-dev
 libfontforge1
 libfontforge1:i386
 libfreeimage-dev
@@ -3913,6 +3917,7 @@ libgdk-pixbuf2.0-common
 libgdk-pixbuf2.0-common:i386
 libgdk-pixbuf2.0-dev
 libgdk-pixbuf2.0-dev:i386
+libgdraw4
 libgdu0
 libgdu0:i386
 libgearman-dev
