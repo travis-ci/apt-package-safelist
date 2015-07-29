@@ -112,7 +112,7 @@ git push origin $BRANCH
 git checkout $DEFAULT_BRANCH
 git branch -D $BRANCH
 
-if [ -z $create_pr ]; then
+if [ $create_pr > 0 ]; then
 	# bail before creating a pr
 	exit 0
 fi
@@ -122,7 +122,7 @@ COMMENT="Add packages: ${PACKAGES[*]}"
 if [ -n ${TRAVIS_BUILD_ID} ]; then
 	COMMENT="${COMMENT}\n\nSee http://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}."
 fi
-if [ -n ${has_setuid} ]; then
+if [ ${has_setuid} > 0 ]; then
 	COMMENT="\n\n***NOTE***\n\nThere are setuid/seteuid/setgid bits found. Be sure to check the check build result.\n\n${COMMENT}"
 fi
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
