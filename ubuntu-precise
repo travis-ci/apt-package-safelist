@@ -6046,6 +6046,10 @@ libtsan0
 libtsan0-dbg
 libtsan0-dbg:i386
 libtsan0:i386
+libttspico-data
+libttspico-dev
+libttspico-utils
+libttspico0
 libturbojpeg
 libturbojpeg:i386
 libubsan0
