@@ -1072,6 +1072,7 @@ gvfs-daemons:i386
 gvfs-libs
 gvfs-libs:i386
 gvfs:i386
+gyp
 gzip
 gzip:i386
 happy
