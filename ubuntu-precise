@@ -6008,6 +6008,7 @@ libtdb1
 libtdb1:i386
 libterm-readkey-perl
 libterm-readkey-perl:i386
+libtest-html-w3c-perl
 libtext-aspell-perl
 libtext-aspell-perl:i386
 libtext-charwidth-perl
