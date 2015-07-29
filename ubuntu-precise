@@ -7348,6 +7348,7 @@ python-simplejson:i386
 python-software-properties
 python-software-properties:i386
 python-sphinx
+python-swiftclient
 python-tables
 python-tables:i386
 python-virtualenv
