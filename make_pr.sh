@@ -26,8 +26,11 @@ function usage() {
 	echo "Usage: $0 [-y] repo issue_number [package [additional_packages …]]"
 }
 
-while getopts "y" opt; do
+while getopts "sy" opt; do
 	case "$opt" in
+	s)
+		has_setuid=1
+		;;
 	y)
 		create_pr=1
 		;;
@@ -120,6 +123,9 @@ notice "Creating PR"
 COMMENT="Add packages: ${PACKAGES[*]}"
 if [ -n ${TRAVIS_BUILD_ID} ]; then
 	COMMENT="${COMMENT}\n\nSee http://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}."
+fi
+if [ -n ${has_setuid} ]; then
+	COMMENT="\n\n***NOTE***\n\nThere are setuid/seteuid/setgid bits found. Be sure to check the check build result.\n\n${COMMENT}"
 fi
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
