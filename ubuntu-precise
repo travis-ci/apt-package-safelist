@@ -7798,6 +7798,7 @@ ssh
 ssh-import-id
 ssh-import-id:i386
 ssh:i386
+sshpass
 ssl-cert
 ssl-cert:i386
 statsmodels
