@@ -7324,6 +7324,8 @@ python-oauth
 python-oauth:i386
 python-opencv
 python-opencv:i386
+python-openssl
+python-openssl-doc
 python-pandas
 python-pandas-doc
 python-pandas-lib
@@ -7483,6 +7485,7 @@ python3-minimal:i386
 python3-nose
 python3-numexpr
 python3-numexpr-dbg
+python3-openssl
 python3-pandas
 python3-pandas-lib
 python3-pexpect
