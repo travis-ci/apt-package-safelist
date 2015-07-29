@@ -8094,6 +8094,7 @@ xml-core
 xml-core:i386
 xmlto
 xmlto:i386
+xmltoman
 xorg
 xorg-dev
 xorg-sgml-doctools
