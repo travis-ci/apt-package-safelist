@@ -6418,9 +6418,13 @@ libxmlsec1-dev
 libxmlsec1-dev:i386
 libxmu-dev
 libxmu-dev:i386
+libxmu-headers
 libxmu6
+libxmu6-dbg
 libxmu6:i386
+libxmuu-dev
 libxmuu1
+libxmuu1-dbg
 libxmuu1:i386
 libxpm4
 libxpm4:i386
