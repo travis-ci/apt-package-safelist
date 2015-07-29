@@ -4499,6 +4499,8 @@ libkrb5-dev
 libkrb5-dev:i386
 libkrb5support0
 libkrb5support0:i386
+libksba-dev
+libksba8
 liblablgtk2-gl-ocaml
 liblablgtk2-gl-ocaml-dev
 liblablgtk2-gnome-ocaml
