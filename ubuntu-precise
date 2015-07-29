@@ -5825,6 +5825,7 @@ libspotify-dev
 libspotify-dev:i386
 libspotify12
 libspotify12:i386
+libsql-translator-perl
 libsqlite3-0
 libsqlite3-0:i386
 libsqlite3-dev
