@@ -1106,6 +1106,8 @@ hostname
 hostname:i386
 html2text
 html2text:i386
+htmldoc
+htmldoc-common
 hunspell
 hunspell-en-us
 hunspell-tools
