@@ -3203,6 +3203,7 @@ libattr1
 libattr1-dev
 libattr1-dev:i386
 libattr1:i386
+libaudio-dev
 libaudio2
 libaudio2:i386
 libaugeas-dev
@@ -6793,6 +6794,9 @@ mysql-server-5.5:i386
 mysql-server-core-5.5
 mysql-server-core-5.5:i386
 mysql-server:i386
+nas
+nas-bin
+nas-doc
 nasm
 ncbi-blast+
 ncbi-blast+-legacy
