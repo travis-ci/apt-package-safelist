@@ -3555,6 +3555,12 @@ libcryptsetup4:i386
 libctpl-dev
 libctpl-doc
 libctpl2
+libcublas6.0
+libcudart6.0
+libcufft6.0
+libcufftw6.0
+libcuinj32-6.0
+libcuinj64-6.0
 libcunit1
 libcunit1-dev
 libcunit1-dev:i386
@@ -3577,6 +3583,10 @@ libcupsmime1
 libcupsmime1-dev
 libcupsppdc1
 libcupsppdc1-dev
+libcupti-dev
+libcupti-doc
+libcupti6.0
+libcurand6.0
 libcurl3
 libcurl3-dbg
 libcurl3-gnutls
@@ -3588,6 +3598,7 @@ libcurl4-gnutls-dev
 libcurl4-nss-dev
 libcurl4-openssl-dev
 libcurl4-openssl-dev:i386
+libcusparse6.0
 libcv-dev
 libcv-dev:i386
 libcv2.3
@@ -5155,6 +5166,9 @@ libnotify-dev
 libnotify-dev:i386
 libnotify4
 libnotify4:i386
+libnppc6.0
+libnppi6.0
+libnpps6.0
 libnspr4
 libnspr4-0d
 libnspr4-dbg
@@ -5168,6 +5182,9 @@ libnss3-dbg
 libnss3-dev
 libnss3-tools
 libnss3:i386
+libnvblas6.0
+libnvtoolsext1
+libnvvm2
 libobjc-4.8-dev
 libobjc-5-dev
 libobjc-5-dev:i386
@@ -6895,6 +6912,14 @@ ntfs-3g:i386
 ntpdate
 ntpdate:i386
 nunit-console
+nvidia-cuda-dev
+nvidia-cuda-doc
+nvidia-cuda-gdb
+nvidia-cuda-toolkit
+nvidia-nsight
+nvidia-opencl-dev
+nvidia-profiler
+nvidia-visual-profiler
 ocaml
 ocaml-base
 ocaml-base-nox
