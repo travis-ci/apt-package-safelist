@@ -15,6 +15,7 @@ ant:i386
 antiword
 antiword:i386
 antlr
+antlr-doc
 antlr:i386
 apache2
 apache2:i386
@@ -3119,8 +3120,10 @@ libalgorithm-diff-xs-perl
 libalgorithm-diff-xs-perl:i386
 libalgorithm-merge-perl
 libalgorithm-merge-perl:i386
+libantlr-dev
 libantlr-java
 libantlr-java:i386
+libantlr2.7-cil
 libapache-pom-java
 libapache-pom-java:i386
 libapache2-mod-fastcgi
@@ -7288,6 +7291,7 @@ python-all-dbg
 python-all-dev
 python-alsaaudio
 python-alsaaudio:i386
+python-antlr
 python-apt
 python-apt-common
 python-apt-common:i386
