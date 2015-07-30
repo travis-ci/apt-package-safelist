@@ -7278,6 +7278,7 @@ pypy-dev
 pypy-dev:i386
 pypy-doc
 pypy-lib
+pypy-zmq
 pypy:i386
 pyqt4-dev-tools
 pyqt4-dev-tools:i386
@@ -7489,6 +7490,8 @@ python-xy-meta-devel:i386
 python-yaml
 python-zeroc-ice
 python-zeroc-ice:i386
+python-zmq
+python-zmq-dbg
 python-zope.interface
 python-zope.interface:i386
 python2.3
@@ -7587,6 +7590,8 @@ python3-roman
 python3-sphinx
 python3-venv
 python3-xdg
+python3-zmq
+python3-zmq-dbg
 python3.2
 python3.2-dev
 python3.2-dev:i386
