@@ -109,8 +109,6 @@ if [ -z $GITHUB_OAUTH_TOKEN ]; then
 	exit 1
 fi
 git push origin $BRANCH
-git checkout $DEFAULT_BRANCH
-git branch -D $BRANCH
 
 if [ $create_pr > 0 ]; then
 	# bail before creating a pr
@@ -131,3 +129,6 @@ curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "[\"apt-whitelist-check-run\"]" \
 	https://api.github.com/repos/travis-ci/${ISSUE_REPO}/issues/${ISSUE_NUMBER}/labels
+
+git checkout $DEFAULT_BRANCH
+git branch -D $BRANCH
