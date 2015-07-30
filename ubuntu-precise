@@ -6846,6 +6846,8 @@ ncurses-base
 ncurses-base:i386
 ncurses-bin
 ncurses-bin:i386
+ndisc6
+ndisc6-udeb
 net-tools
 net-tools:i386
 netbase
@@ -7693,6 +7695,8 @@ rabbitmq-server:i386
 ragel
 ragel:i386
 raptor2-utils
+rdnssd
+rdnssd-udeb
 re2c
 readline-common
 readline-common:i386
