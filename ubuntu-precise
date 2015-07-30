@@ -7491,6 +7491,7 @@ python-zeroc-ice
 python-zeroc-ice:i386
 python-zope.interface
 python-zope.interface:i386
+python-zsi
 python2.3
 python2.3-dev
 python2.3-dev:i386
