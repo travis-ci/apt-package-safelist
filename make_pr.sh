@@ -12,6 +12,9 @@ EXIT_NOTHING_TO_COMMIT=3
 
 DEFAULT_BRANCH=master
 
+create_pr=0
+has_setuid=0
+
 function notice() {
 	msg=$1
 	echo -e "\n${ANSI_GREEN}${msg}${ANSI_RESET}\n"
@@ -110,7 +113,7 @@ if [ -z $GITHUB_OAUTH_TOKEN ]; then
 fi
 git push origin $BRANCH
 
-if [ $create_pr > 0 ]; then
+if [ $create_pr -le 0 ]; then
 	# bail before creating a pr
 	exit 0
 fi
@@ -120,7 +123,7 @@ COMMENT="Add packages: ${PACKAGES[*]}"
 if [ -n ${TRAVIS_BUILD_ID} ]; then
 	COMMENT="${COMMENT}\n\nSee http://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}."
 fi
-if [ ${has_setuid} > 0 ]; then
+if [ ${has_setuid} -gt 0 ]; then
 	COMMENT="\n\n***NOTE***\n\nThere are setuid/seteuid/setgid bits found. Be sure to check the check build result.\n\n${COMMENT}"
 fi
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
