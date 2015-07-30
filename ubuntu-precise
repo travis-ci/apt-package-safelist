@@ -1177,6 +1177,7 @@ icoutils
 idle
 idle3
 ienglish-common
+ifrench
 ifupdown
 ifupdown:i386
 imagemagick
@@ -6820,6 +6821,7 @@ mumps-test
 munge
 muscle
 muscle:i386
+myspell-fr
 mysql-client
 mysql-client-5.5
 mysql-client-5.5:i386
