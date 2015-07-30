@@ -208,6 +208,7 @@ binutils-doc
 binutils-doc:i386
 binutils-gold
 binutils-hppa64
+binutils-mingw-w64
 binutils-mingw-w64-i686
 binutils-mingw-w64-i686:i386
 binutils-mingw-w64-x86-64
