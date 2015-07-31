@@ -718,6 +718,7 @@ g++-5-multilib
 g++-5-multilib:i386
 g++-5:i386
 g++-arm-linux-gnueabihf
+g++-mingw-w64
 g++-mingw-w64-i686
 g++-mingw-w64-i686:i386
 g++-mingw-w64-x86-64
@@ -795,6 +796,8 @@ gcc-arm-linux-gnueabihf
 gcc-arm-none-eabi
 gcc-doc
 gcc-doc:i386
+gcc-mingw-w64
+gcc-mingw-w64-base
 gcc-mingw-w64-i686
 gcc-mingw-w64-i686:i386
 gcc-mingw-w64-x86-64
@@ -897,6 +900,9 @@ gfortran-5:i386
 gfortran-arm-linux-gnueabihf
 gfortran-doc
 gfortran-doc:i386
+gfortran-mingw-w64
+gfortran-mingw-w64-i686
+gfortran-mingw-w64-x86-64
 gfortran-multilib
 gfortran-multilib:i386
 gfortran-spu
@@ -1010,6 +1016,9 @@ gobjc++-5-multilib
 gobjc++-5-multilib:i386
 gobjc++-5:i386
 gobjc++-arm-linux-gnueabihf
+gobjc++-mingw-w64
+gobjc++-mingw-w64-i686
+gobjc++-mingw-w64-x86-64
 gobjc++-multilib
 gobjc++-multilib:i386
 gobjc++:i386
@@ -1028,6 +1037,9 @@ gobjc-5-multilib
 gobjc-5-multilib:i386
 gobjc-5:i386
 gobjc-arm-linux-gnueabihf
+gobjc-mingw-w64
+gobjc-mingw-w64-i686
+gobjc-mingw-w64-x86-64
 gobjc-multilib
 gobjc-multilib:i386
 gobjc:i386
