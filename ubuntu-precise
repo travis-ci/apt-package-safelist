@@ -4548,6 +4548,8 @@ libkrb5-dev
 libkrb5-dev:i386
 libkrb5support0
 libkrb5support0:i386
+libksba-dev
+libksba8
 libkyotocabinet-dev
 libkyotocabinet16
 libkyotocabinet16-dbg
