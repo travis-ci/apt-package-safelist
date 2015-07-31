@@ -7510,6 +7510,7 @@ python-xcbgen
 python-xdg
 python-xlrd
 python-xlrd:i386
+python-xlwt
 python-xy-meta-devel
 python-xy-meta-devel:i386
 python-yaml
