@@ -7414,6 +7414,8 @@ python-nose:i386
 python-numexpr
 python-numexpr-dbg
 python-numpy
+python-numpy-dbg
+python-numpy-doc
 python-numpy:i386
 python-oauth
 python-oauth:i386
@@ -7590,6 +7592,8 @@ python3-minimal:i386
 python3-nose
 python3-numexpr
 python3-numexpr-dbg
+python3-numpy
+python3-numpy-dbg
 python3-openssl
 python3-pandas
 python3-pandas-lib
