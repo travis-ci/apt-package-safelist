@@ -485,6 +485,7 @@ e2fslibs:i386
 e2fsprogs
 e2fsprogs:i386
 e2tools
+ed
 eject
 eject:i386
 elasticsearch
