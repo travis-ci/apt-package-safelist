@@ -6216,6 +6216,8 @@ libunbound-dev
 libunbound-dev:i386
 libunistring0
 libunistring0:i386
+libunshield-dev
+libunshield0
 liburiparser-dev
 liburiparser1
 libusb-0.1-4
@@ -8209,6 +8211,7 @@ unixodbc-dev:i386
 unixodbc:i386
 unrar
 unrtf
+unshield
 unzip
 unzip:i386
 upstart
