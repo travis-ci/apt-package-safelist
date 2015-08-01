@@ -3523,6 +3523,7 @@ libcilkrts5-dbg:i386
 libcilkrts5:i386
 libck-connector0
 libck-connector0:i386
+libckit-smlnj
 libclamav-dev
 libclamav-dev:i386
 libclang-3.4-dev
@@ -3539,6 +3540,8 @@ libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
 libclustalo-doc:i386
+libcml-smlnj
+libcmlutil-smlnj
 libcoin60-dev
 libcoin60-doc
 libcoin80
@@ -3768,6 +3771,7 @@ libevent-pthreads-2.0-5:i386
 libexempi-dev
 libexempi3
 libexempi3-dbg
+libexene-smlnj
 libexif-dev
 libexif-dev:i386
 libexif12
@@ -4762,6 +4766,8 @@ libmicrohttpd-dev
 libmicrohttpd5
 libminidjvu-dev
 libminidjvu0
+libmlnlffi-smlnj
+libmlrisctools-smlnj
 libmng1
 libmng1:i386
 libmockobjects-java
@@ -5475,6 +5481,7 @@ libperl5.14
 libperl5.14:i386
 libpgm-5.1-0
 libpgm-5.1-0:i386
+libpgraphutil-smlnj
 libphobos-4.8-dev
 libphobos-5-dev
 libphobos-5-dev:i386
@@ -5924,6 +5931,7 @@ libsmi2-common
 libsmi2-dbg
 libsmi2-dev
 libsmi2ldbl
+libsmlnj-smlnj
 libsnappy-dev
 libsnappy-dev:i386
 libsnappy1
@@ -6812,6 +6820,11 @@ mingw32-runtime:i386
 mingw32:i386
 minidjvu
 mksh
+ml-burg
+ml-lex
+ml-lpt
+ml-nlffigen
+ml-yacc
 module-init-tools
 module-init-tools:i386
 mongodb-10gen
@@ -6967,6 +6980,7 @@ notification-daemon
 notification-daemon:i386
 noweb
 nowebm
+nowhere
 nsis
 nsis-common
 nsis-doc
@@ -7888,6 +7902,9 @@ slapd
 smbclient
 smistrip
 smitools
+smlnj
+smlnj-doc
+smlnj-runtime
 sndfile-programs
 sndfile-programs:i386
 snmp-mibs-downloader
