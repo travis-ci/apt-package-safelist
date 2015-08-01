@@ -5088,6 +5088,13 @@ libmuparser-dev
 libmuparser-doc
 libmuparser0debian1
 libmuparser2
+libmygui-dev
+libmygui.ogreplatform0debian1
+libmygui.ogreplatform0debian1-dbg
+libmygui.openglplatform0debian1
+libmygui.openglplatform0debian1-dbg
+libmyguiengine3debian1
+libmyguiengine3debian1-dbg
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
@@ -6881,6 +6888,7 @@ mumps-test
 munge
 muscle
 muscle:i386
+mygui-doc
 myspell-af
 myspell-en-gb
 myspell-en-us
