@@ -6216,6 +6216,13 @@ libunbound-dev
 libunbound-dev:i386
 libunistring0
 libunistring0:i386
+libunwind-dev
+libunwind-setjmp0
+libunwind-setjmp0-dbg
+libunwind-setjmp0-dev
+libunwind8
+libunwind8-dbg
+libunwind8-dev
 liburiparser-dev
 liburiparser1
 libusb-0.1-4
