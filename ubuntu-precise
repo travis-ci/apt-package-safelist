@@ -3410,6 +3410,16 @@ libbsd0
 libbsd0:i386
 libbsf-java
 libbsf-java:i386
+libbullet-dev
+libbullet-doc
+libbullet-extras-dev
+libbullet2.83-dbg
+libbulletcollision2.83
+libbulletdynamics2.83
+libbulletfileloader2.83
+libbulletsoftbody2.83
+libbulletworldimporter2.83
+libbulletxmlworldimporter2.83
 libbz2-1.0
 libbz2-1.0:i386
 libbz2-dev
@@ -3584,6 +3594,7 @@ libconfuse-dev
 libconfuse-dev:i386
 libconfuse0
 libconfuse0:i386
+libconvexdecomposition2.83
 libcoq-ocaml
 libcoq-ocaml-dev
 libcouchbase-dev
@@ -4034,6 +4045,7 @@ libgif-dev
 libgif-dev:i386
 libgif4
 libgif4:i386
+libgimpactutils2.83
 libgirepository-1.0-1
 libgirepository-1.0-1:i386
 libgirepository1.0-dev
@@ -4272,6 +4284,7 @@ libgvc6-plugins-gtk
 libgvpr1
 libgvpr1:i386
 libgvpr2
+libhacd2.83
 libhamcrest-java
 libhamcrest-java:i386
 libhashkit0
@@ -4630,6 +4643,7 @@ libldns-dev:i386
 libldns1
 libldns1:i386
 libleveldb-dev
+liblinearmath2.83
 libllvm-3.4-ocaml-dev
 libllvm2.8
 libllvm2.8:i386
