@@ -1044,6 +1044,7 @@ gobjc-multilib
 gobjc-multilib:i386
 gobjc:i386
 gobject-introspection
+google-mock
 google-perftools
 gpc
 gpc-doc
