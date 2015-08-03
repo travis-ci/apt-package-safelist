@@ -6494,8 +6494,13 @@ libxml2-utils:i386
 libxml2:i386
 libxmlrpc-core-c3
 libxmlrpc-core-c3:i386
+libxmlsec1
 libxmlsec1-dev
 libxmlsec1-dev:i386
+libxmlsec1-gcrypt
+libxmlsec1-gnutls
+libxmlsec1-nss
+libxmlsec1-openssl
 libxmu-dev
 libxmu-dev:i386
 libxmu-headers
@@ -8364,6 +8369,7 @@ xlswriter
 xlswriter:i386
 xml-core
 xml-core:i386
+xmlsec1
 xmlto
 xmlto:i386
 xmltoman
