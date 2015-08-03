@@ -8392,6 +8392,8 @@ xz-utils:i386
 yajl-tools
 yajl-tools:i386
 yasm
+yodl
+yodl-doc
 yubikey-personalization
 yubikey-personalization:i386
 yum
