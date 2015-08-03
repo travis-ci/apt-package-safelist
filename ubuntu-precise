@@ -6212,6 +6212,8 @@ libtinyxml-doc
 libtinyxml2.6.2
 libtinyxml2.6.2-dbg
 libtomcat7-java
+libtomcrypt-dev
+libtomcrypt0
 libtool
 libtool:i386
 libtrang-java
