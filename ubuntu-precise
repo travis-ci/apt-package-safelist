@@ -5098,6 +5098,7 @@ libmygui.openglplatform0debian1
 libmygui.openglplatform0debian1-dbg
 libmyguiengine3debian1
 libmyguiengine3debian1-dbg
+libmyodbc
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
