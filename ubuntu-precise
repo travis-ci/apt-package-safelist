@@ -5088,6 +5088,7 @@ libmuparser-dev
 libmuparser-doc
 libmuparser0debian1
 libmuparser2
+libmyodbc
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
