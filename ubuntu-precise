@@ -5391,6 +5391,10 @@ libopenjpeg5
 libopenjpeg5-dbg
 libopenmpi-dev
 libopenmpi-dev:i386
+libopenscenegraph-dev
+libopenscenegraph100
+libopenthreads-dev
+libopenthreads20
 libopenvg1-mesa
 libopenvg1-mesa-dbg
 libopenvg1-mesa-dbg:i386
@@ -7066,6 +7070,9 @@ openmpi
 openmpi-bin
 openmpi-bin:i386
 openmpi:i386
+openscenegraph
+openscenegraph-doc
+openscenegraph-examples
 openssh-client
 openssh-client:i386
 openssh-server
