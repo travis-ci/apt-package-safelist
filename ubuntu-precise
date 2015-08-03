@@ -4762,6 +4762,8 @@ libmicrohttpd-dev
 libmicrohttpd5
 libminidjvu-dev
 libminidjvu0
+libminiupnpc-dev
+libminiupnpc10
 libmng1
 libmng1:i386
 libmockobjects-java
@@ -6811,6 +6813,7 @@ mingw32-runtime
 mingw32-runtime:i386
 mingw32:i386
 minidjvu
+miniupnpc
 mksh
 module-init-tools
 module-init-tools:i386
@@ -7463,6 +7466,7 @@ python-matplotlib-doc:i386
 python-matplotlib:i386
 python-minimal
 python-minimal:i386
+python-miniupnpc
 python-mysqldb
 python-mysqldb-dbg
 python-nose
