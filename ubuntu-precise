@@ -6235,6 +6235,8 @@ libunbound-dev
 libunbound-dev:i386
 libunistring0
 libunistring0:i386
+libunshield-dev
+libunshield0
 libunwind-dev
 libunwind-setjmp0
 libunwind-setjmp0-dbg
@@ -8255,6 +8257,7 @@ unixodbc-dev:i386
 unixodbc:i386
 unrar
 unrtf
+unshield
 unzip
 unzip:i386
 upstart
