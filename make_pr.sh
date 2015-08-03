@@ -15,8 +15,6 @@ DEFAULT_BRANCH=master
 create_pr=0
 has_setuid=0
 
-labels='["apt-whitelist-check-run"]'
-
 function notice() {
 	msg=$1
 	echo -e "\n${ANSI_GREEN}${msg}${ANSI_RESET}\n"
@@ -127,13 +125,12 @@ if [ -n ${TRAVIS_BUILD_ID} ]; then
 fi
 if [ ${has_setuid} -gt 0 ]; then
 	COMMENT="\n\n***NOTE***\n\nThere are setuid/seteuid/setgid bits found. Be sure to check the check build result.\n\n${COMMENT}"
-	labels='["apt-whitelist-check-run","texual-suid-present"]'
 fi
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
 	https://api.github.com/repos/travis-ci/apt-package-whitelist/pulls
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
-	-d $labels \
+	-d "[\"apt-whitelist-check-run\"]" \
 	https://api.github.com/repos/travis-ci/${ISSUE_REPO}/issues/${ISSUE_NUMBER}/labels
 
 git checkout $DEFAULT_BRANCH
