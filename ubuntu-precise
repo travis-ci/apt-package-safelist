@@ -323,6 +323,7 @@ clang-format-3.7
 clang-format-3.7:i386
 clang-modernize-3.4
 clang:i386
+clearsilver-dev
 clustalo
 clustalo:i386
 clustalw
@@ -3532,6 +3533,7 @@ libclang1-3.4
 libclang1-3.4-dbg
 libclass-isa-perl
 libclass-isa-perl:i386
+libclearsilver-perl
 libcln-dev
 libcln6
 libcloog-isl4
@@ -7432,6 +7434,7 @@ python-bzrlib
 python-bzrlib:i386
 python-cheetah
 python-clang-3.4
+python-clearsilver
 python-configobj
 python-configobj:i386
 python-crypto
