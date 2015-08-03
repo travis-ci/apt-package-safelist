@@ -6863,6 +6863,7 @@ mount
 mount:i386
 mountall
 mountall:i386
+mp3gain
 mplayer
 mplayer-dbg
 mplayer-dbg:i386
