@@ -7005,6 +7005,8 @@ octave-dbg
 octave-doc
 octave-htmldoc
 octave-info
+odbc-postgresql
+odbc-postgresql-dbg
 odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
