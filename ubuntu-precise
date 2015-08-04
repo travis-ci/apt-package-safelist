@@ -1076,6 +1076,11 @@ gridengine-master
 groff
 groff-base
 groff-base:i386
+gromacs
+gromacs-data
+gromacs-dev
+gromacs-mpich
+gromacs-openmpi
 groovy
 groovy:i386
 gs-cjk-resource
