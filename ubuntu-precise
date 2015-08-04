@@ -488,6 +488,7 @@ e2fslibs:i386
 e2fsprogs
 e2fsprogs:i386
 e2tools
+eatmydata
 ed
 eject
 eject:i386
@@ -3729,6 +3730,7 @@ libdw-dev
 libdw-dev:i386
 libdw1
 libdw1:i386
+libeatmydata1
 libecm-dev
 libecm0
 libedit-dev
