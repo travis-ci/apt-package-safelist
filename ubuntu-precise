@@ -4214,6 +4214,9 @@ libgraphicsmagick3
 libgraphviz-dev
 libgraphviz-dev:i386
 libgraphviz4
+libgrib-api-dev
+libgrib-api-tools
+libgrib-api0
 libgs9
 libgs9-common
 libgs9-common:i386
