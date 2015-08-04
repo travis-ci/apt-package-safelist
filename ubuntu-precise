@@ -1144,6 +1144,7 @@ highlight-common
 hlint
 hostname
 hostname:i386
+hspell
 html2text
 html2text:i386
 htmldoc
@@ -6936,6 +6937,7 @@ myspell-en-us
 myspell-en-za
 myspell-fa
 myspell-fr
+myspell-he
 myspell-it
 myspell-pt
 myspell-pt-pt
