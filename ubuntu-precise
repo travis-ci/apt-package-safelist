@@ -336,10 +336,20 @@ cmap-adobe-japan1
 cmap-adobe-japan1:i386
 coffeescript
 coffeescript-doc
+coinor-cbc
+coinor-clp
+coinor-libcbc-dev
+coinor-libcbc-doc
+coinor-libcbc3
+coinor-libcbc3-dbg
 coinor-libcgl-dev
 coinor-libcgl-doc
 coinor-libcgl1
 coinor-libcgl1-dbg
+coinor-libclp-dev
+coinor-libclp-doc
+coinor-libclp1
+coinor-libclp1-dbg
 collectd
 collectd-core
 collectd-core:i386
@@ -1272,6 +1282,7 @@ isc-dhcp-common
 isc-dhcp-common:i386
 iso-codes
 iso-codes:i386
+ispanish
 ispell
 iverilog
 iverilog:i386
@@ -5192,6 +5203,9 @@ libnetcdf-dev
 libnetcdf-dev:i386
 libnetcdf6
 libnetcdf6:i386
+libnetfilter-conntrack-dev
+libnetfilter-conntrack3
+libnetfilter-conntrack3-dbg
 libnetpbm10
 libnetpbm10-dev
 libnetpbm10:i386
@@ -6267,6 +6281,8 @@ libunwind-setjmp0-dev
 libunwind8
 libunwind8-dbg
 libunwind8-dev
+liburcu-dev
+liburcu2
 liburiparser-dev
 liburiparser1
 libusb++-0.1-4c2
@@ -6949,6 +6965,7 @@ myspell-en-au
 myspell-en-gb
 myspell-en-us
 myspell-en-za
+myspell-es
 myspell-fa
 myspell-fr
 myspell-he
