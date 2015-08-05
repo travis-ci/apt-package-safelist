@@ -8325,8 +8325,15 @@ vde2
 vde2:i386
 verilator
 vim
+vim-athena
 vim-common
 vim-common:i386
+vim-dbg
+vim-doc
+vim-gnome
+vim-gtk
+vim-gui-common
+vim-nox
 vim-runtime
 vim-runtime:i386
 vim-tiny
