@@ -1268,6 +1268,7 @@ isc-dhcp-common
 isc-dhcp-common:i386
 iso-codes
 iso-codes:i386
+ispanish
 ispell
 iverilog
 iverilog:i386
@@ -6945,6 +6946,7 @@ myspell-en-au
 myspell-en-gb
 myspell-en-us
 myspell-en-za
+myspell-es
 myspell-fa
 myspell-fr
 myspell-he
