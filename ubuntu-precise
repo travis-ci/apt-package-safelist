@@ -3880,7 +3880,10 @@ libfreexl1
 libfreexl1:i386
 libfreeze34
 libfreeze34:i386
+libfribidi-bin
+libfribidi-dev
 libfribidi0
+libfribidi0-udeb
 libfribidi0:i386
 libftdi-dev
 libftdi1
