@@ -336,6 +336,11 @@ cmap-adobe-japan1
 cmap-adobe-japan1:i386
 coffeescript
 coffeescript-doc
+coinor-cbc
+coinor-libcbc-dev
+coinor-libcbc-doc
+coinor-libcbc3
+coinor-libcbc3-dbg
 collectd
 collectd-core
 collectd-core:i386
