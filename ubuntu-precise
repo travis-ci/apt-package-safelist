@@ -6263,6 +6263,8 @@ libunwind-setjmp0-dev
 libunwind8
 libunwind8-dbg
 libunwind8-dev
+liburcu-dev
+liburcu2
 liburiparser-dev
 liburiparser1
 libusb++-0.1-4c2
