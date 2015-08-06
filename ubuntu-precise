@@ -5081,6 +5081,8 @@ libmono-winforms2.0-cil
 libmono-winforms2.0-cil:i386
 libmono2.0-cil
 libmono2.0-cil:i386
+libmonogame-cil
+libmonogame-cil-dev
 libmount1
 libmount1:i386
 libmozjs185-1.0
@@ -6930,10 +6932,12 @@ mono-utils
 mono-utils:i386
 mono-xbuild
 mono-xbuild:i386
+monodevelop-monogame
 monodoc-base
 monodoc-base:i386
 monodoc-manual
 monodoc-manual:i386
+monodoc-monogame-manual
 mopidy
 mopidy:i386
 moreutils
