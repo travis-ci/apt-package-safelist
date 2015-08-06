@@ -6317,6 +6317,15 @@ libvips-dev
 libvips-doc
 libvips-tools
 libvips38
+libvirt-bin
+libvirt-clients
+libvirt-daemon
+libvirt-daemon-system
+libvirt-dev
+libvirt-doc
+libvirt-sanlock
+libvirt0
+libvirt0-dbg
 libvlc-dev
 libvlc-dev:i386
 libvlc5
