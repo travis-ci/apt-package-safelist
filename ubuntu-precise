@@ -997,6 +997,7 @@ gir1.2-soup-2.4
 git
 git-man
 git-man:i386
+git-merge-changelog
 git-svn
 git:i386
 gloo
@@ -1014,6 +1015,7 @@ gnat-5
 gnat-5-doc
 gnat-5-doc:i386
 gnat-5:i386
+gnulib
 gnupg
 gnupg:i386
 gnutls-bin
