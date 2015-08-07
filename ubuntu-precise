@@ -6332,6 +6332,11 @@ libvorbisenc2
 libvorbisenc2:i386
 libvorbisfile3
 libvorbisfile3:i386
+libvtk-java
+libvtk5-dev
+libvtk5-qt4-dev
+libvtk5.8
+libvtk5.8-qt4
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
@@ -8028,6 +8033,7 @@ tar:i386
 tcl
 tcl-dev
 tcl-dev:i386
+tcl-vtk
 tcl8.5
 tcl8.5-dev
 tcl8.5-dev:i386
@@ -8365,6 +8371,8 @@ vlc-plugin-zvbi
 vlc-plugin-zvbi:i386
 vlc:i386
 vorbis-tools
+vtk-doc
+vtk-examples
 wamerican
 wamerican:i386
 wammu
