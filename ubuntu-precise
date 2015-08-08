@@ -6360,6 +6360,7 @@ libwrap0
 libwrap0-dev
 libwrap0-dev:i386
 libwrap0:i386
+libwww-perl
 libwxbase2.8-0
 libwxbase2.8-dbg
 libwxbase2.8-dev
