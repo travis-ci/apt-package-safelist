@@ -4518,6 +4518,7 @@ libilmbase6
 libilmbase6:i386
 libimage-exiftool-perl
 libio-pty-perl
+libio-string-perl
 libiodbc2
 libiodbc2-dev
 libiodbc2-dev:i386
