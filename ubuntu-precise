@@ -292,6 +292,7 @@ chroot
 chroot:i386
 chrpath
 chrpath:i386
+cjk-latex
 clang
 clang-3.3
 clang-3.3-doc
@@ -2999,6 +3000,12 @@ language-pack-zu
 language-pack-zu-base
 language-pack-zu-base:i386
 language-pack-zu:i386
+latex-cjk-all
+latex-cjk-chinese
+latex-cjk-common
+latex-cjk-japanese
+latex-cjk-korean
+latex-cjk-thai
 latex-xcolor
 latex2html
 latexmk
