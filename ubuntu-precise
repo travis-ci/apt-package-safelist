@@ -292,6 +292,7 @@ chroot
 chroot:i386
 chrpath
 chrpath:i386
+cjk-latex
 clang
 clang-3.3
 clang-3.3-doc
@@ -1157,6 +1158,7 @@ hdparm
 hdparm:i386
 heirloom-mailx
 help2man
+heroku-toolbelt
 hicolor-icon-theme
 hicolor-icon-theme:i386
 highlight
@@ -2998,6 +3000,12 @@ language-pack-zu
 language-pack-zu-base
 language-pack-zu-base:i386
 language-pack-zu:i386
+latex-cjk-all
+latex-cjk-chinese
+latex-cjk-common
+latex-cjk-japanese
+latex-cjk-korean
+latex-cjk-thai
 latex-xcolor
 latex2html
 latexmk
@@ -3880,7 +3888,10 @@ libfreexl1
 libfreexl1:i386
 libfreeze34
 libfreeze34:i386
+libfribidi-bin
+libfribidi-dev
 libfribidi0
+libfribidi0-udeb
 libfribidi0:i386
 libftdi-dev
 libftdi1
@@ -4517,6 +4528,7 @@ libilmbase6
 libilmbase6:i386
 libimage-exiftool-perl
 libio-pty-perl
+libio-string-perl
 libiodbc2
 libiodbc2-dev
 libiodbc2-dev:i386
@@ -5080,6 +5092,8 @@ libmono-winforms2.0-cil
 libmono-winforms2.0-cil:i386
 libmono2.0-cil
 libmono2.0-cil:i386
+libmonogame-cil
+libmonogame-cil-dev
 libmount1
 libmount1:i386
 libmozjs185-1.0
@@ -5828,6 +5842,9 @@ libscrypt0
 libsctp1
 libsctp1:i386
 libsdl-image1.2-dev
+libsdl-net1.2
+libsdl-net1.2-dbg
+libsdl-net1.2-dev
 libsdl-ttf2.0-0
 libsdl-ttf2.0-dev
 libsdl1.2-dbg
@@ -6361,6 +6378,7 @@ libwrap0
 libwrap0-dev
 libwrap0-dev:i386
 libwrap0:i386
+libwww-perl
 libwxbase2.8-0
 libwxbase2.8-dbg
 libwxbase2.8-dev
@@ -6391,6 +6409,9 @@ libx32go4-dbg
 libx32objc-4.8-dev
 libx32stdc++-4.8-dev
 libx32stdc++6-4.8-dbg
+libxapian-dev
+libxapian22v5
+libxapian22v5-dbg
 libxatracker-dev
 libxatracker-dev:i386
 libxatracker1
@@ -6931,10 +6952,12 @@ mono-utils
 mono-utils:i386
 mono-xbuild
 mono-xbuild:i386
+monodevelop-monogame
 monodoc-base
 monodoc-base:i386
 monodoc-manual
 monodoc-manual:i386
+monodoc-monogame-manual
 mopidy
 mopidy:i386
 moreutils
@@ -8327,8 +8350,15 @@ vde2
 vde2:i386
 verilator
 vim
+vim-athena
 vim-common
 vim-common:i386
+vim-dbg
+vim-doc
+vim-gnome
+vim-gtk
+vim-gui-common
+vim-nox
 vim-runtime
 vim-runtime:i386
 vim-tiny
@@ -8422,6 +8452,9 @@ x11proto-xf86vidmode-dev:i386
 x11proto-xinerama-dev
 x11proto-xinerama-dev:i386
 x264
+xapian-doc
+xapian-examples
+xapian-tools
 xauth
 xauth:i386
 xbase-clients
@@ -8450,6 +8483,7 @@ xlswriter:i386
 xml-core
 xml-core:i386
 xmlsec1
+xmlstarlet
 xmlto
 xmlto:i386
 xmltoman

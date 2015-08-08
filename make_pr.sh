@@ -124,7 +124,7 @@ if [ -n ${TRAVIS_BUILD_ID} ]; then
 	COMMENT="${COMMENT}\n\nSee http://travis-ci.org/${TRAVIS_REPO_SLUG}/builds/${TRAVIS_BUILD_ID}."
 fi
 if [ ${has_setuid} -gt 0 ]; then
-	COMMENT="\n\n***NOTE***\n\nThere are setuid/seteuid/setgid bits found. Be sure to check the check build result.\n\n${COMMENT}"
+	COMMENT="\n\n***NOTE***\n\nsetuid/seteuid/setgid bits were found. Be sure to check the build result.\n\n${COMMENT}"
 fi
 curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
