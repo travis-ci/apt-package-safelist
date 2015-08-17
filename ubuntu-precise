@@ -5316,6 +5316,8 @@ libode-dev
 libode-sp-dev
 libode1
 libode1sp
+libogg-dbg
+libogg-dev
 libogg0
 libogg0:i386
 libois-1.3.0
