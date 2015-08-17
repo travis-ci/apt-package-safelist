@@ -5094,6 +5094,10 @@ libmono2.0-cil
 libmono2.0-cil:i386
 libmonogame-cil
 libmonogame-cil-dev
+libmosquitto-dev
+libmosquitto1
+libmosquittopp-dev
+libmosquittopp1
 libmount1
 libmount1:i386
 libmozjs185-1.0
@@ -6961,6 +6965,9 @@ monodoc-monogame-manual
 mopidy
 mopidy:i386
 moreutils
+mosquitto
+mosquitto-clients
+mosquitto-dbg
 mount
 mount:i386
 mountall
@@ -7578,6 +7585,7 @@ python-matplotlib:i386
 python-minimal
 python-minimal:i386
 python-miniupnpc
+python-mosquitto
 python-mysqldb
 python-mysqldb-dbg
 python-nose
@@ -7763,6 +7771,7 @@ python3-markupsafe
 python3-markupsafe-dbg
 python3-minimal
 python3-minimal:i386
+python3-mosquitto
 python3-nose
 python3-numexpr
 python3-numexpr-dbg
