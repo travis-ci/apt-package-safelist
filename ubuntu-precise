@@ -390,6 +390,7 @@ cpp-4.6-arm-linux-gnueabihf
 cpp-4.6-arm-linux-gnueabihf:i386
 cpp-4.6:i386
 cpp-4.8
+cpp-4.9-arm-linux-gnueabi
 cpp-5
 cpp-5-doc
 cpp-5-doc:i386
@@ -729,6 +730,7 @@ g++-4.8-multilib
 g++-4.8-multilib:i386
 g++-4.8:i386
 g++-4.9
+g++-4.9-arm-linux-gnueabi
 g++-4.9:i386
 g++-5
 g++-5-multilib
@@ -790,6 +792,7 @@ gcc-4.8-plugin-dev
 gcc-4.8-source
 gcc-4.8:i386
 gcc-4.9
+gcc-4.9-arm-linux-gnueabi
 gcc-4.9-multilib
 gcc-4.9-multilib:i386
 gcc-4.9:i386
@@ -911,6 +914,7 @@ gfortran-4.7
 gfortran-4.8
 gfortran-4.8-multilib
 gfortran-4.9
+gfortran-4.9-arm-linux-gnueabi
 gfortran-5
 gfortran-5-doc
 gfortran-5-doc:i386
