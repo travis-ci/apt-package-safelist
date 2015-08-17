@@ -6601,7 +6601,9 @@ libxmuu-dev
 libxmuu1
 libxmuu1-dbg
 libxmuu1:i386
+libxpm-dev
 libxpm4
+libxpm4-dbg
 libxpm4:i386
 libxpp3-java
 libxpp3-java:i386
@@ -8492,6 +8494,7 @@ xorg-dev
 xorg-sgml-doctools
 xorg-sgml-doctools:i386
 xpdf
+xpmutils
 xsdcxx
 xserver-common
 xserver-common:i386
