@@ -7999,6 +7999,7 @@ shellcheck
 shiboken
 shiboken-dbg
 shiboken-doc
+shntool
 slapd
 smbclient
 smistrip
