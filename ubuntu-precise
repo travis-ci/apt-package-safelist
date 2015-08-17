@@ -7462,6 +7462,7 @@ pulseaudio-utils-dbg
 pulseaudio-utils-dbg:i386
 pulseaudio-utils:i386
 pulseaudio:i386
+pv
 pvlib
 pvlib:i386
 pwgen
