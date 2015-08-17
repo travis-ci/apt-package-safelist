@@ -603,6 +603,7 @@ espeak-data
 espeak-data-udeb
 espeak-dbg
 exiv2
+expat
 expect
 expect-dev
 expect-dev:i386
@@ -3122,6 +3123,8 @@ lib64cilkrts5
 lib64cilkrts5-dbg
 lib64cilkrts5-dbg:i386
 lib64cilkrts5:i386
+lib64expat1
+lib64expat1-dev
 lib64gcc-4.8-dev
 lib64gcc-5-dev
 lib64gcc-5-dev:i386
@@ -3816,6 +3819,7 @@ libexiv2-doc
 libexpat1
 libexpat1-dev
 libexpat1-dev:i386
+libexpat1-udeb
 libexpat1:i386
 libfaad-dev
 libfaad2
