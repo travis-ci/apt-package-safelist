@@ -1125,6 +1125,7 @@ gstreamer0.10-x
 gstreamer1.0-doc
 gstreamer1.0-tools
 gtk-3-examples
+gtk-doc-tools
 guile-1.8-libs
 guile-1.8-libs:i386
 gvfs
