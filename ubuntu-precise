@@ -988,6 +988,7 @@ gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
+gir1.2-gtksource-3.0
 gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-poppler-0.18
@@ -4297,6 +4298,10 @@ libgtk2.0-common
 libgtk2.0-common:i386
 libgtk2.0-dev
 libgtk2.0-dev:i386
+libgtksourceview-3.0-1
+libgtksourceview-3.0-common
+libgtksourceview-3.0-dev
+libgtksourceview-3.0-doc
 libgudev-1.0-0
 libgudev-1.0-0:i386
 libgudev-1.0-dev
