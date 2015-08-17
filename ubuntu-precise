@@ -4603,6 +4603,7 @@ libjline-java
 libjline-java:i386
 libjpeg-dev
 libjpeg-dev:i386
+libjpeg-progs
 libjpeg-turbo-progs
 libjpeg-turbo-progs:i386
 libjpeg-turbo-test
@@ -4620,6 +4621,9 @@ libjpeg8
 libjpeg8-dev
 libjpeg8-dev:i386
 libjpeg8:i386
+libjpeg9
+libjpeg9-dbg
+libjpeg9-dev
 libjs-coffeescript
 libjs-jquery
 libjs-jquery:i386
