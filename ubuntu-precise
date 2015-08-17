@@ -7733,6 +7733,7 @@ python-xlwt
 python-xy-meta-devel
 python-xy-meta-devel:i386
 python-yaml
+python-yaml-dbg
 python-zeroc-ice
 python-zeroc-ice:i386
 python-zmq
@@ -7842,6 +7843,8 @@ python3-sphinx
 python3-venv
 python3-virtualenv
 python3-xdg
+python3-yaml
+python3-yaml-dbg
 python3-zmq
 python3-zmq-dbg
 python3.2
