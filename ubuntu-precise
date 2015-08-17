@@ -1297,6 +1297,7 @@ java-wrappers
 java-wrappers:i386
 jemboss
 jemboss:i386
+jimsh
 jing
 jing-trang-doc
 jsvc
@@ -4582,6 +4583,8 @@ libjhdf4-java
 libjhdf4-jni
 libjhdf5-java
 libjhdf5-jni
+libjim-dev
+libjim0.76
 libjing-java
 libjline-java
 libjline-java:i386
