@@ -461,6 +461,10 @@ debianutils
 debianutils:i386
 debootstrap
 debootstrap:i386
+default-jdk
+default-jdk-doc
+default-jre
+default-jre-headless
 devscripts
 devscripts:i386
 dh-apparmor
@@ -871,6 +875,7 @@ gcj-jre
 gcj-jre-headless
 gcj-jre-headless:i386
 gcj-jre:i386
+gcj-native-helper
 gconf-defaults-service
 gconf-gsettings-backend
 gconf-service
