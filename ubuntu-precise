@@ -8126,6 +8126,7 @@ tcl8.5-dev
 tcl8.5-dev:i386
 tcl8.5:i386
 tcl:i386
+tcllib
 tclmagick
 tcpd
 tcpd:i386
