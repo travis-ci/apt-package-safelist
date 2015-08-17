@@ -468,6 +468,7 @@ diffstat
 diffstat:i386
 diffutils
 diffutils:i386
+dirmngr
 discount
 djview
 djview3
@@ -1016,6 +1017,9 @@ gnat-5-doc
 gnat-5-doc:i386
 gnat-5:i386
 gnupg
+gnupg-agent
+gnupg2
+gnupg2-dbg
 gnupg:i386
 gnutls-bin
 gnutls-doc
@@ -1071,7 +1075,9 @@ gpc-doc
 gpc-doc:i386
 gpc:i386
 gperf
+gpgsm
 gpgv
+gpgv2
 gpgv:i386
 graphicsmagick
 graphicsmagick-dbg
@@ -7979,6 +7985,7 @@ sasl2-bin
 scala
 scala-doc
 scala-library
+scdaemon
 scikits.timeseries
 scikits.timeseries:i386
 scons
