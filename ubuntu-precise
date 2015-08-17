@@ -170,6 +170,7 @@ aspell-xh:i386
 aspell-zu
 aspell-zu:i386
 aspell:i386
+astyle
 asymptote
 asymptote-doc
 attr
@@ -3275,6 +3276,9 @@ libaspell-dev
 libaspell-dev:i386
 libaspell15
 libaspell15:i386
+libastyle-dev
+libastyle0debian0
+libastylej-jni
 libasyncns0
 libasyncns0:i386
 libatasmart4
