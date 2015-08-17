@@ -695,6 +695,8 @@ fonts-takao-mincho:i386
 fonts-takao-pgothic
 fonts-takao-pgothic:i386
 fonts-texgyre
+fop
+fop-doc
 freeglut3
 freeglut3-dev
 freeglut3-dev:i386
@@ -3874,6 +3876,7 @@ libfontenc1:i386
 libfontforge-dev
 libfontforge1
 libfontforge1:i386
+libfop-java
 libfreeimage-dev
 libfreeimage-dev:i386
 libfreeimage3
