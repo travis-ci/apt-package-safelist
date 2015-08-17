@@ -6360,6 +6360,8 @@ libvtkgdcm2-dev
 libvtkgdcm2-dev:i386
 libvtkgdcm2.0
 libvtkgdcm2.0:i386
+libwavpack-dev
+libwavpack1
 libwbclient-dev
 libwbclient-dev:i386
 libwbclient0
@@ -8394,6 +8396,7 @@ wamerican
 wamerican:i386
 wammu
 wammu:i386
+wavpack
 wcslib-dev
 wget
 wget:i386
