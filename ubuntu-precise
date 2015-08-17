@@ -428,6 +428,7 @@ dash
 dash:i386
 db-util
 db-util:i386
+dblatex
 dbus
 dbus-x11
 dbus-x11:i386
