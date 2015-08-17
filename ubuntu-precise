@@ -5582,6 +5582,9 @@ libphononexperimental-dev
 libphononexperimental-dev:i386
 libphononexperimental4
 libphononexperimental4:i386
+libphysfs-dev
+libphysfs1
+libphysfs1-dbg
 libpipeline-dev
 libpipeline1
 libpipeline1:i386
