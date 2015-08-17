@@ -7837,6 +7837,7 @@ python3-scipy-dbg
 python3-setuptools
 python3-sphinx
 python3-venv
+python3-virtualenv
 python3-xdg
 python3-zmq
 python3-zmq-dbg
@@ -8403,6 +8404,7 @@ vim-tiny:i386
 vim:i386
 vincent
 vincent:i386
+virtualenv
 vlc
 vlc-data
 vlc-data:i386
