@@ -6846,6 +6846,7 @@ login
 login:i386
 logrotate
 logrotate:i386
+lrzip
 lsb-base
 lsb-base:i386
 lsb-release
