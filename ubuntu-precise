@@ -6367,6 +6367,10 @@ libvorbisenc2
 libvorbisenc2:i386
 libvorbisfile3
 libvorbisfile3:i386
+libvpx-dev
+libvpx-doc
+libvpx2
+libvpx2-dbg
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
@@ -8415,6 +8419,7 @@ vlc-plugin-zvbi
 vlc-plugin-zvbi:i386
 vlc:i386
 vorbis-tools
+vpx-tools
 wamerican
 wamerican:i386
 wammu
