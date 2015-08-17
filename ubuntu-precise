@@ -7503,6 +7503,8 @@ pypy-dev
 pypy-dev:i386
 pypy-doc
 pypy-lib
+pypy-pkg-resources
+pypy-setuptools
 pypy-zmq
 pypy:i386
 pyqt4-dev-tools
@@ -7694,6 +7696,9 @@ python-scipy-doc
 python-scipy:i386
 python-serial
 python-serial:i386
+python-setuptools
+python-setuptools-doc
+python-setuptools-whl
 python-simplejson
 python-simplejson:i386
 python-software-properties
@@ -7829,6 +7834,7 @@ python3-requests
 python3-roman
 python3-scipy
 python3-scipy-dbg
+python3-setuptools
 python3-sphinx
 python3-venv
 python3-xdg
