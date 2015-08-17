@@ -663,6 +663,7 @@ fixincludes
 fixincludes:i386
 flac
 flac:i386
+flann-doc
 flashplugin-downloader
 flashplugin-downloader:i386
 flashplugin-installer
@@ -3863,6 +3864,8 @@ libflac-doc
 libflac-doc:i386
 libflac8
 libflac8:i386
+libflann-dev
+libflann1.8
 libfluidsynth-dev
 libfluidsynth1
 libfontconfig1
