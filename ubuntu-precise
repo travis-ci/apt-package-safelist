@@ -5750,6 +5750,9 @@ libqt5quick5
 libqt5quickparticles5
 libqt5quicktest5
 libqt5quickwidgets5
+libqt5svg5
+libqt5svg5-dev
+libqt5svg5-private-dev
 libqtcore4
 libqtcore4:i386
 libqtgui4
@@ -7861,6 +7864,10 @@ qtdeclarative5-doc-html
 qtdeclarative5-examples
 qtdeclarative5-private-dev
 qtscript5-doc
+qtsvg5-dbg
+qtsvg5-doc
+qtsvg5-doc-html
+qtsvg5-examples
 qttools5-dbg
 qttools5-dev
 qttools5-dev-tools
