@@ -190,6 +190,7 @@ automake:i386
 autopoint
 autotools-dev
 autotools-dev:i386
+avr-libc
 awesome
 base-files
 base-files:i386
