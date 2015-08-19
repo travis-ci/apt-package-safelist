@@ -8593,6 +8593,7 @@ xserver-xorg-dev
 xserver-xorg-input-all
 xserver-xorg-lts-precise
 xserver-xorg-video-all
+xserver-xorg-video-dummy
 xsltproc
 xterm
 xterm:i386
