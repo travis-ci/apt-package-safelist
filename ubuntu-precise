@@ -1017,6 +1017,8 @@ git-man
 git-man:i386
 git-svn
 git:i386
+glade-gnome
+glade-gtk2
 gloo
 gloo:i386
 glpk
@@ -4135,6 +4137,8 @@ libgl1-mesa-swx11-dev:i386
 libgl1-mesa-swx11:i386
 libglacier2-34
 libglacier2-34:i386
+libgladeui-1-11
+libgladeui-1-dev
 libglapi-mesa
 libglapi-mesa-dbg
 libglapi-mesa-dbg:i386
