@@ -3240,6 +3240,13 @@ libapp-nopaste-perl:i386
 libapr1
 libapr1:i386
 libaprutil1
+libaprutil1-dbd-mysql
+libaprutil1-dbd-odbc
+libaprutil1-dbd-pgsql
+libaprutil1-dbd-sqlite3
+libaprutil1-dbg
+libaprutil1-dev
+libaprutil1-ldap
 libaprutil1:i386
 libapt-inst1.4
 libapt-inst1.4:i386
