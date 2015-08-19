@@ -6763,6 +6763,13 @@ libzmq3
 libzmq3-dev
 libzmq3-dev:i386
 libzmq3:i386
+libzookeeper-java
+libzookeeper-java-doc
+libzookeeper-mt-dev
+libzookeeper-mt2
+libzookeeper-st-dev
+libzookeeper-st2
+libzookeeper2
 libzzip-0-13
 libzzip-dev
 lintian
@@ -7775,6 +7782,7 @@ python-zeroc-ice
 python-zeroc-ice:i386
 python-zmq
 python-zmq-dbg
+python-zookeeper
 python-zope.interface
 python-zope.interface:i386
 python-zsi
@@ -8630,6 +8638,9 @@ zlib1g-dev
 zlib1g-dev:i386
 zlib1g-udeb
 zlib1g:i386
+zookeeper
+zookeeper-bin
+zookeeperd
 zsh
 zsh:i386
 zziplib-bin
