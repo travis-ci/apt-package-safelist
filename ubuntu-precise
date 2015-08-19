@@ -424,6 +424,7 @@ cups-server-common
 curl
 curl-udeb
 curl:i386
+cx-freeze
 cyrus-sasl2-dbg
 cyrus-sasl2-doc
 cyrus-sasl2-heimdal-dbg
