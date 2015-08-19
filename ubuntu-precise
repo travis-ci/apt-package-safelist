@@ -5182,6 +5182,7 @@ libmuparser-dev
 libmuparser-doc
 libmuparser0debian1
 libmuparser2
+libmupdf-dev
 libmygui-dev
 libmygui.ogreplatform0debian1
 libmygui.ogreplatform0debian1-dbg
@@ -7049,6 +7050,8 @@ multiarch-support
 multiarch-support:i386
 mumps-test
 munge
+mupdf
+mupdf-tools
 muscle
 muscle:i386
 mygui-doc
