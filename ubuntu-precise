@@ -3238,6 +3238,8 @@ libapache2-mod-php5filter:i386
 libapp-nopaste-perl
 libapp-nopaste-perl:i386
 libapr1
+libapr1-dbg
+libapr1-dev
 libapr1:i386
 libaprutil1
 libaprutil1:i386
