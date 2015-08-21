@@ -5807,6 +5807,8 @@ libqt5quickwidgets5
 libqt5svg5
 libqt5svg5-dev
 libqt5svg5-private-dev
+libqt5webkit5-dev
+libqt5webkit5-dev:i386
 libqtcore4
 libqtcore4:i386
 libqtgui4
@@ -7936,6 +7938,7 @@ qtbubblelevel
 qtdeclarative5-dbg
 qtdeclarative5-dev
 qtdeclarative5-dev-tools
+qtdeclarative5-dev:i386
 qtdeclarative5-doc
 qtdeclarative5-doc-html
 qtdeclarative5-examples
