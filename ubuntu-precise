@@ -6301,6 +6301,7 @@ libthai0
 libthai0:i386
 libtidy
 libtidy:i386
+libtidy-dev
 libtiff-doc
 libtiff-opengl
 libtiff-tools
