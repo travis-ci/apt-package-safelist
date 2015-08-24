@@ -5334,6 +5334,8 @@ libnss3-dbg
 libnss3-dev
 libnss3-tools
 libnss3:i386
+liboath-dev
+liboath0
 libobjc-4.8-dev
 libobjc-5-dev
 libobjc-5-dev:i386
@@ -5559,6 +5561,7 @@ libpam-modules
 libpam-modules-bin
 libpam-modules-bin:i386
 libpam-modules:i386
+libpam-oath
 libpam-runtime
 libpam-runtime:i386
 libpam-smbpass
@@ -7186,6 +7189,8 @@ ntfs-3g:i386
 ntpdate
 ntpdate:i386
 nunit-console
+oath-dbg
+oathtool
 ocaml
 ocaml-base
 ocaml-base-nox
