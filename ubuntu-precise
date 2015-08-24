@@ -20,6 +20,7 @@ antlr:i386
 apache2
 apache2:i386
 apt
+apt-doc
 apt-transport-https
 apt-transport-https:i386
 apt-utils
@@ -3243,8 +3244,12 @@ libaprutil1
 libaprutil1:i386
 libapt-inst1.4
 libapt-inst1.4:i386
+libapt-inst1.7
+libapt-pkg-dev
+libapt-pkg-doc
 libapt-pkg4.12
 libapt-pkg4.12:i386
+libapt-pkg4.16
 libarchive-dev
 libarchive-dev:i386
 libarchive12
