@@ -3790,6 +3790,9 @@ libdw1:i386
 libeatmydata1
 libecm-dev
 libecm0
+libecpg-compat3
+libecpg-dev
+libecpg6
 libedit-dev
 libedit-dev:i386
 libedit2
@@ -5608,6 +5611,7 @@ libperl5.14
 libperl5.14:i386
 libpgm-5.1-0
 libpgm-5.1-0:i386
+libpgtypes3
 libphobos-4.8-dev
 libphobos-5-dev
 libphobos-5-dev:i386
@@ -7415,6 +7419,7 @@ postgis-doc
 postgresql-9.0-plv8
 postgresql-9.0-plv8:i386
 postgresql-9.1
+postgresql-9.1-dbg
 postgresql-9.1-plv8
 postgresql-9.1-plv8:i386
 postgresql-9.1-postgis-2.1
@@ -7483,14 +7488,19 @@ postgresql-contrib-9.4
 postgresql-contrib-9.4:i386
 postgresql-contrib-9.5
 postgresql-contrib-9.5:i386
+postgresql-doc-9.1
 postgresql-doc-9.5
 postgresql-doc-9.5:i386
+postgresql-plperl-9.1
 postgresql-plperl-9.5
 postgresql-plperl-9.5:i386
+postgresql-plpython-9.1
 postgresql-plpython-9.5
 postgresql-plpython-9.5:i386
+postgresql-plpython3-9.1
 postgresql-plpython3-9.5
 postgresql-plpython3-9.5:i386
+postgresql-pltcl-9.1
 postgresql-pltcl-9.5
 postgresql-pltcl-9.5:i386
 postgresql-server-dev-9.1
