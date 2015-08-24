@@ -3804,6 +3804,8 @@ libelf-dev
 libelf-dev:i386
 libelf1
 libelf1:i386
+libelfg0
+libelfg0-dev
 libenchant-dev
 libenchant-dev:i386
 libepsilon0
