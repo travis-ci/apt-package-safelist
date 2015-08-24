@@ -332,6 +332,8 @@ clang-format-3.7:i386
 clang-modernize-3.4
 clang:i386
 clearsilver-dev
+cli-common
+cli-common-dev
 clustalo
 clustalo:i386
 clustalw
