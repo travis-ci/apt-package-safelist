@@ -7606,6 +7606,8 @@ python-gnupginterface:i386
 python-gobject
 python-gobject-dbg
 python-gobject-dev
+python-h5py
+python-h5py-doc
 python-httplib2
 python-httplib2:i386
 python-imaging
@@ -7834,6 +7836,7 @@ python3-gi
 python3-gi-cairo
 python3-gi-dbg
 python3-gi:i386
+python3-h5py
 python3-ipaddr
 python3-jinja2
 python3-markdown
