@@ -366,6 +366,7 @@ collectd-dev:i386
 collectd-utils
 collectd-utils:i386
 collectd:i386
+colorgcc
 colormake
 comerr-dev
 comerr-dev:i386
