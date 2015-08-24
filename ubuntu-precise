@@ -459,6 +459,7 @@ debhelper
 debhelper:i386
 debianutils
 debianutils:i386
+debmirror
 debootstrap
 debootstrap:i386
 default-jdk
