@@ -5868,6 +5868,7 @@ librtmp-dev
 librtmp-dev:i386
 librtmp0
 librtmp0:i386
+librtmp1
 librubberband-dev
 librubberband-dev:i386
 librubberband2
@@ -8033,6 +8034,7 @@ rsync
 rsync:i386
 rsyslog
 rsyslog:i386
+rtmpdump
 rubberband-cli
 rubberband-cli:i386
 rubberband-ladspa
