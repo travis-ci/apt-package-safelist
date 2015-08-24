@@ -6247,6 +6247,10 @@ libstdc++6-armel-cross:i386
 libstdc++6-armhf-cross
 libstdc++6-armhf-cross:i386
 libstdc++6:i386
+libstemmer-dev
+libstemmer-tools
+libstemmer0d
+libstemmer0d-dbg
 libstroke0
 libstroke0-dev
 libstxxl1
