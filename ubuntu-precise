@@ -6323,6 +6323,9 @@ libtinyxml-dev
 libtinyxml-doc
 libtinyxml2.6.2
 libtinyxml2.6.2-dbg
+libtokyocabinet-dbg
+libtokyocabinet-dev
+libtokyocabinet9
 libtomcat7-java
 libtomcrypt-dev
 libtomcrypt0
@@ -8360,6 +8363,8 @@ tk8.5-dev:i386
 tk8.5:i386
 tk:i386
 tmux
+tokyocabinet-bin
+tokyocabinet-doc
 tomcat7
 tomcat7-admin
 tomcat7-common
