@@ -8140,6 +8140,7 @@ tar:i386
 tcl
 tcl-dev
 tcl-dev:i386
+tcl-tls
 tcl8.5
 tcl8.5-dev
 tcl8.5-dev:i386
