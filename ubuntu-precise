@@ -4159,6 +4159,8 @@ libgles2-mesa-dev
 libgles2-mesa-dev:i386
 libgles2-mesa:i386
 libglew-dev
+libglfw-dev
+libglfw2
 libglib2.0-0
 libglib2.0-0:i386
 libglib2.0-bin
