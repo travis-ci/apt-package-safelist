@@ -1328,6 +1328,8 @@ java-common
 java-common:i386
 java-wrappers
 java-wrappers:i386
+jblas
+jblas-doc
 jemboss
 jemboss:i386
 jimsh
