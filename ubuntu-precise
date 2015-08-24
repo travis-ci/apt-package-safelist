@@ -6299,6 +6299,11 @@ libthai-data
 libthai-data:i386
 libthai0
 libthai0:i386
+libtheora-bin
+libtheora-dbg
+libtheora-dev
+libtheora-doc
+libtheora0
 libtidy
 libtidy:i386
 libtiff-doc
