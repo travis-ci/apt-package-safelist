@@ -5346,6 +5346,9 @@ libnl-route-3-dev
 libnl-utils
 libnl-xfrm-3-200
 libnl-xfrm-3-dev
+libnlopt-dev
+libnlopt-guile0
+libnlopt0
 libnotify-dev
 libnotify-dev:i386
 libnotify4
@@ -7265,6 +7268,7 @@ octave-dbg
 octave-doc
 octave-htmldoc
 octave-info
+octave-nlopt
 odbc-postgresql
 odbc-postgresql-dbg
 odbcinst
@@ -7743,6 +7747,7 @@ python-minimal:i386
 python-miniupnpc
 python-mysqldb
 python-mysqldb-dbg
+python-nlopt
 python-nose
 python-nose-doc
 python-nose:i386
