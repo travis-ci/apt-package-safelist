@@ -4126,6 +4126,10 @@ libghc-gstreamer-prof
 libghc-hlint-dev
 libghc-hlint-doc
 libghc-hlint-prof
+libghc-pandoc-citeproc-data
+libghc-pandoc-citeproc-dev
+libghc-pandoc-citeproc-doc
+libghc-pandoc-citeproc-prof
 libgif-dev
 libgif-dev:i386
 libgif4
@@ -7303,6 +7307,7 @@ p7zip-full:i386
 pandas
 pandas:i386
 pandoc
+pandoc-citeproc
 pandoc:i386
 parallel
 parallel:i386
