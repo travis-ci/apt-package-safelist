@@ -3035,6 +3035,7 @@ ldap-utils
 ldnsutils
 ldnsutils:i386
 lemon
+leptonica-progs
 less
 less:i386
 levelone
@@ -4719,6 +4720,8 @@ libldns-dev
 libldns-dev:i386
 libldns1
 libldns1:i386
+liblept4
+libleptonica-dev
 libleveldb-dev
 libllvm-3.4-ocaml-dev
 libllvm2.8
