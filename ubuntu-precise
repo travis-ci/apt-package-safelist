@@ -5318,6 +5318,8 @@ libnss3-dbg
 libnss3-dev
 libnss3-tools
 libnss3:i386
+libnuget-core-cil
+libnuget-core-cil-dev
 libobjc-4.8-dev
 libobjc-5-dev
 libobjc-5-dev:i386
@@ -7152,6 +7154,7 @@ ntfs-3g
 ntfs-3g:i386
 ntpdate
 ntpdate:i386
+nuget
 nunit-console
 ocaml
 ocaml-base
