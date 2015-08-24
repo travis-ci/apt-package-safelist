@@ -3217,6 +3217,8 @@ libalgorithm-diff-xs-perl
 libalgorithm-diff-xs-perl:i386
 libalgorithm-merge-perl
 libalgorithm-merge-perl:i386
+libalut-dev
+libalut0
 libantlr-dev
 libantlr-java
 libantlr-java:i386
