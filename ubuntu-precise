@@ -6070,6 +6070,9 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsodium-dbg
+libsodium-dev
+libsodium13
 libsoqt-dev-common
 libsoqt4-20
 libsoqt4-dev
