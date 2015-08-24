@@ -5530,6 +5530,10 @@ libossp-uuid-dev
 libossp-uuid-dev:i386
 libossp-uuid16
 libossp-uuid16:i386
+liboverlay-scrollbar-0.2-0
+liboverlay-scrollbar-0.2-dev
+liboverlay-scrollbar3-0.2-0
+liboverlay-scrollbar3-0.2-dev
 libp11-kit-dev
 libp11-kit-dev:i386
 libp11-kit0
@@ -7249,6 +7253,7 @@ oracle-java8-installer
 oracle-java8-installer:i386
 oracle-java9-installer
 oracle-java9-installer:i386
+overlay-scrollbar
 p7zip-full
 p7zip-full:i386
 pandas
