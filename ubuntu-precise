@@ -6300,6 +6300,8 @@ libthai-data:i386
 libthai0
 libthai0:i386
 libtidy
+libtidy-0.99-0
+libtidy-dev
 libtidy:i386
 libtiff-doc
 libtiff-opengl
@@ -8346,6 +8348,7 @@ texlive-xetex:i386
 texlive:i386
 thrift-compiler
 tidy
+tidy-doc
 tidy:i386
 time
 time:i386
