@@ -4689,6 +4689,10 @@ libjs-jquery
 libjs-jquery:i386
 libjs-sphinxdoc
 libjs-underscore
+libjson-c-dev
+libjson-c-doc
+libjson-c2
+libjson-c2-dbg
 libjson0
 libjson0-dev
 libjson0-dev:i386
