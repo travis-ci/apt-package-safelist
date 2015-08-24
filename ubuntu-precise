@@ -4172,6 +4172,8 @@ libglib2.0-data
 libglib2.0-data:i386
 libglib2.0-dev
 libglib2.0-dev:i386
+libglm-dev
+libglm-doc
 libglpk-dev
 libglpk-dev:i386
 libglpk0
