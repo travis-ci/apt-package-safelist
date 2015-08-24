@@ -7595,6 +7595,7 @@ python-gdbm
 python-gdbm-dbg
 python-gdcm
 python-gdcm:i386
+python-geoip
 python-gi
 python-gi-cairo
 python-gi-dbg
@@ -7830,6 +7831,7 @@ python3-doc
 python3-docutils
 python3-examples
 python3-gdal
+python3-geoip
 python3-gi
 python3-gi-cairo
 python3-gi-dbg
