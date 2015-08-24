@@ -768,6 +768,7 @@ g++-multilib:i386
 g++-spu
 g++-spu:i386
 g++:i386
+gambit
 gammu
 gammu:i386
 gawk
