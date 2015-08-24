@@ -5634,6 +5634,8 @@ libperl5.14
 libperl5.14:i386
 libpgm-5.1-0
 libpgm-5.1-0:i386
+libphash0
+libphash0-dev
 libphobos-4.8-dev
 libphobos-5-dev
 libphobos-5-dev:i386
