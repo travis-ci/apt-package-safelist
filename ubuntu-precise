@@ -7022,6 +7022,8 @@ lsof
 lsof:i386
 lua-filesystem
 lua-filesystem-dev
+lua-penlight
+lua-penlight-dev
 lua5.1
 lua5.1-doc
 lua5.1-doc:i386
