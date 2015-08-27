@@ -280,6 +280,7 @@ camlp4:i386
 camlp5
 ccache
 ccache:i386
+cdialog
 check
 checkstyle
 checkstyle:i386
@@ -481,6 +482,7 @@ dh-apparmor:i386
 dh-autoreconf
 dh-make
 dh-make:i386
+dialog
 diatheke
 diffstat
 diffstat:i386
