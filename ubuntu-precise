@@ -3783,6 +3783,10 @@ libdevmapper-event1.02.1
 libdevmapper-event1.02.1:i386
 libdevmapper1.02.1
 libdevmapper1.02.1:i386
+libdiscid-dev
+libdiscid-doc
+libdiscid0
+libdiscid0-dbg
 libdjvulibre-dev
 libdjvulibre-dev:i386
 libdjvulibre-text
