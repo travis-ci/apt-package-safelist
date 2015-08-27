@@ -7666,6 +7666,13 @@ pulseaudio-utils-dbg
 pulseaudio-utils-dbg:i386
 pulseaudio-utils:i386
 pulseaudio:i386
+puppet
+puppet-common
+puppet-el
+puppet-testsuite
+puppetmaster
+puppetmaster-common
+puppetmaster-passenger
 pvlib
 pvlib:i386
 pwgen
@@ -8602,6 +8609,7 @@ vim-gnome
 vim-gtk
 vim-gui-common
 vim-nox
+vim-puppet
 vim-runtime
 vim-runtime:i386
 vim-tiny
@@ -8739,6 +8747,8 @@ xorg-sgml-doctools
 xorg-sgml-doctools:i386
 xpdf
 xpmutils
+xpra
+xpra-dbg
 xsdcxx
 xserver-common
 xserver-common:i386
