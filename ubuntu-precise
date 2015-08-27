@@ -4882,6 +4882,8 @@ libmatheval-dev
 libmatheval1
 libmcrypt-dev
 libmcrypt4
+libmemcache-dev
+libmemcache0
 libmemcached-dev
 libmemcached-dev:i386
 libmemcached6
