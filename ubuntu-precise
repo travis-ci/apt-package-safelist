@@ -5974,6 +5974,7 @@ libscotchmetis-dev
 libscotchparmetis-dev
 libscrypt-dev
 libscrypt0
+libsctp-dev
 libsctp1
 libsctp1:i386
 libsdl-gfx1.2-5
