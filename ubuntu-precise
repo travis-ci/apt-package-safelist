@@ -3779,6 +3779,8 @@ libdcmtk2-dev:i386
 libdcmtk2:i386
 libdconf0
 libdconf0:i386
+libdevil-dev
+libdevil1c2
 libdevmapper-event1.02.1
 libdevmapper-event1.02.1:i386
 libdevmapper1.02.1
