@@ -10,6 +10,9 @@ alsa-oss
 alsa-utils
 alsa-utils-udeb
 amqp-tools
+ansible
+ansible-fireball
+ansible-node-fireball
 ant
 ant-contrib
 ant-contrib:i386
