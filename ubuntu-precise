@@ -7002,6 +7002,8 @@ lsb-release
 lsb-release:i386
 lsof
 lsof:i386
+lua-filesystem
+lua-filesystem-dev
 lua5.1
 lua5.1-doc
 lua5.1-doc:i386
