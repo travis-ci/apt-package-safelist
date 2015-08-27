@@ -1301,6 +1301,7 @@ initscripts
 initscripts:i386
 inkscape
 inkscape:i386
+inputattach
 insserv
 insserv:i386
 install-info
@@ -1339,6 +1340,7 @@ jemboss:i386
 jimsh
 jing
 jing-trang-doc
+joystick
 jpegoptim
 jsvc
 jsvc:i386
