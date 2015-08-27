@@ -9,6 +9,7 @@ alex:i386
 alsa-oss
 alsa-utils
 alsa-utils-udeb
+amqp-tools
 ant
 ant-contrib
 ant-contrib:i386
@@ -5896,6 +5897,9 @@ libquadmath0
 libquadmath0-dbg
 libquadmath0-dbg:i386
 libquadmath0:i386
+librabbitmq-dbg
+librabbitmq-dev
+librabbitmq1
 libradiusclient-ng-dev
 libradiusclient-ng2
 libraptor2-0
