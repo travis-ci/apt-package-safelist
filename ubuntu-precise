@@ -7658,6 +7658,9 @@ python-argparse
 python-argparse:i386
 python-bzrlib
 python-bzrlib:i386
+python-cairo
+python-cairo-dbg
+python-cairo-dev
 python-cheetah
 python-clang-3.4
 python-clearsilver
