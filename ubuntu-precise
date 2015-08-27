@@ -7504,6 +7504,7 @@ postgresql-9.4-postgis-2.1-scripts
 postgresql-9.4-postgis-2.1:i386
 postgresql-9.4-postgis-scripts
 postgresql-9.4-postgis-scripts:i386
+postgresql-9.4-slony1-2
 postgresql-9.4:i386
 postgresql-9.5
 postgresql-9.5-dbg
@@ -8188,6 +8189,8 @@ shiboken-doc
 shntool
 slapd
 sloccount
+slony1-2-bin
+slony1-2-doc
 smbclient
 smistrip
 smitools
