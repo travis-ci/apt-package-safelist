@@ -9,6 +9,7 @@ alex:i386
 alsa-oss
 alsa-utils
 alsa-utils-udeb
+amqp-tools
 ant
 ant-contrib
 ant-contrib:i386
@@ -5881,6 +5882,8 @@ libquadmath0
 libquadmath0-dbg
 libquadmath0-dbg:i386
 libquadmath0:i386
+librabbitmq-dev
+librabbitmq0
 libraptor2-0
 libraptor2-0-dbg
 libraptor2-dev
@@ -8230,6 +8233,18 @@ sudo
 sudo:i386
 swig
 swig:i386
+syslog-ng
+syslog-ng-core
+syslog-ng-dbg
+syslog-ng-dev
+syslog-ng-mod-amqp
+syslog-ng-mod-geoip
+syslog-ng-mod-json
+syslog-ng-mod-mongodb
+syslog-ng-mod-redis
+syslog-ng-mod-smtp
+syslog-ng-mod-sql
+syslog-ng-mod-stomp
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
