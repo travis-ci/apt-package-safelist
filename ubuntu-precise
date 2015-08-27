@@ -8738,6 +8738,8 @@ xorg-sgml-doctools
 xorg-sgml-doctools:i386
 xpdf
 xpmutils
+xpra
+xpra-dbg
 xsdcxx
 xserver-common
 xserver-common:i386
