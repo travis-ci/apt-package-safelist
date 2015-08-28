@@ -1314,6 +1314,7 @@ initscripts
 initscripts:i386
 inkscape
 inkscape:i386
+inotify-tools
 inputattach
 insserv
 insserv:i386
@@ -4630,6 +4631,8 @@ libilmbase-dev:i386
 libilmbase6
 libilmbase6:i386
 libimage-exiftool-perl
+libinotifytools0
+libinotifytools0-dev
 libio-pty-perl
 libio-string-perl
 libiodbc2
