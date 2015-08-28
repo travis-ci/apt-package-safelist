@@ -1017,6 +1017,8 @@ ghdl
 ghdl:i386
 ghostscript
 ghostscript:i386
+gir1.2-appindicator-0.1
+gir1.2-appindicator3-0.1
 gir1.2-atk-1.0
 gir1.2-atk-1.0:i386
 gir1.2-dbusmenu-glib-0.4
@@ -3288,6 +3290,13 @@ libapache2-mod-php5filter
 libapache2-mod-php5filter:i386
 libapp-nopaste-perl
 libapp-nopaste-perl:i386
+libappindicator-dev
+libappindicator-doc
+libappindicator0.1-cil
+libappindicator0.1-cil-dev
+libappindicator1
+libappindicator3-1
+libappindicator3-dev
 libapr1
 libapr1:i386
 libaprutil1
@@ -7731,6 +7740,7 @@ python-all-dev
 python-alsaaudio
 python-alsaaudio:i386
 python-antlr
+python-appindicator
 python-apt
 python-apt-common
 python-apt-common:i386
