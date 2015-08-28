@@ -1014,6 +1014,9 @@ ghostscript
 ghostscript:i386
 gir1.2-atk-1.0
 gir1.2-atk-1.0:i386
+gir1.2-dbusmenu-glib-0.4
+gir1.2-dbusmenu-gtk-0.4
+gir1.2-dbusmenu-gtk3-0.4
 gir1.2-freedesktop
 gir1.2-freedesktop:i386
 gir1.2-gconf-2.0
@@ -3788,6 +3791,17 @@ libdbus-glib-1-2-dbg
 libdbus-glib-1-2:i386
 libdbus-glib-1-dev
 libdbus-glib-1-doc
+libdbusmenu-glib-dev
+libdbusmenu-glib-doc
+libdbusmenu-glib4
+libdbusmenu-gtk-dev
+libdbusmenu-gtk-doc
+libdbusmenu-gtk3-4
+libdbusmenu-gtk3-dev
+libdbusmenu-gtk4
+libdbusmenu-jsonloader-dev
+libdbusmenu-jsonloader4
+libdbusmenu-tools
 libdcmtk2
 libdcmtk2-dev
 libdcmtk2-dev:i386
