@@ -486,6 +486,7 @@ dh-apparmor:i386
 dh-autoreconf
 dh-make
 dh-make:i386
+dh-systemd
 dialog
 diatheke
 diffstat
@@ -1306,6 +1307,8 @@ indent
 indent-doc
 info
 info:i386
+init
+init-system-helpers
 initramfs-tools
 initramfs-tools-bin
 initramfs-tools-bin:i386
