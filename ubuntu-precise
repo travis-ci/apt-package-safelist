@@ -365,6 +365,10 @@ coinor-libclp-dev
 coinor-libclp-doc
 coinor-libclp1
 coinor-libclp1-dbg
+coinor-libosi-dev
+coinor-libosi-doc
+coinor-libosi1v5
+coinor-libosi1v5-dbg
 collectd
 collectd-core
 collectd-core:i386
