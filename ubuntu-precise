@@ -4630,6 +4630,12 @@ libilmbase-dev:i386
 libilmbase6
 libilmbase6:i386
 libimage-exiftool-perl
+libindicator-dev
+libindicator-tools
+libindicator3-7
+libindicator3-dev
+libindicator3-tools
+libindicator7
 libio-pty-perl
 libio-string-perl
 libiodbc2
