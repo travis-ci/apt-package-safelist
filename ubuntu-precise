@@ -3891,6 +3891,10 @@ libelfg0
 libelfg0-dev
 libenchant-dev
 libenchant-dev:i386
+libenet-dev
+libenet-doc
+libenet7
+libenet7-dbg
 libepsilon0
 libepsilon0:i386
 liberror-perl
