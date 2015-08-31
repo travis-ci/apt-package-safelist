@@ -7789,6 +7789,8 @@ python-gi-dbg
 python-gi-dev
 python-gi:i386
 python-gmsh
+python-gnome2-desktop-dev
+python-gnomekeyring
 python-gnupginterface
 python-gnupginterface:i386
 python-gobject
@@ -7922,6 +7924,7 @@ python-rpy2
 python-rpy2:i386
 python-rpy:i386
 python-rrdtool
+python-rsvg
 python-samba
 python-scipy
 python-scipy-dbg
@@ -7951,6 +7954,7 @@ python-vtkgdcm
 python-vtkgdcm:i386
 python-wadllib
 python-wadllib:i386
+python-wnck
 python-wxgtk2.8
 python-wxgtk2.8-dbg
 python-wxtools
