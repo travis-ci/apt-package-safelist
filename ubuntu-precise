@@ -7749,6 +7749,7 @@ python-apt-common:i386
 python-apt:i386
 python-argparse
 python-argparse:i386
+python-beautifulsoup
 python-bzrlib
 python-bzrlib:i386
 python-cairo
