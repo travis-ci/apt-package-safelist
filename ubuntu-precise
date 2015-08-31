@@ -450,6 +450,7 @@ dash:i386
 db-util
 db-util:i386
 dblatex
+dbtoepub
 dbus
 dbus-x11
 dbus-x11:i386
