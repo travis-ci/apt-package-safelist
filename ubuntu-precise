@@ -508,6 +508,8 @@ dmsetup
 dmsetup:i386
 dnsutils
 dnsutils:i386
+docbook-xsl
+docbook-xsl-ns
 docutils-common
 docutils-doc
 dosfstools
