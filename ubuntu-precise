@@ -7747,6 +7747,7 @@ pvlib
 pvlib:i386
 pwgen
 pwgen-udeb
+pyfits-utils
 pylint
 pylint:i386
 pypy
@@ -7911,6 +7912,7 @@ python-pycurl
 python-pycurl:i386
 python-pyfann
 python-pyfann-dbg
+python-pyfits
 python-pygments
 python-pygments-doc
 python-pygresql
@@ -8081,6 +8083,7 @@ python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
 python3-pycountry
+python3-pyfits
 python3-pygments
 python3-pyqt4
 python3-pyqt4-dbg
