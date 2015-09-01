@@ -7872,6 +7872,8 @@ python-matplotlib:i386
 python-minimal
 python-minimal:i386
 python-miniupnpc
+python-mock
+python-mock-doc
 python-mysqldb
 python-mysqldb-dbg
 python-nlopt
@@ -8068,6 +8070,7 @@ python3-markupsafe
 python3-markupsafe-dbg
 python3-minimal
 python3-minimal:i386
+python3-mock
 python3-nose
 python3-numexpr
 python3-numexpr-dbg
