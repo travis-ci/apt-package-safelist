@@ -7379,6 +7379,14 @@ octave-doc
 octave-htmldoc
 octave-info
 octave-nlopt
+octave3.2
+octave3.2-common
+octave3.2-dbg
+octave3.2-doc
+octave3.2-emacsen
+octave3.2-headers
+octave3.2-htmldoc
+octave3.2-info
 odbc-postgresql
 odbc-postgresql-dbg
 odbcinst
