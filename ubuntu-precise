@@ -7274,6 +7274,7 @@ module-init-tools
 module-init-tools:i386
 mongodb-10gen
 mongodb-10gen:i386
+mongodb-org-server
 mono-2.0-gac
 mono-2.0-gac:i386
 mono-2.0-service
