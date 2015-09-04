@@ -7121,6 +7121,9 @@ lua5.2-doc:i386
 lua5.2:i386
 luajit
 luarocks
+lynx
+lynx-cur
+lynx-dev
 lzop
 lzop:i386
 m4
