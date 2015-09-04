@@ -1091,6 +1091,7 @@ gnat-5
 gnat-5-doc
 gnat-5-doc:i386
 gnat-5:i386
+gnome-common
 gnupg
 gnupg:i386
 gnutls-bin
