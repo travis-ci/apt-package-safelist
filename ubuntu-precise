@@ -6318,6 +6318,10 @@ libsox-fmt-oss
 libsox-fmt-pulse
 libsox2
 libsparsehash-dev
+libspatialindex-c4v5
+libspatialindex-dbg
+libspatialindex-dev
+libspatialindex4v5
 libspatialite3
 libspatialite3:i386
 libspnav-dev
