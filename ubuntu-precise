@@ -5397,6 +5397,10 @@ libneon27-gnutls
 libneon27-gnutls:i386
 libnet-daemon-perl
 libnet-daemon-perl:i386
+libnet1
+libnet1-dbg
+libnet1-dev
+libnet1-doc
 libnetcdf-dev
 libnetcdf-dev:i386
 libnetcdf6
