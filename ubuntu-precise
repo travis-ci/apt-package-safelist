@@ -5031,6 +5031,7 @@ libmemcachedprotocol0
 libmemcachedprotocol0:i386
 libmemcachedutil1
 libmemcachedutil1:i386
+libmenhir-ocaml-dev
 libmetacity-dev
 libmetacity-private0
 libmicrohttpd-dbg
@@ -7221,6 +7222,7 @@ memcached
 memcached:i386
 mencoder
 mencoder:i386
+menhir
 mercurial
 mercurial-common
 mercurial-common:i386
