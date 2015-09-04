@@ -5806,6 +5806,9 @@ libphobos-4.8-dev
 libphobos-4.9-dev
 libphobos-5-dev
 libphobos-5-dev:i386
+libphonenumber6
+libphonenumber6-dev
+libphonenumber6-java
 libphonon-dev
 libphonon-dev:i386
 libphonon4
