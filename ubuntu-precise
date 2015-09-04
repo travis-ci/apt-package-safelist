@@ -5404,6 +5404,9 @@ libnetcdf6:i386
 libnetfilter-conntrack-dev
 libnetfilter-conntrack3
 libnetfilter-conntrack3-dbg
+libnetfilter-queue-dev
+libnetfilter-queue1
+libnetfilter-queue1-dbg
 libnetpbm10
 libnetpbm10-dev
 libnetpbm10:i386
