@@ -5343,6 +5343,7 @@ libmount1
 libmount1:i386
 libmozjs185-1.0
 libmozjs185-1.0:i386
+libmozjs185-dev
 libmp3lame-dev
 libmp3lame-dev:i386
 libmp3lame0
