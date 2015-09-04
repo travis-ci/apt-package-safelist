@@ -409,6 +409,7 @@ cpp-4.6-arm-linux-gnueabihf
 cpp-4.6-arm-linux-gnueabihf:i386
 cpp-4.6:i386
 cpp-4.8
+cpp-4.9
 cpp-4.9-arm-linux-gnueabi
 cpp-5
 cpp-5-doc
@@ -772,6 +773,7 @@ g++-4.8-multilib:i386
 g++-4.8:i386
 g++-4.9
 g++-4.9-arm-linux-gnueabi
+g++-4.9-multilib
 g++-4.9:i386
 g++-5
 g++-5-multilib
@@ -835,8 +837,13 @@ gcc-4.8-source
 gcc-4.8:i386
 gcc-4.9
 gcc-4.9-arm-linux-gnueabi
+gcc-4.9-base
+gcc-4.9-hppa64
+gcc-4.9-locales
 gcc-4.9-multilib
 gcc-4.9-multilib:i386
+gcc-4.9-plugin-dev
+gcc-4.9-source
 gcc-4.9:i386
 gcc-5
 gcc-5-base
@@ -872,6 +879,8 @@ gcc:i386
 gccgo
 gccgo-4.8
 gccgo-4.8-multilib
+gccgo-4.9
+gccgo-4.9-multilib
 gccgo-5
 gccgo-5-doc
 gccgo-5-doc:i386
@@ -887,6 +896,12 @@ gcj-4.8-jre
 gcj-4.8-jre-headless
 gcj-4.8-jre-lib
 gcj-4.8-source
+gcj-4.9
+gcj-4.9-jdk
+gcj-4.9-jre
+gcj-4.9-jre-headless
+gcj-4.9-jre-lib
+gcj-4.9-source
 gcj-5
 gcj-5-jdk
 gcj-5-jdk:i386
@@ -922,6 +937,7 @@ gdb
 gdb:i386
 gdc
 gdc-4.8
+gdc-4.9
 gdc-5
 gdc-5-multilib
 gdc-5-multilib:i386
@@ -958,6 +974,7 @@ gfortran-4.8
 gfortran-4.8-multilib
 gfortran-4.9
 gfortran-4.9-arm-linux-gnueabi
+gfortran-4.9-multilib
 gfortran-5
 gfortran-5-doc
 gfortran-5-doc:i386
@@ -1090,6 +1107,8 @@ gobjc++-4.6-multilib-arm-linux-gnueabihf
 gobjc++-4.6-multilib-arm-linux-gnueabihf:i386
 gobjc++-4.8
 gobjc++-4.8-multilib
+gobjc++-4.9
+gobjc++-4.9-multilib
 gobjc++-5
 gobjc++-5-multilib
 gobjc++-5-multilib:i386
@@ -1111,6 +1130,8 @@ gobjc-4.6-multilib-arm-linux-gnueabihf
 gobjc-4.6-multilib-arm-linux-gnueabihf:i386
 gobjc-4.8
 gobjc-4.8-multilib
+gobjc-4.9
+gobjc-4.9-multilib
 gobjc-5
 gobjc-5-multilib
 gobjc-5-multilib:i386
@@ -3103,6 +3124,8 @@ leveltwo
 lftp
 lib32asan0
 lib32asan0-dbg
+lib32asan1
+lib32asan1-dbg
 lib32asan2
 lib32asan2-dbg
 lib32asan2-dbg:i386
@@ -3122,6 +3145,7 @@ lib32cilkrts5-dbg
 lib32cilkrts5-dbg:i386
 lib32cilkrts5:i386
 lib32gcc-4.8-dev
+lib32gcc-4.9-dev
 lib32gcc-5-dev
 lib32gcc-5-dev:i386
 lib32gcc1
@@ -3129,6 +3153,7 @@ lib32gcc1-dbg
 lib32gcc1-dbg:i386
 lib32gcc1:i386
 lib32gfortran-4.8-dev
+lib32gfortran-4.9-dev
 lib32gfortran-5-dev
 lib32gfortran-5-dev:i386
 lib32gfortran3
@@ -3137,6 +3162,8 @@ lib32gfortran3-dbg:i386
 lib32gfortran3:i386
 lib32go4
 lib32go4-dbg
+lib32go5
+lib32go5-dbg
 lib32go7
 lib32go7-dbg
 lib32go7-dbg:i386
@@ -3156,6 +3183,7 @@ lib32lsan0:i386
 lib32ncurses5
 lib32ncurses5:i386
 lib32objc-4.8-dev
+lib32objc-4.9-dev
 lib32objc-5-dev
 lib32objc-5-dev:i386
 lib32objc4
@@ -3169,10 +3197,12 @@ lib32quadmath0-dbg
 lib32quadmath0-dbg:i386
 lib32quadmath0:i386
 lib32stdc++-4.8-dev
+lib32stdc++-4.9-dev
 lib32stdc++-5-dev
 lib32stdc++-5-dev:i386
 lib32stdc++6
 lib32stdc++6-4.8-dbg
+lib32stdc++6-4.9-dbg
 lib32stdc++6-5-dbg
 lib32stdc++6-5-dbg:i386
 lib32stdc++6:i386
@@ -3186,6 +3216,8 @@ lib32z1-dev:i386
 lib32z1:i386
 lib64asan0
 lib64asan0-dbg
+lib64asan1
+lib64asan1-dbg
 lib64asan2
 lib64asan2-dbg
 lib64asan2-dbg:i386
@@ -3205,6 +3237,7 @@ lib64cilkrts5:i386
 lib64expat1
 lib64expat1-dev
 lib64gcc-4.8-dev
+lib64gcc-4.9-dev
 lib64gcc-5-dev
 lib64gcc-5-dev:i386
 lib64gcc1
@@ -3212,6 +3245,7 @@ lib64gcc1-dbg
 lib64gcc1-dbg:i386
 lib64gcc1:i386
 lib64gfortran-4.8-dev
+lib64gfortran-4.9-dev
 lib64gfortran-5-dev
 lib64gfortran-5-dev:i386
 lib64gfortran3
@@ -3220,6 +3254,8 @@ lib64gfortran3-dbg:i386
 lib64gfortran3:i386
 lib64go4
 lib64go4-dbg
+lib64go5
+lib64go5-dbg
 lib64go7
 lib64go7-dbg
 lib64go7-dbg:i386
@@ -3233,6 +3269,7 @@ lib64itm1-dbg
 lib64itm1-dbg:i386
 lib64itm1:i386
 lib64objc-4.8-dev
+lib64objc-4.9-dev
 lib64objc-5-dev
 lib64objc-5-dev:i386
 lib64objc4
@@ -3246,10 +3283,12 @@ lib64quadmath0-dbg
 lib64quadmath0-dbg:i386
 lib64quadmath0:i386
 lib64stdc++-4.8-dev
+lib64stdc++-4.9-dev
 lib64stdc++-5-dev
 lib64stdc++-5-dev:i386
 lib64stdc++6
 lib64stdc++6-4.8-dbg
+lib64stdc++6-4.9-dbg
 lib64stdc++6-5-dbg
 lib64stdc++6-5-dbg:i386
 lib64stdc++6:i386
@@ -3331,6 +3370,8 @@ libarpack2-dbg
 libarpack2-dev
 libasan0
 libasan0-dbg
+libasan1
+libasan1-dbg
 libasan2
 libasan2-dbg
 libasan2-dbg:i386
@@ -4050,6 +4091,7 @@ libgc-dev:i386
 libgc1c2
 libgc1c2:i386
 libgcc-4.8-dev
+libgcc-4.9-dev
 libgcc-5-dev
 libgcc-5-dev:i386
 libgcc1
@@ -4082,6 +4124,10 @@ libgcj14
 libgcj14-awt
 libgcj14-dbg
 libgcj14-dev
+libgcj15
+libgcj15-awt
+libgcj15-dbg
+libgcj15-dev
 libgcj16
 libgcj16-awt
 libgcj16-awt:i386
@@ -4182,6 +4228,7 @@ libgeos-dev:i386
 libgettextpo0
 libgettextpo0:i386
 libgfortran-4.8-dev
+libgfortran-4.9-dev
 libgfortran-5-dev
 libgfortran-5-dev:i386
 libgfortran3
@@ -4342,6 +4389,8 @@ libgnutlsxx27
 libgnutlsxx27:i386
 libgo4
 libgo4-dbg
+libgo5
+libgo5-dbg
 libgo7
 libgo7-dbg
 libgo7-dbg:i386
@@ -5343,6 +5392,7 @@ libn32atomic1-dbg
 libn32atomic1-dbg:i386
 libn32atomic1:i386
 libn32gcc-4.8-dev
+libn32gcc-4.9-dev
 libn32gcc-5-dev
 libn32gcc-5-dev:i386
 libn32gcc1
@@ -5350,6 +5400,7 @@ libn32gcc1-dbg
 libn32gcc1-dbg:i386
 libn32gcc1:i386
 libn32gfortran-4.8-dev
+libn32gfortran-4.9-dev
 libn32gfortran-5-dev
 libn32gfortran-5-dev:i386
 libn32gfortran3
@@ -5358,6 +5409,8 @@ libn32gfortran3-dbg:i386
 libn32gfortran3:i386
 libn32go4
 libn32go4-dbg
+libn32go5
+libn32go5-dbg
 libn32go7
 libn32go7-dbg
 libn32go7-dbg:i386
@@ -5367,6 +5420,7 @@ libn32gomp1-dbg
 libn32gomp1-dbg:i386
 libn32gomp1:i386
 libn32objc-4.8-dev
+libn32objc-4.9-dev
 libn32objc-5-dev
 libn32objc-5-dev:i386
 libn32objc4
@@ -5376,10 +5430,12 @@ libn32objc4:i386
 libn32phobos-5-dev
 libn32phobos-5-dev:i386
 libn32stdc++-4.8-dev
+libn32stdc++-4.9-dev
 libn32stdc++-5-dev
 libn32stdc++-5-dev:i386
 libn32stdc++6
 libn32stdc++6-4.8-dbg
+libn32stdc++6-4.9-dbg
 libn32stdc++6-5-dbg
 libn32stdc++6-5-dbg:i386
 libn32stdc++6:i386
@@ -5464,6 +5520,7 @@ libnuget-core-cil-dev
 liboath-dev
 liboath0
 libobjc-4.8-dev
+libobjc-4.9-dev
 libobjc-5-dev
 libobjc-5-dev:i386
 libobjc2-armel-cross
@@ -5742,6 +5799,7 @@ libpgm-5.1-0:i386
 libphash0
 libphash0-dev
 libphobos-4.8-dev
+libphobos-4.9-dev
 libphobos-5-dev
 libphobos-5-dev:i386
 libphonon-dev
@@ -6646,13 +6704,22 @@ libx264-146
 libx264-dev
 libx32asan0
 libx32asan0-dbg
+libx32asan1
+libx32asan1-dbg
 libx32gcc-4.8-dev
+libx32gcc-4.9-dev
 libx32gfortran-4.8-dev
+libx32gfortran-4.9-dev
 libx32go4
 libx32go4-dbg
+libx32go5
+libx32go5-dbg
 libx32objc-4.8-dev
+libx32objc-4.9-dev
 libx32stdc++-4.8-dev
+libx32stdc++-4.9-dev
 libx32stdc++6-4.8-dbg
+libx32stdc++6-4.9-dbg
 libxapian-dev
 libxapian22v5
 libxapian22v5-dbg
