@@ -3671,6 +3671,9 @@ libcanberra0
 libcanberra0:i386
 libcap-dev
 libcap-dev:i386
+libcap-ng-dev
+libcap-ng-utils
+libcap-ng0
 libcap2
 libcap2-bin
 libcap2-bin:i386
@@ -7902,6 +7905,7 @@ python-bzrlib:i386
 python-cairo
 python-cairo-dbg
 python-cairo-dev
+python-cap-ng
 python-cheetah
 python-clang-3.4
 python-clearsilver
@@ -8166,6 +8170,7 @@ python3-all-dev
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
+python3-cap-ng
 python3-dbg
 python3-dbus
 python3-dbus.mainloop.qt
