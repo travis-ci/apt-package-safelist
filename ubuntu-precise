@@ -4989,6 +4989,10 @@ liblwgeom-2.1.5
 liblwgeom-2.1.5:i386
 liblwgeom-2.1.8
 liblwgeom-dev
+liblz4-1
+liblz4-1-dbg
+liblz4-dev
+liblz4-tool
 liblzma-dev
 liblzma-dev:i386
 liblzma5
