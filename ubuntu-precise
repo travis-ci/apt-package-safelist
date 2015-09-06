@@ -8733,6 +8733,7 @@ ubuntu-keyring
 ubuntu-keyring:i386
 ubuntu-minimal
 ubuntu-minimal:i386
+ubuntu-sdk
 ucf
 ucf:i386
 udeb
