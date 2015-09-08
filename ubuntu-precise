@@ -650,6 +650,7 @@ fakechroot
 fakechroot:i386
 fakeroot
 fakeroot:i386
+fancontrol
 ffmpeg
 ffmpeg-dbg
 ffmpeg-dbg:i386
@@ -6188,6 +6189,7 @@ libsecret-tools
 libselinux1
 libselinux1:i386
 libsensors4
+libsensors4-dev
 libsensors4:i386
 libservlet2.5-java
 libservlet2.5-java:i386
@@ -7203,6 +7205,7 @@ llvm-gcc-4.6:i386
 llvm-runtime
 llvm-runtime:i386
 llvm:i386
+lm-sensors
 lmodern
 locales
 locales:i386
@@ -8436,6 +8439,7 @@ sed
 sed:i386
 sensible-utils
 sensible-utils:i386
+sensord
 sgml-base
 sgml-base:i386
 shared-mime-info
