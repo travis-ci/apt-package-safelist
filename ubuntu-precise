@@ -3965,6 +3965,8 @@ libesd0
 libesd0-dev
 libespeak-dev
 libespeak1
+libestr-dev
+libestr0
 libev-dev
 libev-dev:i386
 libevent-2.0-5
