@@ -7914,6 +7914,8 @@ python-clang-3.4
 python-clearsilver
 python-configobj
 python-configobj:i386
+python-coverage
+python-coverage-dbg
 python-crypto
 python-crypto:i386
 python-dbg
@@ -8173,6 +8175,8 @@ python3-all-dev
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
+python3-coverage
+python3-coverage-dbg
 python3-dbg
 python3-dbus
 python3-dbus.mainloop.qt
