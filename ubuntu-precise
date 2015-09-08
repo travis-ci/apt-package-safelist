@@ -8519,6 +8519,8 @@ tesseract-ocr
 tesseract-ocr-all
 tesseract-ocr-dev
 tex-gyre
+tex4ht
+tex4ht-common
 texinfo
 texinfo:i386
 texlive
