@@ -8009,6 +8009,7 @@ python-nlopt
 python-nose
 python-nose-doc
 python-nose:i386
+python-nosexcover
 python-numexpr
 python-numexpr-dbg
 python-numpy
