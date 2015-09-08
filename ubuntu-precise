@@ -6109,6 +6109,8 @@ libreadline6-dev:i386
 libreadline6:i386
 libregexp-java
 libregexp-java:i386
+librelp-dev
+librelp0
 libroken18-heimdal
 libroken18-heimdal:i386
 librrd-dev
