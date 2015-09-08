@@ -4959,6 +4959,8 @@ liblog4cxx10-dev:i386
 liblog4cxx10-doc
 liblog4cxx10-doc:i386
 liblog4cxx10:i386
+liblogging-stdlog-dev
+liblogging-stdlog0
 liblqr-1-0
 liblqr-1-0-dev
 liblqr-1-0-dev:i386
