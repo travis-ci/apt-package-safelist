@@ -4990,6 +4990,9 @@ liblua5.2-dev:i386
 libluajit-5.1-2
 libluajit-5.1-common
 libluajit-5.1-dev
+liblucene3-contrib-java
+liblucene3-java
+liblucene3-java-doc
 liblvm2app2.2
 liblvm2app2.2:i386
 liblwgeom-2.1.5
@@ -6347,6 +6350,7 @@ libsnmp15:i386
 libsodium-dbg
 libsodium-dev
 libsodium13
+libsolr-java
 libsoqt-dev-common
 libsoqt4-20
 libsoqt4-dev
@@ -8470,6 +8474,9 @@ snmp-mibs-downloader
 socat
 socklog
 socklog-run
+solr-common
+solr-jetty
+solr-tomcat
 sound-theme-freedesktop
 sound-theme-freedesktop:i386
 sox
