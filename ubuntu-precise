@@ -3377,6 +3377,8 @@ libasan2
 libasan2-dbg
 libasan2-dbg:i386
 libasan2:i386
+libasio-dev
+libasio-doc
 libasm-dev
 libasm-dev:i386
 libasm1
