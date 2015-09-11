@@ -1250,6 +1250,7 @@ highlight-common
 hlint
 hostname
 hostname:i386
+hscolour
 hspell
 html2text
 html2text:i386
@@ -4271,6 +4272,9 @@ libghc-gstreamer-prof
 libghc-hlint-dev
 libghc-hlint-doc
 libghc-hlint-prof
+libghc-hscolour-dev
+libghc-hscolour-doc
+libghc-hscolour-prof
 libghc-pandoc-citeproc-data
 libghc-pandoc-citeproc-dev
 libghc-pandoc-citeproc-doc
