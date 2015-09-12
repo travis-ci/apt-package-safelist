@@ -8002,6 +8002,7 @@ python-ldns
 python-ldns:i386
 python-liblcms
 python-libsvm
+python-libvirt
 python-libxml2
 python-libxml2-dbg
 python-libxslt1
@@ -8222,6 +8223,7 @@ python3-gi:i386
 python3-h5py
 python3-ipaddr
 python3-jinja2
+python3-libvirt
 python3-markdown
 python3-markupsafe
 python3-markupsafe-dbg
