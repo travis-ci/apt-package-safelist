@@ -292,6 +292,7 @@ chef
 chef:i386
 chefdk
 chefdk:i386
+chicken-bin
 chktex
 chromium-browser
 chromium-browser-l10n
@@ -3706,6 +3707,8 @@ libcgi-fast-perl:i386
 libcgraph5
 libcgraph5:i386
 libcgraph6
+libchicken-dev
+libchicken7
 libchromaprint-dev
 libchromaprint-dev:i386
 libchromaprint-tools
