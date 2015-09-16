@@ -6198,12 +6198,12 @@ libsdl1.2debian
 libsdl2-2.0-0
 libsdl2-dbg
 libsdl2-dev
-libsdl2-net-2.0-0
-libsdl2-net-dbg
-libsdl2-net-dev
 libsdl2-image-2.0-0
 libsdl2-image-dbg
 libsdl2-image-dev
+libsdl2-net-2.0-0
+libsdl2-net-dbg
+libsdl2-net-dev
 libsdl2-ttf-2.0-0
 libsdl2-ttf-dbg
 libsdl2-ttf-dev
@@ -6425,6 +6425,7 @@ libssl0.9.8:i386
 libssl1.0.0
 libssl1.0.0:i386
 libstartup-notification0
+libstartup-notification0-dev
 libstartup-notification0:i386
 libstdc++-4.8-dev
 libstdc++-4.8-dev:i386
