@@ -5630,6 +5630,7 @@ libonig2-dbg
 libopenal-data
 libopenal-dev
 libopenal1
+libopenal1-dbg
 libopenblas-base
 libopenblas-base:i386
 libopenblas-dev
@@ -7291,6 +7292,7 @@ make
 make:i386
 makedev
 makedev:i386
+makehrtf
 man-db
 man-db:i386
 manpages
@@ -7552,6 +7554,7 @@ opam
 opam-docs
 opam-docs:i386
 opam:i386
+openal-info
 opencascade-draw
 opencascade-examples
 opencl-headers
