@@ -5620,6 +5620,7 @@ libonig2-dbg
 libopenal-data
 libopenal-dev
 libopenal1
+libopenal1-dbg
 libopenblas-base
 libopenblas-base:i386
 libopenblas-dev
@@ -6198,12 +6199,12 @@ libsdl1.2debian
 libsdl2-2.0-0
 libsdl2-dbg
 libsdl2-dev
-libsdl2-net-2.0-0
-libsdl2-net-dbg
-libsdl2-net-dev
 libsdl2-image-2.0-0
 libsdl2-image-dbg
 libsdl2-image-dev
+libsdl2-net-2.0-0
+libsdl2-net-dbg
+libsdl2-net-dev
 libsdl2-ttf-2.0-0
 libsdl2-ttf-dbg
 libsdl2-ttf-dev
@@ -7276,6 +7277,7 @@ make
 make:i386
 makedev
 makedev:i386
+makehrtf
 man-db
 man-db:i386
 manpages
@@ -7537,6 +7539,7 @@ opam
 opam-docs
 opam-docs:i386
 opam:i386
+openal-info
 opencascade-draw
 opencascade-examples
 opencl-headers
