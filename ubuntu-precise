@@ -493,6 +493,10 @@ dh-autoreconf
 dh-make
 dh-make:i386
 dh-systemd
+dia
+dia-common
+dia-gnome
+dia-libs
 dialog
 diatheke
 diffstat
