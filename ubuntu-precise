@@ -433,6 +433,7 @@ cryptsetup-bin
 cryptsetup-bin:i386
 csh
 csh:i386
+cssc
 ctpl
 cups
 cups-bsd
