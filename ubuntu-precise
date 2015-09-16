@@ -6437,6 +6437,7 @@ libssl0.9.8:i386
 libssl1.0.0
 libssl1.0.0:i386
 libstartup-notification0
+libstartup-notification0-dev
 libstartup-notification0:i386
 libstdc++-4.8-dev
 libstdc++-4.8-dev:i386
