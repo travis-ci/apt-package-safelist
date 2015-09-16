@@ -3322,6 +3322,7 @@ libalgorithm-merge-perl
 libalgorithm-merge-perl:i386
 libalut-dev
 libalut0
+libamd2.3.1
 libantlr-dev
 libantlr-java
 libantlr-java:i386
@@ -3602,6 +3603,7 @@ libbsd0
 libbsd0:i386
 libbsf-java
 libbsf-java:i386
+libbtf1.2.0
 libbz2-1.0
 libbz2-1.0:i386
 libbz2-dev
@@ -3671,6 +3673,7 @@ libcairo2:i386
 libcairomm-1.0-1v5
 libcairomm-1.0-dev
 libcairomm-1.0-doc
+libcamd2.3.1
 libcanberra-gtk3-0
 libcanberra-gtk3-0:i386
 libcanberra-gtk3-module
@@ -3685,6 +3688,7 @@ libcap2-bin:i386
 libcap2:i386
 libcc1-0
 libcc1-0:i386
+libccolamd2.8.0
 libcdt4
 libcdt4:i386
 libcdt5
@@ -3706,6 +3710,7 @@ libcgi-fast-perl:i386
 libcgraph5
 libcgraph5:i386
 libcgraph6
+libcholmod2.1.2
 libchromaprint-dev
 libchromaprint-dev:i386
 libchromaprint-tools
@@ -3744,6 +3749,7 @@ libcoin80
 libcoin80-dev
 libcoin80-doc
 libcoin80-runtime
+libcolamd2.8.0
 libcollectdclient-dev
 libcollectdclient-dev:i386
 libcollectdclient0
@@ -3794,6 +3800,7 @@ libcroco3
 libcroco3:i386
 libcryptsetup4
 libcryptsetup4:i386
+libcsparse3.1.2
 libctpl-dev
 libctpl-doc
 libctpl2
@@ -3842,6 +3849,7 @@ libcvaux2.3
 libcvaux2.3:i386
 libcvaux2.4
 libcvaux2.4:i386
+libcxsparse3.1.2
 libdap11
 libdap11:i386
 libdapclient3
@@ -4869,6 +4877,7 @@ libkeyutils1
 libkeyutils1:i386
 libklibc
 libklibc:i386
+libklu1.2.1
 libkrb5-26-heimdal
 libkrb5-26-heimdal:i386
 libkrb5-3
@@ -4911,6 +4920,7 @@ libldap-2.4-2
 libldap-2.4-2:i386
 libldap2-dev
 libldap2-dev:i386
+libldl2.1.0
 libldns-dev
 libldns-dev:i386
 libldns1
@@ -6198,12 +6208,12 @@ libsdl1.2debian
 libsdl2-2.0-0
 libsdl2-dbg
 libsdl2-dev
-libsdl2-net-2.0-0
-libsdl2-net-dbg
-libsdl2-net-dev
 libsdl2-image-2.0-0
 libsdl2-image-dbg
 libsdl2-image-dev
+libsdl2-net-2.0-0
+libsdl2-net-dbg
+libsdl2-net-dev
 libsdl2-ttf-2.0-0
 libsdl2-ttf-dbg
 libsdl2-ttf-dev
@@ -6396,6 +6406,7 @@ libspotify-dev
 libspotify-dev:i386
 libspotify12
 libspotify12:i386
+libspqr1.3.1
 libsql-translator-perl
 libsqlite3-0
 libsqlite3-0-dbg
@@ -6534,6 +6545,9 @@ libstemmer0d-dbg
 libstroke0
 libstroke0-dev
 libstxxl1
+libsuitesparse-dbg
+libsuitesparse-dev
+libsuitesparse-doc
 libsvm-dev
 libsvm-java
 libsvm-tools
@@ -6656,6 +6670,7 @@ libubsan0:i386
 libudev-dev
 libudev0
 libudev0:i386
+libumfpack5.6.2
 libunbound-dev
 libunbound-dev:i386
 libunistring0
