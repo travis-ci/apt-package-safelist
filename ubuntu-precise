@@ -6447,6 +6447,12 @@ libsrecord0
 libsrecord0-dbg
 libss2
 libss2:i386
+libssh-4
+libssh-dbg
+libssh-dev
+libssh-doc
+libssh-gcrypt-4
+libssh-gcrypt-dev
 libssh2-1
 libssh2-1-dev
 libssh2-1-dev:i386
