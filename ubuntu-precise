@@ -1085,6 +1085,7 @@ gir1.2-rsvg-2.0
 gir1.2-rsvg-2.0:i386
 gir1.2-secret-1
 gir1.2-soup-2.4
+gir1.2-udisks-2.0
 git
 git-man
 git-man:i386
@@ -6748,6 +6749,8 @@ libubsan0:i386
 libudev-dev
 libudev0
 libudev0:i386
+libudisks2-0
+libudisks2-dev
 libudunits2-0
 libudunits2-dev
 libumfpack5.6.2
@@ -8958,6 +8961,8 @@ udeb:i386
 udev
 udev:i386
 udisks
+udisks2
+udisks2-doc
 udisks:i386
 udunits-bin
 unattended-upgrades
