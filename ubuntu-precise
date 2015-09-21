@@ -7014,6 +7014,10 @@ libxinerama1
 libxinerama1:i386
 libxkbfile1
 libxkbfile1:i386
+libxml++2.6-2v5
+libxml++2.6-dbg
+libxml++2.6-dev
+libxml++2.6-doc
 libxml-commons-external-java
 libxml-commons-external-java:i386
 libxml-commons-resolver1.1-java
