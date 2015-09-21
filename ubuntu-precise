@@ -4309,6 +4309,9 @@ libghc-pandoc-citeproc-data
 libghc-pandoc-citeproc-dev
 libghc-pandoc-citeproc-doc
 libghc-pandoc-citeproc-prof
+libghc-pandoc-dev
+libghc-pandoc-doc
+libghc-pandoc-prof
 libgif-dev
 libgif-dev:i386
 libgif4
@@ -7656,6 +7659,7 @@ pandas
 pandas:i386
 pandoc
 pandoc-citeproc
+pandoc-data
 pandoc:i386
 parallel
 parallel:i386
