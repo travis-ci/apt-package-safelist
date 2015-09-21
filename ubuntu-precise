@@ -760,6 +760,7 @@ freetds-dev
 freetds-dev:i386
 fuse
 fuse:i386
+fxload
 g++
 g++-4.6
 g++-4.6-arm-linux-gnueabi
