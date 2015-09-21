@@ -8078,6 +8078,7 @@ python-lldb-3.8
 python-lxml
 python-lxml:i386
 python-m2crypto
+python-mapnik
 python-markdown
 python-markdown-doc
 python-markupsafe
@@ -8292,6 +8293,7 @@ python3-gi:i386
 python3-h5py
 python3-ipaddr
 python3-jinja2
+python3-mapnik
 python3-markdown
 python3-markupsafe
 python3-markupsafe-dbg
