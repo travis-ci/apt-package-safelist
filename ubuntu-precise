@@ -6711,6 +6711,8 @@ libubsan0:i386
 libudev-dev
 libudev0
 libudev0:i386
+libudunits2-0
+libudunits2-dev
 libumfpack5.6.2
 libunbound-dev
 libunbound-dev:i386
@@ -8907,6 +8909,7 @@ udev
 udev:i386
 udisks
 udisks:i386
+udunits-bin
 unattended-upgrades
 unattended-upgrades:i386
 unbound
