@@ -191,6 +191,7 @@ autoconf
 autoconf-archive
 autoconf:i386
 autogen
+autogen-doc
 autogen:i386
 automake
 automake1.9
