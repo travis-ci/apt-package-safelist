@@ -8178,6 +8178,8 @@ python-pip
 python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
+python-ply
+python-ply-doc
 python-protobuf
 python-pycountry
 python-pycurl
@@ -8364,6 +8366,7 @@ python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
+python3-ply
 python3-pycountry
 python3-pyfits
 python3-pygments
