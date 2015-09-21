@@ -3753,6 +3753,11 @@ libclang1-3.8
 libclang1-3.8-dbg
 libclass-isa-perl
 libclass-isa-perl:i386
+libclblas-bin
+libclblas-dev
+libclblas-doc
+libclblas2
+libclblas2-dbg
 libclearsilver-perl
 libcln-dev
 libcln6
