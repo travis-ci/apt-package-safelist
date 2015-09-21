@@ -1168,6 +1168,9 @@ gpc:i386
 gperf
 gpgv
 gpgv:i386
+gputils
+gputils-common
+gputils-doc
 graphicsmagick
 graphicsmagick-dbg
 graphicsmagick-imagemagick-compat
