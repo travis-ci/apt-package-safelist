@@ -5624,6 +5624,9 @@ libnss3-tools
 libnss3:i386
 libnuget-core-cil
 libnuget-core-cil-dev
+libnuma-dbg
+libnuma-dev
+libnuma1
 liboath-dev
 liboath0
 libobjc-4.8-dev
@@ -7590,6 +7593,7 @@ ntfs-3g:i386
 ntpdate
 ntpdate:i386
 nuget
+numactl
 nunit-console
 oath-dbg
 oathtool
