@@ -5088,6 +5088,8 @@ libmagickwand4
 libmagickwand4:i386
 libmail-sendmail-perl
 libmail-sendmail-perl:i386
+libmapnik-dev
+libmapnik3.0
 libmarkdown2
 libmarkdown2-dbg
 libmarkdown2-dev
@@ -7344,6 +7346,8 @@ manpages
 manpages-dev
 manpages-dev:i386
 manpages:i386
+mapnik-doc
+mapnik-utils
 markdown
 mawk
 mawk:i386
