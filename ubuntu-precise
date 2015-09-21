@@ -1255,6 +1255,9 @@ hdparm:i386
 heirloom-mailx
 help2man
 heroku-toolbelt
+hhvm
+hhvm-dbg
+hhvm-dev
 hicolor-icon-theme
 hicolor-icon-theme:i386
 highlight
