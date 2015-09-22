@@ -1163,6 +1163,9 @@ gobjc-multilib
 gobjc-multilib:i386
 gobjc:i386
 gobject-introspection
+google-chrome-beta
+google-chrome-stable
+google-chrome-unstable
 google-mock
 google-perftools
 gpc
