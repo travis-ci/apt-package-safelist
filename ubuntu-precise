@@ -5851,6 +5851,7 @@ libosmesa6-dev:i386
 libosmesa6:i386
 libossp-uuid-dev
 libossp-uuid-dev:i386
+libossp-uuid-perl
 libossp-uuid16
 libossp-uuid16:i386
 liboverlay-scrollbar-0.2-0
@@ -9017,6 +9018,7 @@ ureadahead
 ureadahead:i386
 util-linux
 util-linux:i386
+uuid
 uuid-dev
 uuid-dev:i386
 valgrind
