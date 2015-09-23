@@ -4750,6 +4750,7 @@ libhiredis0.13
 libhogweed2
 libhtml-template-perl
 libhtml-template-perl:i386
+libhttp-daemon-perl
 libhunspell-1.3-0
 libhunspell-1.3-0-dbg
 libhunspell-dev
