@@ -1112,6 +1112,13 @@ gnat-5:i386
 gnome-common
 gnupg
 gnupg:i386
+gnuplot
+gnuplot-data
+gnuplot-doc
+gnuplot-nox
+gnuplot-qt
+gnuplot-tex
+gnuplot-x11
 gnutls-bin
 gnutls-doc
 gobjc
