@@ -1072,6 +1072,7 @@ gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
+gir1.2-gsf-1
 gir1.2-gst-plugins-base-0.10
 gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
@@ -4534,6 +4535,11 @@ libgs9
 libgs9-common
 libgs9-common:i386
 libgs9:i386
+libgsf-1-114
+libgsf-1-114-dbg
+libgsf-1-common
+libgsf-1-dev
+libgsf-bin
 libgsl0-dbg
 libgsl0-dbg:i386
 libgsl0-dev
