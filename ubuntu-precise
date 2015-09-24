@@ -6866,6 +6866,10 @@ libwebkitgtk-3.0-dev
 libwebkitgtk-3.0-dev:i386
 libwebkitgtk-dev
 libwebkitgtk-dev:i386
+libwebp-dev
+libwebp5
+libwebpdemux1
+libwebpmux1
 libwind0-heimdal
 libwind0-heimdal:i386
 libwmf-dev
@@ -9101,6 +9105,7 @@ wammu
 wammu:i386
 wavpack
 wcslib-dev
+webp
 wget
 wget:i386
 whiptail
