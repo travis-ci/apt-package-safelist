@@ -4033,6 +4033,9 @@ libesd0
 libesd0-dev
 libespeak-dev
 libespeak1
+libestools-dev
+libestools2.4
+libestools2.4-dbg
 libestr-dev
 libestr0
 libev-dev
@@ -8685,6 +8688,9 @@ sox
 spatialite-bin
 specific
 specific:i386
+speech-tools
+speech-tools-dbg
+speech-tools-doc
 sphinx-common
 sphinx-doc
 sphinxsearch
