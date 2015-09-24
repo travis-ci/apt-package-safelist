@@ -7974,6 +7974,7 @@ postgresql-server-dev-all
 postgresql-server-dev-all:i386
 powermgmt-base
 powermgmt-base:i386
+praat
 probcons
 probcons-extra
 probcons-extra:i386
