@@ -9092,6 +9092,7 @@ wget
 wget:i386
 whiptail
 whiptail:i386
+whois
 winbind
 winbind:i386
 wine
