@@ -3384,6 +3384,8 @@ libappindicator1
 libappindicator3-1
 libappindicator3-dev
 libapr1
+libapr1-dbg
+libapr1-dev
 libapr1:i386
 libaprutil1
 libaprutil1:i386
