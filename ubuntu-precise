@@ -8226,6 +8226,9 @@ python-pkg-resources:i386
 python-ply
 python-ply-doc
 python-protobuf
+python-psycopg2
+python-psycopg2-dbg
+python-psycopg2-doc
 python-pycountry
 python-pycurl
 python-pycurl:i386
@@ -8412,6 +8415,8 @@ python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
 python3-ply
+python3-psycopg2
+python3-psycopg2-dbg
 python3-pycountry
 python3-pyfits
 python3-pygments
