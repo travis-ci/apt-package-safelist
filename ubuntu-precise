@@ -664,6 +664,7 @@ fakechroot
 fakechroot:i386
 fakeroot
 fakeroot:i386
+fdisk-udeb
 ffmpeg
 ffmpeg-dbg
 ffmpeg-dbg:i386
@@ -3541,7 +3542,9 @@ libblas-dev
 libblas-dev:i386
 libblas3gf
 libblas3gf:i386
+libblkid-dev
 libblkid1
+libblkid1-udeb
 libblkid1:i386
 libbluetooth-dev
 libbluetooth-dev:i386
@@ -4088,6 +4091,9 @@ libfbembed2.5
 libfbembed2.5:i386
 libfcgi-dev
 libfcgi-dev:i386
+libfdisk-dev
+libfdisk1
+libfdisk1-udeb
 libffi-dev
 libffi-dev:i386
 libffi6
@@ -5452,6 +5458,7 @@ libmono2.0-cil
 libmono2.0-cil:i386
 libmonogame-cil
 libmonogame-cil-dev
+libmount-dev
 libmount1
 libmount1:i386
 libmozjs185-1.0
@@ -6450,6 +6457,9 @@ libsm-dev
 libsm-dev:i386
 libsm6
 libsm6:i386
+libsmartcols-dev
+libsmartcols1
+libsmartcols1-udeb
 libsmbclient
 libsmbclient-dev
 libsmbsharemodes-dev
@@ -6815,6 +6825,7 @@ libusb-dev
 libutempter0
 libutempter0:i386
 libuuid1
+libuuid1-udeb
 libuuid1:i386
 libv8-3.7.12.22
 libv8-dbg
@@ -9044,10 +9055,13 @@ upx-ucl
 ureadahead
 ureadahead:i386
 util-linux
+util-linux-locales
+util-linux-udeb
 util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+uuid-runtime
 valgrind
 valgrind:i386
 vamp-examples
