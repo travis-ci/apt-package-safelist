@@ -7046,6 +7046,9 @@ libxdmcp-dev
 libxdmcp-dev:i386
 libxdmcp6
 libxdmcp6:i386
+libxdo-dev
+libxdo3
+libxdo3-dbg
 libxdot4
 libxdot4:i386
 libxerces-c-dev
