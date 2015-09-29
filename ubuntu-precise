@@ -212,6 +212,10 @@ bash:i386
 bc
 bc:i386
 biblatex
+bind9
+bind9-doc
+bind9-host
+bind9utils
 binfmt-support
 binfmt-support:i386
 binutils
@@ -1280,6 +1284,7 @@ hicolor-icon-theme:i386
 highlight
 highlight-common
 hlint
+host
 hostname
 hostname:i386
 hscolour
@@ -3533,8 +3538,11 @@ libbcel-java
 libbcel-java-doc
 libbcel-java-doc:i386
 libbcel-java:i386
+libbind-dev
+libbind-export-dev
 libbind4
 libbind4-dev
+libbind9-90
 libbison-dev
 libbison-dev:i386
 libblas-dev
@@ -3972,6 +3980,9 @@ libdjvulibre-text
 libdjvulibre-text:i386
 libdjvulibre21
 libdjvulibre21:i386
+libdns-export100
+libdns-export100-udeb
+libdns100
 libdpkg-perl
 libdpkg-perl:i386
 libdrm-dev
@@ -4858,6 +4869,15 @@ libirrlicht-dev
 libirrlicht-dev:i386
 libirrlicht1.7a
 libirrlicht1.7a:i386
+libirs-export91
+libirs-export91-udeb
+libisc-export95
+libisc-export95-udeb
+libisc95
+libisccc90
+libisccfg-export90
+libisccfg-export90-udeb
+libisccfg90
 libisl10
 libisl10:i386
 libisofs-dev
@@ -5094,6 +5114,7 @@ liblwgeom-2.1.5
 liblwgeom-2.1.5:i386
 liblwgeom-2.1.8
 liblwgeom-dev
+liblwres90
 liblz4-1
 liblz4-1-dbg
 liblz4-dev
@@ -7404,6 +7425,7 @@ lua5.2-doc:i386
 lua5.2:i386
 luajit
 luarocks
+lwresd
 lyx
 lyx-common
 lyx-dbg
