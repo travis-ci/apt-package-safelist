@@ -5863,6 +5863,8 @@ libosmesa6
 libosmesa6-dev
 libosmesa6-dev:i386
 libosmesa6:i386
+libosp-dev
+libosp5
 libossp-uuid-dev
 libossp-uuid-dev:i386
 libossp-uuid-perl
@@ -7724,6 +7726,7 @@ openmpi:i386
 openscenegraph
 openscenegraph-doc
 openscenegraph-examples
+opensp
 openssh-client
 openssh-client:i386
 openssh-server
