@@ -4360,6 +4360,9 @@ libgirepository-1.0-1
 libgirepository-1.0-1:i386
 libgirepository1.0-dev
 libgirepository1.0-doc
+libgit2-23
+libgit2-dbg
+libgit2-dev
 libgl1-mesa-dev
 libgl1-mesa-dev:i386
 libgl1-mesa-dri
