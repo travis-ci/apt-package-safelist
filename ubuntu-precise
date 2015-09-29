@@ -522,6 +522,7 @@ dmsetup
 dmsetup:i386
 dnsutils
 dnsutils:i386
+docbook-dsssl
 docbook-utils
 docbook-xml
 docbook-xsl
