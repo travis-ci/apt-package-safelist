@@ -8590,6 +8590,7 @@ r-cran-rpart
 r-cran-rpart:i386
 r-cran-spatial
 r-cran-spatial:i386
+r-cran-stringr
 r-cran-survival
 r-cran-survival:i386
 r-doc-html
