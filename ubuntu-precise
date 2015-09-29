@@ -6819,6 +6819,9 @@ libuuid1:i386
 libv8-3.7.12.22
 libv8-dbg
 libv8-dev
+libvala-0.28-0
+libvala-0.28-0-dbg
+libvala-0.28-dev
 libvamp-hostsdk3
 libvamp-hostsdk3:i386
 libvamp-sdk2
@@ -9048,6 +9051,11 @@ util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+vala-0.28-doc
+valac
+valac-0.28
+valac-0.28-dbg
+valac-0.28-vapi
 valgrind
 valgrind:i386
 vamp-examples
