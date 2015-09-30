@@ -5147,6 +5147,8 @@ libmatheval-dev
 libmatheval1
 libmcrypt-dev
 libmcrypt4
+libmecab-dev
+libmecab2
 libmemcache-dev
 libmemcache0
 libmemcached-dev
@@ -7445,6 +7447,8 @@ mbr-udeb
 mcl
 md5deep
 md5deep:i386
+mecab
+mecab-utils
 memcached
 memcached:i386
 mencoder
