@@ -8738,6 +8738,8 @@ subversion
 subversion:i386
 sudo
 sudo:i386
+swftools
+swftools-dbg
 swig
 swig:i386
 sysv-rc
