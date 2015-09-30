@@ -327,6 +327,7 @@ clang-3.6:i386
 clang-3.7
 clang-3.7-doc
 clang-3.7-doc:i386
+clang-3.7-examples
 clang-3.7:i386
 clang-3.8
 clang-3.8-doc
@@ -340,6 +341,7 @@ clang-format-3.7
 clang-format-3.7:i386
 clang-format-3.8
 clang-modernize-3.4
+clang-modernize-3.7
 clang-modernize-3.8
 clang:i386
 clearsilver-dev
@@ -425,6 +427,7 @@ cpp-arm-linux-gnueabihf
 cpp-doc
 cpp-doc:i386
 cpp11-migrate-3.4
+cpp11-migrate-3.7
 cpp11-migrate-3.8
 cpp:i386
 cppcheck
@@ -3771,11 +3774,15 @@ libck-connector0:i386
 libclamav-dev
 libclamav-dev:i386
 libclang-3.4-dev
+libclang-3.7-dev
 libclang-3.8-dev
 libclang-common-3.4-dev
+libclang-common-3.7-dev
 libclang-common-3.8-dev
 libclang1-3.4
 libclang1-3.4-dbg
+libclang1-3.7
+libclang1-3.7-dbg
 libclang1-3.8
 libclang1-3.8-dbg
 libclass-isa-perl
@@ -5004,9 +5011,13 @@ libldns1:i386
 liblept4
 libleptonica-dev
 libleveldb-dev
+liblldb-3.7
+liblldb-3.7-dbg
+liblldb-3.7-dev
 liblldb-3.8
 liblldb-3.8-dev
 libllvm-3.4-ocaml-dev
+libllvm-3.7-ocaml-dev
 libllvm-3.8-ocaml-dev
 libllvm2.8
 libllvm2.8:i386
@@ -7254,6 +7265,8 @@ littler
 littler:i386
 lksctp-tools
 lksctp-tools:i386
+lldb-3.7
+lldb-3.7-dev
 lldb-3.8
 lldb-3.8-dev
 llvm
@@ -7376,6 +7389,7 @@ llvm-3.7-runtime
 llvm-3.7-runtime:i386
 llvm-3.7-source
 llvm-3.7-source:i386
+llvm-3.7-tools
 llvm-3.7:i386
 llvm-3.8
 llvm-3.8-dev
@@ -8115,6 +8129,7 @@ python-cairo-dbg
 python-cairo-dev
 python-cheetah
 python-clang-3.4
+python-clang-3.7
 python-clang-3.8
 python-clearsilver
 python-configobj
@@ -8188,6 +8203,7 @@ python-libxml2
 python-libxml2-dbg
 python-libxslt1
 python-libxslt1-dbg
+python-lldb-3.7
 python-lldb-3.8
 python-lxml
 python-lxml:i386
