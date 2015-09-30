@@ -5876,6 +5876,8 @@ libossp-uuid-dev:i386
 libossp-uuid-perl
 libossp-uuid16
 libossp-uuid16:i386
+libostyle-dev
+libostyle1c2
 liboverlay-scrollbar-0.2-0
 liboverlay-scrollbar-0.2-dev
 liboverlay-scrollbar3-0.2-0
@@ -7710,6 +7712,7 @@ opencl-headers
 opencv-doc
 opencv-doc:i386
 openimageio-tools
+openjade
 openjdk-6-jdk
 openjdk-6-jdk:i386
 openjdk-6-jre
