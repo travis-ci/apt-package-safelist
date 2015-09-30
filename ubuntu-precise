@@ -7094,6 +7094,7 @@ libxml-commons-external-java
 libxml-commons-external-java:i386
 libxml-commons-resolver1.1-java
 libxml-commons-resolver1.1-java:i386
+libxml-libxml-perl
 libxml-parser-perl
 libxml-xpath-perl
 libxml2
