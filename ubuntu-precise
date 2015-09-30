@@ -4842,6 +4842,7 @@ libindicator7
 libinotifytools0
 libinotifytools0-dev
 libio-pty-perl
+libio-socket-ssl-perl
 libio-string-perl
 libiodbc2
 libiodbc2-dev
