@@ -5141,6 +5141,7 @@ libmapnik3.0
 libmarkdown2
 libmarkdown2-dbg
 libmarkdown2-dev
+libmath-bigint-perl
 libmatheval-dev
 libmatheval1
 libmcrypt-dev
