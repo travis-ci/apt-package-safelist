@@ -948,6 +948,7 @@ gconf2
 gconf2-common
 gconf2-common:i386
 gconf2:i386
+gcovr
 gdal-bin
 gdal-bin:i386
 gdb
