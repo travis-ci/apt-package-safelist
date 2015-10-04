@@ -3871,6 +3871,8 @@ libcouchbase-dev:i386
 libcouchbase2-libevent
 libcouchbase2-libevent:i386
 libcppunit-dev
+libcppunit-subunit-dev
+libcppunit-subunit0
 libcroco3
 libcroco3:i386
 libcryptsetup4
@@ -6697,6 +6699,9 @@ libstemmer0d-dbg
 libstroke0
 libstroke0-dev
 libstxxl1
+libsubunit-dev
+libsubunit-perl
+libsubunit0
 libsuitesparse-dbg
 libsuitesparse-dev
 libsuitesparse-doc
@@ -8363,6 +8368,7 @@ python-simplejson:i386
 python-software-properties
 python-software-properties:i386
 python-sphinx
+python-subunit
 python-swiftclient
 python-tables
 python-tables:i386
@@ -8515,6 +8521,7 @@ python3-scipy
 python3-scipy-dbg
 python3-setuptools
 python3-sphinx
+python3-subunit
 python3-venv
 python3-virtualenv
 python3-xdg
@@ -8799,6 +8806,7 @@ statsmodels
 statsmodels:i386
 strace
 strace:i386
+subunit
 subversion
 subversion:i386
 sudo
