@@ -571,12 +571,16 @@ elfutils:i386
 elinks
 elinks-data
 elinks-doc
+emacs
+emacs23
 emacs23-bin-common
 emacs23-bin-common:i386
 emacs23-common
 emacs23-common:i386
+emacs23-el
 emacs23-gtk
 emacs23-gtk:i386
+emacs23-lucid
 emacs23-nox
 emacs23-nox:i386
 emacs24
