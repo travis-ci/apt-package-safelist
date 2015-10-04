@@ -4411,6 +4411,8 @@ libgl1-mesa-swx11-dev:i386
 libgl1-mesa-swx11:i386
 libglacier2-34
 libglacier2-34:i386
+libglade2-0
+libglade2-dev
 libgladeui-1-11
 libgladeui-1-dev
 libglapi-mesa
