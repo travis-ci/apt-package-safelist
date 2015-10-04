@@ -571,6 +571,14 @@ elfutils:i386
 elinks
 elinks-data
 elinks-doc
+emacs-snapshot
+emacs-snapshot-bin-common
+emacs-snapshot-common
+emacs-snapshot-dbg
+emacs-snapshot-el
+emacs-snapshot-gtk
+emacs-snapshot-lucid
+emacs-snapshot-nox
 emacs23-bin-common
 emacs23-bin-common:i386
 emacs23-common
