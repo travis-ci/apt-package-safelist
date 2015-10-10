@@ -6367,6 +6367,7 @@ libsecret-1-dev
 libsecret-common
 libsecret-tools
 libselinux1
+libselinux1-dev
 libselinux1:i386
 libsensors4
 libsensors4:i386
@@ -8353,6 +8354,7 @@ python-scipy
 python-scipy-dbg
 python-scipy-doc
 python-scipy:i386
+python-selinux
 python-serial
 python-serial:i386
 python-setuptools
@@ -8711,6 +8713,7 @@ ruby-dev:i386
 ruby-mysql
 ruby-mysql:i386
 ruby-rrd
+ruby-selinux
 ruby1.8
 ruby1.8:i386
 ruby:i386
@@ -8742,6 +8745,7 @@ seaborn
 seaborn:i386
 sed
 sed:i386
+selinux-utils
 sensible-utils
 sensible-utils:i386
 sgml-base
