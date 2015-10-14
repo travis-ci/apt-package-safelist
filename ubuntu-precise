@@ -6079,8 +6079,10 @@ libpqxx3-dev
 libpqxx3-doc
 libproj-dev
 libproj-dev:i386
+libproj-java
 libproj0
 libproj0:i386
+libproj9
 libprotobuf-c0
 libprotobuf-c0-dev
 libprotobuf-c0-dev:i386
