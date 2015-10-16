@@ -5876,6 +5876,7 @@ libopenjpeg-dev
 libopenjpeg-java
 libopenjpeg5
 libopenjpeg5-dbg
+libopenmpi1.5-dev
 libopenmpi-dev
 libopenmpi-dev:i386
 libopenscenegraph-dev
