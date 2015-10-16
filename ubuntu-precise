@@ -665,6 +665,7 @@ expect
 expect-dev
 expect-dev:i386
 expect:i386
+extlinux
 exuberant-ctags
 faad
 faad2-dbg
@@ -1119,6 +1120,7 @@ gnat-5-doc
 gnat-5-doc:i386
 gnat-5:i386
 gnome-common
+gnu-efi
 gnupg
 gnupg:i386
 gnuplot
@@ -1424,6 +1426,7 @@ isc-dhcp-common
 isc-dhcp-common:i386
 iso-codes
 iso-codes:i386
+isolinux
 ispanish
 ispell
 iverilog
@@ -8119,6 +8122,7 @@ pvlib
 pvlib:i386
 pwgen
 pwgen-udeb
+pxelinux
 pyfits-utils
 pylint
 pylint:i386
@@ -8809,6 +8813,10 @@ swftools
 swftools-dbg
 swig
 swig:i386
+syslinux
+syslinux-common
+syslinux-efi
+syslinux-utils
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
