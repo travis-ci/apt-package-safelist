@@ -685,6 +685,7 @@ finch-dev
 findutils
 findutils:i386
 fiona
+fiona-doc
 fiona:i386
 firebird-dev
 firebird-dev:i386
@@ -8180,6 +8181,7 @@ python-docutils
 python-empy
 python-empy:i386
 python-examples
+python-fiona
 python-fontforge
 python-fontforge:i386
 python-ftdi
@@ -8452,6 +8454,7 @@ python3-dev:i386
 python3-doc
 python3-docutils
 python3-examples
+python3-fiona
 python3-gdal
 python3-geoip
 python3-gi
