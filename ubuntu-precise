@@ -1129,6 +1129,11 @@ gnuplot-nox
 gnuplot-qt
 gnuplot-tex
 gnuplot-x11
+gnustep
+gnustep-core-devel
+gnustep-core-doc
+gnustep-devel
+gnustep-games
 gnutls-bin
 gnutls-doc
 gobjc
