@@ -5118,6 +5118,11 @@ liblua5.2-0-dbg:i386
 liblua5.2-0:i386
 liblua5.2-dev
 liblua5.2-dev:i386
+libluabind-dbg
+libluabind-dev
+libluabind-doc
+libluabind-examples
+libluabind0.9.1v5
 libluajit-5.1-2
 libluajit-5.1-common
 libluajit-5.1-dev
