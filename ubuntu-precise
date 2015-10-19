@@ -8427,6 +8427,12 @@ python-qt4-sql-dbg
 python-qt4-sql-dbg:i386
 python-qt4-sql:i386
 python-qt4:i386
+python-renderpm
+python-renderpm-dbg
+python-reportlab
+python-reportlab-accel
+python-reportlab-accel-dbg
+python-reportlab-doc
 python-requests
 python-requests-whl
 python-roman
@@ -8620,6 +8626,11 @@ python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-pyqt5.qsci
 python3-pyqt5.qsci-dbg
+python3-renderpm
+python3-renderpm-dbg
+python3-reportlab
+python3-reportlab-accel
+python3-reportlab-accel-dbg
 python3-requests
 python3-roman
 python3-scipy
