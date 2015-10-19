@@ -7585,6 +7585,7 @@ mountall
 mountall:i386
 mp3gain
 mp3splt
+mpich2python
 mplayer
 mplayer-dbg
 mplayer-dbg:i386
@@ -7785,6 +7786,7 @@ openmpi
 openmpi-bin
 openmpi-bin:i386
 openmpi:i386
+openmpipython
 openscenegraph
 openscenegraph-doc
 openscenegraph-examples
@@ -8257,8 +8259,10 @@ python-minimal:i386
 python-miniupnpc
 python-mock
 python-mock-doc
+python-mpi
 python-mysqldb
 python-mysqldb-dbg
+python-netcdf
 python-networkx
 python-networkx-doc
 python-nlopt
@@ -8351,6 +8355,8 @@ python-rpy:i386
 python-rrdtool
 python-rsvg
 python-samba
+python-scientific
+python-scientific-doc
 python-scipy
 python-scipy-dbg
 python-scipy-doc
