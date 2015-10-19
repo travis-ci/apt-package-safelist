@@ -6334,6 +6334,8 @@ libreadline6
 libreadline6-dev
 libreadline6-dev:i386
 libreadline6:i386
+librecode-dev
+librecode0
 libregexp-java
 libregexp-java:i386
 librelp-dev
@@ -8805,6 +8807,8 @@ re2c
 readline-common
 readline-common:i386
 realpath
+recode
+recode-doc
 redis-server
 redis-server:i386
 registry-tools
