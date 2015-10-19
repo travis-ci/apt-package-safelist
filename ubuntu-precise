@@ -8812,6 +8812,7 @@ shiboken
 shiboken-dbg
 shiboken-doc
 shntool
+shunit2
 slapd
 sloccount
 smbclient
