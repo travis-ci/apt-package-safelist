@@ -8173,6 +8173,7 @@ python-dbus
 python-dbus:i386
 python-demjson
 python-demjson:i386
+python-descartes
 python-dev
 python-dev:i386
 python-doc
@@ -8447,6 +8448,7 @@ python3-dbus.mainloop.qt-dbg
 python3-dbus.mainloop.qt-dbg:i386
 python3-dbus.mainloop.qt:i386
 python3-dbus:i386
+python3-descartes
 python3-dev
 python3-dev:i386
 python3-doc
