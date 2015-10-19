@@ -4888,6 +4888,10 @@ libirrlicht1.7a
 libirrlicht1.7a:i386
 libisl10
 libisl10:i386
+libisoburn-dbg
+libisoburn-dev
+libisoburn-doc
+libisoburn1
 libisofs-dev
 libitm1
 libitm1-dbg
@@ -9291,6 +9295,7 @@ xorg
 xorg-dev
 xorg-sgml-doctools
 xorg-sgml-doctools:i386
+xorriso
 xpdf
 xpmutils
 xpra
