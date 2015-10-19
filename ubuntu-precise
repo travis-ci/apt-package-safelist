@@ -4342,6 +4342,9 @@ libgeos-dev
 libgeos-dev:i386
 libgettextpo0
 libgettextpo0:i386
+libgflags-dev
+libgflags-doc
+libgflags2v5
 libgfortran-4.8-dev
 libgfortran-4.9-dev
 libgfortran-5-dev
