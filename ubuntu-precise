@@ -6724,6 +6724,10 @@ libswscale2:i386
 libswscale3
 libsys-hostname-long-perl
 libsys-hostname-long-perl:i386
+libt1-5
+libt1-5-dbg
+libt1-dev
+libt1-doc
 libtag1-dev
 libtag1-dev:i386
 libtag1-doc
@@ -8813,6 +8817,7 @@ sysv-rc
 sysv-rc:i386
 sysvinit-utils
 sysvinit-utils:i386
+t1lib-bin
 tango-icon-theme
 tar
 tar:i386
