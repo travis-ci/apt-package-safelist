@@ -8370,6 +8370,7 @@ python-tables
 python-tables:i386
 python-tk
 python-tk-dbg
+python-tz
 python-vipscc
 python-virtualenv
 python-virtualenv:i386
@@ -8517,6 +8518,7 @@ python3-scipy
 python3-scipy-dbg
 python3-setuptools
 python3-sphinx
+python3-tz
 python3-venv
 python3-virtualenv
 python3-xdg
