@@ -3759,10 +3759,12 @@ libcfitsio3
 libcfitsio3-dbg
 libcfitsio3-dev
 libcfitsio3-doc
+libcg
 libcgal-demo
 libcgal-dev
 libcgal-ipelets
 libcgal8
+libcggl
 libcgi-fast-perl
 libcgi-fast-perl:i386
 libcgraph5
@@ -7708,6 +7710,9 @@ ntpdate:i386
 nuget
 numactl
 nunit-console
+nvidia-cg-dev
+nvidia-cg-doc
+nvidia-cg-toolkit
 oath-dbg
 oathtool
 ocaml
