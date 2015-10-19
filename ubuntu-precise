@@ -6489,6 +6489,10 @@ libsigsegv2:i386
 libsimage-dev
 libsimage20
 libslang2
+libslang2-dev
+libslang2-modules
+libslang2-pic
+libslang2-udeb
 libslang2:i386
 libslice34
 libslice34:i386
@@ -8757,6 +8761,7 @@ shiboken-doc
 shntool
 slapd
 sloccount
+slsh
 smbclient
 smistrip
 smitools
