@@ -1426,6 +1426,7 @@ iso-codes
 iso-codes:i386
 ispanish
 ispell
+isympy
 iverilog
 iverilog:i386
 ivy
@@ -8366,6 +8367,8 @@ python-software-properties
 python-software-properties:i386
 python-sphinx
 python-swiftclient
+python-sympy
+python-sympy-doc
 python-tables
 python-tables:i386
 python-tk
@@ -8517,6 +8520,7 @@ python3-scipy
 python3-scipy-dbg
 python3-setuptools
 python3-sphinx
+python3-sympy
 python3-venv
 python3-virtualenv
 python3-xdg
