@@ -8408,6 +8408,7 @@ python-rsvg
 python-samba
 python-scientific
 python-scientific-doc
+python-scikits.statsmodels
 python-scipy
 python-scipy-dbg
 python-scipy-doc
@@ -8422,6 +8423,9 @@ python-simplejson:i386
 python-software-properties
 python-software-properties:i386
 python-sphinx
+python-statsmodels
+python-statsmodels-doc
+python-statsmodels-lib
 python-subunit
 python-swiftclient
 python-tables
