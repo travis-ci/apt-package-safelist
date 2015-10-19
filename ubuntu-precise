@@ -4451,6 +4451,7 @@ libglm-dev
 libglm-doc
 libglpk-dev
 libglpk-dev:i386
+libglpk-java
 libglpk0
 libglpk0-dbg
 libglpk0-dbg:i386
