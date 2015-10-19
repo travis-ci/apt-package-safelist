@@ -4672,6 +4672,14 @@ libgvpr1:i386
 libgvpr2
 libhamcrest-java
 libhamcrest-java:i386
+libhamlib++-dev
+libhamlib-dev
+libhamlib-doc
+libhamlib-utils
+libhamlib2
+libhamlib2++c2
+libhamlib2-perl
+libhamlib2-tcl
 libhashkit0
 libhashkit0:i386
 libhawtjni-runtime-java
@@ -8285,6 +8293,7 @@ python-ldap
 python-ldap-dbg
 python-ldns
 python-ldns:i386
+python-libhamlib2
 python-liblcms
 python-libsvm
 python-libxml2
