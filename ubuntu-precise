@@ -8360,6 +8360,8 @@ python-serial:i386
 python-setuptools
 python-setuptools-doc
 python-setuptools-whl
+python-shapely
+python-shapely-doc
 python-simplejson
 python-simplejson:i386
 python-software-properties
@@ -8516,6 +8518,7 @@ python3-roman
 python3-scipy
 python3-scipy-dbg
 python3-setuptools
+python3-shapely
 python3-sphinx
 python3-venv
 python3-virtualenv
