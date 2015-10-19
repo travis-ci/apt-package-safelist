@@ -6085,6 +6085,8 @@ libpopt0-udeb
 libpopt0-udeb:i386
 libpopt0:i386
 libportaudio-dev
+libportaudio-doc
+libportaudio0
 libportaudio2
 libportaudio2:i386
 libportaudiocpp0
