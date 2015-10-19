@@ -8429,6 +8429,7 @@ python-rsvg
 python-samba
 python-scientific
 python-scientific-doc
+python-scikits-learn
 python-scikits.statsmodels
 python-scipy
 python-scipy-dbg
@@ -8443,6 +8444,9 @@ python-shapely
 python-shapely-doc
 python-simplejson
 python-simplejson:i386
+python-sklearn
+python-sklearn-doc
+python-sklearn-lib
 python-software-properties
 python-software-properties:i386
 python-sphinx
