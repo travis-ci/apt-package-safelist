@@ -8201,6 +8201,8 @@ python-apt:i386
 python-argparse
 python-argparse:i386
 python-beautifulsoup
+python-bottle
+python-bottle-doc
 python-bzrlib
 python-bzrlib:i386
 python-cairo
@@ -8491,6 +8493,7 @@ python3
 python3-all
 python3-all-dbg
 python3-all-dev
+python3-bottle
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
