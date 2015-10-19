@@ -6698,7 +6698,12 @@ libstemmer0d
 libstemmer0d-dbg
 libstroke0
 libstroke0-dev
+libstxxl-dev
+libstxxl-doc
 libstxxl1
+libstxxl1-bin
+libstxxl1-dbg
+libstxxl1v5
 libsuitesparse-dbg
 libsuitesparse-dev
 libsuitesparse-doc
