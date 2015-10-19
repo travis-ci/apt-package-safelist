@@ -8351,6 +8351,7 @@ python-rpy:i386
 python-rrdtool
 python-rsvg
 python-samba
+python-scikits-learn
 python-scipy
 python-scipy-dbg
 python-scipy-doc
@@ -8362,6 +8363,9 @@ python-setuptools-doc
 python-setuptools-whl
 python-simplejson
 python-simplejson:i386
+python-sklearn
+python-sklearn-doc
+python-sklearn-lib
 python-software-properties
 python-software-properties:i386
 python-sphinx
