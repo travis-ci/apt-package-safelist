@@ -5003,8 +5003,15 @@ liblablgtksourceview2-ocaml-dev
 liblam4
 liblapack-dev
 liblapack-dev:i386
+liblapack-doc
+liblapack-doc-man
+liblapack-pic
+liblapack-test
+liblapack3
 liblapack3gf
 liblapack3gf:i386
+liblapacke
+liblapacke-dev
 liblcms-utils
 liblcms1
 liblcms1-dev
