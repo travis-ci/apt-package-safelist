@@ -7260,6 +7260,8 @@ libzeroc-ice34-dbg:i386
 libzeroc-ice34-dev
 libzeroc-ice34-dev:i386
 libzeroc-ice34:i386
+libzip-dev
+libzip2
 libzipios++-dev
 libzipios++-doc
 libzipios++0c2a
@@ -9337,6 +9339,9 @@ zeroc-icee
 zeroc-icee:i386
 zip
 zip:i386
+zipcmp
+zipmerge
+ziptorrent
 zlib-bin
 zlib1g
 zlib1g-dbg
