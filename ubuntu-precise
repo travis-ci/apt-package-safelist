@@ -5557,6 +5557,8 @@ libmysqlclient-dev
 libmysqlclient-dev:i386
 libmysqlclient18
 libmysqlclient18:i386
+libmysqlcppconn-dev
+libmysqlcppconn7v5
 libn32atomic1
 libn32atomic1-dbg
 libn32atomic1-dbg:i386
