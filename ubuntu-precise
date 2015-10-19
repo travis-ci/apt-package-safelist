@@ -4564,6 +4564,10 @@ libgraphicsmagick++1-dev
 libgraphicsmagick++3
 libgraphicsmagick1-dev
 libgraphicsmagick3
+libgraphite2-3
+libgraphite2-3-dbg
+libgraphite2-dev
+libgraphite2-doc
 libgraphviz-dev
 libgraphviz-dev:i386
 libgraphviz4
