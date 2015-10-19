@@ -1258,6 +1258,7 @@ gtk-sharp3-examples
 gtk-sharp3-gapi
 guile-1.8-libs
 guile-1.8-libs:i386
+guile-gnutls
 gvfs
 gvfs-common
 gvfs-common:i386
@@ -4533,6 +4534,7 @@ libgnomevfs2-0:i386
 libgnomevfs2-common
 libgnomevfs2-common:i386
 libgnomevfs2-dev
+libgnutls-deb0-28
 libgnutls-dev
 libgnutls-dev:i386
 libgnutls-openssl27
@@ -4540,8 +4542,11 @@ libgnutls-openssl27:i386
 libgnutls26
 libgnutls26-dbg
 libgnutls26:i386
+libgnutls28-dbg
+libgnutls28-dev
 libgnutlsxx27
 libgnutlsxx27:i386
+libgnutlsxx28
 libgo4
 libgo4-dbg
 libgo5
