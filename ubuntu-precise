@@ -1379,6 +1379,7 @@ idle-python3.5
 idle3
 ienglish-common
 ifrench
+ifstat
 ifupdown
 ifupdown:i386
 imagemagick
@@ -4850,6 +4851,7 @@ libidn11
 libidn11-dev
 libidn11-dev:i386
 libidn11:i386
+libifstat-dev
 libijs-0.35
 libijs-0.35:i386
 libilmbase-dev
