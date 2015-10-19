@@ -443,6 +443,7 @@ csh
 csh:i386
 cssc
 ctpl
+cucumber
 cups
 cups-bsd
 cups-client
@@ -5234,6 +5235,9 @@ libmarkdown2-dev
 libmath-bigint-perl
 libmatheval-dev
 libmatheval1
+libmaxminddb-dbg
+libmaxminddb-dev
+libmaxminddb0
 libmcrypt-dev
 libmcrypt4
 libmecab-dev
@@ -7605,6 +7609,7 @@ mingw32:i386
 minidjvu
 miniupnpc
 mksh
+mmdb-bin
 module-init-tools
 module-init-tools:i386
 mongodb-10gen
