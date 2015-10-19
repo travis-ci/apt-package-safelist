@@ -3672,6 +3672,8 @@ libc++abi1
 libc-ares-dev
 libc-bin
 libc-bin:i386
+libc-client2007e
+libc-client2007e-dev
 libc-dev-bin
 libc-dev-bin:i386
 libc6
@@ -7527,6 +7529,7 @@ mingw32:i386
 minidjvu
 miniupnpc
 mksh
+mlock
 module-init-tools
 module-init-tools:i386
 mongodb-10gen
@@ -9125,6 +9128,7 @@ util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+uw-mailutils
 vala-0.28-doc
 valac
 valac-0.28
