@@ -5514,6 +5514,7 @@ libmpdclient-dev
 libmpdclient-doc
 libmpdclient2
 libmpdclient2-dbg
+libmpich2-dev
 libmpfr-dev
 libmpfr-dev:i386
 libmpfr4
@@ -7592,6 +7593,7 @@ mountall
 mountall:i386
 mp3gain
 mp3splt
+mpich2
 mplayer
 mplayer-dbg
 mplayer-dbg:i386
