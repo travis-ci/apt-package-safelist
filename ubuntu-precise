@@ -6833,6 +6833,7 @@ libtasn1-3-dev
 libtasn1-3-dev:i386
 libtasn1-3:i386
 libtbb-dev
+libtcc-dev
 libtcmalloc-minimal0
 libtcmalloc-minimal0-dbg
 libtdb1
@@ -8978,6 +8979,7 @@ t1lib-bin
 tango-icon-theme
 tar
 tar:i386
+tcc
 tcl
 tcl-dev
 tcl-dev:i386
