@@ -8493,6 +8493,9 @@ python-sympy
 python-sympy-doc
 python-tables
 python-tables:i386
+python-talloc
+python-talloc-dbg
+python-talloc-dev
 python-tk
 python-tk-dbg
 python-tz
