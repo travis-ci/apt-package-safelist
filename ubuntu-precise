@@ -8861,6 +8861,9 @@ ruby-rrd
 ruby1.8
 ruby1.8:i386
 ruby:i386
+rubygems
+rubygems-doc
+rubygems1.8
 s3cmd
 s3cmd:i386
 samba
