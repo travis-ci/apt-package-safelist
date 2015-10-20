@@ -277,6 +277,7 @@ cabal-install:i386
 cabextract
 cabextract:i386
 caca-utils
+cairo-perf-utils
 camlidl
 camlidl:i386
 camlp4
@@ -3745,8 +3746,11 @@ libcairo-script-interpreter2
 libcairo-script-interpreter2:i386
 libcairo1.10-cil
 libcairo2
+libcairo2-dbg
 libcairo2-dev
 libcairo2-dev:i386
+libcairo2-doc
+libcairo2-udeb
 libcairo2:i386
 libcairomm-1.0-1v5
 libcairomm-1.0-dev
