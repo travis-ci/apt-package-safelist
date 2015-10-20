@@ -10,6 +10,9 @@ alsa-oss
 alsa-utils
 alsa-utils-udeb
 amqp-tools
+android-tools-adb
+android-tools-fastboot
+android-tools-fsutils
 ansible
 ansible-fireball
 ansible-node-fireball
