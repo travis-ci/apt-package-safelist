@@ -6956,6 +6956,7 @@ libunbound-dev
 libunbound-dev:i386
 libunistring0
 libunistring0:i386
+libunittest++-dev
 libunshield-dev
 libunshield0
 libunwind-dev
