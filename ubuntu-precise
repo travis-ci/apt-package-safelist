@@ -5073,6 +5073,9 @@ liblapack3gf
 liblapack3gf:i386
 liblapacke
 liblapacke-dev
+liblasso-perl
+liblasso3
+liblasso3-dev
 liblcms-utils
 liblcms1
 liblcms1-dev
@@ -7997,6 +8000,7 @@ php5-gmp:i386
 php5-gnupg
 php5-intl
 php5-intl:i386
+php5-lasso
 php5-ldap
 php5-ldap:i386
 php5-mysql
@@ -8340,6 +8344,7 @@ python-jinja2
 python-jinja2-doc
 python-keyring
 python-keyring:i386
+python-lasso
 python-launchpadlib
 python-launchpadlib:i386
 python-lazr.restfulclient
