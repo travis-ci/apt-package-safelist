@@ -6593,6 +6593,9 @@ libshout3
 libshout3-dev
 libshout3-dev:i386
 libshout3:i386
+libsigc++-2.0-0v5
+libsigc++-2.0-dev
+libsigc++-2.0-doc
 libsigsegv2
 libsigsegv2:i386
 libsimage-dev
