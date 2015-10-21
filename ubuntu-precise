@@ -7630,6 +7630,8 @@ md5deep
 md5deep:i386
 mecab
 mecab-utils
+mediainfo
+mediainfo-gui
 memcached
 memcached:i386
 mencoder
