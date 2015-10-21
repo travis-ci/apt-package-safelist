@@ -4502,6 +4502,7 @@ libgme0
 libgmp-dev
 libgmp-dev:i386
 libgmp10
+libgmp10-doc
 libgmp10:i386
 libgmp3-dev
 libgmp3-dev:i386
