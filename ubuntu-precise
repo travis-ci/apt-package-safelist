@@ -7349,6 +7349,9 @@ libyubikey-dev
 libyubikey-dev:i386
 libyubikey0
 libyubikey0:i386
+libzen-dev
+libzen-doc
+libzen0v5
 libzeroc-ice-ruby1.8
 libzeroc-ice-ruby1.8:i386
 libzeroc-ice3.4-cil
