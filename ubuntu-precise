@@ -6880,6 +6880,7 @@ libterm-readkey-perl:i386
 libtesseract-dev
 libtesseract3
 libtest-html-w3c-perl
+libtest-valgrind-perl
 libtext-aspell-perl
 libtext-aspell-perl:i386
 libtext-charwidth-perl
