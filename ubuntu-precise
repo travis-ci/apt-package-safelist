@@ -28,6 +28,14 @@ antlr
 antlr-doc
 antlr:i386
 apache2
+apache2-bin
+apache2-data
+apache2-dbg
+apache2-dev
+apache2-doc
+apache2-suexec-custom
+apache2-suexec-pristine
+apache2-utils
 apache2:i386
 apt
 apt-doc
