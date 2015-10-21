@@ -7281,6 +7281,8 @@ libxpm4-dbg
 libxpm4:i386
 libxpp3-java
 libxpp3-java:i386
+libxqilla-dev
+libxqilla6v5
 libxrandr-dev
 libxrandr-dev:i386
 libxrandr2
@@ -9480,6 +9482,7 @@ xpdf
 xpmutils
 xpra
 xpra-dbg
+xqilla
 xsdcxx
 xserver-common
 xserver-common:i386
