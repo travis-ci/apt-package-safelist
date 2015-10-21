@@ -545,6 +545,7 @@ docbook-utils
 docbook-xml
 docbook-xsl
 docbook-xsl-ns
+docbook5-xml
 docutils-common
 docutils-doc
 dosfstools
