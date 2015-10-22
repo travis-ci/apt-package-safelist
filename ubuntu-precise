@@ -6395,6 +6395,8 @@ libregexp-java
 libregexp-java:i386
 librelp-dev
 librelp0
+librhino-java
+librhino-java-doc
 libroken18-heimdal
 libroken18-heimdal:i386
 librrd-dev
@@ -8916,6 +8918,8 @@ redis-server:i386
 registry-tools
 resolvconf
 resolvconf:i386
+rhino
+rhino-doc
 riak
 riak:i386
 rpm
