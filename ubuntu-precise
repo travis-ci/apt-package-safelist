@@ -6684,6 +6684,8 @@ libsqlite3-tcl
 libsrecord-dev
 libsrecord0
 libsrecord0-dbg
+libsrtp0
+libsrtp0-dev
 libss2
 libss2:i386
 libssh-4
@@ -9030,6 +9032,8 @@ sqlite3:i386
 squashfs-tools
 squashfs-tools-dbg
 srecord
+srtp-docs
+srtp-utils
 ssh
 ssh-import-id
 ssh-import-id:i386
