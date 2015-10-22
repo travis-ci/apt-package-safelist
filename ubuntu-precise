@@ -7427,6 +7427,9 @@ libzookeeper-st2
 libzookeeper2
 libzzip-0-13
 libzzip-dev
+linkchecker
+linkchecker-gui
+linkchecker-web
 lintian
 lintian:i386
 linux-headers-3.13.0-40-generic
