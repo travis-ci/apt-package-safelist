@@ -6171,6 +6171,8 @@ libpqxx-3.1
 libpqxx-3.1-dbg
 libpqxx3-dev
 libpqxx3-doc
+libprocps4
+libprocps4-dev
 libproj-dev
 libproj-dev:i386
 libproj-java
