@@ -6084,6 +6084,12 @@ libperl-dev
 libperl-dev:i386
 libperl5.14
 libperl5.14:i386
+libpetsc-complex-3.6
+libpetsc-complex-3.6.2-dbg
+libpetsc-complex-3.6.2-dev
+libpetsc3.6
+libpetsc3.6.2-dbg
+libpetsc3.6.2-dev
 libpgm-5.1-0
 libpgm-5.1-0:i386
 libpgtypes3
@@ -8013,6 +8019,8 @@ perl-modules:i386
 perl:i386
 perlmagick
 petsc
+petsc-dev
+petsc3.6.2-doc
 petsc:i386
 pgdg-keyring
 pgdg-keyring:i386
