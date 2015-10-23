@@ -1251,6 +1251,7 @@ gsl-bin:i386
 gstreamer0.10-alsa
 gstreamer0.10-gconf
 gstreamer0.10-gnomevfs
+gstreamer0.10-nice
 gstreamer0.10-plugins-base
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-plugins-base-dbg
@@ -1261,6 +1262,7 @@ gstreamer0.10-plugins-good-doc
 gstreamer0.10-pulseaudio
 gstreamer0.10-x
 gstreamer1.0-doc
+gstreamer1.0-nice
 gstreamer1.0-tools
 gtk-3-examples
 gtk-doc-tools
@@ -5741,6 +5743,10 @@ libnfnetlink-dev
 libnfnetlink0
 libnfnetlink0-dbg
 libnfnetlink0:i386
+libnice-dbg
+libnice-dev
+libnice-doc
+libnice10
 libnih-dbus1
 libnih-dbus1:i386
 libnih1
