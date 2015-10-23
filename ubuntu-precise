@@ -3912,6 +3912,11 @@ libcppunit-subunit-dev
 libcppunit-subunit0
 libcroco3
 libcroco3:i386
+libcrypto++-dev
+libcrypto++-doc
+libcrypto++-utils
+libcrypto++9v5
+libcrypto++9v5-dbg
 libcryptsetup4
 libcryptsetup4:i386
 libcsparse3.1.2
