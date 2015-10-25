@@ -6919,6 +6919,7 @@ libtext-charwidth-perl
 libtext-charwidth-perl:i386
 libtext-iconv-perl
 libtext-iconv-perl:i386
+libtext-multimarkdown-perl
 libtext-wrapi18n-perl
 libtext-wrapi18n-perl:i386
 libthai-data
