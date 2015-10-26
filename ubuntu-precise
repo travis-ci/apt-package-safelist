@@ -8355,6 +8355,7 @@ python-coverage
 python-coverage-dbg
 python-crypto
 python-crypto:i386
+python-dateutil
 python-dbg
 python-dbus
 python-dbus:i386
@@ -8668,6 +8669,7 @@ python3-cairo-dev
 python3-cairo-doc
 python3-coverage
 python3-coverage-dbg
+python3-dateutil
 python3-dbg
 python3-dbus
 python3-dbus.mainloop.qt
