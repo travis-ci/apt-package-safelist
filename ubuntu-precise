@@ -8550,6 +8550,7 @@ python-reportlab-accel-dbg
 python-reportlab-doc
 python-requests
 python-requests-whl
+python-restkit
 python-roman
 python-rpy
 python-rpy-doc
