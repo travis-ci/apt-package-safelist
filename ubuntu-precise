@@ -1430,6 +1430,7 @@ inkscape
 inkscape:i386
 inotify-tools
 inputattach
+insighttoolkit3-examples
 insserv
 insserv:i386
 install-info
@@ -4938,6 +4939,8 @@ libindicator3-tools
 libindicator7
 libinotifytools0
 libinotifytools0-dev
+libinsighttoolkit3-dev
+libinsighttoolkit3.20
 libio-pty-perl
 libio-socket-ssl-perl
 libio-string-perl
