@@ -8072,6 +8072,7 @@ php5-intl:i386
 php5-lasso
 php5-ldap
 php5-ldap:i386
+php5-memcache
 php5-mysql
 php5-mysql:i386
 php5-mysqlnd
