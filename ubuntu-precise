@@ -515,6 +515,7 @@ devscripts:i386
 dh-apparmor
 dh-apparmor:i386
 dh-autoreconf
+dh-exec
 dh-make
 dh-make:i386
 dh-systemd
@@ -8106,6 +8107,9 @@ pigz
 pkg-config
 pkg-config-arm-linux-gnueabihf
 pkg-config:i386
+pkg-test
+pkg-test-illiterate
+pkg-test-no-install
 plymouth
 plymouth:i386
 pngcrush
