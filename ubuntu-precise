@@ -27,6 +27,7 @@ antiword:i386
 antlr
 antlr-doc
 antlr:i386
+aosd-cat
 apache2
 apache2:i386
 apt
@@ -3397,6 +3398,9 @@ libantlr-dev
 libantlr-java
 libantlr-java:i386
 libantlr2.7-cil
+libaosd-dev
+libaosd-text2
+libaosd2
 libapache-pom-java
 libapache-pom-java:i386
 libapache2-mod-fastcgi
