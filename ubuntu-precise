@@ -8940,6 +8940,7 @@ rabbitmq-server:i386
 ragel
 ragel:i386
 raptor2-utils
+rcs
 re2c
 readline-common
 readline-common:i386
