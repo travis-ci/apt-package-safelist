@@ -8518,6 +8518,7 @@ python-pygments
 python-pygments-doc
 python-pygresql
 python-pygresql-dbg
+python-pypdf
 python-pypy.translator.sandbox
 python-pywbem
 python-qscintilla2
