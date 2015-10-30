@@ -7792,7 +7792,10 @@ mono-utils
 mono-utils:i386
 mono-xbuild
 mono-xbuild:i386
+monodevelop
 monodevelop-monogame
+monodevelop-nunit
+monodevelop-versioncontrol
 monodoc-base
 monodoc-base:i386
 monodoc-gtk3.0-manual
