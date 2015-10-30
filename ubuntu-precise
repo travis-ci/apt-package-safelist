@@ -7205,6 +7205,8 @@ libxcb-icccm4
 libxcb-icccm4-dev
 libxcb-image0
 libxcb-image0-dev
+libxcb-keysyms1
+libxcb-keysyms1-dev
 libxcb-present-dev
 libxcb-present0
 libxcb-present0-dbg
