@@ -6207,6 +6207,16 @@ libprotobuf-lite9
 libprotobuf9
 libprotoc-dev
 libprotoc9
+libproxy-cil-dev
+libproxy-dev
+libproxy-tools
+libproxy0.4-cil
+libproxy1-plugin-gsettings
+libproxy1-plugin-kconfig
+libproxy1-plugin-mozjs
+libproxy1-plugin-networkmanager
+libproxy1-plugin-webkit
+libproxy1v5
 libproxychains-dev
 libproxychains3
 libpspell-dev
@@ -8436,6 +8446,7 @@ python-ldns
 python-ldns:i386
 python-libhamlib2
 python-liblcms
+python-libproxy
 python-libsvm
 python-libxml2
 python-libxml2-dbg
