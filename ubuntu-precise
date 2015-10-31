@@ -564,6 +564,7 @@ dpkg
 dpkg-dev
 dpkg-dev:i386
 dpkg:i386
+drush
 dtdinst
 dvipng
 dvipng:i386
