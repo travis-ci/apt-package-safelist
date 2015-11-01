@@ -6438,6 +6438,12 @@ libraw-bin
 libraw-dev
 libraw-doc
 libraw10
+librdf-storage-mysql
+librdf-storage-postgresql
+librdf-storage-sqlite
+librdf-storage-virtuoso
+librdf0
+librdf0-dev
 libreadline-dev
 libreadline-dev:i386
 libreadline-gplv2-dev
@@ -9017,6 +9023,7 @@ recode
 recode-doc
 redis-server
 redis-server:i386
+redland-utils
 registry-tools
 resolvconf
 resolvconf:i386
