@@ -9501,6 +9501,7 @@ varnish
 varnish:i386
 vde2
 vde2:i386
+vera++
 verilator
 vim
 vim-athena
