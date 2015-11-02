@@ -6143,6 +6143,7 @@ libphononexperimental-dev
 libphononexperimental-dev:i386
 libphononexperimental4
 libphononexperimental4:i386
+libphp5-embed
 libphysfs-dev
 libphysfs1
 libphysfs1-dbg
@@ -8141,11 +8142,14 @@ php5-gearman
 php5-gmp
 php5-gmp:i386
 php5-gnupg
+php5-imap
+php5-interbase
 php5-intl
 php5-intl:i386
 php5-lasso
 php5-ldap
 php5-ldap:i386
+php5-mcrypt
 php5-memcache
 php5-mysql
 php5-mysql:i386
@@ -8155,8 +8159,10 @@ php5-odbc
 php5-odbc:i386
 php5-pgsql
 php5-pgsql:i386
+php5-phpdbg
 php5-pspell
 php5-pspell:i386
+php5-readline
 php5-recode
 php5-recode:i386
 php5-snmp
