@@ -3693,6 +3693,10 @@ libboost1.55-dbg
 libboost1.55-dev
 libboost1.55-doc
 libboost1.55-tools-dev
+libbox2d-dev
+libbox2d-doc
+libbox2d2.3.0
+libbox2d2.3.0-dbg
 libbsd-dev
 libbsd-dev:i386
 libbsd-resource-perl
