@@ -778,6 +778,10 @@ fonts-takao-pgothic:i386
 fonts-texgyre
 fop
 fop-doc
+fpc
+fp-compiler
+fp-units-gfx
+fp-units-misc
 freeglut3
 freeglut3-dev
 freeglut3-dev:i386
@@ -4432,6 +4436,9 @@ libgfortran-4.8-dev
 libgfortran-4.9-dev
 libgfortran-5-dev
 libgfortran-5-dev:i386
+libghc-bytestring-show-dev
+libghc-dataenc-dev
+libghc-entropy-dev
 libghc-gstreamer-dev
 libghc-gstreamer-doc
 libghc-gstreamer-prof
@@ -4441,6 +4448,9 @@ libghc-hlint-prof
 libghc-hscolour-dev
 libghc-hscolour-doc
 libghc-hscolour-prof
+libghc-hslogger-dev
+libghc-mtl-dev
+libghc-network-dev
 libghc-pandoc-citeproc-data
 libghc-pandoc-citeproc-dev
 libghc-pandoc-citeproc-doc
@@ -4448,6 +4458,13 @@ libghc-pandoc-citeproc-prof
 libghc-pandoc-dev
 libghc-pandoc-doc
 libghc-pandoc-prof
+libghc-parsec3-dev
+libghc-random-dev
+libghc-sha-dev
+libghc-stm-dev
+libghc-utf8-string-dev
+libghc-vector-dev
+libghc-zlib-dev
 libgif4
 libgif4:i386
 libgif-dev
@@ -4505,6 +4522,7 @@ libgles2-mesa-dbg:i386
 libgles2-mesa-dev
 libgles2-mesa-dev:i386
 libgles2-mesa:i386
+libglew1.6-dev
 libglew-dev
 libglfw2
 libglfw3
