@@ -6910,6 +6910,14 @@ libsubunit0
 libsuitesparse-dbg
 libsuitesparse-dev
 libsuitesparse-doc
+libsundials-cvode1
+libsundials-cvodes2
+libsundials-ida2
+libsundials-idas0
+libsundials-kinsol1
+libsundials-nvecserial0
+libsundials-serial
+libsundials-serial-dev
 libsvm-dev
 libsvm-java
 libsvm-tools
@@ -7990,6 +7998,7 @@ octave-doc
 octave-htmldoc
 octave-info
 octave-nlopt
+octave-sundials
 octave3.2
 octave3.2-common
 octave3.2-dbg
