@@ -566,6 +566,7 @@ dpkg-dev:i386
 dpkg:i386
 drush
 dtdinst
+dvbpsi-utils
 dvipng
 dvipng:i386
 dwarfdump
@@ -4083,6 +4084,9 @@ libdrm2
 libdrm2:i386
 libdrmaa1.0
 libdtdinst-java
+libdvbpsi-dbg
+libdvbpsi-dev
+libdvbpsi10
 libdvdnav4
 libdw-dev
 libdw-dev:i386
