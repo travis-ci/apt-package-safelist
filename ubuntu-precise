@@ -8405,6 +8405,7 @@ pyfits-utils
 pylint
 pylint:i386
 pypy
+pypy-bs4
 pypy-dev
 pypy-dev:i386
 pypy-doc
@@ -8435,6 +8436,8 @@ python-argparse:i386
 python-beautifulsoup
 python-bottle
 python-bottle-doc
+python-bs4
+python-bs4-doc
 python-bzrlib
 python-bzrlib:i386
 python-cairo
@@ -8765,6 +8768,7 @@ python3-all
 python3-all-dbg
 python3-all-dev
 python3-bottle
+python3-bs4
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
