@@ -37,6 +37,8 @@ apt-transport-https:i386
 apt-utils
 apt-utils:i386
 apt:i386
+arduino
+arduino-core
 aria2
 asciidoc
 asciidoc:i386
