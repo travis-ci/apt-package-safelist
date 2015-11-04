@@ -4463,6 +4463,9 @@ libghc-hlint-prof
 libghc-hscolour-dev
 libghc-hscolour-doc
 libghc-hscolour-prof
+libghc-mtl-dev
+libghc-mtl-doc
+libghc-mtl-prof
 libghc-pandoc-citeproc-data
 libghc-pandoc-citeproc-dev
 libghc-pandoc-citeproc-doc
