@@ -384,6 +384,10 @@ coinor-libclp-dev
 coinor-libclp-doc
 coinor-libclp1
 coinor-libclp1-dbg
+coinor-libipopt-dev
+coinor-libipopt-doc
+coinor-libipopt1v5
+coinor-libipopt1v5-dbg
 coinor-libosi-dev
 coinor-libosi-doc
 coinor-libosi1v5
