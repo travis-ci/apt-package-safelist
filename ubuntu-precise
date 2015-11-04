@@ -8638,6 +8638,7 @@ python-pygresql
 python-pygresql-dbg
 python-pypdf
 python-pypy.translator.sandbox
+python-pyudev
 python-pywbem
 python-qscintilla2
 python-qscintilla2-dbg
@@ -8873,6 +8874,7 @@ python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-pyqt5.qsci
 python3-pyqt5.qsci-dbg
+python3-pyudev
 python3-redis
 python3-renderpm
 python3-renderpm-dbg
