@@ -8143,6 +8143,7 @@ php5-gearman
 php5-gmp
 php5-gmp:i386
 php5-gnupg
+php5-imagick
 php5-intl
 php5-intl:i386
 php5-lasso
