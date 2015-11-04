@@ -1308,6 +1308,7 @@ happy-1.19.4:i386
 happy-1.19.5
 happy-1.19.5:i386
 happy:i386
+hardening-includes
 hardening-wrapper
 hardening-wrapper:i386
 haskell-platform
