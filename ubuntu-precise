@@ -5216,6 +5216,10 @@ liblo7
 liblocale-gettext-perl
 liblocale-gettext-perl:i386
 liblocale-po-perl
+liblockdev1
+liblockdev1-dbg
+liblockdev1-dev
+liblockdev1-perl
 liblockfile-bin
 liblockfile-bin:i386
 liblockfile1
