@@ -1134,6 +1134,7 @@ git-svn
 git:i386
 glade-gnome
 glade-gtk2
+glew-utils
 gloo
 gloo:i386
 glpk
@@ -4527,7 +4528,12 @@ libgles2-mesa-dbg:i386
 libgles2-mesa-dev
 libgles2-mesa-dev:i386
 libgles2-mesa:i386
+libglew-dbg
 libglew-dev
+libglew1.10
+libglewmx-dbg
+libglewmx-dev
+libglewmx1.10
 libglfw-dev
 libglfw2
 libglfw3
