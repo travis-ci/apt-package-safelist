@@ -4470,6 +4470,9 @@ libghc-pandoc-citeproc-prof
 libghc-pandoc-dev
 libghc-pandoc-doc
 libghc-pandoc-prof
+libghc-zlib-dev
+libghc-zlib-doc
+libghc-zlib-prof
 libgif-dev
 libgif-dev:i386
 libgif4
