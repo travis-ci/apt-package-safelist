@@ -770,6 +770,9 @@ fonts-humor-sans
 fonts-humor-sans:i386
 fonts-inconsolata
 fonts-inconsolata:i386
+fonts-ipafont
+fonts-ipafont-gothic
+fonts-ipafont-mincho
 fonts-linuxlibertine
 fonts-linuxlibertine:i386
 fonts-lyx
