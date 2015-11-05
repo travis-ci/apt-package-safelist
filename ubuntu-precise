@@ -4503,6 +4503,9 @@ libghc-random-prof
 libghc-stm-dev
 libghc-stm-doc
 libghc-stm-prof
+libghc-utf8-string-dev
+libghc-utf8-string-doc
+libghc-utf8-string-prof
 libghc-zlib-dev
 libghc-zlib-doc
 libghc-zlib-prof
