@@ -4500,6 +4500,9 @@ libghc-parsec3-prof
 libghc-random-dev
 libghc-random-doc
 libghc-random-prof
+libghc-zlib-dev
+libghc-zlib-doc
+libghc-zlib-prof
 libgif-dev
 libgif-dev:i386
 libgif4
