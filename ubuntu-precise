@@ -4484,6 +4484,9 @@ libghc-hslogger-prof
 libghc-mtl-dev
 libghc-mtl-doc
 libghc-mtl-prof
+libghc-network-dev
+libghc-network-doc
+libghc-network-prof
 libghc-pandoc-citeproc-data
 libghc-pandoc-citeproc-dev
 libghc-pandoc-citeproc-doc
