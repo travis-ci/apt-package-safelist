@@ -4497,6 +4497,9 @@ libghc-pandoc-prof
 libghc-parsec3-dev
 libghc-parsec3-doc
 libghc-parsec3-prof
+libghc-random-dev
+libghc-random-doc
+libghc-random-prof
 libgif-dev
 libgif-dev:i386
 libgif4
