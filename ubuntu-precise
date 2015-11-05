@@ -1325,6 +1325,7 @@ haxe:i386
 hdf4-tools
 hdf5-tools
 hdfview
+hdhomerun-config
 hdparm
 hdparm:i386
 heirloom-mailx
@@ -4841,6 +4842,8 @@ libhdf5-serial-dev
 libhdf5-serial-dev:i386
 libhdfeos-dev
 libhdfeos0
+libhdhomerun-dev
+libhdhomerun2
 libheimbase1-heimdal
 libheimbase1-heimdal:i386
 libheimntlm0-heimdal
