@@ -4466,6 +4466,9 @@ libghc-bytestring-show-prof
 libghc-dataenc-dev
 libghc-dataenc-doc
 libghc-dataenc-prof
+libghc-entropy-dev
+libghc-entropy-doc
+libghc-entropy-prof
 libghc-gstreamer-dev
 libghc-gstreamer-doc
 libghc-gstreamer-prof
