@@ -4463,6 +4463,9 @@ libgfortran3:i386
 libghc-bytestring-show-dev
 libghc-bytestring-show-doc
 libghc-bytestring-show-prof
+libghc-dataenc-dev
+libghc-dataenc-doc
+libghc-dataenc-prof
 libghc-gstreamer-dev
 libghc-gstreamer-doc
 libghc-gstreamer-prof
