@@ -6711,6 +6711,7 @@ libsfubsan0-dbg:i386
 libsfubsan0:i386
 libsgutils2-2
 libsgutils2-2:i386
+libsgutils2-dev
 libshiboken-dev
 libshiboken-py3-1.2
 libshiboken1.2
@@ -9160,6 +9161,8 @@ sed
 sed:i386
 sensible-utils
 sensible-utils:i386
+sg3-utils
+sg3-utils-udev
 sgml-base
 sgml-base:i386
 shared-mime-info
