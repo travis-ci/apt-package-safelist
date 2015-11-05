@@ -4500,6 +4500,9 @@ libghc-parsec3-prof
 libghc-random-dev
 libghc-random-doc
 libghc-random-prof
+libghc-sha-dev
+libghc-sha-doc
+libghc-sha-prof
 libghc-stm-dev
 libghc-stm-doc
 libghc-stm-prof
