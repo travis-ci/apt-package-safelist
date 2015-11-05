@@ -8541,6 +8541,7 @@ python-doc
 python-docutils
 python-empy
 python-empy:i386
+python-enchant
 python-epydoc
 python-examples
 python-fiona
@@ -8861,6 +8862,7 @@ python3-dev
 python3-dev:i386
 python3-doc
 python3-docutils
+python3-enchant
 python3-examples
 python3-fiona
 python3-gdal
