@@ -1237,6 +1237,8 @@ gpgv:i386
 gputils
 gputils-common
 gputils-doc
+gradle
+gradle-doc
 graphicsmagick
 graphicsmagick-dbg
 graphicsmagick-imagemagick-compat
@@ -4709,6 +4711,8 @@ libgq-gconf-dev
 libgq-gconf-doc
 libgq-gconf0
 libgq-gconf0-dbg
+libgradle-core-java
+libgradle-plugins-java
 libgraph-easy-perl
 libgraph4
 libgraph4:i386
