@@ -1482,6 +1482,8 @@ iverilog
 iverilog:i386
 ivy
 ivy:i386
+jackd2
+jackd2-firewire
 jansson
 java-common
 java-common:i386
@@ -5075,6 +5077,8 @@ libiw30
 libiw30-udeb
 libiw30-udeb:i386
 libiw30:i386
+libjack-jackd2-0
+libjack-jackd2-dev
 libjansi-java
 libjansi-java:i386
 libjansi-native-java
