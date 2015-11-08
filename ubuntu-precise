@@ -1002,6 +1002,7 @@ gdc-v1:i386
 gdc:i386
 genders
 genext2fs
+gengetopt
 genromfs
 genromfs:i386
 geoip-bin
