@@ -1469,6 +1469,7 @@ iproute:i386
 iptables
 iptables-dev
 iptables:i386
+ircd-irc2
 isc-dhcp-client
 isc-dhcp-client:i386
 isc-dhcp-common
