@@ -756,6 +756,9 @@ flashplugin-installer:i386
 flex
 flex:i386
 flexc++
+fltk1.3-doc
+fltk1.3-games
+fluid
 fluidsynth
 folium
 folium:i386
@@ -4245,6 +4248,14 @@ libflac8
 libflac8:i386
 libflann-dev
 libflann1.8
+libfltk-cairo1.3
+libfltk-forms1.3
+libfltk-gl1.3
+libfltk-images1.3
+libfltk1.3
+libfltk1.3-compat-headers
+libfltk1.3-dbg
+libfltk1.3-dev
 libfluidsynth-dev
 libfluidsynth1
 libfontconfig1
