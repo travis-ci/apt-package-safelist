@@ -3959,6 +3959,9 @@ libcouchbase-dev
 libcouchbase-dev:i386
 libcouchbase2-libevent
 libcouchbase2-libevent:i386
+libcpptest-dev
+libcpptest-doc
+libcpptest0
 libcppunit-dev
 libcppunit-subunit-dev
 libcppunit-subunit0
