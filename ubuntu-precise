@@ -7917,6 +7917,8 @@ mplayer-doc
 mplayer-doc:i386
 mplayer-gui
 mplayer-gui:i386
+mplayer2
+mplayer2-dbg
 mplayer:i386
 mpltools
 mpltools:i386
