@@ -1239,6 +1239,8 @@ gpc:i386
 gperf
 gpgv
 gpgv:i386
+gpsim
+gpsim-dev
 gputils
 gputils-common
 gputils-doc
