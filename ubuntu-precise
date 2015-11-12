@@ -9236,6 +9236,8 @@ scons
 scons:i386
 scotch
 scotch-dbg
+screen
+screen-dbg
 seaborn
 seaborn:i386
 sed
