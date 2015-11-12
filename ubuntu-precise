@@ -3436,6 +3436,9 @@ libantlr-dev
 libantlr-java
 libantlr-java:i386
 libantlr2.7-cil
+libantlr3c-3.2-0
+libantlr3c-antlrdbg-3.2-0
+libantlr3c-dev
 libaosd-dev
 libaosd-text2
 libaosd2
