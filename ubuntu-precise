@@ -1304,6 +1304,7 @@ gtk-sharp3-examples
 gtk-sharp3-gapi
 guile-1.8-libs
 guile-1.8-libs:i386
+gv
 gvfs
 gvfs-common
 gvfs-common:i386
