@@ -367,6 +367,7 @@ cmake-data:i386
 cmake:i386
 cmap-adobe-japan1
 cmap-adobe-japan1:i386
+cminpack-doc
 cmocka-doc
 coffeescript
 coffeescript-doc
@@ -3904,6 +3905,8 @@ libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
 libclustalo-doc:i386
+libcminpack-dev
+libcminpack1
 libcmocka-dev
 libcmocka0
 libcmph-dev
