@@ -6575,6 +6575,8 @@ libruby
 libruby1.8
 libruby1.8:i386
 libruby:i386
+libsamplerate0
+libsamplerate0-dev
 libsane
 libsane-common
 libsane-dbg
@@ -9176,6 +9178,7 @@ samba-dsdb-modules
 samba-libs
 samba-testsuite
 samba-vfs-modules
+samplerate-programs
 samtools
 samtools:i386
 sasl2-bin
