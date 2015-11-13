@@ -1507,6 +1507,7 @@ java-common
 java-common:i386
 java-wrappers
 java-wrappers:i386
+jbibtex-bin
 jblas
 jblas-doc
 jemboss
@@ -1514,6 +1515,7 @@ jemboss:i386
 jimsh
 jing
 jing-trang-doc
+jmpost
 joystick
 jpegoptim
 jsvc
@@ -8482,6 +8484,7 @@ proxychains
 psmisc
 psmisc:i386
 psutils
+ptex-bin
 ptscotch
 ptscotch-dbg
 publican
