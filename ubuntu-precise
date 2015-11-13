@@ -9582,6 +9582,9 @@ tomcat7-common
 tomcat7-docs
 tomcat7-examples
 tomcat7-user
+tor
+tor-dbg
+tor-geoipdb
 trang
 transfig
 tree
