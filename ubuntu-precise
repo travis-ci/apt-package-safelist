@@ -8679,6 +8679,9 @@ python-miniupnpc
 python-mock
 python-mock-doc
 python-mpi
+python-mpi4py
+python-mpi4py-dbg
+python-mpi4py-doc
 python-mpltoolkits.basemap
 python-mpltoolkits.basemap-data
 python-mpltoolkits.basemap-dbg
@@ -8936,6 +8939,8 @@ python3-matplotlib-dbg
 python3-minimal
 python3-minimal:i386
 python3-mock
+python3-mpi4py
+python3-mpi4py-dbg
 python3-mpltoolkits.basemap
 python3-mpltoolkits.basemap-dbg
 python3-networkx
