@@ -4726,6 +4726,9 @@ libgomp1-dbg:i386
 libgomp1:i386
 libgoogle-collections-java
 libgoogle-collections-java:i386
+libgoogle-glog-dev
+libgoogle-glog-doc
+libgoogle-glog0v5
 libgoogle-perftools-dev
 libgoogle-perftools0
 libgoogle-perftools0-dbg
