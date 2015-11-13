@@ -8127,6 +8127,8 @@ odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
 odbcinst:i386
+omake
+omake-doc
 opam
 opam-docs
 opam-docs:i386
