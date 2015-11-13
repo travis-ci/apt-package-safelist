@@ -9367,6 +9367,7 @@ tesseract-ocr-dev
 tex-gyre
 tex4ht
 tex4ht-common
+texi2html
 texinfo
 texinfo:i386
 texlive
