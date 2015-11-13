@@ -26,6 +26,10 @@ antiword
 antiword:i386
 antlr
 antlr-doc
+antlr3
+antlr3-doc
+antlr3-gunit-maven-plugin
+antlr3-maven-plugin
 antlr:i386
 aosd-cat
 apache2
@@ -3438,6 +3442,9 @@ libantlr-dev
 libantlr-java
 libantlr-java:i386
 libantlr2.7-cil
+libantlr3-gunit-java
+libantlr3-gunit-java-doc
+libantlr3-runtime-java
 libaosd-dev
 libaosd-text2
 libaosd2
