@@ -9302,6 +9302,9 @@ speech-tools-doc
 sphinx-common
 sphinx-doc
 sphinxsearch
+splint
+splint-data
+splint-doc-html
 spyder
 spyder:i386
 sqlite3
