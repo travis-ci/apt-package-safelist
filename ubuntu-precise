@@ -1019,6 +1019,7 @@ geoip-bin
 geoip-bin:i386
 geoip-database
 geoip-database:i386
+gerbv
 gettext
 gettext-base
 gettext-base:i386
