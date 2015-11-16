@@ -1525,6 +1525,7 @@ junit4
 junit4:i386
 kbd
 kbd:i386
+kcov
 keyboard-configuration
 keyboard-configuration:i386
 klibc-utils
