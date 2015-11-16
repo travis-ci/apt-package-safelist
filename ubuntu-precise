@@ -5917,6 +5917,7 @@ libnih-dbus1
 libnih-dbus1:i386
 libnih1
 libnih1:i386
+libnkf-perl
 libnl-3-200
 libnl-3-200-dbg
 libnl-3-200-udeb
@@ -8074,6 +8075,7 @@ nginx-naxsi:i386
 nginx:i386
 ninja-build
 ninja-build:i386
+nkf
 node-underscore
 nodejs
 nodejs-dbg
