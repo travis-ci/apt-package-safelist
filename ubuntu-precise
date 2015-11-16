@@ -3445,6 +3445,9 @@ libantlr2.7-cil
 libantlr3-gunit-java
 libantlr3-gunit-java-doc
 libantlr3-runtime-java
+libantlr3c-3.2-0
+libantlr3c-antlrdbg-3.2-0
+libantlr3c-dev
 libaosd-dev
 libaosd-text2
 libaosd2
