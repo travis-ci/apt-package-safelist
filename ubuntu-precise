@@ -1529,6 +1529,8 @@ kbd:i386
 kcov
 keyboard-configuration
 keyboard-configuration:i386
+keyutils
+keyutils-dbg
 klibc-utils
 klibc-utils:i386
 krb5-locales
@@ -5207,6 +5209,7 @@ libkadm5srv-mit8
 libkadm5srv-mit8:i386
 libkdb5-6
 libkdb5-6:i386
+libkeyutils-dev
 libkeyutils1
 libkeyutils1:i386
 libklibc
