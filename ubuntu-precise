@@ -296,6 +296,7 @@ camlp4-extra
 camlp4-extra:i386
 camlp4:i386
 camlp5
+capnproto
 ccache
 ccache:i386
 cdialog
@@ -3860,6 +3861,8 @@ libcap2
 libcap2-bin
 libcap2-bin:i386
 libcap2:i386
+libcapnp-0.5.2
+libcapnp-dev
 libcc1-0
 libcc1-0:i386
 libccolamd2.8.0
