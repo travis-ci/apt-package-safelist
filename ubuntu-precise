@@ -8359,6 +8359,7 @@ plymouth
 plymouth:i386
 pngcrush
 pngcrush:i386
+pngquant
 po-debconf
 po-debconf:i386
 po4a
