@@ -4732,6 +4732,9 @@ libgomp1-dbg-armhf-cross
 libgomp1-dbg-armhf-cross:i386
 libgomp1-dbg:i386
 libgomp1:i386
+libgoocanvasmm-2.0-6
+libgoocanvasmm-2.0-dev
+libgoocanvasmm-2.0-doc
 libgoogle-collections-java
 libgoogle-collections-java:i386
 libgoogle-glog-dev
