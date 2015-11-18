@@ -4826,6 +4826,10 @@ libgtk2.0-dev
 libgtk2.0-dev:i386
 libgtk3.0-cil
 libgtk3.0-cil-dev
+libgtkmm-2.4-1v5
+libgtkmm-2.4-dbg
+libgtkmm-2.4-dev
+libgtkmm-2.4-doc
 libgtkmm-3.0-1v5
 libgtkmm-3.0-dbg
 libgtkmm-3.0-dev
