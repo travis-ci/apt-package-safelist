@@ -6556,6 +6556,8 @@ libqt5svg5-private-dev
 libqt5test5
 libqt5webkit5-dev
 libqt5webkit5-dev:i386
+libqt5websockets5
+libqt5websockets5-dev
 libqt5widgets5
 libqt5xml5
 libqtcore4
@@ -9098,6 +9100,7 @@ qml
 qml-model-qtqml-models2
 qml-module-qt-labs-folderlistmodel
 qml-module-qt-labs-settings
+qml-module-qt-websockets
 qml-module-qtqml-models2
 qml-module-qtqml-statemachine
 qml-module-qtquick-localstorage
@@ -9106,6 +9109,7 @@ qml-module-qtquick-window2
 qml-module-qtquick-xmllistmodel
 qml-module-qtquick2
 qml-module-qttest
+qml-module-qtwebsockets
 qmlscene
 qpdf
 qrencode
@@ -9156,6 +9160,10 @@ qttools5-examples
 qttools5-examples-dbg
 qttools5-private-dev
 qtwebkit5-doc
+qtwebsockets5-dbg
+qtwebsockets5-doc
+qtwebsockets5-doc-html
+qtwebsockets5-examples
 qtxmlpatterns5-doc
 quickhit
 quilt
