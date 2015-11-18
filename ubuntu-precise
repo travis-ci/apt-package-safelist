@@ -567,6 +567,7 @@ docbook2x
 docbook5-xml
 docutils-common
 docutils-doc
+dos2unix
 dosfstools
 dosfstools:i386
 doxygen
