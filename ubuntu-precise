@@ -5479,6 +5479,8 @@ libminiupnpc-dev
 libminiupnpc10
 libmng1
 libmng1:i386
+libmnl-dev
+libmnl0
 libmockobjects-java
 libmockobjects-java:i386
 libmono-2.0-1
