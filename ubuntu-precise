@@ -245,6 +245,7 @@ binutils-static
 binutils-static-udeb
 binutils:i386
 bioperl
+bioperl-run
 bison
 bison:i386
 bisonc++
@@ -3647,6 +3648,7 @@ libbcel-java:i386
 libbind4
 libbind4-dev
 libbio-perl-perl
+libbio-perl-run-perl
 libbison-dev
 libbison-dev:i386
 libblas-dev
