@@ -6856,6 +6856,7 @@ libsnappy-dev:i386
 libsnappy1
 libsnappy1:i386
 libsndfile1
+libsndfile1-dbg
 libsndfile1-dev
 libsndfile1-dev:i386
 libsndfile1:i386
@@ -9313,6 +9314,7 @@ smbclient
 smistrip
 smitools
 sndfile-programs
+sndfile-programs-dbg
 sndfile-programs:i386
 snmp-mibs-downloader
 socat
