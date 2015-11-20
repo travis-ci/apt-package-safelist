@@ -250,6 +250,9 @@ bison
 bison:i386
 bisonc++
 bisonc++-doc
+bitcoin-qt
+bitcoin-tx
+bitcoind
 bottleneck
 bottleneck:i386
 bsdcpio
@@ -3654,6 +3657,8 @@ libbio-perl-perl
 libbio-perl-run-perl
 libbison-dev
 libbison-dev:i386
+libbitcoinconsensus-dev
+libbitcoinconsensus0
 libblas-dev
 libblas-dev:i386
 libblas3gf
