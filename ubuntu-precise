@@ -5353,6 +5353,7 @@ liblockfile-bin
 liblockfile-bin:i386
 liblockfile1
 liblockfile1:i386
+liblog-log4perl-perl
 liblog4cpp5-dev
 liblog4cpp5v5
 liblog4cxx10
