@@ -8295,6 +8295,7 @@ phonon-backend-null:i386
 phonon-dbg
 phonon-dbg:i386
 phonon:i386
+php-codesniffer
 php-pear
 php-pear:i386
 php-zeroc-ice
