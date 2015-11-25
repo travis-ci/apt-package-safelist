@@ -5179,6 +5179,8 @@ libid3tag0
 libid3tag0-dev
 libid3tag0-dev:i386
 libid3tag0:i386
+libident
+libident-dev
 libidl-common
 libidl-common:i386
 libidl0
