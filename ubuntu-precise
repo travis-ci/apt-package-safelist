@@ -7231,6 +7231,11 @@ libunwind-setjmp0-dev
 libunwind8
 libunwind8-dbg
 libunwind8-dev
+libupnp-dev
+libupnp6
+libupnp6-dbg
+libupnp6-dev
+libupnp6-doc
 liburcu-dev
 liburcu2
 liburiparser-dev
