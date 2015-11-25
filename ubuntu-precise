@@ -307,6 +307,7 @@ camlp4-extra
 camlp4-extra:i386
 camlp4:i386
 camlp5
+catch
 ccache
 ccache:i386
 cdialog
