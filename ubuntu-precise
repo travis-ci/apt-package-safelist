@@ -4006,6 +4006,7 @@ libcgi-fast-perl:i386
 libcgraph5
 libcgraph5:i386
 libcgraph6
+libchemistry-openbabel-perl
 libcholmod2.1.2
 libchromaprint-dev
 libchromaprint-dev:i386
@@ -6167,6 +6168,9 @@ libopenal-data
 libopenal-dev
 libopenal1
 libopenal1-dbg
+libopenbabel-dev
+libopenbabel-doc
+libopenbabel4v5
 libopenblas-base
 libopenblas-base:i386
 libopenblas-dev
@@ -8313,6 +8317,9 @@ opam-docs
 opam-docs:i386
 opam:i386
 openal-info
+openbabel
+openbabel-dbg
+openbabel-gui
 opencascade-draw
 opencascade-examples
 opencl-headers
@@ -8890,6 +8897,7 @@ python-numpy-doc
 python-numpy:i386
 python-oauth
 python-oauth:i386
+python-openbabel
 python-opencv
 python-opencv:i386
 python-openssl
