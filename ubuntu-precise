@@ -4460,6 +4460,7 @@ libgdcm2.0
 libgdcm2.0-dbg
 libgdcm2.0-dbg:i386
 libgdcm2.0:i386
+libgdiplus
 libgdk-pixbuf2.0-0
 libgdk-pixbuf2.0-0:i386
 libgdk-pixbuf2.0-common
