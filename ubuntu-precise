@@ -5102,6 +5102,11 @@ libilmbase6:i386
 libimage-exiftool-perl
 libimage-magick-perl
 libimage-magick-q16-perl
+libimobiledevice-dev
+libimobiledevice-doc
+libimobiledevice-utils
+libimobiledevice4
+libimobiledevice4-dbg
 libindicator-dev
 libindicator-tools
 libindicator3-7
@@ -8689,6 +8694,7 @@ python-httplib2
 python-httplib2:i386
 python-imaging
 python-imaging:i386
+python-imobiledevice
 python-indicate
 python-indicate:i386
 python-ipaddr
