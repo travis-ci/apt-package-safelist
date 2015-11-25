@@ -4186,6 +4186,8 @@ libegl1-mesa-drivers-dbg
 libegl1-mesa-drivers-dbg:i386
 libegl1-mesa-drivers:i386
 libegl1-mesa:i386
+libeigen2-dev
+libeigen2-doc
 libeigen3-dev
 libeigen3-doc
 libelf-dev
