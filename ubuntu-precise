@@ -6562,6 +6562,8 @@ libqt5scintilla2-designer
 libqt5scintilla2-designer-dbg
 libqt5scintilla2-dev
 libqt5scintilla2-l10n
+libqt5serialport5
+libqt5serialport5-dev
 libqt5sql5
 libqt5sql5-mysql
 libqt5sql5-odbc
@@ -9175,6 +9177,9 @@ qtdeclarative5-doc-html
 qtdeclarative5-examples
 qtdeclarative5-private-dev
 qtscript5-doc
+qtserialport5-dbg
+qtserialport5-doc
+qtserialport5-doc-html
 qtsvg5-dbg
 qtsvg5-doc
 qtsvg5-doc-html
