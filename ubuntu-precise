@@ -8642,6 +8642,7 @@ python-demjson:i386
 python-descartes
 python-dev
 python-dev:i386
+python-distutils-extra
 python-doc
 python-docutils
 python-empy
@@ -8969,6 +8970,7 @@ python3-dbus:i386
 python3-descartes
 python3-dev
 python3-dev:i386
+python3-distutils-extra
 python3-doc
 python3-docutils
 python3-enchant
