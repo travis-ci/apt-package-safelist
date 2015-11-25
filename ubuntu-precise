@@ -1,3 +1,7 @@
+abiword
+abiword-common
+abiword-dbg
+abiword-plugin-grammar
 adduser
 adduser:i386
 alex
@@ -1121,6 +1125,7 @@ ghdl:i386
 ghostscript
 ghostscript:i386
 gifsicle
+gir1.2-abiword-3.0
 gir1.2-appindicator-0.1
 gir1.2-appindicator3-0.1
 gir1.2-atk-1.0
@@ -3435,6 +3440,8 @@ libaa-bin
 libaa1
 libaa1-dbg
 libaa1-dev
+libabiword-3.0
+libabiword-3.0-dev
 libacexml-6.2.8
 libacexml-dev
 libacl1
