@@ -8747,6 +8747,9 @@ python-crypto:i386
 python-dateutil
 python-dbg
 python-dbus
+python-dbus-dbg
+python-dbus-dev
+python-dbus-doc
 python-dbus:i386
 python-demjson
 python-demjson:i386
@@ -9073,6 +9076,7 @@ python3-coverage-dbg
 python3-dateutil
 python3-dbg
 python3-dbus
+python3-dbus-dbg
 python3-dbus.mainloop.qt
 python3-dbus.mainloop.qt-dbg
 python3-dbus.mainloop.qt-dbg:i386
