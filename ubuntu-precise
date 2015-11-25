@@ -3581,6 +3581,9 @@ libatlas-base-dev
 libatlas-base-dev:i386
 libatlas-dev
 libatlas-dev:i386
+libatlas-doc
+libatlas-test
+libatlas3-base
 libatomic1
 libatomic1-dbg
 libatomic1-dbg:i386
