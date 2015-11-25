@@ -324,6 +324,7 @@ chroot:i386
 chrpath
 chrpath:i386
 cjk-latex
+cl-pgloader
 cl-quicklisp
 clang
 clang-3.3
@@ -8300,6 +8301,7 @@ petsc:i386
 pgdg-keyring
 pgdg-keyring:i386
 pgf
+pgloader
 pgplot5
 phonon
 phonon-backend-null
