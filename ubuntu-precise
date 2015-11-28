@@ -220,6 +220,7 @@ autotools-dev
 autotools-dev:i386
 avr-libc
 awesome
+bar
 base-files
 base-files:i386
 base-passwd
