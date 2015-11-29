@@ -7449,6 +7449,11 @@ libwebpdemux1
 libwebpmux1
 libwind0-heimdal
 libwind0-heimdal:i386
+libwireshark-data
+libwireshark-dev
+libwireshark6
+libwiretap-dev
+libwiretap5
 libwmf-dev
 libwmf-dev:i386
 libwmf0.2-7
@@ -7457,6 +7462,8 @@ libwrap0
 libwrap0-dev
 libwrap0-dev:i386
 libwrap0:i386
+libwsutil-dev
+libwsutil6
 libwww-perl
 libwxbase2.8-0
 libwxbase2.8-dbg
@@ -9796,6 +9803,7 @@ trang
 transfig
 tree
 tree:i386
+tshark
 ttf-dejavu
 ttf-dejavu-core
 ttf-dejavu-core:i386
@@ -9946,6 +9954,13 @@ wireless-tools
 wireless-tools-udeb
 wireless-tools-udeb:i386
 wireless-tools:i386
+wireshark
+wireshark-common
+wireshark-dbg
+wireshark-dev
+wireshark-doc
+wireshark-gtk
+wireshark-qt
 wise
 wise-doc
 wise-doc:i386
