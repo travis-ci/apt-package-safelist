@@ -603,6 +603,7 @@ dpkg-dev:i386
 dpkg:i386
 drush
 dtdinst
+dvb-tools
 dvbpsi-utils
 dvipng
 dvipng:i386
@@ -1601,6 +1602,7 @@ iproute:i386
 iptables
 iptables-dev
 iptables:i386
+ir-keytable
 isc-dhcp-client
 isc-dhcp-client:i386
 isc-dhcp-common
@@ -4271,6 +4273,9 @@ libdtdinst-java
 libdvbpsi-dbg
 libdvbpsi-dev
 libdvbpsi10
+libdvbv5-0
+libdvbv5-dev
+libdvbv5-doc
 libdvdnav4
 libdw-dev
 libdw-dev:i386
@@ -7385,6 +7390,10 @@ libutempter0
 libutempter0:i386
 libuuid1
 libuuid1:i386
+libv4l-0
+libv4l-dev
+libv4l2rds0
+libv4lconvert0
 libv8-3.7.12.22
 libv8-dbg
 libv8-dev
@@ -9342,6 +9351,7 @@ qtxmlpatterns5-doc
 quickhit
 quilt
 quilt:i386
+qv4l2
 r-base
 r-base-core
 r-base-core-dbg
@@ -9863,6 +9873,7 @@ util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+v4l-utils
 vala-0.28-doc
 valac
 valac-0.28
