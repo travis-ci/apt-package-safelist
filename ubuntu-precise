@@ -8728,6 +8728,7 @@ pypy-dev
 pypy-dev:i386
 pypy-doc
 pypy-lib
+pypy-mutagen
 pypy-pkg-resources
 pypy-setuptools
 pypy-zmq
@@ -8886,6 +8887,8 @@ python-mpltoolkits.basemap
 python-mpltoolkits.basemap-data
 python-mpltoolkits.basemap-dbg
 python-mpltoolkits.basemap-doc
+python-mutagen
+python-mutagen-doc
 python-mysqldb
 python-mysqldb-dbg
 python-netcdf
@@ -9148,6 +9151,7 @@ python3-mpi4py
 python3-mpi4py-dbg
 python3-mpltoolkits.basemap
 python3-mpltoolkits.basemap-dbg
+python3-mutagen
 python3-networkx
 python3-nose
 python3-numexpr
