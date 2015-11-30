@@ -8153,6 +8153,7 @@ mplayer2-dbg
 mplayer:i386
 mpltools
 mpltools:i386
+msp430mcu
 mtools
 mtools:i386
 multiarch-support
