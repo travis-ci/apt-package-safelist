@@ -1217,6 +1217,7 @@ gir1.2-freedesktop:i386
 gir1.2-gconf-2.0
 gir1.2-gdkpixbuf-2.0
 gir1.2-gdkpixbuf-2.0:i386
+gir1.2-gexiv2-0.10
 gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
@@ -4617,6 +4618,9 @@ libgeos-dev
 libgeos-dev:i386
 libgettextpo0
 libgettextpo0:i386
+libgexiv2-2
+libgexiv2-2-dbg
+libgexiv2-dev
 libgflags-dev
 libgflags-doc
 libgflags2v5
