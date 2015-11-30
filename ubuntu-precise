@@ -234,6 +234,7 @@ biblatex
 binfmt-support
 binfmt-support:i386
 binutils
+binutils-avr
 binutils-dev
 binutils-doc
 binutils-doc:i386
