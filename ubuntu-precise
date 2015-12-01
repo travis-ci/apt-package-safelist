@@ -8156,6 +8156,7 @@ mplayer:i386
 mpltools
 mpltools:i386
 msp430-libc
+msp430mcu
 mtools
 mtools:i386
 multiarch-support
