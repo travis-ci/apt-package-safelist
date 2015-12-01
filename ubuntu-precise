@@ -976,6 +976,7 @@ gcc-mingw-w64-x86-64
 gcc-mingw-w64-x86-64:i386
 gcc-mips-linux-gnu
 gcc-mipsel-linux-gnu
+gcc-msp430
 gcc-multilib
 gcc-multilib-mips-linux-gnu
 gcc-multilib-mipsel-linux-gnu
