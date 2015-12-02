@@ -373,6 +373,7 @@ clang-modernize-3.4
 clang-modernize-3.6
 clang-modernize-3.7
 clang-modernize-3.8
+clang-tidy-3.8
 clang:i386
 clearsilver-dev
 cli-common
@@ -5431,6 +5432,7 @@ liblldb-3.7
 liblldb-3.7-dbg
 liblldb-3.7-dev
 liblldb-3.8
+liblldb-3.8-dbg
 liblldb-3.8-dev
 libllvm-3.4-ocaml-dev
 libllvm-3.6-ocaml-dev
