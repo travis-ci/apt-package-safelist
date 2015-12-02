@@ -7800,6 +7800,9 @@ libyubikey0:i386
 libzen-dev
 libzen-doc
 libzen0v5
+libzephyr-dev
+libzephyr4
+libzephyr4-krb5
 libzeroc-ice-ruby1.8
 libzeroc-ice-ruby1.8:i386
 libzeroc-ice3.4-cil
@@ -10100,6 +10103,9 @@ yubikey-personalization
 yubikey-personalization:i386
 yui-compressor
 yum
+zephyr-clients
+zephyr-server
+zephyr-server-krb5
 zeroc-ice34
 zeroc-ice34:i386
 zeroc-icee
