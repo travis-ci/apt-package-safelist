@@ -4187,6 +4187,9 @@ libcvaux2.3:i386
 libcvaux2.4
 libcvaux2.4:i386
 libcxsparse3.1.2
+libczmq-dbg
+libczmq-dev
+libczmq3
 libdap11
 libdap11:i386
 libdapclient3
