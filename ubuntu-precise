@@ -373,6 +373,7 @@ clang-modernize-3.4
 clang-modernize-3.6
 clang-modernize-3.7
 clang-modernize-3.8
+clang-tidy-3.6
 clang-tidy-3.7
 clang-tidy-3.8
 clang:i386
