@@ -7016,6 +7016,8 @@ libsnmp15:i386
 libsodium-dbg
 libsodium-dev
 libsodium13
+libsofthsm2
+libsofthsm2-dev
 libsolr-java
 libsoqt-dev-common
 libsoqt4-20
@@ -9513,6 +9515,9 @@ snmp-mibs-downloader
 socat
 socklog
 socklog-run
+softhsm2
+softhsm2-common
+softhsm2-dbg
 solr-common
 solr-jetty
 solr-tomcat
