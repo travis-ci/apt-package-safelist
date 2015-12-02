@@ -6813,6 +6813,8 @@ libsasl2-modules-ldap
 libsasl2-modules-otp
 libsasl2-modules-sql
 libsasl2-modules:i386
+libsaxonb-java
+libsaxonb-java-doc
 libscotch-5.1
 libscotch-dbg
 libscotch-dev
