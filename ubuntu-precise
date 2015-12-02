@@ -8258,6 +8258,7 @@ nginx-naxsi
 nginx-naxsi:i386
 nginx:i386
 ninja-build
+ninja-build-doc
 ninja-build:i386
 nkf
 node-underscore
