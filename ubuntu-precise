@@ -373,6 +373,7 @@ clang-modernize-3.4
 clang-modernize-3.6
 clang-modernize-3.7
 clang-modernize-3.8
+clang-tidy-3.6
 clang:i386
 clearsilver-dev
 cli-common
