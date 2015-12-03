@@ -894,6 +894,7 @@ g++-spu
 g++-spu:i386
 g++:i386
 gambit
+gamin
 gammu
 gammu:i386
 gawk
@@ -4472,6 +4473,8 @@ libgail-3-0
 libgail-3-0-dbg
 libgail-3-dev
 libgail-3-doc
+libgamin-dev
+libgamin0
 libgammu-dev
 libgbm-dev
 libgbm-dev:i386
@@ -8829,6 +8832,7 @@ python-fiona
 python-fontforge
 python-fontforge:i386
 python-ftdi
+python-gamin
 python-gdal
 python-gdal:i386
 python-gdbm
