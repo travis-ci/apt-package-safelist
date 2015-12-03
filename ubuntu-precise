@@ -5425,6 +5425,10 @@ libldns-dev
 libldns-dev:i386
 libldns1
 libldns1:i386
+liblensfun-data
+liblensfun-dev
+liblensfun-doc
+liblensfun0
 liblept4
 libleptonica-dev
 libleveldb-dev
