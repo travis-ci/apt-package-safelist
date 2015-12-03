@@ -5924,6 +5924,8 @@ libmpc-dev
 libmpc-dev:i386
 libmpc2
 libmpc2:i386
+libmpcdec-dev
+libmpcdec6
 libmpdclient-dev
 libmpdclient-doc
 libmpdclient2
@@ -8182,6 +8184,7 @@ mupdf
 mupdf-tools
 muscle
 muscle:i386
+musepack-tools
 mygui-doc
 myspell-af
 myspell-en-au
