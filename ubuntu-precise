@@ -3577,6 +3577,10 @@ libantlr3-runtime-java
 libantlr3c-3.2-0
 libantlr3c-antlrdbg-3.2-0
 libantlr3c-dev
+libao-common
+libao-dbg
+libao-dev
+libao4
 libaosd-dev
 libaosd-text2
 libaosd2
