@@ -1564,6 +1564,7 @@ icoutils
 idle
 idle-python3.5
 idle3
+idn2
 ienglish-common
 ifrench
 ifstat
@@ -5220,6 +5221,9 @@ libidn11
 libidn11-dev
 libidn11-dev:i386
 libidn11:i386
+libidn2-0
+libidn2-0-dbg
+libidn2-0-dev
 libifstat-dev
 libijs-0.35
 libijs-0.35:i386
