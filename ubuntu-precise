@@ -4890,6 +4890,11 @@ libgpg-error0
 libgpg-error0:i386
 libgpgme11
 libgpgme11-dev
+libgphoto2-6
+libgphoto2-dev
+libgphoto2-dev-doc
+libgphoto2-l10n
+libgphoto2-port12
 libgpm-dev
 libgpm-dev:i386
 libgpm2
