@@ -5924,6 +5924,8 @@ libmpc-dev
 libmpc-dev:i386
 libmpc2
 libmpc2:i386
+libmpcdec-dev
+libmpcdec6
 libmpdclient-dev
 libmpdclient-doc
 libmpdclient2
