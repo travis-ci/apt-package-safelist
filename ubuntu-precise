@@ -792,6 +792,8 @@ flashplugin-installer:i386
 flex
 flex:i386
 flexc++
+flickcurl-doc
+flickcurl-utils
 fltk1.3-doc
 fltk1.3-games
 fluid
@@ -4418,6 +4420,9 @@ libflac8
 libflac8:i386
 libflann-dev
 libflann1.8
+libflickcurl-dev
+libflickcurl0
+libflickcurl0-dbg
 libfltk-cairo1.3
 libfltk-forms1.3
 libfltk-gl1.3
