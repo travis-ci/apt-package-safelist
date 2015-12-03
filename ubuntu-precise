@@ -6768,6 +6768,8 @@ libregexp-java
 libregexp-java:i386
 librelp-dev
 librelp0
+libresid-builder-dev
+libresid-builder0c2a
 librhino-java
 librhino-java-doc
 libroken18-heimdal
@@ -6981,6 +6983,10 @@ libshout3
 libshout3-dev
 libshout3-dev:i386
 libshout3:i386
+libsidplay2
+libsidplay2-dev
+libsidutils-dev
+libsidutils0
 libsigc++-2.0-0v5
 libsigc++-2.0-dev
 libsigc++-2.0-doc
