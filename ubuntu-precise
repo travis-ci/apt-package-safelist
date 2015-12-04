@@ -449,6 +449,7 @@ cpanminus
 cpanminus:i386
 cpio
 cpio:i386
+cpmtools
 cpp
 cpp-4.6
 cpp-4.6-arm-linux-gnueabi
