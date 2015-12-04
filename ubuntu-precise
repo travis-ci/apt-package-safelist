@@ -5659,6 +5659,8 @@ libmockobjects-java
 libmockobjects-java:i386
 libmodbus-dev
 libmodbus5
+libmodplug-dev
+libmodplug1
 libmono-2.0-1
 libmono-2.0-1-dbg
 libmono-2.0-1-dbg:i386
