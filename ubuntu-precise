@@ -5649,6 +5649,8 @@ libminidjvu-dev
 libminidjvu0
 libminiupnpc-dev
 libminiupnpc10
+libmms-dev
+libmms0
 libmng1
 libmng1:i386
 libmnl-dev
