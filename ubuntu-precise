@@ -10203,6 +10203,7 @@ yubikey-personalization
 yubikey-personalization:i386
 yui-compressor
 yum
+z80dasm
 zephyr-clients
 zephyr-server
 zephyr-server-krb5
