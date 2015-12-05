@@ -9624,6 +9624,7 @@ sound-theme-freedesktop:i386
 sox
 sparse
 spatialite-bin
+spawn-fcgi
 specific
 specific:i386
 speech-tools
