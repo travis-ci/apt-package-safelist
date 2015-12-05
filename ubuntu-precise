@@ -6680,6 +6680,18 @@ libpython3.5-stdlib
 libpython3.5-testsuite
 libpython3.5-tk
 libpython3.5-tk-dbg
+libqca-qt5-2
+libqca-qt5-2-dbg
+libqca-qt5-2-dev
+libqca-qt5-2-plugins
+libqca2
+libqca2-dbg
+libqca2-dev
+libqca2-doc
+libqca2-plugin-cyrus-sasl
+libqca2-plugin-gnupg
+libqca2-plugin-ossl
+libqca2-plugins
 libqglviewer-dev
 libqglviewer-dev-qt4
 libqglviewer-doc
@@ -9365,6 +9377,8 @@ python3.5-tk-dbg
 python3.5-venv
 python3:i386
 python:i386
+qca-qt5-2-utils
+qca2-utils
 qdbus
 qdbus-qt5
 qdbus:i386
