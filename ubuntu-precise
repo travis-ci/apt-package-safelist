@@ -7132,8 +7132,11 @@ libspatialindex-c4v5
 libspatialindex-dbg
 libspatialindex-dev
 libspatialindex4v5
+libspatialite-dbg
+libspatialite-dev
 libspatialite3
 libspatialite3:i386
+libspatialite7
 libspnav-dev
 libspnav0
 libspotify-dev
@@ -7150,6 +7153,7 @@ libsqlite3-dev:i386
 libsqlite3-mod-blobtoxy
 libsqlite3-mod-csvtable
 libsqlite3-mod-impexp
+libsqlite3-mod-spatialite
 libsqlite3-mod-xpath
 libsqlite3-mod-zipfile
 libsqlite3-tcl
