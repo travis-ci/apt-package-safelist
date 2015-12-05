@@ -9247,6 +9247,8 @@ python3-enchant
 python3-examples
 python3-fiona
 python3-gdal
+python3-gdbm
+python3-gdbm-dbg
 python3-geoip
 python3-geopandas
 python3-gi
@@ -9329,6 +9331,8 @@ python3-shapely
 python3-sphinx
 python3-subunit
 python3-sympy
+python3-tk
+python3-tk-dbg
 python3-tz
 python3-venv
 python3-virtualenv
