@@ -9052,6 +9052,9 @@ python-pkg-resources:i386
 python-ply
 python-ply-doc
 python-protobuf
+python-psutil
+python-psutil-dbg
+python-psutil-doc
 python-psycopg2
 python-psycopg2-dbg
 python-psycopg2-doc
@@ -9288,6 +9291,8 @@ python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
 python3-ply
+python3-psutil
+python3-psutil-dbg
 python3-psycopg2
 python3-psycopg2-dbg
 python3-pycountry
