@@ -481,8 +481,10 @@ cpp:i386
 cppcheck
 cron
 cron:i386
+cryptsetup
 cryptsetup-bin
 cryptsetup-bin:i386
+cryptsetup-udeb
 csh
 csh:i386
 cssc
@@ -4149,7 +4151,9 @@ libcrypto++-doc
 libcrypto++-utils
 libcrypto++9v5
 libcrypto++9v5-dbg
+libcryptsetup-dev
 libcryptsetup4
+libcryptsetup4-udeb
 libcryptsetup4:i386
 libcsparse3.1.2
 libcss-dom-perl
