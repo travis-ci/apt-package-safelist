@@ -1477,6 +1477,7 @@ hicolor-icon-theme
 hicolor-icon-theme:i386
 highlight
 highlight-common
+hledger
 hlint
 hmmer
 hmmer-doc
@@ -4713,6 +4714,9 @@ libghc-entropy-prof
 libghc-gstreamer-dev
 libghc-gstreamer-doc
 libghc-gstreamer-prof
+libghc-hledger-dev
+libghc-hledger-doc
+libghc-hledger-prof
 libghc-hlint-dev
 libghc-hlint-doc
 libghc-hlint-prof
