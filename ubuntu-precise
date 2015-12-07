@@ -7490,6 +7490,11 @@ liburcu-dev
 liburcu2
 liburiparser-dev
 liburiparser1
+liburweb-cgi0
+liburweb-fastcgi0
+liburweb-http0
+liburweb-static0
+liburweb0
 libusb++-0.1-4c2
 libusb++-dev
 libusb-0.1-4
@@ -10012,6 +10017,9 @@ upstart:i386
 upx-ucl
 ureadahead
 ureadahead:i386
+urweb
+urweb-doc
+urweb-mode
 util-linux
 util-linux:i386
 uuid
