@@ -6800,6 +6800,9 @@ libqt5websockets5
 libqt5websockets5-dev
 libqt5widgets5
 libqt5xml5
+libqt5xmlpatterns5
+libqt5xmlpatterns5-dev
+libqt5xmlpatterns5-private-dev
 libqtcore4
 libqtcore4:i386
 libqtgui4
@@ -9477,7 +9480,11 @@ qtwebsockets5-dbg
 qtwebsockets5-doc
 qtwebsockets5-doc-html
 qtwebsockets5-examples
+qtxmlpatterns5-dbg
+qtxmlpatterns5-dev-tools
 qtxmlpatterns5-doc
+qtxmlpatterns5-doc-html
+qtxmlpatterns5-examples
 quickhit
 quilt
 quilt:i386
