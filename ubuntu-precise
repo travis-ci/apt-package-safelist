@@ -7951,6 +7951,13 @@ libzookeeper-st2
 libzookeeper2
 libzzip-0-13
 libzzip-dev
+lighttpd
+lighttpd-doc
+lighttpd-mod-cml
+lighttpd-mod-magnet
+lighttpd-mod-mysql-vhost
+lighttpd-mod-trigger-b4-dl
+lighttpd-mod-webdav
 linklint
 lintian
 lintian:i386
