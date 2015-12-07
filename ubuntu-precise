@@ -6819,6 +6819,9 @@ libquadmath0
 libquadmath0-dbg
 libquadmath0-dbg:i386
 libquadmath0:i386
+libqwt-dev
+libqwt-doc
+libqwt6
 librabbitmq-dbg
 librabbitmq-dev
 librabbitmq1
