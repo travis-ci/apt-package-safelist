@@ -9172,6 +9172,7 @@ python-wxtools
 python-wxversion
 python-xcbgen
 python-xdg
+python-xlib
 python-xlrd
 python-xlrd:i386
 python-xlwt
@@ -9333,6 +9334,7 @@ python3-tz
 python3-venv
 python3-virtualenv
 python3-xdg
+python3-xlib
 python3-yaml
 python3-yaml-dbg
 python3-zmq
