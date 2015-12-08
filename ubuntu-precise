@@ -5445,6 +5445,8 @@ libkeyutils1:i386
 libklibc
 libklibc:i386
 libklu1.2.1
+libkqueue-dev
+libkqueue0
 libkrb5-26-heimdal
 libkrb5-26-heimdal:i386
 libkrb5-3
