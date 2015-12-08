@@ -1543,6 +1543,7 @@ ibus-doc
 ibus-gtk
 ibus-gtk3
 ibus-wayland
+ibverbs-utils
 ice34-services
 ice34-services:i386
 ice34-slice
@@ -5246,6 +5247,9 @@ libib-util
 libib-util:i386
 libibus-1.0-5
 libibus-1.0-dev
+libibverbs-dev
+libibverbs1
+libibverbs1-dbg
 libice-dev
 libice-dev:i386
 libice6
