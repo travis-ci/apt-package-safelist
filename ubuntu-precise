@@ -1243,6 +1243,7 @@ gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
 gir1.2-ibus-1.0
+gir1.2-json-1.0
 gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-poppler-0.18
@@ -5427,6 +5428,8 @@ libjson0-dev
 libjson0-dev:i386
 libjson0:i386
 libjsoncpp-dev
+libjson-glib-1.0-0
+libjson-glib-dev
 libjsr305-java
 libjsr305-java:i386
 libjudy-dev
