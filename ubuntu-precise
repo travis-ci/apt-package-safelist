@@ -746,6 +746,9 @@ ffmpeg-dbg:i386
 ffmpeg-doc
 ffmpeg-doc:i386
 ffmpeg:i386
+fftw-dev
+fftw-docs
+fftw2
 file
 file-dbg
 file:i386
@@ -9673,6 +9676,8 @@ sed
 sed:i386
 sensible-utils
 sensible-utils:i386
+sfftw-dev
+sfftw2
 sg3-utils
 sg3-utils-udev
 sgml-base
