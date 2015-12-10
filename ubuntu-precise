@@ -9160,6 +9160,10 @@ python-shapely
 python-shapely-doc
 python-simplejson
 python-simplejson:i386
+python-sip
+python-sip-dbg
+python-sip-dev
+python-sip-doc
 python-sklearn
 python-sklearn-doc
 python-sklearn-lib
@@ -9357,6 +9361,9 @@ python3-scipy
 python3-scipy-dbg
 python3-setuptools
 python3-shapely
+python3-sip
+python3-sip-dbg
+python3-sip-dev
 python3-sphinx
 python3-subunit
 python3-sympy
@@ -9639,6 +9646,8 @@ shiboken-dbg
 shiboken-doc
 shntool
 shunit2
+sip-dbg
+sip-dev
 slapd
 sloccount
 smbclient
