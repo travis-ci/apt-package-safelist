@@ -452,6 +452,8 @@ cpio
 cpio:i386
 cpmtools
 cpp
+cpp-4.4
+cpp-4.4-doc
 cpp-4.6
 cpp-4.6-arm-linux-gnueabi
 cpp-4.6-arm-linux-gnueabi:i386
@@ -848,6 +850,9 @@ fuse
 fuse:i386
 fxload
 g++
+g++-4.4
+g++-4.4-multilib
+g++-4.4-spu
 g++-4.6
 g++-4.6-arm-linux-gnueabi
 g++-4.6-arm-linux-gnueabi:i386
@@ -910,8 +915,15 @@ gawk
 gawk:i386
 gcc
 gcc-4.4
+gcc-4.4-base
+gcc-4.4-doc
+gcc-4.4-hppa64
+gcc-4.4-locales
 gcc-4.4-multilib
 gcc-4.4-multilib:i386
+gcc-4.4-soft-float
+gcc-4.4-source
+gcc-4.4-spu
 gcc-4.4:i386
 gcc-4.5
 gcc-4.5-multilib
@@ -1123,6 +1135,10 @@ gforth
 gforth-common
 gforth-lib
 gfortran
+gfortran-4.4
+gfortran-4.4-doc
+gfortran-4.4-multilib
+gfortran-4.4-spu
 gfortran-4.6
 gfortran-4.6-arm-linux-gnueabi
 gfortran-4.6-arm-linux-gnueabi:i386
@@ -1295,6 +1311,8 @@ gnutls-bin
 gnutls-doc
 gobjc
 gobjc++
+gobjc++-4.4
+gobjc++-4.4-multilib
 gobjc++-4.6-arm-linux-gnueabi
 gobjc++-4.6-arm-linux-gnueabi:i386
 gobjc++-4.6-arm-linux-gnueabihf
@@ -1329,6 +1347,8 @@ gobjc++-powerpc-linux-gnu
 gobjc++-powerpc64le-linux-gnu
 gobjc++-s390x-linux-gnu
 gobjc++:i386
+gobjc-4.4
+gobjc-4.4-multilib
 gobjc-4.6-arm-linux-gnueabi
 gobjc-4.6-arm-linux-gnueabi:i386
 gobjc-4.6-arm-linux-gnueabihf
@@ -3461,6 +3481,7 @@ lib32stdc++-4.9-dev
 lib32stdc++-5-dev
 lib32stdc++-5-dev:i386
 lib32stdc++6
+lib32stdc++6-4.4-dbg
 lib32stdc++6-4.8-dbg
 lib32stdc++6-4.9-dbg
 lib32stdc++6-5-dbg
@@ -3547,6 +3568,7 @@ lib64stdc++-4.9-dev
 lib64stdc++-5-dev
 lib64stdc++-5-dev:i386
 lib64stdc++6
+lib64stdc++6-4.4-dbg
 lib64stdc++6-4.8-dbg
 lib64stdc++6-4.9-dbg
 lib64stdc++6-5-dbg
@@ -6019,6 +6041,7 @@ libmpfr-dev
 libmpfr-dev:i386
 libmpfr4
 libmpfr4:i386
+libmudflap0-4.4-dev
 libmudflap0-4.6-dev-armel-cross
 libmudflap0-4.6-dev-armel-cross:i386
 libmudflap0-4.6-dev-armhf-cross
@@ -6115,6 +6138,7 @@ libn32stdc++-4.9-dev
 libn32stdc++-5-dev
 libn32stdc++-5-dev:i386
 libn32stdc++6
+libn32stdc++6-4.4-dbg
 libn32stdc++6-4.8-dbg
 libn32stdc++6-4.9-dbg
 libn32stdc++6-5-dbg
@@ -8801,6 +8825,7 @@ protobuf-c-compiler
 protobuf-c-compiler:i386
 protobuf-compiler
 protobuf-compiler:i386
+protoize
 proxychains
 psmisc
 psmisc:i386
