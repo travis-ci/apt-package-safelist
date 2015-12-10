@@ -6877,6 +6877,9 @@ librdf-storage-sqlite
 librdf-storage-virtuoso
 librdf0
 librdf0-dev
+librdmacm-dev
+librdmacm1
+librdmacm1-dbg
 libreadline-dev
 libreadline-dev:i386
 libreadline-gplv2-dev
@@ -9590,6 +9593,7 @@ rabbitmq-server:i386
 ragel
 ragel:i386
 raptor2-utils
+rdmacm-utils
 re2c
 readline-common
 readline-common:i386
