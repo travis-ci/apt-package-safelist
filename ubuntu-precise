@@ -6172,6 +6172,7 @@ libnetcdf-dev
 libnetcdf-dev:i386
 libnetcdf6
 libnetcdf6:i386
+libnetcdf7
 libnetfilter-conntrack-dev
 libnetfilter-conntrack3
 libnetfilter-conntrack3-dbg
@@ -8397,6 +8398,8 @@ netcat-openbsd:i386
 netcat:i386
 netcdf-bin
 netcdf-bin:i386
+netcdf-dbg
+netcdf-doc
 netpbm
 netpbm:i386
 nettle-bin
