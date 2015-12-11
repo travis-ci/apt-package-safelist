@@ -8749,6 +8749,7 @@ postgresql-9.3-postgis-scripts:i386
 postgresql-9.3:i386
 postgresql-9.4
 postgresql-9.4-dbg
+postgresql-9.4-plproxy
 postgresql-9.4-plv8
 postgresql-9.4-plv8:i386
 postgresql-9.4-postgis-2.1
