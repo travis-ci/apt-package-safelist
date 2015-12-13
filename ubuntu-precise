@@ -6800,6 +6800,7 @@ libqt5core5a
 libqt5dbus5
 libqt5designer5
 libqt5designercomponents5
+libqt5egldeviceintegration5
 libqt5gui5
 libqt5help5
 libqt5libqgtk2
@@ -6821,6 +6822,7 @@ libqt5scintilla2-l10n
 libqt5serialport5
 libqt5serialport5-dev
 libqt5sql5
+libqt5sql5-ibase
 libqt5sql5-mysql
 libqt5sql5-odbc
 libqt5sql5-psql
@@ -6835,6 +6837,7 @@ libqt5webkit5-dev:i386
 libqt5websockets5
 libqt5websockets5-dev
 libqt5widgets5
+libqt5xcbqpa5
 libqt5xml5
 libqt5xmlpatterns5
 libqt5xmlpatterns5-dev
