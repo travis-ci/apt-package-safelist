@@ -5240,6 +5240,13 @@ libhfubsan0
 libhfubsan0-dbg
 libhfubsan0-dbg:i386
 libhfubsan0:i386
+libhidapi-dev
+libhidapi-hidraw0
+libhidapi-hidraw0-dbg
+libhidapi-libusb0
+libhidapi-libusb0-dbg
+libhidapi0
+libhidapi0-dbg
 libhighgui-dev
 libhighgui-dev:i386
 libhighgui2.3
