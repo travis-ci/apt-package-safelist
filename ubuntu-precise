@@ -4534,7 +4534,9 @@ libfreetype6
 libfreetype6-dev
 libfreetype6-dev:i386
 libfreetype6:i386
+libfreexl-dev
 libfreexl1
+libfreexl1-dbg
 libfreexl1:i386
 libfreeze34
 libfreeze34:i386
