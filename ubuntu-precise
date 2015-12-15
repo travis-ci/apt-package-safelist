@@ -4409,6 +4409,8 @@ liberror-perl
 liberror-perl:i386
 libesd0
 libesd0-dev
+libesmtp-dev
+libesmtp6
 libespeak-dev
 libespeak1
 libestools-dev
