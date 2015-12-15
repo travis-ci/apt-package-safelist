@@ -483,6 +483,7 @@ cpp11-migrate-3.7
 cpp11-migrate-3.8
 cpp:i386
 cppcheck
+cpputest
 cron
 cron:i386
 cryptsetup
@@ -4176,6 +4177,7 @@ libcpptest0
 libcppunit-dev
 libcppunit-subunit-dev
 libcppunit-subunit0
+libcpputest-dev
 libcroco3
 libcroco3:i386
 libcrypto++-dev
