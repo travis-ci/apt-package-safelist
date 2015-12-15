@@ -8447,6 +8447,8 @@ notification-daemon
 notification-daemon:i386
 noweb
 nowebm
+nsca
+nsca-client
 nsis
 nsis-common
 nsis-doc
