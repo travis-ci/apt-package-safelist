@@ -6915,6 +6915,8 @@ libresid-builder-dev
 libresid-builder0c2a
 librhino-java
 librhino-java-doc
+libriemann-client-dev
+libriemann-client0
 libroken18-heimdal
 libroken18-heimdal:i386
 librrd-dev
@@ -9629,6 +9631,7 @@ rhino
 rhino-doc
 riak
 riak:i386
+riemann-c-client
 rpm
 rpm:i386
 rrdcached
