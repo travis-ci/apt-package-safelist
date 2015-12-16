@@ -4440,6 +4440,9 @@ libevent-openssl-2.0-5
 libevent-openssl-2.0-5:i386
 libevent-pthreads-2.0-5
 libevent-pthreads-2.0-5:i386
+libevtlog-dev
+libevtlog0
+libevtlog0-dbg
 libexempi-dev
 libexempi3
 libexempi3-dbg
