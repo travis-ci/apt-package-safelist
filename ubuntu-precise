@@ -7490,6 +7490,9 @@ libtinyxml-dev
 libtinyxml-doc
 libtinyxml2.6.2
 libtinyxml2.6.2-dbg
+libtokyocabinet-dbg
+libtokyocabinet-dev
+libtokyocabinet9
 libtolua++5.1-dev
 libtomcat7-java
 libtomcrypt-dev
@@ -10014,6 +10017,8 @@ tmate
 tmate:i386
 tmux
 tofrodos
+tokyocabinet-bin
+tokyocabinet-doc
 tomcat7
 tomcat7-admin
 tomcat7-common
