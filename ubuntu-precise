@@ -387,8 +387,12 @@ clustalo:i386
 clustalw
 clustalw:i386
 cmake
+cmake-curses-gui
 cmake-data
 cmake-data:i386
+cmake-dbg
+cmake-doc
+cmake-qt-gui
 cmake:i386
 cmap-adobe-japan1
 cmap-adobe-japan1:i386
