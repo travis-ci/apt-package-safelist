@@ -5276,6 +5276,9 @@ libhiredis-dev:i386
 libhiredis0.10
 libhiredis0.10:i386
 libhiredis0.13
+libhmsbeagle-dev
+libhmsbeagle-java
+libhmsbeagle1v5
 libhogweed2
 libhtml-template-perl
 libhtml-template-perl:i386
