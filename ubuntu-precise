@@ -7202,6 +7202,9 @@ libsoup2.4-1
 libsoup2.4-dbg
 libsoup2.4-dev
 libsoup2.4-doc
+libsource-highlight-common
+libsource-highlight-dev
+libsource-highlight4v5
 libsox-dev
 libsox-fmt-all
 libsox-fmt-alsa
@@ -9750,6 +9753,7 @@ solr-jetty
 solr-tomcat
 sound-theme-freedesktop
 sound-theme-freedesktop:i386
+source-highlight
 sox
 sparse
 spatialite-bin
