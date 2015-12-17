@@ -233,6 +233,7 @@ bash:i386
 bc
 bc:i386
 biblatex
+binary_package.name
 binfmt-support
 binfmt-support:i386
 binutils
@@ -1127,6 +1128,8 @@ gdc-s390x-linux-gnu
 gdc-v1
 gdc-v1:i386
 gdc:i386
+gem2deb
+gem2deb-test-runner
 genders
 genext2fs
 gengetopt
@@ -1698,6 +1701,7 @@ keyboard-configuration
 keyboard-configuration:i386
 keyutils
 keyutils-dbg
+killerapp
 klibc-utils
 klibc-utils:i386
 krb5-locales
@@ -6187,6 +6191,7 @@ libn32stdc++6-5-dbg:i386
 libn32stdc++6:i386
 libn32z1
 libn32z1-dev
+libname-clash-ruby
 libncurses5
 libncurses5-dev
 libncurses5-dev:i386
@@ -9681,11 +9686,18 @@ rubberband-vamp
 rubberband-vamp:i386
 ruby
 ruby-aruba
+ruby-bar
+ruby-baz
 ruby-dev
 ruby-dev:i386
+ruby-examples
+ruby-foo
 ruby-mysql
 ruby-mysql:i386
+ruby-name-clash
 ruby-rrd
+ruby-simpleextension-dh-auto-install-destdir
+ruby-simpleextension-dh-auto-install-destdir-doc
 ruby1.8
 ruby1.8:i386
 ruby:i386
