@@ -9278,6 +9278,8 @@ python-vtkgdcm
 python-vtkgdcm:i386
 python-wadllib
 python-wadllib:i386
+python-wheel
+python-wheel-common
 python-wnck
 python-wxgtk2.8
 python-wxgtk2.8-dbg
@@ -9455,6 +9457,7 @@ python3-tk-dbg
 python3-tz
 python3-venv
 python3-virtualenv
+python3-wheel
 python3-xdg
 python3-xlib
 python3-yaml
