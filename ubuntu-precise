@@ -9842,6 +9842,7 @@ riak:i386
 riemann-c-client
 rpm
 rpm:i386
+rpmlint
 rrdcached
 rrdtool
 rrdtool-dbg
