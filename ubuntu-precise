@@ -4045,6 +4045,9 @@ libccolamd2.8.0
 libcdt4
 libcdt4:i386
 libcdt5
+libcext-dev
+libcext-doc
+libcext0
 libcfitsio-bin
 libcfitsio-dev
 libcfitsio-doc
@@ -4172,6 +4175,13 @@ libcouchbase-dev
 libcouchbase-dev:i386
 libcouchbase2-libevent
 libcouchbase2-libevent:i386
+libcpl-dev
+libcpl-doc
+libcplcore20
+libcpldfs20
+libcpldrs20
+libcplgasgano20
+libcplui20
 libcpptest-dev
 libcpptest-doc
 libcpptest0
