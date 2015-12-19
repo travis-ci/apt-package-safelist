@@ -7318,6 +7318,7 @@ libsfubsan0:i386
 libsgutils2-2
 libsgutils2-2:i386
 libsgutils2-dev
+libshell-command-perl
 libshiboken-dev
 libshiboken-py3-1.2
 libshiboken1.2
