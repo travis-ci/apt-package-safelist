@@ -6268,6 +6268,7 @@ libnl-xfrm-3-dev
 libnlopt-dev
 libnlopt-guile0
 libnlopt0
+libnotify-bin
 libnotify-dev
 libnotify-dev:i386
 libnotify4
