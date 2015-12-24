@@ -316,6 +316,7 @@ catch
 ccache
 ccache:i386
 cdialog
+cdrkit-doc
 check
 checkstyle
 checkstyle:i386
@@ -1134,6 +1135,7 @@ gem2deb-test-runner
 genders
 genext2fs
 gengetopt
+genisoimage
 genromfs
 genromfs:i386
 geoip-bin
@@ -1587,6 +1589,7 @@ ice34-translators
 ice34-translators:i386
 icebox
 icebox:i386
+icedax
 icedtea-6-jre-cacao
 icedtea-6-jre-cacao:i386
 icedtea-6-jre-jamvm
@@ -10409,6 +10412,7 @@ wise-doc:i386
 wise:i386
 wkhtmltopdf
 wkhtmltopdf:i386
+wodim
 wx-common
 wx2.8-doc
 wx2.8-examples
