@@ -452,6 +452,8 @@ couchdb-bin:i386
 couchdb-common
 couchdb-common:i386
 couchdb:i386
+cowsay
+cowsay-off
 cpanminus
 cpanminus:i386
 cpio
@@ -1306,6 +1308,7 @@ gnat-5-doc
 gnat-5-doc:i386
 gnat-5:i386
 gnome-common
+gnome-doc-utils
 gnome-session-canberra
 gnupg
 gnupg:i386
@@ -7318,6 +7321,7 @@ libsfubsan0:i386
 libsgutils2-2
 libsgutils2-2:i386
 libsgutils2-dev
+libshell-command-perl
 libshiboken-dev
 libshiboken-py3-1.2
 libshiboken1.2
@@ -7647,6 +7651,7 @@ libterm-readkey-perl:i386
 libtesseract-dev
 libtesseract3
 libtest-html-w3c-perl
+libtest-most-perl
 libtest-valgrind-perl
 libtext-aspell-perl
 libtext-aspell-perl:i386
@@ -9159,6 +9164,9 @@ python-bottle
 python-bottle-doc
 python-bs4
 python-bs4-doc
+python-bsddb3
+python-bsddb3-dbg
+python-bsddb3-doc
 python-bzrlib
 python-bzrlib:i386
 python-cairo
@@ -9518,6 +9526,8 @@ python3-all-dbg
 python3-all-dev
 python3-bottle
 python3-bs4
+python3-bsddb3
+python3-bsddb3-dbg
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
@@ -9874,6 +9884,7 @@ ruby-full
 ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
+ruby-ronn
 ruby-rrd
 ruby-simpleextension-dh-auto-install-destdir
 ruby-simpleextension-dh-auto-install-destdir-doc
