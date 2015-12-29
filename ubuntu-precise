@@ -1308,6 +1308,7 @@ gnat-5-doc
 gnat-5-doc:i386
 gnat-5:i386
 gnome-common
+gnome-doc-utils
 gnome-session-canberra
 gnupg
 gnupg:i386
