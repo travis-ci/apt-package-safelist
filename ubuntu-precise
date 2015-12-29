@@ -7641,6 +7641,7 @@ libtasn1-3-dev:i386
 libtasn1-3:i386
 libtbb-dev
 libtcc-dev
+libtcltk-ruby
 libtcmalloc-minimal0
 libtcmalloc-minimal0-dbg
 libtdb1
@@ -9847,6 +9848,7 @@ resolvconf
 resolvconf:i386
 rhino
 rhino-doc
+ri
 riak
 riak:i386
 riemann-c-client
@@ -9870,6 +9872,7 @@ rubberband-ladspa:i386
 rubberband-vamp
 rubberband-vamp:i386
 ruby
+ruby-all-dev
 ruby-aruba
 ruby-bar
 ruby-baz
@@ -9877,6 +9880,7 @@ ruby-dev
 ruby-dev:i386
 ruby-examples
 ruby-foo
+ruby-full
 ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
