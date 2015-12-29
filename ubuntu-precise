@@ -8388,6 +8388,8 @@ lsb-release:i386
 lsof
 lsof:i386
 ltrace
+lua-cjson
+lua-cjson-dev
 lua-filesystem
 lua-filesystem-dev
 lua-penlight
