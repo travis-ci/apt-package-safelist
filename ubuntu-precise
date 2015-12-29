@@ -7647,6 +7647,7 @@ libterm-readkey-perl:i386
 libtesseract-dev
 libtesseract3
 libtest-html-w3c-perl
+libtest-most-perl
 libtest-valgrind-perl
 libtext-aspell-perl
 libtext-aspell-perl:i386
@@ -9159,6 +9160,9 @@ python-bottle
 python-bottle-doc
 python-bs4
 python-bs4-doc
+python-bsddb3
+python-bsddb3-dbg
+python-bsddb3-doc
 python-bzrlib
 python-bzrlib:i386
 python-cairo
@@ -9518,6 +9522,8 @@ python3-all-dbg
 python3-all-dev
 python3-bottle
 python3-bs4
+python3-bsddb3
+python3-bsddb3-dbg
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
@@ -9871,6 +9877,7 @@ ruby-foo
 ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
+ruby-ronn
 ruby-rrd
 ruby-simpleextension-dh-auto-install-destdir
 ruby-simpleextension-dh-auto-install-destdir-doc
