@@ -9875,6 +9875,7 @@ ruby-foo
 ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
+ruby-ronn
 ruby-rrd
 ruby-simpleextension-dh-auto-install-destdir
 ruby-simpleextension-dh-auto-install-destdir-doc
