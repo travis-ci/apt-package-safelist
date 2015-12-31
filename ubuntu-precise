@@ -4450,6 +4450,8 @@ libethumb-dev
 libethumb1
 libev-dev
 libev-dev:i386
+libev-libevent-dev
+libev4
 libevas-dev
 libevas1
 libevas1-engine-fb
