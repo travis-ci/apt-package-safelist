@@ -8177,6 +8177,11 @@ libyubikey-dev
 libyubikey-dev:i386
 libyubikey0
 libyubikey0:i386
+libz3-cil
+libz3-dev
+libz3-java
+libz3-jni
+libz3-ocaml-dev
 libzen-dev
 libzen-doc
 libzen0v5
@@ -9482,6 +9487,7 @@ python-xy-meta-devel
 python-xy-meta-devel:i386
 python-yaml
 python-yaml-dbg
+python-z3
 python-zeroc-ice
 python-zeroc-ice:i386
 python-zmq
@@ -10553,6 +10559,7 @@ yubikey-personalization
 yubikey-personalization:i386
 yui-compressor
 yum
+z3
 z80asm
 z80dasm
 zephyr-clients
