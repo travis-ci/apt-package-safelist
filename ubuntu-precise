@@ -4328,6 +4328,15 @@ libdevmapper-event1.02.1
 libdevmapper-event1.02.1:i386
 libdevmapper1.02.1
 libdevmapper1.02.1:i386
+libdirectfb-1.2-9
+libdirectfb-1.2-9-dbg
+libdirectfb-1.2-9-udeb
+libdirectfb-bin
+libdirectfb-bin-dbg
+libdirectfb-bin-udeb
+libdirectfb-dev
+libdirectfb-extra
+libdirectfb-extra-dbg
 libdiscid-dev
 libdiscid-doc
 libdiscid0
