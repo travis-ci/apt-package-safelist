@@ -1244,6 +1244,10 @@ ghc-7.8.3
 ghc-7.8.3:i386
 ghc-7.8.4
 ghc-7.8.4:i386
+ghc-8.0.1
+ghc-8.0.1-dyn
+ghc-8.0.1-htmldocs
+ghc-8.0.1-prof
 ghc-head
 ghc-head:i386
 ghc:i386
