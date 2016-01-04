@@ -3832,6 +3832,7 @@ libavutil51:i386
 libavutil54
 libbam-dev
 libbam-dev:i386
+libbarcode-zbar-perl
 libbatik-java
 libbcel-java
 libbcel-java-doc
@@ -8201,6 +8202,12 @@ libyubikey-dev
 libyubikey-dev:i386
 libyubikey0
 libyubikey0:i386
+libzbar-dev
+libzbar0
+libzbargtk-dev
+libzbargtk0
+libzbarqt-dev
+libzbarqt0
 libzen-dev
 libzen-doc
 libzen0v5
@@ -9510,6 +9517,8 @@ python-xy-meta-devel
 python-xy-meta-devel:i386
 python-yaml
 python-yaml-dbg
+python-zbar
+python-zbarpygtk
 python-zeroc-ice
 python-zeroc-ice:i386
 python-zmq
@@ -10583,6 +10592,8 @@ yui-compressor
 yum
 z80asm
 z80dasm
+zbar-dbg
+zbar-tools
 zephyr-clients
 zephyr-server
 zephyr-server-krb5
