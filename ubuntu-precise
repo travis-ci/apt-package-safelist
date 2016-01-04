@@ -622,6 +622,7 @@ dpkg
 dpkg-dev
 dpkg-dev:i386
 dpkg:i386
+dput
 drush
 dtdinst
 dvb-tools
