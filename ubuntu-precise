@@ -1562,6 +1562,7 @@ hyphen-sh
 hyphen-sl
 hyphen-sr
 hyphen-zu
+i2c-tools
 ia32-libs
 ia32-libs-multiarch
 ia32-libs-multiarch:i386
@@ -5316,6 +5317,7 @@ libhx509-5-heimdal
 libhx509-5-heimdal:i386
 libhypre-2.8.0b
 libhypre-dev
+libi2c-dev
 libib-util
 libib-util:i386
 libibus-1.0-5
@@ -9442,6 +9444,7 @@ python-sip-doc
 python-sklearn
 python-sklearn-doc
 python-sklearn-lib
+python-smbus
 python-software-properties
 python-software-properties:i386
 python-sphinx
