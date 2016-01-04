@@ -5764,6 +5764,10 @@ libmarkdown2-dev
 libmath-bigint-perl
 libmatheval-dev
 libmatheval1
+libmatio-dev
+libmatio-doc
+libmatio2
+libmatio2-dbg
 libmaxminddb-dbg
 libmaxminddb-dev
 libmaxminddb0
