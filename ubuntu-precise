@@ -8836,6 +8836,7 @@ pciutils-udeb
 pcscd
 pdftk
 pdftk:i386
+pdl
 percona-toolkit
 perl
 perl-base
