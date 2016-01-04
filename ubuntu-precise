@@ -383,6 +383,7 @@ clang:i386
 clearsilver-dev
 cli-common
 cli-common-dev
+cloog-ppl
 clustalo
 clustalo:i386
 clustalw
@@ -4125,6 +4126,8 @@ libcln-dev
 libcln6
 libcloog-isl4
 libcloog-isl4:i386
+libcloog-ppl-dev
+libcloog-ppl1
 libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
