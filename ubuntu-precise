@@ -6123,6 +6123,9 @@ libmpfr-dev
 libmpfr-dev:i386
 libmpfr4
 libmpfr4:i386
+libmpv-dbg
+libmpv-dev
+libmpv1
 libmudflap0-4.4-dev
 libmudflap0-4.6-dev-armel-cross
 libmudflap0-4.6-dev-armel-cross:i386
@@ -8585,6 +8588,8 @@ mplayer2-dbg
 mplayer:i386
 mpltools
 mpltools:i386
+mpv
+mpv-dbg
 msp430-libc
 msp430mcu
 mtools
