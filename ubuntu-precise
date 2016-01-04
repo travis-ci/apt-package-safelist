@@ -9970,6 +9970,10 @@ scons
 scons:i386
 scotch
 scotch-dbg
+sdcc
+sdcc-doc
+sdcc-libraries
+sdcc-ucsim
 seaborn
 seaborn:i386
 sed
