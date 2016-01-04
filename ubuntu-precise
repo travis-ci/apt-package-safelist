@@ -6911,6 +6911,8 @@ libqt5webkit5-dev:i386
 libqt5websockets5
 libqt5websockets5-dev
 libqt5widgets5
+libqt5x11extras5
+libqt5x11extras5-dev
 libqt5xml5
 libqt5xmlpatterns5
 libqt5xmlpatterns5-dev
@@ -9812,6 +9814,9 @@ qtwebsockets5-dbg
 qtwebsockets5-doc
 qtwebsockets5-doc-html
 qtwebsockets5-examples
+qtx11extras5-dbg
+qtx11extras5-doc
+qtx11extras5-doc-html
 qtxmlpatterns5-dbg
 qtxmlpatterns5-dev-tools
 qtxmlpatterns5-doc
