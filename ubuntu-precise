@@ -10288,6 +10288,7 @@ tidy-doc
 tidy:i386
 time
 time:i386
+timelimit
 tinc
 tinc:i386
 tk
