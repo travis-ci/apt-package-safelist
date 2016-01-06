@@ -9967,6 +9967,9 @@ samplerate-programs
 samtools
 samtools:i386
 sasl2-bin
+sbcl
+sbcl-doc
+sbcl-source
 scala
 scala-doc
 scala-library
