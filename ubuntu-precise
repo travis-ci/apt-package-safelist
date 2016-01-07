@@ -9118,6 +9118,9 @@ protobuf-compiler
 protobuf-compiler:i386
 protoize
 proxychains
+pslib-dev
+pslib1
+pslib1-dbg
 psmisc
 psmisc:i386
 psutils
