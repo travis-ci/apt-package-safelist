@@ -8721,6 +8721,7 @@ nunit-console
 nvidia-cg-dev
 nvidia-cg-doc
 nvidia-cg-toolkit
+nvidia-common
 oath-dbg
 oathtool
 ocaml
