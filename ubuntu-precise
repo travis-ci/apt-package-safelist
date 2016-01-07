@@ -4230,6 +4230,12 @@ libcss-dom-perl
 libctpl-dev
 libctpl-doc
 libctpl2
+libcublas6.5
+libcudart6.5
+libcufft6.5
+libcufftw6.5
+libcuinj32-6.5
+libcuinj64-6.5
 libcunit1
 libcunit1-dev
 libcunit1-dev:i386
@@ -4252,6 +4258,10 @@ libcupsmime1
 libcupsmime1-dev
 libcupsppdc1
 libcupsppdc1-dev
+libcupti-dev
+libcupti-doc
+libcupti6.5
+libcurand6.5
 libcurl3
 libcurl3-dbg
 libcurl3-gnutls
@@ -4263,6 +4273,7 @@ libcurl4-gnutls-dev
 libcurl4-nss-dev
 libcurl4-openssl-dev
 libcurl4-openssl-dev:i386
+libcusparse6.5
 libcv-dev
 libcv-dev:i386
 libcv2.3
@@ -6307,6 +6318,9 @@ libnotify-dev
 libnotify-dev:i386
 libnotify4
 libnotify4:i386
+libnppc6.5
+libnppi6.5
+libnpps6.5
 libnspr4
 libnspr4-0d
 libnspr4-dbg
@@ -6325,6 +6339,9 @@ libnuget-core-cil-dev
 libnuma-dbg
 libnuma-dev
 libnuma1
+libnvblas6.5
+libnvtoolsext1
+libnvvm2
 liboath-dev
 liboath0
 libobjc-4.8-dev
@@ -8721,6 +8738,14 @@ nunit-console
 nvidia-cg-dev
 nvidia-cg-doc
 nvidia-cg-toolkit
+nvidia-cuda-dev
+nvidia-cuda-doc
+nvidia-cuda-gdb
+nvidia-cuda-toolkit
+nvidia-nsight
+nvidia-opencl-dev
+nvidia-profiler
+nvidia-visual-profiler
 oath-dbg
 oathtool
 ocaml
