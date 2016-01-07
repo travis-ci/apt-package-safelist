@@ -567,6 +567,7 @@ default-jdk
 default-jdk-doc
 default-jre
 default-jre-headless
+dejagnu
 devscripts
 devscripts:i386
 dh-apparmor
