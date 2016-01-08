@@ -471,6 +471,7 @@ cpp-4.6-arm-linux-gnueabihf
 cpp-4.6-arm-linux-gnueabihf:i386
 cpp-4.6:i386
 cpp-4.8
+cpp-4.8:i386
 cpp-4.9
 cpp-4.9-arm-linux-gnueabi
 cpp-5
