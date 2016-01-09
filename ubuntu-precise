@@ -9324,6 +9324,8 @@ python-lxml
 python-lxml:i386
 python-m2crypto
 python-magic
+python-mako
+python-mako-doc
 python-mapnik
 python-markdown
 python-markdown-doc
@@ -9619,6 +9621,7 @@ python3-h5py
 python3-ipaddr
 python3-jinja2
 python3-magic
+python3-mako
 python3-mapnik
 python3-markdown
 python3-markupsafe
