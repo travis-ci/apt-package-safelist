@@ -223,6 +223,8 @@ autotools-dev:i386
 avr-libc
 awesome
 bar
+barcode
+barcode-dbg
 base-files
 base-files:i386
 base-passwd
