@@ -1284,6 +1284,7 @@ gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
 gir1.2-ibus-1.0
+gir1.2-notify-0.7
 gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
 gir1.2-poppler-0.18
@@ -6304,8 +6305,10 @@ libnl-xfrm-3-dev
 libnlopt-dev
 libnlopt-guile0
 libnlopt0
+libnotify-bin
 libnotify-dev
 libnotify-dev:i386
+libnotify-doc
 libnotify4
 libnotify4:i386
 libnspr4
