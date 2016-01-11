@@ -7460,6 +7460,9 @@ libsox-fmt-mp3
 libsox-fmt-oss
 libsox-fmt-pulse
 libsox2
+libsoxr-dev
+libsoxr-lsr0
+libsoxr0
 libsparsehash-dev
 libspatialindex-c4v5
 libspatialindex-dbg
