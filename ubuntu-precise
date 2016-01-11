@@ -3625,6 +3625,8 @@ libacl1
 libacl1-dev
 libacl1-dev:i386
 libacl1:i386
+libadios-bin
+libadios-dev
 libaio-dev
 libaio-dev:i386
 libalgorithm-diff-perl
@@ -9226,6 +9228,7 @@ pyqt4.qsci-dev
 pyqt5.qsci-dev
 pyside-tools
 python
+python-adios
 python-all
 python-all-dbg
 python-all-dev
@@ -9609,6 +9612,7 @@ python2.7-minimal
 python2.7-minimal:i386
 python2.7:i386
 python3
+python3-adios
 python3-all
 python3-all-dbg
 python3-all-dev
