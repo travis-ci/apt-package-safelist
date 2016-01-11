@@ -9258,6 +9258,7 @@ pyfits-utils
 pylint
 pylint:i386
 pypy
+pypy-appdirs
 pypy-bs4
 pypy-dev
 pypy-dev:i386
@@ -9281,6 +9282,7 @@ python-all-dev
 python-alsaaudio
 python-alsaaudio:i386
 python-antlr
+python-appdirs
 python-appindicator
 python-apt
 python-apt-common
@@ -9664,6 +9666,7 @@ python3-adios
 python3-all
 python3-all-dbg
 python3-all-dev
+python3-appdirs
 python3-bottle
 python3-bs4
 python3-bsddb3
