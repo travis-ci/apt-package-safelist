@@ -7741,6 +7741,9 @@ libtolua++5.1-dev
 libtomcat7-java
 libtomcrypt-dev
 libtomcrypt0
+libtommath-dev
+libtommath-docs
+libtommath0
 libtool
 libtool:i386
 libtrang-java
