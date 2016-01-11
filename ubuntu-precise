@@ -278,6 +278,7 @@ bsdutils
 bsdutils:i386
 build-essential
 build-essential:i386
+buildd
 busybox
 busybox-initramfs
 busybox-initramfs:i386
@@ -7246,6 +7247,7 @@ libsasl2-modules:i386
 libsaxonb-java
 libsaxonb-java-doc
 libsb2
+libsbuild-perl
 libscotch-5.1
 libscotch-dbg
 libscotch-dev
@@ -10054,6 +10056,7 @@ samplerate-programs
 samtools
 samtools:i386
 sasl2-bin
+sbuild
 scala
 scala-doc
 scala-library
