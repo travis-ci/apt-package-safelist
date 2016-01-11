@@ -573,6 +573,7 @@ default-jdk-doc
 default-jre
 default-jre-headless
 dejagnu
+desktop-file-utils
 devscripts
 devscripts:i386
 dh-apparmor
