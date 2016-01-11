@@ -10655,6 +10655,7 @@ xml-core
 xml-core:i386
 xmlsec1
 xmlstarlet
+xmltex
 xmlto
 xmlto:i386
 xmltoman
