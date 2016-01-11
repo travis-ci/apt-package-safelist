@@ -4228,6 +4228,7 @@ libcryptsetup-dev
 libcryptsetup4
 libcryptsetup4-udeb
 libcryptsetup4:i386
+libcsiro0
 libcsparse3.1.2
 libcss-dom-perl
 libctpl-dev
@@ -6658,6 +6659,16 @@ libpixman-1-0:i386
 libpixman-1-dev
 libpixman-1-dev:i386
 libplack-perl
+libplplot-ada1
+libplplot-ada1-dev
+libplplot-c++11
+libplplot-d
+libplplot-dev
+libplplot-fortran10
+libplplot-java
+libplplot-lua
+libplplot-ocaml
+libplplot12
 libplrpc-perl
 libplrpc-perl:i386
 libplymouth2
@@ -6816,6 +6827,8 @@ libqpdf-dev
 libqpdf13
 libqrencode-dev
 libqrencode3
+libqsastime-dev
+libqsastime0
 libqscintilla2-12v5
 libqscintilla2-12v5-dbg
 libqscintilla2-designer
@@ -8976,6 +8989,14 @@ pkg-config:i386
 pkg-test
 pkg-test-illiterate
 pkg-test-no-install
+plplot-doc
+plplot-tcl
+plplot-tcl-bin
+plplot-tcl-dev
+plplot12-driver-cairo
+plplot12-driver-qt
+plplot12-driver-wxwidgets
+plplot12-driver-xwin
 plymouth
 plymouth:i386
 pngcrush
@@ -9400,6 +9421,8 @@ python-pip
 python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
+python-plplot
+python-plplot-qt
 python-ply
 python-ply-doc
 python-protobuf
