@@ -4355,6 +4355,8 @@ libdiscid-dev
 libdiscid-doc
 libdiscid0
 libdiscid0-dbg
+libdispatch-dev
+libdispatch0
 libdjvulibre-dev
 libdjvulibre-dev:i386
 libdjvulibre-text
