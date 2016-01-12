@@ -1629,6 +1629,8 @@ icegrid-gui:i386
 icnsutils
 icnsutils:i386
 icoutils
+icu-devtools
+icu-doc
 idle
 idle-python3.5
 idle3
@@ -5403,6 +5405,8 @@ libicu-dev
 libicu-dev:i386
 libicu48
 libicu48:i386
+libicu55
+libicu55-dbg
 libid3tag0
 libid3tag0-dev
 libid3tag0-dev:i386
