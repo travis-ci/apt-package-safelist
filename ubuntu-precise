@@ -1465,6 +1465,8 @@ groovy
 groovy:i386
 gs-cjk-resource
 gs-cjk-resource:i386
+gsasl
+gsasl-dbg
 gsfonts
 gsfonts-x11
 gsfonts-x11:i386
@@ -5107,6 +5109,8 @@ libgs9
 libgs9-common
 libgs9-common:i386
 libgs9:i386
+libgsasl7
+libgsasl7-dev
 libgsl0-dbg
 libgsl0-dbg:i386
 libgsl0-dev
