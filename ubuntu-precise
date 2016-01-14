@@ -9964,6 +9964,7 @@ r-cran-rodbc
 r-cran-rodbc:i386
 r-cran-rpart
 r-cran-rpart:i386
+r-cran-rserve
 r-cran-spatial
 r-cran-spatial:i386
 r-cran-stringr
