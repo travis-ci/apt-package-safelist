@@ -268,6 +268,13 @@ bitcoin-tx
 bitcoind
 bottleneck
 bottleneck:i386
+brltty
+brltty-dbg
+brltty-espeak
+brltty-flite
+brltty-speechd
+brltty-udeb
+brltty-x11
 bsdcpio
 bsdcpio:i386
 bsdmainutils
@@ -340,6 +347,7 @@ chroot:i386
 chrpath
 chrpath:i386
 cjk-latex
+cl-brlapi
 cl-pgloader
 cl-quicklisp
 clang
@@ -3962,6 +3970,11 @@ libbox2d-dev
 libbox2d-doc
 libbox2d2.3.0
 libbox2d2.3.0-dbg
+libbrlapi-dbg
+libbrlapi-dev
+libbrlapi-java
+libbrlapi-jni
+libbrlapi0.6
 libbsd-dev
 libbsd-dev:i386
 libbsd-resource-perl
@@ -9291,6 +9304,7 @@ python-argparse:i386
 python-beautifulsoup
 python-bottle
 python-bottle-doc
+python-brlapi
 python-bs4
 python-bs4-doc
 python-bsddb3
@@ -9665,6 +9679,7 @@ python3-all
 python3-all-dbg
 python3-all-dev
 python3-bottle
+python3-brlapi
 python3-bs4
 python3-bsddb3
 python3-bsddb3-dbg
@@ -10624,6 +10639,7 @@ xauth:i386
 xbase-clients
 xbitmaps
 xbitmaps:i386
+xbrlapi
 xcb-proto
 xclip
 xclip:i386
