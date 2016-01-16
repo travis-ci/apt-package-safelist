@@ -3743,6 +3743,7 @@ libasound2-dev
 libasound2-dev:i386
 libasound2-doc
 libasound2-doc:i386
+libasound2-plugins
 libasound2-python
 libasound2-python:i386
 libasound2-udeb
