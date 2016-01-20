@@ -7859,6 +7859,10 @@ libusb-1.0-0-udeb
 libusb-1.0-0-udeb:i386
 libusb-1.0-0:i386
 libusb-dev
+libustr-1.0-1
+libustr-1.0-1-dbg
+libustr-dev
+libustr-doc
 libutempter0
 libutempter0:i386
 libuuid1
