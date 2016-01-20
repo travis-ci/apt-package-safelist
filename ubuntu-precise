@@ -869,6 +869,8 @@ freeglut3
 freeglut3-dev
 freeglut3-dev:i386
 freeglut3:i386
+freetds-bin
+freetds-common
 freetds-dev
 freetds-dev:i386
 fuse
@@ -4241,6 +4243,7 @@ libcryptsetup4:i386
 libcsiro0
 libcsparse3.1.2
 libcss-dom-perl
+libct4
 libctpl-dev
 libctpl-doc
 libctpl2
@@ -7695,6 +7698,7 @@ libswscale-extra-2
 libswscale2
 libswscale2:i386
 libswscale3
+libsybdb5
 libsys-hostname-long-perl
 libsys-hostname-long-perl:i386
 libt1-5
@@ -10179,6 +10183,7 @@ tclxml-dev
 tcpd
 tcpd:i386
 tcsh
+tdsodbc
 telnet
 telnet:i386
 tesseract-ocr
