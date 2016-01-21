@@ -7018,6 +7018,8 @@ librdf0-dev
 librdmacm-dev
 librdmacm1
 librdmacm1-dbg
+libre2-1v5
+libre2-dev
 libreadline-dev
 libreadline-dev:i386
 libreadline-gplv2-dev
