@@ -7527,6 +7527,7 @@ libspatialite-dev
 libspatialite3
 libspatialite3:i386
 libspatialite7
+libspice-protocol-dev
 libspnav-dev
 libspnav0
 libspotify-dev
