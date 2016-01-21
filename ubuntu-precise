@@ -5742,6 +5742,14 @@ libltdl-dev
 libltdl-dev:i386
 libltdl7
 libltdl7:i386
+liblttng-ust-agent-java
+liblttng-ust-agent-java-jni
+liblttng-ust-ctl2
+liblttng-ust-dev
+liblttng-ust-java
+liblttng-ust-java-jni
+liblttng-ust-python-agent0
+liblttng-ust0
 liblua5.1-0
 liblua5.1-0-dbg
 liblua5.1-0-dbg:i386
@@ -9736,6 +9744,7 @@ python3-h5py
 python3-ipaddr
 python3-jinja2
 python3-lockfile
+python3-lttngust
 python3-magic
 python3-mako
 python3-mapnik
