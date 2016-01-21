@@ -7890,11 +7890,13 @@ libusb-0.1-4
 libusb-0.1-4:i386
 libusb-0.1-udeb
 libusb-1.0-0
+libusb-1.0-0-dbg
 libusb-1.0-0-dev
 libusb-1.0-0-dev:i386
 libusb-1.0-0-udeb
 libusb-1.0-0-udeb:i386
 libusb-1.0-0:i386
+libusb-1.0-doc
 libusb-dev
 libutempter0
 libutempter0:i386
