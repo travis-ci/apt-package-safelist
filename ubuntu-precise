@@ -6183,6 +6183,8 @@ libmuparser-doc
 libmuparser0debian1
 libmuparser2
 libmupdf-dev
+libmxml-dev
+libmxml1
 libmygui-dev
 libmygui.ogreplatform0debian1
 libmygui.ogreplatform0debian1-dbg
