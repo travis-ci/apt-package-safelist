@@ -204,6 +204,8 @@ atomicparsley
 atool
 attr
 attr:i386
+audispd-plugins
+auditd
 augeas-dbg
 augeas-doc
 augeas-lenses
@@ -1427,6 +1429,7 @@ gobjc-powerpc64le-linux-gnu
 gobjc-s390x-linux-gnu
 gobjc:i386
 gobject-introspection
+golang-redhat-audit-dev
 google-chrome-beta
 google-chrome-stable
 google-chrome-unstable
@@ -3804,8 +3807,13 @@ libattr1:i386
 libaudio-dev
 libaudio2
 libaudio2:i386
+libaudit-common
+libaudit-dev
+libaudit1
 libaugeas-dev
 libaugeas0
+libauparse-dev
+libauparse0
 libav-dbg
 libav-dbg:i386
 libav-doc
@@ -9328,6 +9336,7 @@ python-apt-common:i386
 python-apt:i386
 python-argparse
 python-argparse:i386
+python-audit
 python-beautifulsoup
 python-bottle
 python-bottle-doc
@@ -9707,6 +9716,7 @@ python3-all
 python3-all-dbg
 python3-all-dev
 python3-appdirs
+python3-audit
 python3-bottle
 python3-brlapi
 python3-bs4
