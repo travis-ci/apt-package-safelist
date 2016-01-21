@@ -5483,6 +5483,9 @@ libirrlicht-dev
 libirrlicht-dev:i386
 libirrlicht1.7a
 libirrlicht1.7a:i386
+libiscsi-bin
+libiscsi-dev
+libiscsi2
 libisl10
 libisl10:i386
 libisoburn-dbg
