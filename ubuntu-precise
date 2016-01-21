@@ -583,6 +583,7 @@ dh-exec
 dh-make
 dh-make:i386
 dh-systemd
+dh-virtualenv
 dia
 dia-common
 dia-gnome
