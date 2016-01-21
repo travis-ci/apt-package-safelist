@@ -9325,6 +9325,7 @@ python-coverage
 python-coverage-dbg
 python-crypto
 python-crypto:i386
+python-cvxopt
 python-dateutil
 python-dbg
 python-dbus
