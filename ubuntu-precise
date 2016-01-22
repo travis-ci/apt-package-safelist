@@ -10068,6 +10068,7 @@ redis-server
 redis-server:i386
 redland-utils
 registry-tools
+reprepro
 resolvconf
 resolvconf:i386
 rhino
