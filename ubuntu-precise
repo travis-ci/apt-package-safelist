@@ -3538,6 +3538,8 @@ lib32quadmath0
 lib32quadmath0-dbg
 lib32quadmath0-dbg:i386
 lib32quadmath0:i386
+lib32readline6
+lib32readline6-dev
 lib32stdc++-4.8-dev
 lib32stdc++-4.9-dev
 lib32stdc++-5-dev
@@ -3625,6 +3627,8 @@ lib64quadmath0
 lib64quadmath0-dbg
 lib64quadmath0-dbg:i386
 lib64quadmath0:i386
+lib64readline6
+lib64readline6-dev
 lib64stdc++-4.8-dev
 lib64stdc++-4.9-dev
 lib64stdc++-5-dev
@@ -7072,6 +7076,7 @@ libreadline-gplv2-dev:i386
 libreadline5
 libreadline5:i386
 libreadline6
+libreadline6-dbg
 libreadline6-dev
 libreadline6-dev:i386
 libreadline6:i386
@@ -10061,6 +10066,7 @@ rdmacm-utils
 re2c
 readline-common
 readline-common:i386
+readline-doc
 realpath
 recode
 recode-doc
@@ -10077,6 +10083,7 @@ ri
 riak
 riak:i386
 riemann-c-client
+rlfe
 rpm
 rpm:i386
 rrdcached
