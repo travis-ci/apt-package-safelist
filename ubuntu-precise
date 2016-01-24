@@ -483,6 +483,8 @@ cpmtools
 cpp
 cpp-4.4
 cpp-4.4-doc
+cpp-4.5
+cpp-4.5-doc
 cpp-4.6
 cpp-4.6-arm-linux-gnueabi
 cpp-4.6-arm-linux-gnueabi:i386
@@ -896,6 +898,9 @@ g++
 g++-4.4
 g++-4.4-multilib
 g++-4.4-spu
+g++-4.5
+g++-4.5-multilib
+g++-4.5-spu
 g++-4.6
 g++-4.6-arm-linux-gnueabi
 g++-4.6-arm-linux-gnueabi:i386
@@ -969,8 +974,16 @@ gcc-4.4-source
 gcc-4.4-spu
 gcc-4.4:i386
 gcc-4.5
+gcc-4.5-base
+gcc-4.5-doc
+gcc-4.5-hppa64
+gcc-4.5-locales
 gcc-4.5-multilib
 gcc-4.5-multilib:i386
+gcc-4.5-plugin-dev
+gcc-4.5-soft-float
+gcc-4.5-source
+gcc-4.5-spu
 gcc-4.5:i386
 gcc-4.6
 gcc-4.6-arm-linux-gnueabi
@@ -1184,6 +1197,10 @@ gfortran-4.4
 gfortran-4.4-doc
 gfortran-4.4-multilib
 gfortran-4.4-spu
+gfortran-4.5
+gfortran-4.5-doc
+gfortran-4.5-multilib
+gfortran-4.5-spu
 gfortran-4.6
 gfortran-4.6-arm-linux-gnueabi
 gfortran-4.6-arm-linux-gnueabi:i386
@@ -1365,6 +1382,8 @@ gobjc
 gobjc++
 gobjc++-4.4
 gobjc++-4.4-multilib
+gobjc++-4.5
+gobjc++-4.5-multilib
 gobjc++-4.6-arm-linux-gnueabi
 gobjc++-4.6-arm-linux-gnueabi:i386
 gobjc++-4.6-arm-linux-gnueabihf
@@ -1401,6 +1420,8 @@ gobjc++-s390x-linux-gnu
 gobjc++:i386
 gobjc-4.4
 gobjc-4.4-multilib
+gobjc-4.5
+gobjc-4.5-multilib
 gobjc-4.6-arm-linux-gnueabi
 gobjc-4.6-arm-linux-gnueabi:i386
 gobjc-4.6-arm-linux-gnueabihf
@@ -3528,6 +3549,8 @@ lib32objc-4.8-dev
 lib32objc-4.9-dev
 lib32objc-5-dev
 lib32objc-5-dev:i386
+lib32objc2
+lib32objc2-dbg
 lib32objc4
 lib32objc4-dbg
 lib32objc4-dbg:i386
@@ -3544,6 +3567,7 @@ lib32stdc++-5-dev
 lib32stdc++-5-dev:i386
 lib32stdc++6
 lib32stdc++6-4.4-dbg
+lib32stdc++6-4.5-dbg
 lib32stdc++6-4.8-dbg
 lib32stdc++6-4.9-dbg
 lib32stdc++6-5-dbg
@@ -3615,6 +3639,8 @@ lib64objc-4.8-dev
 lib64objc-4.9-dev
 lib64objc-5-dev
 lib64objc-5-dev:i386
+lib64objc2
+lib64objc2-dbg
 lib64objc4
 lib64objc4-dbg
 lib64objc4-dbg:i386
@@ -3631,6 +3657,7 @@ lib64stdc++-5-dev
 lib64stdc++-5-dev:i386
 lib64stdc++6
 lib64stdc++6-4.4-dbg
+lib64stdc++6-4.5-dbg
 lib64stdc++6-4.8-dbg
 lib64stdc++6-4.9-dbg
 lib64stdc++6-5-dbg
@@ -6205,6 +6232,7 @@ libmpv-dbg
 libmpv-dev
 libmpv1
 libmudflap0-4.4-dev
+libmudflap0-4.5-dev
 libmudflap0-4.6-dev-armel-cross
 libmudflap0-4.6-dev-armel-cross:i386
 libmudflap0-4.6-dev-armhf-cross
@@ -6292,6 +6320,8 @@ libn32objc-4.8-dev
 libn32objc-4.9-dev
 libn32objc-5-dev
 libn32objc-5-dev:i386
+libn32objc2
+libn32objc2-dbg
 libn32objc4
 libn32objc4-dbg
 libn32objc4-dbg:i386
@@ -6304,6 +6334,7 @@ libn32stdc++-5-dev
 libn32stdc++-5-dev:i386
 libn32stdc++6
 libn32stdc++6-4.4-dbg
+libn32stdc++6-4.5-dbg
 libn32stdc++6-4.8-dbg
 libn32stdc++6-4.9-dbg
 libn32stdc++6-5-dbg
@@ -6418,10 +6449,12 @@ libobjc-4.8-dev
 libobjc-4.9-dev
 libobjc-5-dev
 libobjc-5-dev:i386
+libobjc2
 libobjc2-armel-cross
 libobjc2-armel-cross:i386
 libobjc2-armhf-cross
 libobjc2-armhf-cross:i386
+libobjc2-dbg
 libobjc2-dbg-armel-cross
 libobjc2-dbg-armel-cross:i386
 libobjc2-dbg-armhf-cross
