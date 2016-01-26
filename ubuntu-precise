@@ -10718,6 +10718,7 @@ x11proto-damage-dev
 x11proto-damage-dev:i386
 x11proto-fixes-dev
 x11proto-fixes-dev:i386
+x11proto-gl-dev
 x11proto-input-dev
 x11proto-input-dev:i386
 x11proto-kb-dev
