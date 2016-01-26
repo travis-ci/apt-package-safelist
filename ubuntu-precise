@@ -10177,6 +10177,7 @@ ruby-dev:i386
 ruby-examples
 ruby-foo
 ruby-full
+ruby-minitest
 ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
