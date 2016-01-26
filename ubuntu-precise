@@ -238,7 +238,9 @@ bash-completion
 bash:i386
 bc
 bc:i386
+bcc
 biblatex
+bin86
 binary_package.name
 binfmt-support
 binfmt-support:i386
@@ -675,6 +677,7 @@ elfutils:i386
 elinks
 elinks-data
 elinks-doc
+elks-libc
 emacs23-bin-common
 emacs23-bin-common:i386
 emacs23-common
