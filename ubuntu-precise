@@ -5504,6 +5504,8 @@ libilmbase6:i386
 libimage-exiftool-perl
 libimage-magick-perl
 libimage-magick-q16-perl
+libimlib2
+libimlib2-dev
 libimobiledevice-dev
 libimobiledevice-doc
 libimobiledevice-utils
