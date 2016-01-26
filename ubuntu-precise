@@ -240,7 +240,9 @@ bash-completion
 bash:i386
 bc
 bc:i386
+bcc
 biblatex
+bin86
 binary_package.name
 binfmt-support
 binfmt-support:i386
