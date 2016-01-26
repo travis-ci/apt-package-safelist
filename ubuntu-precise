@@ -9438,6 +9438,7 @@ pypy-lib
 pypy-mutagen
 pypy-pkg-resources
 pypy-setuptools
+pypy-six
 pypy-zmq
 pypy:i386
 pyqt4-dev-tools
@@ -9745,6 +9746,8 @@ python-sip
 python-sip-dbg
 python-sip-dev
 python-sip-doc
+python-six
+python-six-whl
 python-sklearn
 python-sklearn-doc
 python-sklearn-lib
@@ -9960,6 +9963,7 @@ python3-shapely
 python3-sip
 python3-sip-dbg
 python3-sip-dev
+python3-six
 python3-sphinx
 python3-subunit
 python3-sympy
