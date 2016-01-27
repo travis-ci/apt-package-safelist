@@ -7888,6 +7888,8 @@ libtasn1-3-dev:i386
 libtasn1-3:i386
 libtbb-dev
 libtcc-dev
+libtcl8.6
+libtcl8.6-dbg
 libtcltk-ruby
 libtcmalloc-minimal0
 libtcmalloc-minimal0-dbg
@@ -10388,6 +10390,9 @@ tcl8.5
 tcl8.5-dev
 tcl8.5-dev:i386
 tcl8.5:i386
+tcl8.6
+tcl8.6-dev
+tcl8.6-doc
 tcl:i386
 tclcurl
 tcllib
