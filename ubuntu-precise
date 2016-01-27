@@ -1338,6 +1338,7 @@ gir1.2-rsvg-2.0:i386
 gir1.2-secret-1
 gir1.2-soup-2.4
 gir1.2-udisks-2.0
+gir1.2-vte-2.90
 gir1.2-wnck-3.0
 git
 git-man
@@ -8074,6 +8075,11 @@ libvpx-dev
 libvpx-doc
 libvpx2
 libvpx2-dbg
+libvte-2.90-9
+libvte-2.90-9-udeb
+libvte-2.90-common
+libvte-2.90-dev
+libvte-2.90-doc
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
