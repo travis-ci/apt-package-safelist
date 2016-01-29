@@ -213,6 +213,7 @@ augeas-lenses
 augeas-tools
 autoconf
 autoconf-archive
+autoconf2.13
 autoconf:i386
 autogen
 autogen-doc
