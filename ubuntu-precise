@@ -3,6 +3,8 @@ abiword-common
 abiword-dbg
 abiword-plugin-grammar
 ack-grep
+acpica-tools
+acpidump
 adduser
 adduser:i386
 alex
@@ -1635,6 +1637,7 @@ iamerican-huge
 iamerican-insane
 iamerican-large
 iamerican-small
+iasl
 ibritish
 ibritish-huge
 ibritish-insane
