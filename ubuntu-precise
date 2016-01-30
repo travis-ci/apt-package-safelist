@@ -8453,6 +8453,8 @@ libyajl1-dbg:i386
 libyajl1:i386
 libyaml-0-2
 libyaml-0-2:i386
+libyaml-cpp-dev
+libyaml-cpp0.5v5
 libyaml-dev
 libyaml-dev:i386
 libykclient-dev
