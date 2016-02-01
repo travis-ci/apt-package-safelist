@@ -6912,6 +6912,8 @@ libpostproc-dev:i386
 libpostproc-extra-52
 libpostproc52
 libpostproc52:i386
+libpotrace-dev
+libpotrace0
 libpq-dev
 libpq-dev:i386
 libpq5
@@ -9374,6 +9376,7 @@ postgresql-server-dev-9.5
 postgresql-server-dev-9.5:i386
 postgresql-server-dev-all
 postgresql-server-dev-all:i386
+potrace
 powermgmt-base
 powermgmt-base:i386
 praat
