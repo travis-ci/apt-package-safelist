@@ -1177,6 +1177,9 @@ gdc-s390x-linux-gnu
 gdc-v1
 gdc-v1:i386
 gdc:i386
+gearman
+gearman-job-server
+gearman-tools
 gem2deb
 gem2deb-test-runner
 genders
@@ -4896,8 +4899,12 @@ libgdk3.0-cil-dev
 libgdraw4
 libgdu0
 libgdu0:i386
+libgearman-dbg
 libgearman-dev
 libgearman-dev:i386
+libgearman-doc
+libgearman7
+libgearman7-dbg
 libgecode
 libgecode-dev
 libgecode-dev:i386
