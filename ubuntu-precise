@@ -6730,6 +6730,10 @@ libopts25-dev:i386
 libopts25:i386
 libopus-dev
 libopus-dev:i386
+libopusfile-dbg
+libopusfile-dev
+libopusfile-doc
+libopusfile0
 liborbit2
 liborbit2:i386
 liborc-0.4-0
