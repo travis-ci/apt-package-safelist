@@ -9142,6 +9142,7 @@ pciutils
 pciutils-udeb
 pcscd
 pdftk
+pdftk-dbg
 pdftk:i386
 pdl
 percona-toolkit
