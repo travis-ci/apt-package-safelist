@@ -546,6 +546,7 @@ curl
 curl-udeb
 curl:i386
 cx-freeze
+cxxtest
 cyrus-sasl2-dbg
 cyrus-sasl2-doc
 cyrus-sasl2-heimdal-dbg
