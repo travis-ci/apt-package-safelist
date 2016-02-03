@@ -6925,6 +6925,11 @@ libpostproc-dev:i386
 libpostproc-extra-52
 libpostproc52
 libpostproc52:i386
+libppl-c4
+libppl-dev
+libppl-doc
+libppl-swi
+libppl13v5
 libpq-dev
 libpq-dev:i386
 libpq5
@@ -9395,6 +9400,7 @@ postgresql-server-dev-all
 postgresql-server-dev-all:i386
 powermgmt-base
 powermgmt-base:i386
+ppl-dev
 praat
 probcons
 probcons-extra
