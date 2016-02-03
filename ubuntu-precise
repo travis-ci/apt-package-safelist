@@ -418,6 +418,7 @@ cmap-adobe-japan1
 cmap-adobe-japan1:i386
 cminpack-doc
 cmocka-doc
+cnotmuch
 coffeescript
 coffeescript-doc
 coinor-cbc
@@ -6494,6 +6495,8 @@ libnotify-dev:i386
 libnotify-doc
 libnotify4
 libnotify4:i386
+libnotmuch-dev
+libnotmuch4
 libnppc6.5
 libnppi6.5
 libnpps6.5
@@ -8969,6 +8972,11 @@ nodejs-dev:i386
 nodejs:i386
 notification-daemon
 notification-daemon:i386
+notmuch
+notmuch-dbg
+notmuch-emacs
+notmuch-mutt
+notmuch-vim
 noweb
 nowebm
 nsis
@@ -9660,6 +9668,7 @@ python-nose
 python-nose-doc
 python-nose:i386
 python-nosexcover
+python-notmuch
 python-numexpr
 python-numexpr-dbg
 python-numpy
@@ -9946,6 +9955,7 @@ python3-mpltoolkits.basemap-dbg
 python3-mutagen
 python3-networkx
 python3-nose
+python3-notmuch
 python3-numexpr
 python3-numexpr-dbg
 python3-numpy
@@ -10261,6 +10271,7 @@ ruby-minitest
 ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
+ruby-notmuch
 ruby-ronn
 ruby-rrd
 ruby-simpleextension-dh-auto-install-destdir
