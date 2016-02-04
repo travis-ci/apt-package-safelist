@@ -5593,6 +5593,8 @@ libinotifytools0
 libinotifytools0-dev
 libinsighttoolkit3-dev
 libinsighttoolkit3.20
+libintl-perl
+libintl-xs-perl
 libio-pty-perl
 libio-socket-ssl-perl
 libio-string-perl
