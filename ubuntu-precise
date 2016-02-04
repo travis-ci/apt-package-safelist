@@ -6295,6 +6295,8 @@ libmp3lame-dev
 libmp3lame-dev:i386
 libmp3lame0
 libmp3lame0:i386
+libmp4v2-2
+libmp4v2-dev
 libmpc-dev
 libmpc-dev:i386
 libmpc2
@@ -8862,6 +8864,8 @@ mountall
 mountall:i386
 mp3gain
 mp3splt
+mp4v2-dbg
+mp4v2-utils
 mpich2python
 mplayer
 mplayer-dbg
