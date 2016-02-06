@@ -408,6 +408,9 @@ clustalo
 clustalo:i386
 clustalw
 clustalw:i386
+cm-super
+cm-super-minimal
+cm-super-x11
 cmake
 cmake-curses-gui
 cmake-data
