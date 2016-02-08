@@ -8108,6 +8108,8 @@ libvpx-dev
 libvpx-doc
 libvpx2
 libvpx2-dbg
+libvpx3
+libvpx3-dbg
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
