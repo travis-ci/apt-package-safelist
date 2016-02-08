@@ -8076,6 +8076,8 @@ libvarnishapi-dev
 libvarnishapi-dev:i386
 libvarnishapi1
 libvarnishapi1:i386
+libviennacl-dev
+libviennacl-doc
 libvips-dev
 libvips-doc
 libvips-tools
