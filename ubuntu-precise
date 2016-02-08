@@ -6995,6 +6995,9 @@ libpthread-stubs0:i386
 libptscotch-5.1
 libptscotch-dbg
 libptscotch-dev
+libpugixml-dev
+libpugixml1v5
+libpugixml1v5-dbg
 libpulse-dev
 libpulse-dev:i386
 libpulse-mainloop-glib0
@@ -9458,6 +9461,7 @@ ptex-bin
 ptscotch
 ptscotch-dbg
 publican
+pugixml-doc
 pulseaudio
 pulseaudio-dbg
 pulseaudio-dbg:i386
