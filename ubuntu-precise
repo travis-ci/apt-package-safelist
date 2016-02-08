@@ -8415,6 +8415,8 @@ libxmlsec1-gcrypt
 libxmlsec1-gnutls
 libxmlsec1-nss
 libxmlsec1-openssl
+libxmltok1
+libxmltok1-dev
 libxmu-dev
 libxmu-dev:i386
 libxmu-headers
