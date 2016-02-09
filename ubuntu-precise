@@ -3862,6 +3862,8 @@ libastyle0debian0
 libastylej-jni
 libasyncns0
 libasyncns0:i386
+libatasmart-bin
+libatasmart-dev
 libatasmart4
 libatasmart4:i386
 libatk-wrapper-java
