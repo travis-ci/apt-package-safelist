@@ -10425,6 +10425,8 @@ ssh
 ssh-import-id
 ssh-import-id:i386
 ssh:i386
+sshfs
+sshfs-dbg
 sshpass
 ssl-cert
 ssl-cert:i386
