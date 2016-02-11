@@ -241,6 +241,7 @@ bash:i386
 bc
 bc:i386
 biblatex
+bibutils
 binary_package.name
 binfmt-support
 binfmt-support:i386
@@ -3958,6 +3959,8 @@ libbcel-java
 libbcel-java-doc
 libbcel-java-doc:i386
 libbcel-java:i386
+libbibutils-dev
+libbibutils2
 libbind4
 libbind4-dev
 libbio-perl-perl
