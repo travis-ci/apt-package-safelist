@@ -9435,6 +9435,7 @@ powermgmt-base:i386
 ppl-dev
 ppmd
 praat
+premake4
 probcons
 probcons-extra
 probcons-extra:i386
