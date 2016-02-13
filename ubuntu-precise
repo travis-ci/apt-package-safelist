@@ -9758,6 +9758,8 @@ python-pyassimp
 python-pycountry
 python-pycurl
 python-pycurl:i386
+python-pyexiv2
+python-pyexiv2-doc
 python-pyfann
 python-pyfann-dbg
 python-pyfits
