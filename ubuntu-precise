@@ -7653,6 +7653,9 @@ libsodium-dev
 libsodium13
 libsofthsm2
 libsofthsm2-dev
+libsoil-dev
+libsoil1
+libsoil1-dbg
 libsolr-java
 libsoqt-dev-common
 libsoqt4-20
