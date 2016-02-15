@@ -6592,6 +6592,9 @@ libogg0
 libogg0:i386
 libois-1.3.0
 libois-dev
+libompl-dev
+libompl10
+libompl10-dbg
 libonig-dev
 libonig2
 libonig2-dbg
@@ -9089,6 +9092,7 @@ odbcinst1debian2:i386
 odbcinst:i386
 omake
 omake-doc
+ompl-demos
 opam
 opam-docs
 opam-docs:i386
