@@ -1341,6 +1341,7 @@ gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
+gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
 gir1.2-pango-1.0
@@ -5340,6 +5341,14 @@ libhamlib2
 libhamlib2++c2
 libhamlib2-perl
 libhamlib2-tcl
+libharfbuzz-bin
+libharfbuzz-dev
+libharfbuzz-doc
+libharfbuzz-gobject0
+libharfbuzz-icu0
+libharfbuzz0-udeb
+libharfbuzz0b
+libharfbuzz0b-dbg
 libhashkit0
 libhashkit0:i386
 libhawtjni-runtime-java
