@@ -1784,6 +1784,7 @@ junit4:i386
 kbd
 kbd:i386
 kcov
+kelbt
 keyboard-configuration
 keyboard-configuration:i386
 keyutils
