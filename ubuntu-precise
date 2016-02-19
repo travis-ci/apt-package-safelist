@@ -8834,6 +8834,8 @@ mingw32-runtime
 mingw32-runtime:i386
 mingw32:i386
 minidjvu
+minisat
+minisat2
 miniupnpc
 mksh
 mmdb-bin
