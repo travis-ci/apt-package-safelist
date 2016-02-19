@@ -10379,6 +10379,7 @@ scons:i386
 scotch
 scotch-dbg
 scratchbox2
+seabios
 seaborn
 seaborn:i386
 sed
