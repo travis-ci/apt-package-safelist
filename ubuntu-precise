@@ -6783,6 +6783,9 @@ liboverlay-scrollbar-0.2-0
 liboverlay-scrollbar-0.2-dev
 liboverlay-scrollbar3-0.2-0
 liboverlay-scrollbar3-0.2-dev
+libowfat-dev
+libowfat-dietlibc-dev
+libowfat0
 libp11-kit-dev
 libp11-kit-dev:i386
 libp11-kit0
