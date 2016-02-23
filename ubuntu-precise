@@ -5717,6 +5717,7 @@ libjson-c-doc
 libjson-c2
 libjson-c2-dbg
 libjson-perl
+libjson-xs-perl
 libjson0
 libjson0-dev
 libjson0-dev:i386
