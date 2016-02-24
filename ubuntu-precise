@@ -336,6 +336,8 @@ catch
 ccache
 ccache:i386
 cdialog
+cfengine2
+cfengine2-dbg
 check
 checkstyle
 checkstyle:i386
