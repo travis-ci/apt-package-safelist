@@ -711,6 +711,7 @@ emboss-test:i386
 emboss:i386
 enchant
 enchant:i386
+enscript
 epydoc-doc
 equivs
 erlang-asn1
