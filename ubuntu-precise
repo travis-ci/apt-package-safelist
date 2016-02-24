@@ -350,6 +350,7 @@ chromium-browser-l10n:i386
 chromium-browser:i386
 chromium-codecs-ffmpeg-extra
 chromium-codecs-ffmpeg-extra:i386
+chrony
 chroot
 chroot:i386
 chrpath
