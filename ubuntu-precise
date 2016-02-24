@@ -355,6 +355,7 @@ chroot:i386
 chrpath
 chrpath:i386
 cjk-latex
+cksfv
 cl-brlapi
 cl-pgloader
 cl-quicklisp
