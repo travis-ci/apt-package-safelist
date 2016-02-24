@@ -2,6 +2,7 @@ abiword
 abiword-common
 abiword-dbg
 abiword-plugin-grammar
+abook
 ack-grep
 acpica-tools
 acpidump
