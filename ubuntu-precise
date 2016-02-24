@@ -774,6 +774,10 @@ espeak
 espeak-data
 espeak-data-udeb
 espeak-dbg
+evince
+evince-common
+evince-dbg
+evince-gtk
 exif
 exiv2
 expat
@@ -1327,6 +1331,7 @@ gir1.2-atk-1.0:i386
 gir1.2-dbusmenu-glib-0.4
 gir1.2-dbusmenu-gtk-0.4
 gir1.2-dbusmenu-gtk3-0.4
+gir1.2-evince-3.0
 gir1.2-freedesktop
 gir1.2-freedesktop:i386
 gir1.2-gconf-2.0
@@ -4649,6 +4654,7 @@ libevas-dev
 libevas1
 libevas1-engine-fb
 libevas1-engines-x
+libevdocument3-4
 libevent-2.0-5
 libevent-2.0-5:i386
 libevent-core-2.0-5
@@ -4663,9 +4669,11 @@ libevent-openssl-2.0-5
 libevent-openssl-2.0-5:i386
 libevent-pthreads-2.0-5
 libevent-pthreads-2.0-5:i386
+libevince-dev
 libevtlog-dev
 libevtlog0
 libevtlog0-dbg
+libevview3-3
 libexempi-dev
 libexempi3
 libexempi3-dbg
