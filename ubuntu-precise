@@ -660,6 +660,7 @@ dpkg-dev:i386
 dpkg:i386
 dput
 drush
+dsniff
 dtdinst
 dvb-tools
 dvbpsi-utils
