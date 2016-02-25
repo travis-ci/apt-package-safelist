@@ -1695,6 +1695,7 @@ icoutils
 idle
 idle-python3.5
 idle3
+idn
 idn2
 ienglish-common
 ifrench
@@ -5578,6 +5579,7 @@ libidl0:i386
 libidn11
 libidn11-dev
 libidn11-dev:i386
+libidn11-java
 libidn11:i386
 libidn2-0
 libidn2-0-dbg
