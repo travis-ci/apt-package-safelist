@@ -1735,6 +1735,7 @@ intltool-debian
 intltool-debian:i386
 iodbc
 iodbc:i386
+iperf
 iproute
 iproute:i386
 iptables
