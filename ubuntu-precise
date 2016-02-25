@@ -1740,6 +1740,7 @@ iproute:i386
 iptables
 iptables-dev
 iptables:i386
+ipv6calc
 ir-keytable
 isc-dhcp-client
 isc-dhcp-client:i386
