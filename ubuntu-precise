@@ -789,6 +789,7 @@ fakechroot
 fakechroot:i386
 fakeroot
 fakeroot:i386
+feh
 ffmpeg
 ffmpeg-dbg
 ffmpeg-dbg:i386
