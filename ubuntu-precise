@@ -1148,6 +1148,8 @@ gcj-native-helper
 gcj-powerpc-linux-gnu
 gcj-powerpc64le-linux-gnu
 gcj-s390x-linux-gnu
+gcl
+gcl-doc
 gconf-defaults-service
 gconf-gsettings-backend
 gconf-service
