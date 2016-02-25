@@ -800,6 +800,7 @@ fftw-docs
 fftw2
 file
 file-dbg
+file-roller
 file:i386
 finch
 finch-dev
