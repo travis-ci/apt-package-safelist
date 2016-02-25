@@ -9114,6 +9114,8 @@ opam
 opam-docs
 opam-docs:i386
 opam:i386
+open-iscsi
+open-iscsi-udeb
 openal-info
 openbabel
 openbabel-dbg
