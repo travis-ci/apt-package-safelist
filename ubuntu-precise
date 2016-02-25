@@ -775,6 +775,7 @@ espeak-data
 espeak-data-udeb
 espeak-dbg
 exif
+exiftran
 exiv2
 expat
 expect
@@ -789,6 +790,7 @@ fakechroot
 fakechroot:i386
 fakeroot
 fakeroot:i386
+fbi
 ffmpeg
 ffmpeg-dbg
 ffmpeg-dbg:i386
