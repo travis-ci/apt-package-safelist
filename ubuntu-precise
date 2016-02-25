@@ -1359,6 +1359,8 @@ git-man
 git-man:i386
 git-svn
 git:i386
+gkrellm
+gkrellmd
 glade-gnome
 glade-gtk2
 glew-utils
