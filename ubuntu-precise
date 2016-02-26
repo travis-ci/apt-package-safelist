@@ -325,6 +325,8 @@ cabextract
 cabextract:i386
 caca-utils
 cairo-perf-utils
+calibre
+calibre-bin
 camlidl
 camlidl:i386
 camlp4
