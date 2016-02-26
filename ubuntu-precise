@@ -9486,6 +9486,7 @@ psmisc
 psmisc:i386
 psutils
 ptex-bin
+ptex-jtex
 ptscotch
 ptscotch-dbg
 publican
