@@ -3864,6 +3864,7 @@ libassimp3v5
 libastyle-dev
 libastyle0debian0
 libastylej-jni
+libasyncns-dev
 libasyncns0
 libasyncns0:i386
 libatasmart-bin
