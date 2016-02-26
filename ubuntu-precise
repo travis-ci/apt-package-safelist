@@ -412,6 +412,7 @@ clustalo
 clustalo:i386
 clustalw
 clustalw:i386
+clvm
 cm-super
 cm-super-minimal
 cm-super-x11
@@ -631,7 +632,9 @@ djvulibre-bin
 djvulibre-dbg
 djvulibre-desktop
 djvuserve
+dmeventd
 dmsetup
+dmsetup-udeb
 dmsetup:i386
 dnsutils
 dnsutils:i386
@@ -4511,9 +4514,11 @@ libdconf0
 libdconf0:i386
 libdevil-dev
 libdevil1c2
+libdevmapper-dev
 libdevmapper-event1.02.1
 libdevmapper-event1.02.1:i386
 libdevmapper1.02.1
+libdevmapper1.02.1-udeb
 libdevmapper1.02.1:i386
 libdirectfb-1.2-9
 libdirectfb-1.2-9-dbg
@@ -5934,8 +5939,10 @@ libluajit-5.1-dev
 liblucene3-contrib-java
 liblucene3-java
 liblucene3-java-doc
+liblvm2-dev
 liblvm2app2.2
 liblvm2app2.2:i386
+liblvm2cmd2.02
 liblwgeom-2.1.5
 liblwgeom-2.1.5:i386
 liblwgeom-2.1.8
@@ -8786,6 +8793,8 @@ lua5.2-doc:i386
 lua5.2:i386
 luajit
 luarocks
+lvm2
+lvm2-udeb
 lyx
 lyx-common
 lyx-dbg
@@ -9707,6 +9716,7 @@ python-lldb-3.7
 python-lldb-3.8
 python-lockfile
 python-lockfile-doc
+python-lvm2
 python-lxml
 python-lxml-dbg
 python-lxml-doc
@@ -10024,6 +10034,7 @@ python3-ipaddr
 python3-jinja2
 python3-lockfile
 python3-lttngust
+python3-lvm2
 python3-lxml
 python3-lxml-dbg
 python3-magic
