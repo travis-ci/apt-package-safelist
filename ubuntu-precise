@@ -894,6 +894,7 @@ fonts-takao-pgothic:i386
 fonts-texgyre
 fop
 fop-doc
+fplll-tools
 freeglut3
 freeglut3-dev
 freeglut3-dev:i386
@@ -4755,6 +4756,8 @@ libfontforge-dev
 libfontforge1
 libfontforge1:i386
 libfop-java
+libfplll-dev
+libfplll0
 libfreeimage-dev
 libfreeimage-dev:i386
 libfreeimage3
