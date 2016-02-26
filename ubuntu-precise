@@ -9230,6 +9230,7 @@ pdftk
 pdftk-dbg
 pdftk:i386
 pdl
+pep8
 percona-toolkit
 perl
 perl-base
@@ -10052,6 +10053,7 @@ python3-openssl
 python3-pandas
 python3-pandas-lib
 python3-pdfrw
+python3-pep8
 python3-pexpect
 python3-pil
 python3-pil-dbg
