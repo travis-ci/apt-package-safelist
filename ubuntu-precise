@@ -3991,6 +3991,8 @@ libbluetooth3
 libbluetooth3-dbg
 libbluetooth3-dbg:i386
 libbluetooth3:i386
+libbobcat-dev
+libbobcat4
 libbonobo2-0
 libbonobo2-0:i386
 libbonobo2-common
