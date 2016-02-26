@@ -241,7 +241,6 @@ bash:i386
 bc
 bc:i386
 biblatex
-bibutils
 binary_package.name
 binfmt-support
 binfmt-support:i386
@@ -409,9 +408,6 @@ clustalo
 clustalo:i386
 clustalw
 clustalw:i386
-cm-super
-cm-super-minimal
-cm-super-x11
 cmake
 cmake-curses-gui
 cmake-data
@@ -550,7 +546,6 @@ curl
 curl-udeb
 curl:i386
 cx-freeze
-cxxtest
 cyrus-sasl2-dbg
 cyrus-sasl2-doc
 cyrus-sasl2-heimdal-dbg
@@ -643,7 +638,6 @@ docbook5-xml
 docutils-common
 docutils-doc
 dos2unix
-dosbox
 dosfstools
 dosfstools:i386
 doxygen
@@ -1229,7 +1223,6 @@ gfortran-4.6-multilib-arm-linux-gnueabihf:i386
 gfortran-4.7
 gfortran-4.8
 gfortran-4.8-multilib
-gfortran-4.8:i386
 gfortran-4.9
 gfortran-4.9-arm-linux-gnueabi
 gfortran-4.9-multilib
@@ -1310,10 +1303,8 @@ ghc-8.0.1
 ghc-8.0.1-dyn
 ghc-8.0.1-htmldocs
 ghc-8.0.1-prof
-ghc-doc
 ghc-head
 ghc-head:i386
-ghc-prof
 ghc:i386
 ghdl
 ghdl:i386
@@ -1343,7 +1334,6 @@ gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
-gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
 gir1.2-pango-1.0
@@ -3865,8 +3855,6 @@ libastyle0debian0
 libastylej-jni
 libasyncns0
 libasyncns0:i386
-libatasmart-bin
-libatasmart-dev
 libatasmart4
 libatasmart4:i386
 libatk-wrapper-java
@@ -3963,8 +3951,6 @@ libbcel-java
 libbcel-java-doc
 libbcel-java-doc:i386
 libbcel-java:i386
-libbibutils-dev
-libbibutils2
 libbind4
 libbind4-dev
 libbio-perl-perl
@@ -5345,14 +5331,6 @@ libhamlib2
 libhamlib2++c2
 libhamlib2-perl
 libhamlib2-tcl
-libharfbuzz-bin
-libharfbuzz-dev
-libharfbuzz-doc
-libharfbuzz-gobject0
-libharfbuzz-icu0
-libharfbuzz0-udeb
-libharfbuzz0b
-libharfbuzz0b-dbg
 libhashkit0
 libhashkit0:i386
 libhawtjni-runtime-java
@@ -5611,8 +5589,6 @@ libinotifytools0
 libinotifytools0-dev
 libinsighttoolkit3-dev
 libinsighttoolkit3.20
-libintl-perl
-libintl-xs-perl
 libio-pty-perl
 libio-socket-ssl-perl
 libio-string-perl
@@ -6315,8 +6291,6 @@ libmp3lame-dev
 libmp3lame-dev:i386
 libmp3lame0
 libmp3lame0:i386
-libmp4v2-2
-libmp4v2-dev
 libmpc-dev
 libmpc-dev:i386
 libmpc2
@@ -6607,9 +6581,6 @@ libogg0
 libogg0:i386
 libois-1.3.0
 libois-dev
-libompl-dev
-libompl10
-libompl10-dbg
 libonig-dev
 libonig2
 libonig2-dbg
@@ -6958,13 +6929,16 @@ libpostproc-dev:i386
 libpostproc-extra-52
 libpostproc52
 libpostproc52:i386
-libpotrace-dev
-libpotrace0
+<<<<<<< HEAD
 libppl-c4
 libppl-dev
 libppl-doc
 libppl-swi
 libppl13v5
+=======
+libpotrace-dev
+libpotrace0
+>>>>>>> travis-ci/test-apt-package-whitelist-2358
 libpq-dev
 libpq-dev:i386
 libpq5
@@ -7013,9 +6987,6 @@ libpthread-stubs0:i386
 libptscotch-5.1
 libptscotch-dbg
 libptscotch-dev
-libpugixml-dev
-libpugixml1v5
-libpugixml1v5-dbg
 libpulse-dev
 libpulse-dev:i386
 libpulse-mainloop-glib0
@@ -7671,9 +7642,6 @@ libsodium-dev
 libsodium13
 libsofthsm2
 libsofthsm2-dev
-libsoil-dev
-libsoil1
-libsoil1-dbg
 libsolr-java
 libsoqt-dev-common
 libsoqt4-20
@@ -8107,8 +8075,6 @@ libvarnishapi-dev
 libvarnishapi-dev:i386
 libvarnishapi1
 libvarnishapi1:i386
-libviennacl-dev
-libviennacl-doc
 libvips-dev
 libvips-doc
 libvips-tools
@@ -8135,8 +8101,6 @@ libvpx-dev
 libvpx-doc
 libvpx2
 libvpx2-dbg
-libvpx3
-libvpx3-dbg
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
@@ -8444,8 +8408,6 @@ libxmlsec1-gcrypt
 libxmlsec1-gnutls
 libxmlsec1-nss
 libxmlsec1-openssl
-libxmltok1
-libxmltok1-dev
 libxmu-dev
 libxmu-dev:i386
 libxmu-headers
@@ -8899,8 +8861,6 @@ mountall
 mountall:i386
 mp3gain
 mp3splt
-mp4v2-dbg
-mp4v2-utils
 mpich2python
 mplayer
 mplayer-dbg
@@ -9110,7 +9070,6 @@ odbcinst1debian2:i386
 odbcinst:i386
 omake
 omake-doc
-ompl-demos
 opam
 opam-docs
 opam-docs:i386
@@ -9187,7 +9146,6 @@ oracle-java9-installer:i386
 osmosis
 otf-freefont
 overlay-scrollbar
-p7zip
 p7zip-full
 p7zip-full:i386
 pandas
@@ -9455,9 +9413,7 @@ potrace
 powermgmt-base
 powermgmt-base:i386
 ppl-dev
-ppmd
 praat
-premake4
 probcons
 probcons-extra
 probcons-extra:i386
@@ -9484,7 +9440,6 @@ ptex-bin
 ptscotch
 ptscotch-dbg
 publican
-pugixml-doc
 pulseaudio
 pulseaudio-dbg
 pulseaudio-dbg:i386
@@ -9781,8 +9736,6 @@ python-pyassimp
 python-pycountry
 python-pycurl
 python-pycurl:i386
-python-pyexiv2
-python-pyexiv2-doc
 python-pyfann
 python-pyfann-dbg
 python-pyfits
@@ -9793,8 +9746,6 @@ python-pygresql
 python-pygresql-dbg
 python-pypdf
 python-pypy.translator.sandbox
-python-pytest
-python-pytest-doc
 python-pyudev
 python-pywbem
 python-qscintilla2
@@ -10068,7 +10019,6 @@ python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-pyqt5.qsci
 python3-pyqt5.qsci-dbg
-python3-pytest
 python3-pyudev
 python3-redis
 python3-renderpm
@@ -10400,7 +10350,6 @@ shiboken-dbg
 shiboken-doc
 shntool
 shunit2
-silversearcher-ag
 sip-dbg
 sip-dev
 slapd
@@ -10450,8 +10399,6 @@ ssh
 ssh-import-id
 ssh-import-id:i386
 ssh:i386
-sshfs
-sshfs-dbg
 sshpass
 ssl-cert
 ssl-cert:i386
