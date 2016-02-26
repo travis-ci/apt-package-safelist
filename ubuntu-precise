@@ -1786,6 +1786,11 @@ jsvc:i386
 jtreg
 junit4
 junit4:i386
+k3b
+k3b-data
+k3b-dbg
+k3b-extrathemes
+k3b-i18n
 kbd
 kbd:i386
 kcov
@@ -5737,6 +5742,9 @@ libjsr305-java
 libjsr305-java:i386
 libjudy-dev
 libjudydebian1
+libk3b-dev
+libk3b6
+libk3b6-extracodecs
 libk5crypto3
 libk5crypto3:i386
 libkadm5clnt-mit8
