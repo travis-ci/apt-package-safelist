@@ -8818,6 +8818,8 @@ mbr-udeb
 mcl
 md5deep
 md5deep:i386
+mdadm
+mdadm-udeb
 mecab
 mecab-utils
 mediainfo
