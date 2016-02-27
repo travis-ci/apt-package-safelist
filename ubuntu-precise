@@ -9556,6 +9556,7 @@ pvlib:i386
 pwgen
 pwgen-udeb
 pyfits-utils
+pyflakes
 pylint
 pylint:i386
 pypy
@@ -9805,6 +9806,7 @@ python-pyexiv2-doc
 python-pyfann
 python-pyfann-dbg
 python-pyfits
+python-pyflakes
 python-pygame
 python-pygments
 python-pygments-doc
@@ -10067,6 +10069,7 @@ python3-psycopg2
 python3-psycopg2-dbg
 python3-pycountry
 python3-pyfits
+python3-pyflakes
 python3-pygments
 python3-pyqt4
 python3-pyqt4-dbg
