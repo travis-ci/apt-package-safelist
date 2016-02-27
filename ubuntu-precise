@@ -8848,6 +8848,7 @@ mingw32-binutils:i386
 mingw32-runtime
 mingw32-runtime:i386
 mingw32:i386
+minicom
 minidjvu
 minisat
 minisat2
