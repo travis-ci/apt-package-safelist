@@ -8837,6 +8837,8 @@ mesa-utils
 mesa-utils:i386
 metacity
 metacity-common
+mii-diag
+mii-diag-udeb
 mime-support
 mime-support:i386
 mingw-w64
