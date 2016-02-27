@@ -777,6 +777,7 @@ espeak
 espeak-data
 espeak-data-udeb
 espeak-dbg
+execstack
 exif
 exiv2
 expat
@@ -9475,6 +9476,7 @@ powermgmt-base:i386
 ppl-dev
 ppmd
 praat
+prelink
 premake4
 probcons
 probcons-extra
