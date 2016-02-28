@@ -285,6 +285,7 @@ brltty-udeb
 brltty-x11
 bsdcpio
 bsdcpio:i386
+bsdgames
 bsdiff
 bsdmainutils
 bsdmainutils:i386
