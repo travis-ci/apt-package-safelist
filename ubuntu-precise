@@ -10320,6 +10320,7 @@ redis-server:i386
 redland-utils
 registry-tools
 reprepro
+reptyr
 resolvconf
 resolvconf:i386
 rhino
