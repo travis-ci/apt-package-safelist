@@ -9037,6 +9037,7 @@ nginx:i386
 ninja-build
 ninja-build-doc
 ninja-build:i386
+nis
 nkf
 node-underscore
 nodejs
