@@ -11045,6 +11045,7 @@ yubikey-personalization
 yubikey-personalization:i386
 yui-compressor
 yum
+yum-utils
 z3
 z80asm
 z80dasm
