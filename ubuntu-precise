@@ -9022,6 +9022,8 @@ netpbm:i386
 nettle-bin
 nettle-dbg
 nettle-dev
+nfs-common
+nfs-kernel-server
 nginx
 nginx-common
 nginx-common:i386
