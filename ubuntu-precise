@@ -10485,6 +10485,8 @@ subversion
 subversion:i386
 sudo
 sudo:i386
+supervisor
+supervisor-doc
 swftools
 swftools-dbg
 swig
