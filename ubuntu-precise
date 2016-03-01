@@ -563,6 +563,8 @@ cython-dbg
 cython-doc
 cython3
 cython3-dbg
+daemontools
+daemontools-run
 dash
 dash:i386
 db-util
