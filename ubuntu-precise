@@ -1113,6 +1113,7 @@ gccgo-powerpc-linux-gnu
 gccgo-powerpc64le-linux-gnu
 gccgo-s390x-linux-gnu
 gccgo:i386
+gccxml
 gcj-4.8
 gcj-4.8-jdk
 gcj-4.8-jre
@@ -4838,6 +4839,7 @@ libgccjit-5-doc
 libgccjit-5-doc:i386
 libgccjit0
 libgccjit0:i386
+libgccxml-dev
 libgcj-bc
 libgcj-bc:i386
 libgcj-common
