@@ -1482,7 +1482,11 @@ gobjc-powerpc64le-linux-gnu
 gobjc-s390x-linux-gnu
 gobjc:i386
 gobject-introspection
+golang
+golang-doc
+golang-go
 golang-redhat-audit-dev
+golang-src
 google-chrome-beta
 google-chrome-stable
 google-chrome-unstable
