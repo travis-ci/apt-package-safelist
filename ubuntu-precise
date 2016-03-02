@@ -7674,12 +7674,15 @@ libsndfile1-dbg
 libsndfile1-dev
 libsndfile1-dev:i386
 libsndfile1:i386
+libsnmp-base
 libsnmp-dev
 libsnmp-dev:i386
 libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsnmp30
+libsnmp30-dbg
 libsodium-dbg
 libsodium-dev
 libsodium13
@@ -9746,6 +9749,7 @@ python-mutagen-doc
 python-mysqldb
 python-mysqldb-dbg
 python-netcdf
+python-netsnmp
 python-networkx
 python-networkx-doc
 python-nlopt
@@ -10432,7 +10436,10 @@ smitools
 sndfile-programs
 sndfile-programs-dbg
 sndfile-programs:i386
+snmp
 snmp-mibs-downloader
+snmpd
+snmptrapd
 socat
 socklog
 socklog-run
@@ -10731,6 +10738,7 @@ tk8.5-dev:i386
 tk8.5:i386
 tk:i386
 tklib
+tkmib
 tmate
 tmate:i386
 tmux
