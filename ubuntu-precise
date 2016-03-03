@@ -1521,6 +1521,8 @@ gridengine-master
 groff
 groff-base
 groff-base:i386
+grok
+grok-dbg
 gromacs
 gromacs-data
 gromacs-dev
@@ -5263,6 +5265,8 @@ libgraphviz4
 libgrib-api-dev
 libgrib-api-tools
 libgrib-api0
+libgrok-dev
+libgrok1
 libgs9
 libgs9-common
 libgs9-common:i386
