@@ -6033,6 +6033,10 @@ libmodbus-dev
 libmodbus5
 libmodplug-dev
 libmodplug1
+libmongo-client-dev
+libmongo-client-doc
+libmongo-client0
+libmongo-client0-dbg
 libmono-2.0-1
 libmono-2.0-1-dbg
 libmono-2.0-1-dbg:i386
