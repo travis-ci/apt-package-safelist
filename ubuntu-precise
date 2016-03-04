@@ -637,6 +637,7 @@ dnsutils
 dnsutils:i386
 docbook
 docbook-dsssl
+docbook-mathml
 docbook-utils
 docbook-xml
 docbook-xsl
