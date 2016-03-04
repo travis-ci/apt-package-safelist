@@ -10983,6 +10983,9 @@ xfonts-encodings:i386
 xfonts-scalable
 xfonts-utils
 xfonts-utils:i386
+xfslibs-dev
+xfsprogs
+xfsprogs-udeb
 xhtml-relaxng
 xkb-data
 xkb-data:i386
