@@ -1358,6 +1358,7 @@ gir1.2-rsvg-2.0:i386
 gir1.2-secret-1
 gir1.2-soup-2.4
 gir1.2-udisks-2.0
+gir1.2-wnck-1.0
 gir1.2-wnck-3.0
 git
 git-man
@@ -8184,6 +8185,9 @@ libwmf0.2-7:i386
 libwnck-3-0
 libwnck-3-common
 libwnck-3-dev
+libwnck-common
+libwnck-dev
+libwnck22
 libwrap0
 libwrap0-dev
 libwrap0-dev:i386
