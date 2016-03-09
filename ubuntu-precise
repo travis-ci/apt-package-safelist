@@ -338,6 +338,8 @@ camlp5
 catch
 ccache
 ccache:i386
+cdbs
+cdbs-testsuite
 cdialog
 check
 checkstyle
