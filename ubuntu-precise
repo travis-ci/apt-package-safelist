@@ -305,6 +305,8 @@ bzip2:i386
 bzr
 bzr-fastimport
 bzr:i386
+c2hs
+c2hs-doc
 ca-certificates
 ca-certificates-java
 ca-certificates-java:i386
