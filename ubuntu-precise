@@ -9206,6 +9206,7 @@ overlay-scrollbar
 p7zip
 p7zip-full
 p7zip-full:i386
+pamtester
 pandas
 pandas:i386
 pandoc
