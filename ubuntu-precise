@@ -1751,6 +1751,10 @@ iproute:i386
 iptables
 iptables-dev
 iptables:i386
+iputils-arping
+iputils-clockdiff
+iputils-ping
+iputils-tracepath
 ir-keytable
 isc-dhcp-client
 isc-dhcp-client:i386
