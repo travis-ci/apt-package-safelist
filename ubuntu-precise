@@ -351,6 +351,7 @@ chef
 chef:i386
 chefdk
 chefdk:i386
+chkconfig
 chktex
 chromium-browser
 chromium-browser-l10n
