@@ -47,6 +47,7 @@ aosd-cat
 apache2
 apache2:i386
 apt
+apt-build
 apt-doc
 apt-transport-https
 apt-transport-https:i386
