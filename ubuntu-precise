@@ -9557,6 +9557,8 @@ pwgen
 pwgen-udeb
 pyfits-utils
 pylint
+pylint-doc
+pylint3
 pylint:i386
 pypy
 pypy-appdirs
