@@ -280,6 +280,7 @@ bjam
 boost-build
 bottleneck
 bottleneck:i386
+bridge-utils
 brltty
 brltty-dbg
 brltty-espeak
