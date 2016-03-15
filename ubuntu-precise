@@ -9044,6 +9044,8 @@ nginx-light:i386
 nginx-naxsi
 nginx-naxsi:i386
 nginx:i386
+nim
+nim-doc
 ninja-build
 ninja-build-doc
 ninja-build:i386
