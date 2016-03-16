@@ -1352,6 +1352,7 @@ gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
 gir1.2-gst-plugins-base-0.10
+gir1.2-gstreamer-0.10
 gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
@@ -1547,7 +1548,9 @@ gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
 gsl-bin:i386
+gstreamer-tools
 gstreamer0.10-alsa
+gstreamer0.10-doc
 gstreamer0.10-gconf
 gstreamer0.10-gnomevfs
 gstreamer0.10-nice
@@ -1559,6 +1562,7 @@ gstreamer0.10-plugins-good
 gstreamer0.10-plugins-good-dbg
 gstreamer0.10-plugins-good-doc
 gstreamer0.10-pulseaudio
+gstreamer0.10-tools
 gstreamer0.10-x
 gstreamer1.0-doc
 gstreamer1.0-nice
@@ -5296,7 +5300,9 @@ libgstreamer-plugins-base0.10-0
 libgstreamer-plugins-base0.10-0:i386
 libgstreamer-plugins-base0.10-dev
 libgstreamer0.10-0
+libgstreamer0.10-0-dbg
 libgstreamer0.10-0:i386
+libgstreamer0.10-dev
 libgstreamer1.0-0
 libgstreamer1.0-0-dbg
 libgstreamer1.0-dev
