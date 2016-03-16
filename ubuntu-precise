@@ -1372,6 +1372,7 @@ git
 git-man
 git-man:i386
 git-svn
+git2cl
 git:i386
 glade-gnome
 glade-gtk2
