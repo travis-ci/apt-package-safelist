@@ -7029,6 +7029,8 @@ libproxychains-dev
 libproxychains3
 libpspell-dev
 libpstreams-dev
+libpth-dev
+libpth20
 libpthread-stubs0
 libpthread-stubs0-dev
 libpthread-stubs0-dev:i386
@@ -9510,6 +9512,7 @@ psmisc:i386
 psutils
 ptex-bin
 ptex-jtex
+pth-dbg
 ptscotch
 ptscotch-dbg
 publican
