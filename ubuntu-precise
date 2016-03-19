@@ -8531,6 +8531,7 @@ libxxf86dga1:i386
 libxxf86vm-dev
 libxxf86vm-dev:i386
 libxxf86vm1
+libxxf86vm1-dbg
 libxxf86vm1:i386
 libyajl-dev
 libyajl-dev:i386
