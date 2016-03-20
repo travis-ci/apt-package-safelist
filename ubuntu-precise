@@ -8173,6 +8173,14 @@ libvtkgdcm2.0
 libvtkgdcm2.0:i386
 libwavpack-dev
 libwavpack1
+libwayland-client0
+libwayland-client0-dbg
+libwayland-cursor0
+libwayland-cursor0-dbg
+libwayland-dev
+libwayland-doc
+libwayland-server0
+libwayland-server0-dbg
 libwbclient-dev
 libwbclient-dev:i386
 libwbclient0
