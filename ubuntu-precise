@@ -811,6 +811,7 @@ fakechroot:i386
 fakeroot
 fakeroot:i386
 fbi
+feh
 ffmpeg
 ffmpeg-dbg
 ffmpeg-dbg:i386
