@@ -8159,6 +8159,7 @@ libvlccore-dev
 libvlccore-dev:i386
 libvlccore5
 libvlccore5:i386
+libvomsapi1v5
 libvorbis-dbg
 libvorbis-dev
 libvorbis0a
@@ -10910,6 +10911,11 @@ vlc-plugin-svg:i386
 vlc-plugin-zvbi
 vlc-plugin-zvbi:i386
 vlc:i386
+voms-clients
+voms-dbg
+voms-dev
+voms-doc
+voms-server
 vorbis-tools
 vpx-tools
 wamerican
