@@ -675,6 +675,8 @@ dsniff
 dtdinst
 dvb-tools
 dvbpsi-utils
+dvd+rw-tools
+dvd+rw-tools-dbg
 dvipng
 dvipng:i386
 dvipsk-ja
@@ -1560,6 +1562,7 @@ gromacs-mpich
 gromacs-openmpi
 groovy
 groovy:i386
+growisofs
 gs-cjk-resource
 gs-cjk-resource:i386
 gsasl
