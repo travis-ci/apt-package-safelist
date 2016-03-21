@@ -1560,6 +1560,10 @@ gromacs-mpich
 gromacs-openmpi
 groovy
 groovy:i386
+grub-disk
+grub-doc
+grub-legacy
+grub-legacy-doc
 gs-cjk-resource
 gs-cjk-resource:i386
 gsasl
@@ -8986,6 +8990,7 @@ mtools
 mtools:i386
 multiarch-support
 multiarch-support:i386
+multiboot-doc
 mumps-test
 munge
 mupdf
