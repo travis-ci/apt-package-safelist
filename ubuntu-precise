@@ -1513,6 +1513,7 @@ gpc:i386
 gperf
 gpgv
 gpgv:i386
+gpp
 gpsim
 gpsim-dev
 gputils
