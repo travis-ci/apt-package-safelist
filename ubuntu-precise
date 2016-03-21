@@ -8558,6 +8558,8 @@ libyaml-cpp-dev
 libyaml-cpp0.5v5
 libyaml-dev
 libyaml-dev:i386
+libyara-dev
+libyara3
 libykclient-dev
 libykclient-dev:i386
 libykclient3
@@ -9958,6 +9960,7 @@ python-xy-meta-devel
 python-xy-meta-devel:i386
 python-yaml
 python-yaml-dbg
+python-yara
 python-z3
 python-zbar
 python-zbarpygtk
@@ -10144,6 +10147,7 @@ python3-xdg
 python3-xlib
 python3-yaml
 python3-yaml-dbg
+python3-yara
 python3-zmq
 python3-zmq-dbg
 python3.2
@@ -11061,6 +11065,9 @@ xz-utils
 xz-utils:i386
 yajl-tools
 yajl-tools:i386
+yara
+yara-dbg
+yara-doc
 yasm
 yodl
 yodl-doc
