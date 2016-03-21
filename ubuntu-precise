@@ -1414,6 +1414,8 @@ gnat-5-sjlj
 gnat-5:i386
 gnome-common
 gnome-doc-utils
+gnome-mplayer
+gnome-mplayer-dbg
 gnome-session-canberra
 gnupg
 gnupg:i386
