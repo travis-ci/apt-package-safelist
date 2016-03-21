@@ -1626,6 +1626,7 @@ haskell-platform-prof
 haveged
 haxe
 haxe:i386
+hddtemp
 hdf4-tools
 hdf5-tools
 hdfview
