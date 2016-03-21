@@ -724,6 +724,9 @@ emboss:i386
 enchant
 enchant:i386
 enscript
+eog
+eog-dbg
+eog-dev
 epydoc-doc
 equivs
 erlang-asn1
