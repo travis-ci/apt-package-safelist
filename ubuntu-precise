@@ -10502,6 +10502,7 @@ rabbitmq-server:i386
 ragel
 ragel:i386
 raptor2-utils
+rdesktop
 rdmacm-utils
 re2c
 readline-common
