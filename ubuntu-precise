@@ -10690,6 +10690,7 @@ swftools
 swftools-dbg
 swig
 swig:i386
+sysbench
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
