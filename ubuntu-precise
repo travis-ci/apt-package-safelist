@@ -9000,6 +9000,7 @@ mecab
 mecab-utils
 mediainfo
 mediainfo-gui
+medusa
 memcached
 memcached:i386
 mencoder
