@@ -10036,6 +10036,7 @@ python-qt4:i386
 python-redis
 python-renderpm
 python-renderpm-dbg
+python-reportbug
 python-reportlab
 python-reportlab-accel
 python-reportlab-accel-dbg
@@ -10515,6 +10516,7 @@ redis-server
 redis-server:i386
 redland-utils
 registry-tools
+reportbug
 reprepro
 reptyr
 resolvconf
