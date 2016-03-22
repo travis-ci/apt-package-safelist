@@ -510,6 +510,8 @@ cpp-4.6-arm-linux-gnueabi:i386
 cpp-4.6-arm-linux-gnueabihf
 cpp-4.6-arm-linux-gnueabihf:i386
 cpp-4.6:i386
+cpp-4.7
+cpp-4.7-doc
 cpp-4.8
 cpp-4.8:i386
 cpp-4.9
@@ -952,10 +954,12 @@ g++-4.7-arm-linux-gnueabi
 g++-4.7-arm-linux-gnueabi:i386
 g++-4.7-arm-linux-gnueabihf
 g++-4.7-arm-linux-gnueabihf:i386
+g++-4.7-multilib
 g++-4.7-multilib-arm-linux-gnueabi
 g++-4.7-multilib-arm-linux-gnueabi:i386
 g++-4.7-multilib-arm-linux-gnueabihf
 g++-4.7-multilib-arm-linux-gnueabihf:i386
+g++-4.7-spu
 g++-4.7:i386
 g++-4.8
 g++-4.8-multilib
@@ -1040,8 +1044,16 @@ gcc-4.6-multilib-arm-linux-gnueabihf:i386
 gcc-4.6-multilib:i386
 gcc-4.6:i386
 gcc-4.7
+gcc-4.7-base
+gcc-4.7-doc
+gcc-4.7-hppa64
+gcc-4.7-locales
 gcc-4.7-multilib
 gcc-4.7-multilib:i386
+gcc-4.7-plugin-dev
+gcc-4.7-soft-float
+gcc-4.7-source
+gcc-4.7-spu
 gcc-4.7:i386
 gcc-4.8
 gcc-4.8-base
@@ -1109,6 +1121,9 @@ gcc-spu
 gcc-spu:i386
 gcc:i386
 gccgo
+gccgo-4.7
+gccgo-4.7-doc
+gccgo-4.7-multilib
 gccgo-4.8
 gccgo-4.8-multilib
 gccgo-4.9
@@ -1254,6 +1269,9 @@ gfortran-4.6-multilib-arm-linux-gnueabi:i386
 gfortran-4.6-multilib-arm-linux-gnueabihf
 gfortran-4.6-multilib-arm-linux-gnueabihf:i386
 gfortran-4.7
+gfortran-4.7-doc
+gfortran-4.7-multilib
+gfortran-4.7-spu
 gfortran-4.8
 gfortran-4.8-multilib
 gfortran-4.8:i386
@@ -1447,6 +1465,8 @@ gobjc++-4.6-multilib-arm-linux-gnueabi
 gobjc++-4.6-multilib-arm-linux-gnueabi:i386
 gobjc++-4.6-multilib-arm-linux-gnueabihf
 gobjc++-4.6-multilib-arm-linux-gnueabihf:i386
+gobjc++-4.7
+gobjc++-4.7-multilib
 gobjc++-4.8
 gobjc++-4.8-multilib
 gobjc++-4.9
@@ -1485,6 +1505,8 @@ gobjc-4.6-multilib-arm-linux-gnueabi
 gobjc-4.6-multilib-arm-linux-gnueabi:i386
 gobjc-4.6-multilib-arm-linux-gnueabihf
 gobjc-4.6-multilib-arm-linux-gnueabihf:i386
+gobjc-4.7
+gobjc-4.7-multilib
 gobjc-4.8
 gobjc-4.8-multilib
 gobjc-4.9
@@ -3601,6 +3623,7 @@ lib32cilkrts5
 lib32cilkrts5-dbg
 lib32cilkrts5-dbg:i386
 lib32cilkrts5:i386
+lib32gcc-4.7-dev
 lib32gcc-4.8-dev
 lib32gcc-4.9-dev
 lib32gcc-5-dev
@@ -3609,6 +3632,7 @@ lib32gcc1
 lib32gcc1-dbg
 lib32gcc1-dbg:i386
 lib32gcc1:i386
+lib32gfortran-4.7-dev
 lib32gfortran-4.8-dev
 lib32gfortran-4.9-dev
 lib32gfortran-5-dev
@@ -3617,6 +3641,8 @@ lib32gfortran3
 lib32gfortran3-dbg
 lib32gfortran3-dbg:i386
 lib32gfortran3:i386
+lib32go0
+lib32go0-dbg
 lib32go4
 lib32go4-dbg
 lib32go5
@@ -3641,6 +3667,7 @@ lib32mpx0
 lib32mpx0-dbg
 lib32ncurses5
 lib32ncurses5:i386
+lib32objc-4.7-dev
 lib32objc-4.8-dev
 lib32objc-4.9-dev
 lib32objc-5-dev
@@ -3666,6 +3693,8 @@ lib32stdc++-5-dev:i386
 lib32stdc++6
 lib32stdc++6-4.4-dbg
 lib32stdc++6-4.5-dbg
+lib32stdc++6-4.7-dbg
+lib32stdc++6-4.7-dev
 lib32stdc++6-4.8-dbg
 lib32stdc++6-4.9-dbg
 lib32stdc++6-5-dbg
@@ -3701,6 +3730,7 @@ lib64cilkrts5-dbg:i386
 lib64cilkrts5:i386
 lib64expat1
 lib64expat1-dev
+lib64gcc-4.7-dev
 lib64gcc-4.8-dev
 lib64gcc-4.9-dev
 lib64gcc-5-dev
@@ -3709,6 +3739,7 @@ lib64gcc1
 lib64gcc1-dbg
 lib64gcc1-dbg:i386
 lib64gcc1:i386
+lib64gfortran-4.7-dev
 lib64gfortran-4.8-dev
 lib64gfortran-4.9-dev
 lib64gfortran-5-dev
@@ -3717,6 +3748,8 @@ lib64gfortran3
 lib64gfortran3-dbg
 lib64gfortran3-dbg:i386
 lib64gfortran3:i386
+lib64go0
+lib64go0-dbg
 lib64go4
 lib64go4-dbg
 lib64go5
@@ -3735,6 +3768,7 @@ lib64itm1-dbg:i386
 lib64itm1:i386
 lib64mpx0
 lib64mpx0-dbg
+lib64objc-4.7-dev
 lib64objc-4.8-dev
 lib64objc-4.9-dev
 lib64objc-5-dev
@@ -3760,6 +3794,8 @@ lib64stdc++-5-dev:i386
 lib64stdc++6
 lib64stdc++6-4.4-dbg
 lib64stdc++6-4.5-dbg
+lib64stdc++6-4.7-dbg
+lib64stdc++6-4.7-dev
 lib64stdc++6-4.8-dbg
 lib64stdc++6-4.9-dbg
 lib64stdc++6-5-dbg
@@ -4860,6 +4896,7 @@ libgc-dev
 libgc-dev:i386
 libgc1c2
 libgc1c2:i386
+libgcc-4.7-dev
 libgcc-4.8-dev
 libgcc-4.9-dev
 libgcc-5-dev
@@ -5010,6 +5047,7 @@ libgexiv2-dev
 libgflags-dev
 libgflags-doc
 libgflags2v5
+libgfortran-4.7-dev
 libgfortran-4.8-dev
 libgfortran-4.9-dev
 libgfortran-5-dev
@@ -5245,6 +5283,8 @@ libgnutls26-dbg
 libgnutls26:i386
 libgnutlsxx27
 libgnutlsxx27:i386
+libgo0
+libgo0-dbg
 libgo4
 libgo4-dbg
 libgo5
@@ -5459,6 +5499,7 @@ libhfatomic1
 libhfatomic1-dbg
 libhfatomic1-dbg:i386
 libhfatomic1:i386
+libhfgcc-4.7-dev
 libhfgcc-5-dev
 libhfgcc-5-dev:i386
 libhfgcc1
@@ -5473,6 +5514,7 @@ libhfgcc1-dbg-armhf-cross
 libhfgcc1-dbg-armhf-cross:i386
 libhfgcc1-dbg:i386
 libhfgcc1:i386
+libhfgfortran-4.7-dev
 libhfgfortran-5-dev
 libhfgfortran-5-dev:i386
 libhfgfortran3
@@ -5511,6 +5553,7 @@ libhfmudflap0-dbg-armel-cross
 libhfmudflap0-dbg-armel-cross:i386
 libhfmudflap0-dbg-armhf-cross
 libhfmudflap0-dbg-armhf-cross:i386
+libhfobjc-4.7-dev
 libhfobjc-5-dev
 libhfobjc-5-dev:i386
 libhfobjc3-armel-cross
@@ -5538,6 +5581,8 @@ libhfstdc++6-4.6-dbg-armel-cross
 libhfstdc++6-4.6-dbg-armel-cross:i386
 libhfstdc++6-4.6-dbg-armhf-cross
 libhfstdc++6-4.6-dbg-armhf-cross:i386
+libhfstdc++6-4.7-dbg
+libhfstdc++6-4.7-dev
 libhfstdc++6-5-dbg
 libhfstdc++6-5-dbg:i386
 libhfstdc++6-armel-cross
@@ -6408,6 +6453,7 @@ libmudflap0-4.6-dev-armel-cross
 libmudflap0-4.6-dev-armel-cross:i386
 libmudflap0-4.6-dev-armhf-cross
 libmudflap0-4.6-dev-armhf-cross:i386
+libmudflap0-4.7-dev
 libmudflap0-armel-cross
 libmudflap0-armel-cross:i386
 libmudflap0-armhf-cross
@@ -6459,6 +6505,7 @@ libn32atomic1
 libn32atomic1-dbg
 libn32atomic1-dbg:i386
 libn32atomic1:i386
+libn32gcc-4.7-dev
 libn32gcc-4.8-dev
 libn32gcc-4.9-dev
 libn32gcc-5-dev
@@ -6467,6 +6514,7 @@ libn32gcc1
 libn32gcc1-dbg
 libn32gcc1-dbg:i386
 libn32gcc1:i386
+libn32gfortran-4.7-dev
 libn32gfortran-4.8-dev
 libn32gfortran-4.9-dev
 libn32gfortran-5-dev
@@ -6475,6 +6523,8 @@ libn32gfortran3
 libn32gfortran3-dbg
 libn32gfortran3-dbg:i386
 libn32gfortran3:i386
+libn32go0
+libn32go0-dbg
 libn32go4
 libn32go4-dbg
 libn32go5
@@ -6487,6 +6537,7 @@ libn32gomp1
 libn32gomp1-dbg
 libn32gomp1-dbg:i386
 libn32gomp1:i386
+libn32objc-4.7-dev
 libn32objc-4.8-dev
 libn32objc-4.9-dev
 libn32objc-5-dev
@@ -6506,6 +6557,8 @@ libn32stdc++-5-dev:i386
 libn32stdc++6
 libn32stdc++6-4.4-dbg
 libn32stdc++6-4.5-dbg
+libn32stdc++6-4.7-dbg
+libn32stdc++6-4.7-dev
 libn32stdc++6-4.8-dbg
 libn32stdc++6-4.9-dbg
 libn32stdc++6-5-dbg
@@ -6618,6 +6671,7 @@ libnvtoolsext1
 libnvvm2
 liboath-dev
 liboath0
+libobjc-4.7-dev
 libobjc-4.8-dev
 libobjc-4.9-dev
 libobjc-5-dev
@@ -7592,6 +7646,7 @@ libsfatomic1
 libsfatomic1-dbg
 libsfatomic1-dbg:i386
 libsfatomic1:i386
+libsfgcc-4.7-dev
 libsfgcc-5-dev
 libsfgcc-5-dev:i386
 libsfgcc1
@@ -7606,6 +7661,7 @@ libsfgcc1-dbg-armhf-cross
 libsfgcc1-dbg-armhf-cross:i386
 libsfgcc1-dbg:i386
 libsfgcc1:i386
+libsfgfortran-4.7-dev
 libsfgfortran-5-dev
 libsfgfortran-5-dev:i386
 libsfgfortran3
@@ -7645,6 +7701,7 @@ libsfmudflap0-dbg-armel-cross
 libsfmudflap0-dbg-armel-cross:i386
 libsfmudflap0-dbg-armhf-cross
 libsfmudflap0-dbg-armhf-cross:i386
+libsfobjc-4.7-dev
 libsfobjc-5-dev
 libsfobjc-5-dev:i386
 libsfobjc3-armel-cross
@@ -7672,6 +7729,8 @@ libsfstdc++6-4.6-dbg-armel-cross
 libsfstdc++6-4.6-dbg-armel-cross:i386
 libsfstdc++6-4.6-dbg-armhf-cross
 libsfstdc++6-4.6-dbg-armhf-cross:i386
+libsfstdc++6-4.7-dbg
+libsfstdc++6-4.7-dev
 libsfstdc++6-5-dbg
 libsfstdc++6-5-dbg:i386
 libsfstdc++6-armel-cross
