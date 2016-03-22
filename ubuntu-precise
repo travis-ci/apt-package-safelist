@@ -11225,6 +11225,9 @@ xserver-xorg-core
 xserver-xorg-core:i386
 xserver-xorg-dev
 xserver-xorg-input-all
+xserver-xorg-input-synaptics
+xserver-xorg-input-synaptics-dbg
+xserver-xorg-input-synaptics-dev
 xserver-xorg-lts-precise
 xserver-xorg-video-all
 xserver-xorg-video-dummy
