@@ -1884,6 +1884,8 @@ keyutils-dbg
 killerapp
 klibc-utils
 klibc-utils:i386
+kplayer
+kplayer-dbg
 krb5-locales
 krb5-locales:i386
 krb5-multidev
