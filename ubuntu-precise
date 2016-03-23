@@ -1404,6 +1404,7 @@ gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
 gir1.2-gst-plugins-base-0.10
+gir1.2-gst-plugins-base-1.0
 gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
@@ -1632,9 +1633,15 @@ gstreamer0.10-plugins-good-dbg
 gstreamer0.10-plugins-good-doc
 gstreamer0.10-pulseaudio
 gstreamer0.10-x
+gstreamer1.0-alsa
 gstreamer1.0-doc
 gstreamer1.0-nice
+gstreamer1.0-plugins-base
+gstreamer1.0-plugins-base-apps
+gstreamer1.0-plugins-base-dbg
+gstreamer1.0-plugins-base-doc
 gstreamer1.0-tools
+gstreamer1.0-x
 gtk-3-examples
 gtk-doc-tools
 gtk-sharp3
@@ -5433,6 +5440,8 @@ libgssrpc4:i386
 libgstreamer-plugins-base0.10-0
 libgstreamer-plugins-base0.10-0:i386
 libgstreamer-plugins-base0.10-dev
+libgstreamer-plugins-base1.0-0
+libgstreamer-plugins-base1.0-dev
 libgstreamer0.10-0
 libgstreamer0.10-0:i386
 libgstreamer1.0-0
