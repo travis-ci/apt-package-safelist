@@ -4342,6 +4342,13 @@ libcap2:i386
 libcc1-0
 libcc1-0:i386
 libccolamd2.8.0
+libcdio-cdda-dev
+libcdio-cdda1
+libcdio-dev
+libcdio-paranoia-dev
+libcdio-paranoia1
+libcdio-utils
+libcdio13
 libcdt4
 libcdt4:i386
 libcdt5
@@ -5803,6 +5810,8 @@ libiscsi-dev
 libiscsi2
 libisl10
 libisl10:i386
+libiso9660-8
+libiso9660-dev
 libisoburn-dbg
 libisoburn-dev
 libisoburn-doc
@@ -8232,6 +8241,8 @@ libubsan0:i386
 libudev-dev
 libudev0
 libudev0:i386
+libudf-dev
+libudf0
 libudisks2-0
 libudisks2-dev
 libudunits2-0
