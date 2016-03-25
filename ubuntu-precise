@@ -8835,6 +8835,7 @@ linux-libc-dev
 linux-libc-dev:i386
 littler
 littler:i386
+live-build
 lksctp-tools
 lksctp-tools:i386
 lldb-3.6
