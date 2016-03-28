@@ -6075,6 +6075,8 @@ liblua5.1-0-dbg:i386
 liblua5.1-0-dev
 liblua5.1-0-dev:i386
 liblua5.1-0:i386
+liblua5.1-bitop-dev
+liblua5.1-bitop0
 liblua5.1-rrd-dev
 liblua5.1-rrd0
 liblua5.2-0
@@ -8996,6 +8998,8 @@ lsb-release:i386
 lsof
 lsof:i386
 ltrace
+lua-bitop
+lua-bitop-dev
 lua-cjson
 lua-cjson-dev
 lua-filesystem
