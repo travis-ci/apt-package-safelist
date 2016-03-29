@@ -10006,6 +10006,7 @@ python-oauth:i386
 python-openbabel
 python-opencv
 python-opencv:i386
+python-openpyxl
 python-openssl
 python-openssl-doc
 python-pandas
@@ -10294,6 +10295,7 @@ python3-numexpr
 python3-numexpr-dbg
 python3-numpy
 python3-numpy-dbg
+python3-openpyxl
 python3-openssl
 python3-pandas
 python3-pandas-lib
