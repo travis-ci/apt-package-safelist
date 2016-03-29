@@ -10148,6 +10148,7 @@ python-tables:i386
 python-talloc
 python-talloc-dbg
 python-talloc-dev
+python-texttable
 python-tk
 python-tk-dbg
 python-tz
