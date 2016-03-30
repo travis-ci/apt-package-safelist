@@ -818,6 +818,7 @@ fakechroot:i386
 fakeroot
 fakeroot:i386
 fbi
+fdisk-udeb
 feh
 ffmpeg
 ffmpeg-dbg
@@ -4098,7 +4099,9 @@ libblas-dev
 libblas-dev:i386
 libblas3gf
 libblas3gf:i386
+libblkid-dev
 libblkid1
+libblkid1-udeb
 libblkid1:i386
 libbluetooth-dev
 libbluetooth-dev:i386
@@ -4826,6 +4829,9 @@ libfbembed2.5
 libfbembed2.5:i386
 libfcgi-dev
 libfcgi-dev:i386
+libfdisk-dev
+libfdisk1
+libfdisk1-udeb
 libffi-dev
 libffi-dev:i386
 libffi6
@@ -6478,6 +6484,7 @@ libmono2.0-cil
 libmono2.0-cil:i386
 libmonogame-cil
 libmonogame-cil-dev
+libmount-dev
 libmount1
 libmount1:i386
 libmozjs185-1.0
@@ -7842,6 +7849,9 @@ libsm-dev
 libsm-dev:i386
 libsm6
 libsm6:i386
+libsmartcols-dev
+libsmartcols1
+libsmartcols1-udeb
 libsmbclient
 libsmbclient-dev
 libsmbsharemodes-dev
@@ -8287,6 +8297,7 @@ libustr-doc
 libutempter0
 libutempter0:i386
 libuuid1
+libuuid1-udeb
 libuuid1:i386
 libv4l-0
 libv4l-dev
@@ -11072,10 +11083,13 @@ urweb
 urweb-doc
 urweb-mode
 util-linux
+util-linux-locales
+util-linux-udeb
 util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+uuid-runtime
 v4l-utils
 vala-0.28-doc
 valac
