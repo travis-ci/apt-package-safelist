@@ -9788,6 +9788,13 @@ puppet-testsuite
 puppetmaster
 puppetmaster-common
 puppetmaster-passenger
+puredata
+puredata-core
+puredata-dev
+puredata-doc
+puredata-extra
+puredata-gui
+puredata-utils
 pvlib
 pvlib:i386
 pwgen
