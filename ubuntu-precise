@@ -6672,6 +6672,8 @@ libnfnetlink-dev
 libnfnetlink0
 libnfnetlink0-dbg
 libnfnetlink0:i386
+libnfs-dev
+libnfs8
 libnice-dbg
 libnice-dev
 libnice-doc
