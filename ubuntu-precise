@@ -1449,6 +1449,12 @@ gnat-5-doc
 gnat-5-doc:i386
 gnat-5-sjlj
 gnat-5:i386
+gnokii
+gnokii-cli
+gnokii-common
+gnokii-smsd
+gnokii-smsd-mysql
+gnokii-smsd-pgsql
 gnome-common
 gnome-doc-utils
 gnome-mplayer
@@ -5307,6 +5313,8 @@ libgnatvsn5-dbg:i386
 libgnatvsn5-dev
 libgnatvsn5-dev:i386
 libgnatvsn5:i386
+libgnokii-dev
+libgnokii6
 libgnome-keyring-common
 libgnome-keyring-common:i386
 libgnome-keyring-dev
@@ -11245,6 +11253,7 @@ xfonts-encodings:i386
 xfonts-scalable
 xfonts-utils
 xfonts-utils:i386
+xgnokii
 xhtml-relaxng
 xkb-data
 xkb-data:i386
