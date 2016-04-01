@@ -8650,6 +8650,10 @@ libxinerama-dev
 libxinerama-dev:i386
 libxinerama1
 libxinerama1:i386
+libxkbcommon-dev
+libxkbcommon-x11-0
+libxkbcommon-x11-dev
+libxkbcommon0
 libxkbfile1
 libxkbfile1:i386
 libxml++2.6-2v5
