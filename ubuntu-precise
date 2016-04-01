@@ -10542,6 +10542,7 @@ qttools5-doc-html
 qttools5-examples
 qttools5-examples-dbg
 qttools5-private-dev
+qttranslations5-l10n
 qtwebkit5-doc
 qtwebsockets5-dbg
 qtwebsockets5-doc
