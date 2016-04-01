@@ -8549,6 +8549,8 @@ libxcb-randr0-dev
 libxcb-record0
 libxcb-record0-dbg
 libxcb-record0-dev
+libxcb-render-util0
+libxcb-render-util0-dev
 libxcb-render0
 libxcb-render0-dbg
 libxcb-render0-dev
