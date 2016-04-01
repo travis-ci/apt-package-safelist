@@ -46,6 +46,10 @@ antlr:i386
 aosd-cat
 apache2
 apache2:i386
+apport
+apport-gtk
+apport-kde
+apport-retrace
 apt
 apt-build
 apt-doc
@@ -623,6 +627,7 @@ devscripts
 devscripts:i386
 dh-apparmor
 dh-apparmor:i386
+dh-apport
 dh-autoreconf
 dh-exec
 dh-make
@@ -9855,6 +9860,7 @@ python-alsaaudio:i386
 python-antlr
 python-appdirs
 python-appindicator
+python-apport
 python-apt
 python-apt-common
 python-apt-common:i386
@@ -10061,6 +10067,7 @@ python-plplot
 python-plplot-qt
 python-ply
 python-ply-doc
+python-problem-report
 python-protobuf
 python-psutil
 python-psutil-dbg
