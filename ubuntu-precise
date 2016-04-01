@@ -829,6 +829,7 @@ fakechroot
 fakechroot:i386
 fakeroot
 fakeroot:i386
+faketime
 fbi
 feh
 ffmpeg
@@ -4833,6 +4834,7 @@ libexpat1:i386
 libexpect-perl
 libfaad-dev
 libfaad2
+libfaketime
 libfann-dbg
 libfann-dev
 libfann-doc
