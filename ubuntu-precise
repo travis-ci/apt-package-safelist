@@ -647,6 +647,9 @@ dmeventd
 dmsetup
 dmsetup-udeb
 dmsetup:i386
+dnsmasq
+dnsmasq-base
+dnsmasq-utils
 dnsutils
 dnsutils:i386
 docbook
