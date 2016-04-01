@@ -4388,6 +4388,8 @@ libcilkrts5
 libcilkrts5-dbg
 libcilkrts5-dbg:i386
 libcilkrts5:i386
+libcimcclient0
+libcimcclient0-dev
 libck-connector0
 libck-connector0:i386
 libclamav-dev
