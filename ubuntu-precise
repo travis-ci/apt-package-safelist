@@ -4610,10 +4610,14 @@ libdb4.8
 libdb4.8:i386
 libdb5.1
 libdb5.1:i386
+libdbd-freetds
+libdbd-mysql
 libdbd-mysql-perl
 libdbd-mysql-perl:i386
 libdbd-pg-perl
 libdbd-pg-perl:i386
+libdbd-pgsql
+libdbd-sqlite
 libdbd-sqlite3
 libdbd-sqlite3:i386
 libdbi-dev
