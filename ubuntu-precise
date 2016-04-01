@@ -9543,6 +9543,7 @@ phonon-dbg
 phonon-dbg:i386
 phonon:i386
 php-codesniffer
+php-geoip
 php-pear
 php-pear:i386
 php-zeroc-ice
