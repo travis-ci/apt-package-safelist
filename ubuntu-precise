@@ -6112,6 +6112,7 @@ liblz4-dev
 liblz4-tool
 liblzma-dev
 liblzma-dev:i386
+liblzma-doc
 liblzma5
 liblzma5:i386
 liblzo2-dev
@@ -11308,6 +11309,7 @@ xz-lzma
 xz-lzma:i386
 xz-utils
 xz-utils:i386
+xzdec
 yajl-tools
 yajl-tools:i386
 yara
