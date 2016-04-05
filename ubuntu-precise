@@ -3876,6 +3876,9 @@ libadios-bin
 libadios-dev
 libaio-dev
 libaio-dev:i386
+libaio1
+libaio1-dbg
+libaio1-udeb
 libalgorithm-diff-perl
 libalgorithm-diff-perl:i386
 libalgorithm-diff-xs-perl
