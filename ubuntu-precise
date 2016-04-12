@@ -10717,6 +10717,7 @@ sed
 sed:i386
 sensible-utils
 sensible-utils:i386
+seqtk
 sfftw-dev
 sfftw2
 sg3-utils
