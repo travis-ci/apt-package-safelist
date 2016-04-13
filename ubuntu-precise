@@ -400,6 +400,7 @@ clang-3.7:i386
 clang-3.8
 clang-3.8-doc
 clang-3.8-examples
+clang-format-3.3
 clang-format-3.4
 clang-format-3.5
 clang-format-3.5:i386
@@ -538,6 +539,7 @@ cpp-mipsel-linux-gnu
 cpp-powerpc-linux-gnu
 cpp-powerpc64le-linux-gnu
 cpp-s390x-linux-gnu
+cpp11-migrate-3.3
 cpp11-migrate-3.4
 cpp11-migrate-3.5
 cpp11-migrate-3.6
@@ -4403,16 +4405,20 @@ libck-connector0
 libck-connector0:i386
 libclamav-dev
 libclamav-dev:i386
+libclang-3.3-dev
 libclang-3.4-dev
 libclang-3.5-dev
 libclang-3.6-dev
 libclang-3.7-dev
 libclang-3.8-dev
+libclang-common-3.3-dev
 libclang-common-3.4-dev
 libclang-common-3.5-dev
 libclang-common-3.6-dev
 libclang-common-3.7-dev
 libclang-common-3.8-dev
+libclang1-3.3
+libclang1-3.3-dbg
 libclang1-3.4
 libclang1-3.4-dbg
 libclang1-3.5
@@ -6020,6 +6026,7 @@ liblldb-3.7-dev
 liblldb-3.8
 liblldb-3.8-dbg
 liblldb-3.8-dev
+libllvm-3.3-ocaml-dev
 libllvm-3.4-ocaml-dev
 libllvm-3.5-ocaml-dev
 libllvm-3.6-ocaml-dev
@@ -8889,6 +8896,7 @@ littler
 littler:i386
 lksctp-tools
 lksctp-tools:i386
+lldb-3.3
 lldb-3.5
 lldb-3.5-dev
 lldb-3.6
