@@ -4087,6 +4087,8 @@ libavformat-extra-53
 libavformat53
 libavformat53:i386
 libavformat56
+libavl-dev
+libavl1
 libavresample-dev
 libavresample2
 libavutil-dev
