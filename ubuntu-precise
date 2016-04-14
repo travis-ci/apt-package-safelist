@@ -5504,6 +5504,8 @@ libgtkmm-3.0-1v5
 libgtkmm-3.0-dbg
 libgtkmm-3.0-dev
 libgtkmm-3.0-doc
+libgtkspell-dev
+libgtkspell0
 libgts-0.7-5
 libgts-bin
 libgts-dbg
