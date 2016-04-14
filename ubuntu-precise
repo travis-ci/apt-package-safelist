@@ -1423,6 +1423,7 @@ gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
+gir1.2-gtkspell3-3.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
@@ -5506,6 +5507,8 @@ libgtkmm-3.0-dev
 libgtkmm-3.0-doc
 libgtkspell-dev
 libgtkspell0
+libgtkspell3-3-0
+libgtkspell3-3-dev
 libgts-0.7-5
 libgts-bin
 libgts-dbg
