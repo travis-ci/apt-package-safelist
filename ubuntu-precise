@@ -4833,6 +4833,8 @@ libexiv2-11
 libexiv2-dbg
 libexiv2-dev
 libexiv2-doc
+libexodusii-dev
+libexodusii5
 libexpat1
 libexpat1-dev
 libexpat1-dev:i386
@@ -6682,6 +6684,7 @@ libncursesw5
 libncursesw5-dev
 libncursesw5-dev:i386
 libncursesw5:i386
+libnemesis3
 libneon27-gnutls
 libneon27-gnutls:i386
 libnet-daemon-perl
