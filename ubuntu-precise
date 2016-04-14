@@ -7024,6 +7024,9 @@ libossp-uuid16
 libossp-uuid16:i386
 libostyle-dev
 libostyle1c2
+libotr5
+libotr5-bin
+libotr5-dev
 liboverlay-scrollbar-0.2-0
 liboverlay-scrollbar-0.2-dev
 liboverlay-scrollbar3-0.2-0
