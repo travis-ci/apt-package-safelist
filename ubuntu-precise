@@ -9969,6 +9969,7 @@ python-gi-cairo
 python-gi-dbg
 python-gi-dev
 python-gi:i386
+python-glade2
 python-gmsh
 python-gnome2-desktop-dev
 python-gnomekeyring
@@ -9977,6 +9978,10 @@ python-gnupginterface:i386
 python-gobject
 python-gobject-dbg
 python-gobject-dev
+python-gtk2
+python-gtk2-dbg
+python-gtk2-dev
+python-gtk2-doc
 python-h5py
 python-h5py-doc
 python-httplib2
