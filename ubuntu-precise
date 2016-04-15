@@ -552,6 +552,12 @@ cppcheck
 cpputest
 cron
 cron:i386
+crossbuild-essential-arm64
+crossbuild-essential-armel
+crossbuild-essential-armhf
+crossbuild-essential-mipsel
+crossbuild-essential-powerpc
+crossbuild-essential-ppc64el
 cryptsetup
 cryptsetup-bin
 cryptsetup-bin:i386
