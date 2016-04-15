@@ -4564,6 +4564,9 @@ libconfuse0
 libconfuse0:i386
 libcoq-ocaml
 libcoq-ocaml-dev
+libcos4-1
+libcos4-1-dbg
+libcos4-dev
 libcouchbase-dev
 libcouchbase-dev:i386
 libcouchbase2-libevent
@@ -6923,6 +6926,12 @@ libogg0
 libogg0:i386
 libois-1.3.0
 libois-dev
+libomniorb4-1
+libomniorb4-1-dbg
+libomniorb4-dev
+libomnithread3-dev
+libomnithread3c2
+libomnithread3c2-dbg
 libompl-dev
 libompl10
 libompl10-dbg
@@ -9506,6 +9515,11 @@ odbcinst1debian2:i386
 odbcinst:i386
 omake
 omake-doc
+omniidl
+omniorb
+omniorb-doc
+omniorb-idl
+omniorb-nameserver
 ompl-demos
 opam
 opam-docs
