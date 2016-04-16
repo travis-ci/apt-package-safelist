@@ -9595,6 +9595,10 @@ pandoc-data
 pandoc:i386
 parallel
 parallel:i386
+paraview
+paraview-dev
+paraview-doc
+paraview-python
 passwd
 passwd:i386
 patch
