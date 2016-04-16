@@ -954,6 +954,7 @@ freetds-bin
 freetds-common
 freetds-dev
 freetds-dev:i386
+ftjam
 fuse
 fuse:i386
 fxload
