@@ -1271,6 +1271,10 @@ gem2deb-test-runner
 genders
 genext2fs
 gengetopt
+genometools
+genometools-common
+genometools-dbg
+genometools-doc
 genromfs
 genromfs:i386
 geoip-bin
@@ -5178,6 +5182,8 @@ libgecode:i386
 libgenders-perl
 libgenders0
 libgenders0-dev
+libgenometools0
+libgenometools0-dev
 libgeoip-dev
 libgeoip-dev:i386
 libgeoip1
@@ -10041,6 +10047,7 @@ python-gdbm
 python-gdbm-dbg
 python-gdcm
 python-gdcm:i386
+python-genometools
 python-geoip
 python-geopandas
 python-geopandas-doc
