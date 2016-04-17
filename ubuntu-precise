@@ -8741,6 +8741,9 @@ libxdamage-dev
 libxdamage-dev:i386
 libxdamage1
 libxdamage1:i386
+libxdg-basedir-dev
+libxdg-basedir1
+libxdg-basedir1-dbg
 libxdmcp-dev
 libxdmcp-dev:i386
 libxdmcp6
