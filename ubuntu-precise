@@ -8633,6 +8633,8 @@ libxaw7:i386
 libxcb-composite0
 libxcb-composite0-dbg
 libxcb-composite0-dev
+libxcb-cursor-dev
+libxcb-cursor0
 libxcb-damage0
 libxcb-damage0-dbg
 libxcb-damage0-dev
