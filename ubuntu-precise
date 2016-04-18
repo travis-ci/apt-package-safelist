@@ -1441,6 +1441,7 @@ gir1.2-rsvg-2.0:i386
 gir1.2-secret-1
 gir1.2-soup-2.4
 gir1.2-udisks-2.0
+gir1.2-upowerglib-1.0
 gir1.2-wnck-1.0
 gir1.2-wnck-3.0
 git
@@ -8391,6 +8392,8 @@ libupnp6
 libupnp6-dbg
 libupnp6-dev
 libupnp6-doc
+libupower-glib-dev
+libupower-glib3
 liburcu-dev
 liburcu2
 liburi-perl
@@ -11224,6 +11227,8 @@ unrtf
 unshield
 unzip
 unzip:i386
+upower
+upower-doc
 upstart
 upstart:i386
 upx-ucl
