@@ -429,6 +429,7 @@ clustalo
 clustalo:i386
 clustalw
 clustalw:i386
+clutter-1.0-tests
 clvm
 cm-super
 cm-super-minimal
@@ -1408,6 +1409,7 @@ gir1.2-appindicator-0.1
 gir1.2-appindicator3-0.1
 gir1.2-atk-1.0
 gir1.2-atk-1.0:i386
+gir1.2-clutter-1.0
 gir1.2-dbusmenu-glib-0.4
 gir1.2-dbusmenu-gtk-0.4
 gir1.2-dbusmenu-gtk3-0.4
@@ -4512,6 +4514,11 @@ libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
 libclustalo-doc:i386
+libclutter-1.0-0
+libclutter-1.0-common
+libclutter-1.0-dbg
+libclutter-1.0-dev
+libclutter-1.0-doc
 libcminpack-dev
 libcminpack1
 libcmocka-dev
