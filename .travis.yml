@@ -2,7 +2,6 @@ language: bash
 sudo: false
 env:
 - DISTRO=ubuntu-precise
-- DISTRO=ubuntu-trusty
 
 script:
   - diff -u "${DISTRO}" <(./bin/travis-sort-uniq-whitelist "${DISTRO}")

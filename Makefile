@@ -1,6 +1,6 @@
 SHELL := /usr/bin/env bash
 
-DISTROS ?= ubuntu-precise ubuntu-trusty
+DISTROS ?= ubuntu-precise
 DISTRO ?= ubuntu-precise
 PACKAGE ?=
 
