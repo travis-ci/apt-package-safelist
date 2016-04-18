@@ -1887,6 +1887,8 @@ java-common
 java-common:i386
 java-wrappers
 java-wrappers:i386
+javahelp2
+javahelp2-doc
 jbibtex-bin
 jblas
 jblas-doc
