@@ -1429,6 +1429,7 @@ gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
+gir1.2-gtkclutter-1.0
 gir1.2-gtkspell3-3.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
@@ -4512,6 +4513,10 @@ libclustalo-dev
 libclustalo-dev:i386
 libclustalo-doc
 libclustalo-doc:i386
+libclutter-gtk-1.0-0
+libclutter-gtk-1.0-dbg
+libclutter-gtk-1.0-dev
+libclutter-gtk-1.0-doc
 libcminpack-dev
 libcminpack1
 libcmocka-dev
