@@ -6301,6 +6301,10 @@ libmemcachedutil1:i386
 libmenhir-ocaml-dev
 libmetacity-dev
 libmetacity-private0
+libmetis-dev
+libmetis-doc
+libmetis5
+libmetis5-dbg
 libmicrohttpd-dbg
 libmicrohttpd-dev
 libmicrohttpd5
@@ -9222,6 +9226,7 @@ mesa-utils
 mesa-utils:i386
 metacity
 metacity-common
+metis
 mii-diag
 mii-diag-udeb
 mime-support
