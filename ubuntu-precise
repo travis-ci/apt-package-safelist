@@ -5102,10 +5102,15 @@ libgconf2-4
 libgconf2-4:i386
 libgconf2-dev
 libgconf2-doc
+libgcrypt-mingw-w64-dev
 libgcrypt11
 libgcrypt11-dev
 libgcrypt11-dev:i386
 libgcrypt11:i386
+libgcrypt20
+libgcrypt20-dev
+libgcrypt20-doc
+libgcrypt20-udeb
 libgd-gd2-perl
 libgd-gd2-perl:i386
 libgd-tools
