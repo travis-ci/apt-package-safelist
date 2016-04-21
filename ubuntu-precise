@@ -6850,6 +6850,9 @@ libnspr4-0d
 libnspr4-dbg
 libnspr4-dev
 libnspr4:i386
+libnss-myhostname
+libnss-mymachines
+libnss-resolve
 libnss-winbind
 libnss3
 libnss3-1d
@@ -7129,6 +7132,7 @@ libpam-oath
 libpam-runtime
 libpam-runtime:i386
 libpam-smbpass
+libpam-systemd
 libpam-winbind
 libpam0g
 libpam0g-dev
@@ -8253,6 +8257,8 @@ libswscale3
 libsybdb5
 libsys-hostname-long-perl
 libsys-hostname-long-perl:i386
+libsystemd-dev
+libsystemd0
 libt1-5
 libt1-5-dbg
 libt1-dev
@@ -8369,6 +8375,8 @@ libubsan0:i386
 libudev-dev
 libudev0
 libudev0:i386
+libudev1
+libudev1-udeb
 libudisks2-0
 libudisks2-dev
 libudunits2-0
@@ -10914,6 +10922,12 @@ swftools-dbg
 swig
 swig:i386
 sysbench
+systemd
+systemd-container
+systemd-coredump
+systemd-dbg
+systemd-journal-remote
+systemd-sysv
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
@@ -11202,6 +11216,7 @@ ucf:i386
 udeb
 udeb:i386
 udev
+udev-udeb
 udev:i386
 udisks
 udisks2
