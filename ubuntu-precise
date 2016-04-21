@@ -7143,6 +7143,8 @@ libpaper-utils
 libpaper-utils:i386
 libpaper1
 libpaper1:i386
+libparmetis-dev
+libparmetis4.0
 libparpack2
 libparpack2-dbg
 libparpack2-dev
@@ -9604,6 +9606,8 @@ pandoc-data
 pandoc:i386
 parallel
 parallel:i386
+parmetis-doc
+parmetis-test
 passwd
 passwd:i386
 patch
