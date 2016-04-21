@@ -53,6 +53,7 @@ apport-retrace
 apt
 apt-build
 apt-doc
+apt-rdepends
 apt-transport-https
 apt-transport-https:i386
 apt-utils
