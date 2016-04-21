@@ -10085,6 +10085,7 @@ python-ipaddr
 python-iptcdata
 python-jinja2
 python-jinja2-doc
+python-jsonschema
 python-keyring
 python-keyring:i386
 python-lasso
@@ -10433,6 +10434,7 @@ python3-gi:i386
 python3-h5py
 python3-ipaddr
 python3-jinja2
+python3-jsonschema
 python3-lockfile
 python3-lttngust
 python3-lvm2
