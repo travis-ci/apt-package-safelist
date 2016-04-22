@@ -933,6 +933,8 @@ fonts-ipafont-mincho
 fonts-linuxlibertine
 fonts-linuxlibertine:i386
 fonts-lyx
+fonts-nanum
+fonts-nanum-extra
 fonts-opensymbol
 fonts-takao-gothic
 fonts-takao-gothic:i386
