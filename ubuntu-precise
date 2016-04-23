@@ -9945,6 +9945,7 @@ puppet-testsuite
 puppetmaster
 puppetmaster-common
 puppetmaster-passenger
+pv
 pvlib
 pvlib:i386
 pwgen
