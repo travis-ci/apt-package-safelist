@@ -9192,6 +9192,8 @@ lua-cjson
 lua-cjson-dev
 lua-filesystem
 lua-filesystem-dev
+lua-lpeg
+lua-lpeg-dev
 lua-penlight
 lua-penlight-dev
 lua5.1
