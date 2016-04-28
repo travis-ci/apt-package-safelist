@@ -8424,6 +8424,8 @@ libupower-glib-dev
 libupower-glib3
 liburcu-dev
 liburcu2
+liburg0
+liburg0-dev
 liburi-perl
 liburiparser-dev
 liburiparser1
@@ -11288,6 +11290,7 @@ ure
 ure-dbg
 ureadahead
 ureadahead:i386
+urg-utils
 urweb
 urweb-doc
 urweb-mode
