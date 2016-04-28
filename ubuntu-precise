@@ -376,6 +376,14 @@ cksfv
 cl-brlapi
 cl-pgloader
 cl-quicklisp
+clamav
+clamav-base
+clamav-daemon
+clamav-docs
+clamav-freshclam
+clamav-milter
+clamav-testfiles
+clamdscan
 clang
 clang-3.3
 clang-3.3-doc
@@ -4474,6 +4482,7 @@ libck-connector0
 libck-connector0:i386
 libclamav-dev
 libclamav-dev:i386
+libclamav7
 libclang-3.4-dev
 libclang-3.5-dev
 libclang-3.6-dev
