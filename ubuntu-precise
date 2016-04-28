@@ -424,6 +424,7 @@ clang:i386
 clearsilver-dev
 cli-common
 cli-common-dev
+cloc
 cloog-ppl
 clustalo
 clustalo:i386
