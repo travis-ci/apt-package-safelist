@@ -7088,6 +7088,8 @@ libopenmpi1.6
 libopenmpi1.6-dbg
 libopenscenegraph-dev
 libopenscenegraph100
+libopenslide-dev
+libopenslide0
 libopenthreads-dev
 libopenthreads20
 libopenvg1-mesa
@@ -9616,6 +9618,7 @@ openmpipython
 openscenegraph
 openscenegraph-doc
 openscenegraph-examples
+openslide-tools
 opensp
 openssh-client
 openssh-client:i386
