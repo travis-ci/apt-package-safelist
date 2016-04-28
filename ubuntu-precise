@@ -847,6 +847,7 @@ ffmpeg:i386
 fftw-dev
 fftw-docs
 fftw2
+figlet
 file
 file-dbg
 file-roller
