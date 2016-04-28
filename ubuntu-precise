@@ -1922,6 +1922,8 @@ kbd
 kbd:i386
 kcov
 kelbt
+kernel-common
+kernel-package
 keyboard-configuration
 keyboard-configuration:i386
 keyutils
