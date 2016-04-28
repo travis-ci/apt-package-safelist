@@ -1593,6 +1593,7 @@ golang-redhat-audit-dev
 google-chrome-beta
 google-chrome-stable
 google-chrome-unstable
+google-cloud-sdk
 google-mock
 google-perftools
 gpc
@@ -10136,6 +10137,7 @@ python-gdcm:i386
 python-geoip
 python-geopandas
 python-geopandas-doc
+python-gflags
 python-gi
 python-gi-cairo
 python-gi-dbg
