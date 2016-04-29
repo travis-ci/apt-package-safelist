@@ -4549,6 +4549,8 @@ libclblas-doc
 libclblas2
 libclblas2-dbg
 libclearsilver-perl
+libcli-dev
+libcli1.9
 libcln-dev
 libcln6
 libcloog-isl4
