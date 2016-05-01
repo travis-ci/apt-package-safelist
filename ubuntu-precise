@@ -1719,10 +1719,13 @@ guile-1.8-libs
 guile-1.8-libs:i386
 gv
 gvfs
+gvfs-backends
+gvfs-bin
 gvfs-common
 gvfs-common:i386
 gvfs-daemons
 gvfs-daemons:i386
+gvfs-fuse
 gvfs-libs
 gvfs-libs:i386
 gvfs:i386
