@@ -10484,6 +10484,7 @@ python-sphinx
 python-statsmodels
 python-statsmodels-doc
 python-statsmodels-lib
+python-stem
 python-subunit
 python-suds
 python-support
@@ -10702,6 +10703,7 @@ python3-sip-dbg
 python3-sip-dev
 python3-six
 python3-sphinx
+python3-stem
 python3-subunit
 python3-sympy
 python3-tk
