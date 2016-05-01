@@ -9619,6 +9619,7 @@ odbcinst:i386
 omake
 omake-doc
 omniidl
+omniidl-python
 omniorb
 omniorb-doc
 omniorb-idl
@@ -10288,6 +10289,10 @@ python-numpy-doc
 python-numpy:i386
 python-oauth
 python-oauth:i386
+python-omniorb
+python-omniorb-dbg
+python-omniorb-doc
+python-omniorb-omg
 python-openbabel
 python-opencv
 python-opencv:i386
