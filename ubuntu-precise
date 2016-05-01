@@ -10213,6 +10213,8 @@ python-epydoc
 python-examples
 python-eyed3
 python-fiona
+python-flask
+python-flask-doc
 python-fontforge
 python-fontforge:i386
 python-ftdi
@@ -10603,6 +10605,7 @@ python3-docutils
 python3-enchant
 python3-examples
 python3-fiona
+python3-flask
 python3-gdal
 python3-gdbm
 python3-gdbm-dbg
