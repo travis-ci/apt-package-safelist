@@ -12,8 +12,11 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 0. Check the list of approved packages for your build environment (most likely [`ubuntu-precise`](./ubuntu-precise)).
 0. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-whitelist/issues)
-   and [pull requests](https://github.com/travis-ci/apt-package-whitelist/pulls) requesting the package you
-   want, and if one doesn't exist please
+   and [pull requests](https://github.com/travis-ci/apt-package-whitelist/pulls) requesting the package you want.
+
+   ***Please [search first](https://github.com/travis-ci/apt-package-whitelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
+
+   If one doesn't exist please
    open an issue requesting the package you need in the [this
    repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___)
    (and be sure to replace `__PACKAGE__` in the issue title).
