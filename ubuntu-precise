@@ -301,6 +301,7 @@ bitcoin-tx
 bitcoind
 bjam
 boost-build
+botan1.10-dbg
 bottleneck
 bottleneck:i386
 bridge-utils
@@ -4353,6 +4354,8 @@ libboost1.55-dbg
 libboost1.55-dev
 libboost1.55-doc
 libboost1.55-tools-dev
+libbotan-1.10-1
+libbotan1.10-dev
 libbox2d-dev
 libbox2d-doc
 libbox2d2.3.0
