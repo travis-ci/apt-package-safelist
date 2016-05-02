@@ -25,6 +25,7 @@ amqp-tools
 android-tools-adb
 android-tools-fastboot
 android-tools-fsutils
+ann-tools
 ansible
 ansible-fireball
 ansible-node-fireball
@@ -3953,6 +3954,8 @@ libalgorithm-merge-perl:i386
 libalut-dev
 libalut0
 libamd2.3.1
+libann-dev
+libann0
 libantlr-dev
 libantlr-java
 libantlr-java:i386
