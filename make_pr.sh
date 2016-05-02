@@ -9,6 +9,7 @@ EXIT_SUCCSS=0
 EXIT_SOURCE_NOT_FOUND=1
 EXIT_SOURCE_HAS_SETUID=2
 EXIT_NOTHING_TO_COMMIT=3
+EXIT_DUPLICATE_EXISTS=4
 
 DEFAULT_BRANCH=master
 
@@ -67,6 +68,31 @@ if [ -z "$PACKAGES"  ]; then
 fi
 
 ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
+
+### Search for an existing PR
+SEARCH_URL="https://api.github.com/search/issues?q=repo:$ISSUE_REPO+type:pr+is:open+%s"
+
+curl -s -X GET $(printf $SEARCH_URL $ISSUE_PACKAGE) > search_results.json
+
+HITS=$(jq < search_results.json '.total_count')
+
+current=0
+while [ $current -lt $HITS ]; do
+	CANDIDATE_PACKAGE=$(jq < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
+	CANDIDATE_PR_NUMBER=$(jq < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
+
+	if [ $CANDIDATE_PACKAGE = $ISSUE_PACKAGE ]; then
+		# duplicate is found. Close the issue
+		curl -X POST -d "{\"body\":\"Duplicate of $ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
+			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
+			https://api.github.com/repos/$ISSUE_REPO/$ISSUE_NUMBER/comments
+		curl -X PATCH -d "{\"state\":\"closed\"}" \
+			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
+			https://api.github.com/repos/$ISSUE_REPO/issues/$ISSUE_NUMBER
+		exit $EXIT_DUPLICATE_EXISTS
+	fi
+	let current=$current+1
+done
 
 notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
 
