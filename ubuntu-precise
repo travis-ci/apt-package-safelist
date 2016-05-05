@@ -6195,10 +6195,13 @@ libldns-dev
 libldns-dev:i386
 libldns1
 libldns1:i386
+liblensfun-bin
 liblensfun-data
+liblensfun-data-v1
 liblensfun-dev
 liblensfun-doc
 liblensfun0
+liblensfun1
 liblept4
 libleptonica-dev
 libleveldb-dev
@@ -10632,6 +10635,7 @@ python3-gi:i386
 python3-h5py
 python3-ipaddr
 python3-jinja2
+python3-lensfun
 python3-lockfile
 python3-lttngust
 python3-lvm2
