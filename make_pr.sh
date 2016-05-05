@@ -69,6 +69,7 @@ fi
 
 ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
 
+set -x
 ### Search for an existing PR
 SEARCH_URL="https://api.github.com/search/issues?q=repo:$ISSUE_REPO+type:pr+is:open+%s"
 
@@ -78,10 +79,10 @@ HITS=$(jq < search_results.json '.total_count')
 
 current=0
 while [ $current > $HITS ]; do
-	CANDIDATE_PACKAGE=$(jq < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
+	CANDIDATE_PACKAGE=$(  jq < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
 	CANDIDATE_PR_NUMBER=$(jq < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
 
-	if [ $CANDIDATE_PACKAGE = $ISSUE_PACKAGE ]; then
+	if [ z$CANDIDATE_PACKAGE = z$ISSUE_PACKAGE ]; then
 		# duplicate is found. Close the issue
 		curl -X POST -d "{\"body\":\"Duplicate of $ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
 			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
@@ -93,6 +94,8 @@ while [ $current > $HITS ]; do
 	fi
 	let current=$current+1
 done
+
+set +x
 
 notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
 
