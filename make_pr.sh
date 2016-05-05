@@ -78,7 +78,7 @@ curl -s -X GET $(printf $SEARCH_URL $ISSUE_PACKAGE) > search_results.json
 HITS=$(jq < search_results.json '.total_count')
 
 current=0
-while [ $current < $HITS ]; do
+while [ $current -lt $HITS ]; do
 	CANDIDATE_PACKAGE=$(  jq < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
 	CANDIDATE_PR_NUMBER=$(jq < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
 
