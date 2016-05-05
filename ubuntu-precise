@@ -457,6 +457,9 @@ clustalo
 clustalo:i386
 clustalw
 clustalw:i386
+cluster-glue
+cluster-glue-dbg
+cluster-glue-dev
 clutter-1.0-tests
 clvm
 cm-super
@@ -6289,6 +6292,8 @@ liblqr-1-0
 liblqr-1-0-dev
 liblqr-1-0-dev:i386
 liblqr-1-0:i386
+liblrm2
+liblrm2-dev
 liblsan0
 liblsan0-dbg
 liblsan0-dbg:i386
@@ -7340,6 +7345,8 @@ libphononexperimental4:i386
 libphysfs-dev
 libphysfs1
 libphysfs1-dbg
+libpils2
+libpils2-dev
 libpipeline-dev
 libpipeline1
 libpipeline1:i386
@@ -7360,6 +7367,10 @@ libplplot-ocaml
 libplplot12
 libplrpc-perl
 libplrpc-perl:i386
+libplumb2
+libplumb2-dev
+libplumbgpl2
+libplumbgpl2-dev
 libplymouth2
 libplymouth2:i386
 libpng++-dev
@@ -8346,6 +8357,8 @@ libstemmer-dev
 libstemmer-tools
 libstemmer0d
 libstemmer0d-dbg
+libstonith1
+libstonith1-dev
 libstroke0
 libstroke0-dev
 libstxxl-dev
