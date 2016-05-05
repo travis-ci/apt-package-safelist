@@ -84,12 +84,13 @@ while [ $current -lt $HITS ]; do
 
 	if [ z$CANDIDATE_PACKAGE = z$ISSUE_PACKAGE ]; then
 		# duplicate is found. Close the issue
+		echo "This is a duplicate request"
 		curl -X POST -d "{\"body\":\"Duplicate of $ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
 			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
-			https://api.github.com/repos/$ISSUE_REPO/$ISSUE_NUMBER/comments
+			https://api.github.com/repos/travis-ci/$ISSUE_REPO/$ISSUE_NUMBER/comments
 		curl -X PATCH -d "{\"state\":\"closed\"}" \
 			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
-			https://api.github.com/repos/$ISSUE_REPO/issues/$ISSUE_NUMBER
+			https://api.github.com/repos/travis-ci/$ISSUE_REPO/issues/$ISSUE_NUMBER
 		exit $EXIT_DUPLICATE_EXISTS
 	fi
 	let current=$current+1
