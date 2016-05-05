@@ -69,7 +69,6 @@ fi
 
 ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
 
-set -x
 ### Search for an existing PR
 SEARCH_URL="https://api.github.com/search/issues?q=repo:travis-ci/$ISSUE_REPO+type:pr+is:open+%s"
 
@@ -84,7 +83,7 @@ while [ $current -lt $HITS ]; do
 
 	if [ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} ]; then
 		# duplicate is found. Close the issue
-		echo "This is a duplicate request"
+		echo "${ANSI_RED}This is a duplicate request${ANSI_RESET}"
 		curl -X POST -d "{\"body\":\"Duplicate of $ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
 			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 			https://api.github.com/repos/travis-ci/$ISSUE_REPO/issues/$ISSUE_NUMBER/comments
@@ -95,8 +94,6 @@ while [ $current -lt $HITS ]; do
 	fi
 	let current=$current+1
 done
-
-set +x
 
 notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
 
