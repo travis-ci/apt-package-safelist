@@ -580,6 +580,7 @@ cpp11-migrate-3.8
 cpp:i386
 cppcheck
 cpputest
+cracklib-runtime
 cron
 cron:i386
 crossbuild-essential-arm64
@@ -4684,6 +4685,9 @@ libcppunit-dev
 libcppunit-subunit-dev
 libcppunit-subunit0
 libcpputest-dev
+libcrack2
+libcrack2-dev
+libcrack2-udeb
 libcroco3
 libcroco3:i386
 libcrypto++-dev
@@ -10202,6 +10206,7 @@ python-configobj
 python-configobj:i386
 python-coverage
 python-coverage-dbg
+python-cracklib
 python-crypto
 python-crypto:i386
 python-cvxopt
@@ -10601,6 +10606,7 @@ python3-cairo-dev
 python3-cairo-doc
 python3-coverage
 python3-coverage-dbg
+python3-cracklib
 python3-dateutil
 python3-dbg
 python3-dbus
