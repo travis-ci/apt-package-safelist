@@ -71,7 +71,7 @@ ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
 
 set -x
 ### Search for an existing PR
-SEARCH_URL="https://api.github.com/search/issues?q=repo:$ISSUE_REPO+type:pr+is:open+%s"
+SEARCH_URL="https://api.github.com/search/issues?q=repo:travis-ci/$ISSUE_REPO+type:pr+is:open+%s"
 
 curl -s -X GET $(printf $SEARCH_URL $ISSUE_PACKAGE) > search_results.json
 
