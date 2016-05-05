@@ -84,7 +84,7 @@ while [ $current -lt $HITS ]; do
 	if [ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} ]; then
 		# duplicate is found. Close the issue
 		echo "${ANSI_RED}This is a duplicate request${ANSI_RESET}"
-		curl -X POST -d "{\"body\":\"Duplicate of $ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
+		curl -X POST -d "{\"body\":\"Duplicate of travis-ci/$ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
 			-H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 			https://api.github.com/repos/travis-ci/$ISSUE_REPO/issues/$ISSUE_NUMBER/comments
 		curl -X PATCH -d "{\"state\":\"closed\"}" \
