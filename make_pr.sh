@@ -79,10 +79,10 @@ HITS=$(jq < search_results.json '.total_count')
 
 current=0
 while [ $current -lt $HITS ]; do
-	CANDIDATE_PACKAGE=$(  jq < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
-	CANDIDATE_PR_NUMBER=$(jq < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
+	CANDIDATE_PACKAGE=$(  jq -r < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
+	CANDIDATE_PR_NUMBER=$(jq -r < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
 
-	if [ z$CANDIDATE_PACKAGE = z$ISSUE_PACKAGE ]; then
+	if [ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} ]; then
 		# duplicate is found. Close the issue
 		echo "This is a duplicate request"
 		curl -X POST -d "{\"body\":\"Duplicate of $ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
