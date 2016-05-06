@@ -10590,6 +10590,9 @@ python-smbus
 python-software-properties
 python-software-properties:i386
 python-sphinx
+python-sqlalchemy
+python-sqlalchemy-doc
+python-sqlalchemy-ext
 python-statsmodels
 python-statsmodels-doc
 python-statsmodels-lib
@@ -10816,6 +10819,8 @@ python3-sip-dbg
 python3-sip-dev
 python3-six
 python3-sphinx
+python3-sqlalchemy
+python3-sqlalchemy-ext
 python3-stem
 python3-subunit
 python3-sympy
