@@ -3974,6 +3974,7 @@ libapache-pom-java
 libapache-pom-java:i386
 libapache2-mod-fastcgi
 libapache2-mod-fastcgi:i386
+libapache2-mod-neko
 libapache2-mod-perl2
 libapache2-mod-perl2-dev
 libapache2-mod-perl2-dev:i386
@@ -6892,6 +6893,7 @@ libncursesw5
 libncursesw5-dev
 libncursesw5-dev:i386
 libncursesw5:i386
+libneko0
 libnemesis3
 libneon27-gnutls
 libneon27-gnutls:i386
@@ -9564,6 +9566,8 @@ ncurses-base
 ncurses-base:i386
 ncurses-bin
 ncurses-bin:i386
+neko
+neko-dev
 net-tools
 net-tools:i386
 netbase
