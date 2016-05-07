@@ -8794,6 +8794,8 @@ libwxgtk2.8-dev
 libwxmsw2.8-dbg
 libwxmsw2.8-dev
 libx11-6
+libx11-6-dbg
+libx11-6-udeb
 libx11-6:i386
 libx11-data
 libx11-data:i386
@@ -8803,6 +8805,7 @@ libx11-doc
 libx11-doc:i386
 libx11-xcb-dev
 libx11-xcb1
+libx11-xcb1-dbg
 libx11-xcb1:i386
 libx264-146
 libx264-dev
