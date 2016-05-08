@@ -624,6 +624,7 @@ cython-dbg
 cython-doc
 cython3
 cython3-dbg
+darcs
 dash
 dash:i386
 db-util
