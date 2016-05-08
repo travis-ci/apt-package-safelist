@@ -612,6 +612,7 @@ cups-server-common
 curl
 curl-udeb
 curl:i386
+cvs
 cvsps
 cx-freeze
 cxxtest
