@@ -10384,6 +10384,7 @@ python-indicate
 python-indicate:i386
 python-ipaddr
 python-iptcdata
+python-jdcal
 python-jinja2
 python-jinja2-doc
 python-jsonschema
@@ -10748,6 +10749,7 @@ python3-gi-dbg
 python3-gi:i386
 python3-h5py
 python3-ipaddr
+python3-jdcal
 python3-jinja2
 python3-jsonschema
 python3-lockfile
