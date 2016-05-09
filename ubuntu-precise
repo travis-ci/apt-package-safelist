@@ -4204,6 +4204,8 @@ libblas3gf
 libblas3gf:i386
 libblkid1
 libblkid1:i386
+libblocksruntime-dev
+libblocksruntime0
 libbluetooth-dev
 libbluetooth-dev:i386
 libbluetooth3
