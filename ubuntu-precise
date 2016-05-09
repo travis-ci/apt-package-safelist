@@ -736,6 +736,7 @@ dsniff
 dtdinst
 dvb-tools
 dvbpsi-utils
+dvi2tty
 dvipng
 dvipng:i386
 dvipsk-ja
@@ -6225,6 +6226,8 @@ libkeyutils1:i386
 libklibc
 libklibc:i386
 libklu1.2.1
+libkpathsea-dev
+libkpathsea6
 libkqueue-dev
 libkqueue0
 libkrb5-26-heimdal
@@ -7560,6 +7563,8 @@ libproxychains-dev
 libproxychains3
 libpspell-dev
 libpstreams-dev
+libptexenc-dev
+libptexenc1
 libpth-dev
 libpth20
 libpthread-stubs0
@@ -8488,6 +8493,8 @@ libswscale2
 libswscale2:i386
 libswscale3
 libsybdb5
+libsynctex-dev
+libsynctex1
 libsys-hostname-long-perl
 libsys-hostname-long-perl:i386
 libt1-5
@@ -8532,6 +8539,10 @@ libtesseract3
 libtest-html-w3c-perl
 libtest-most-perl
 libtest-valgrind-perl
+libtexlua52
+libtexlua52-dev
+libtexluajit-dev
+libtexluajit2
 libtext-aspell-perl
 libtext-aspell-perl:i386
 libtext-charwidth-perl
