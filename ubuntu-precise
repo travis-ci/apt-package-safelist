@@ -10343,6 +10343,8 @@ python-flask-doc
 python-fontforge
 python-fontforge:i386
 python-ftdi
+python-future
+python-future-doc
 python-gamin
 python-gdal
 python-gdal:i386
@@ -10737,6 +10739,7 @@ python3-enchant
 python3-examples
 python3-fiona
 python3-flask
+python3-future
 python3-gdal
 python3-gdbm
 python3-gdbm-dbg
