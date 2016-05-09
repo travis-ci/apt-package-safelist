@@ -10487,6 +10487,8 @@ python-pandas-doc
 python-pandas-lib
 python-paramiko
 python-paramiko:i386
+python-pbr
+python-pbr-doc
 python-pdfrw
 python-pdfrw-doc
 python-pexpect
@@ -10783,6 +10785,7 @@ python3-openpyxl
 python3-openssl
 python3-pandas
 python3-pandas-lib
+python3-pbr
 python3-pdfrw
 python3-pep8
 python3-pexpect
