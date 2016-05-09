@@ -10527,6 +10527,8 @@ python-pygments
 python-pygments-doc
 python-pygresql
 python-pygresql-dbg
+python-pyinotify
+python-pyinotify-doc
 python-pypdf
 python-pypy.translator.sandbox
 python-pytest
@@ -10800,6 +10802,7 @@ python3-pycountry
 python3-pyfits
 python3-pyflakes
 python3-pygments
+python3-pyinotify
 python3-pyqt4
 python3-pyqt4-dbg
 python3-pyqt4-dbg:i386
