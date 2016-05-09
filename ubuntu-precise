@@ -10632,6 +10632,7 @@ python-texttable
 python-tk
 python-tk-dbg
 python-tz
+python-unittest2
 python-vipscc
 python-virtualenv
 python-virtualenv:i386
@@ -10847,6 +10848,7 @@ python3-sympy
 python3-tk
 python3-tk-dbg
 python3-tz
+python3-unittest2
 python3-uno
 python3-venv
 python3-virtualenv
