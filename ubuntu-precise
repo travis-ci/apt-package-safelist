@@ -11376,6 +11376,8 @@ texlive-lang-arabic
 texlive-lang-arabic:i386
 texlive-lang-armenian
 texlive-lang-armenian:i386
+texlive-lang-chinese
+texlive-lang-cjk
 texlive-lang-croatian
 texlive-lang-croatian:i386
 texlive-lang-cyrillic
@@ -11386,6 +11388,8 @@ texlive-lang-danish
 texlive-lang-danish:i386
 texlive-lang-dutch
 texlive-lang-dutch:i386
+texlive-lang-english
+texlive-lang-european
 texlive-lang-finnish
 texlive-lang-finnish:i386
 texlive-lang-french
@@ -11402,6 +11406,8 @@ texlive-lang-indic
 texlive-lang-indic:i386
 texlive-lang-italian
 texlive-lang-italian:i386
+texlive-lang-japanese
+texlive-lang-korean
 texlive-lang-latin
 texlive-lang-latin:i386
 texlive-lang-latvian
