@@ -5131,6 +5131,7 @@ libfile-desktopentry-perl
 libfile-desktopentry-perl:i386
 libfile-mimeinfo-perl
 libfile-mimeinfo-perl:i386
+libfile-which-perl
 libfindlib-ocaml
 libfindlib-ocaml-dev
 libfl-dev
