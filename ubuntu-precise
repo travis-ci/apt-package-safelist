@@ -7381,6 +7381,7 @@ libparpack2
 libparpack2-dbg
 libparpack2-dev
 libparse-pidl-perl
+libparse-recdescent-perl
 libparse-yapp-perl
 libparted0debian1
 libparted0debian1:i386
