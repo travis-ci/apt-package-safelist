@@ -7613,6 +7613,10 @@ libpython3.5-stdlib
 libpython3.5-testsuite
 libpython3.5-tk
 libpython3.5-tk-dbg
+libqb-dev
+libqb-doc
+libqb0
+libqb0-dbg
 libqglviewer-dev
 libqglviewer-dev-qt4
 libqglviewer-doc
