@@ -7397,12 +7397,17 @@ libpci3
 libpci3-udeb
 libpciaccess0
 libpciaccess0:i386
+libpcre16-3
 libpcre3
+libpcre3-dbg
 libpcre3-dev
 libpcre3-dev:i386
+libpcre3-udeb
+libpcre32-3
 libpcre3:i386
 libpcrecpp0
 libpcrecpp0:i386
+libpcrecpp0v5
 libpcsclite-dev
 libpcsclite1
 libpcsclite1:i386
@@ -9921,6 +9926,7 @@ pbuilder
 pbuilder:i386
 pciutils
 pciutils-udeb
+pcregrep
 pcscd
 pdftk
 pdftk-dbg
