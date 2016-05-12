@@ -4036,6 +4036,7 @@ libapt-pkg4.12:i386
 libapt-pkg4.16
 libarchive-dev
 libarchive-dev:i386
+libarchive-zip-perl
 libarchive12
 libarchive12:i386
 libarmadillo-dev
