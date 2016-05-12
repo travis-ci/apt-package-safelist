@@ -10654,6 +10654,7 @@ python-sympy
 python-sympy-doc
 python-tables
 python-tables:i386
+python-tabulate
 python-talloc
 python-talloc-dbg
 python-talloc-dev
@@ -10878,6 +10879,7 @@ python3-sqlalchemy-ext
 python3-stem
 python3-subunit
 python3-sympy
+python3-tabulate
 python3-tk
 python3-tk-dbg
 python3-tz
