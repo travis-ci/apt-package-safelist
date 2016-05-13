@@ -6082,6 +6082,8 @@ libimobiledevice-doc
 libimobiledevice-utils
 libimobiledevice4
 libimobiledevice4-dbg
+libimobiledevice6
+libimobiledevice6-dbg
 libindicator-dev
 libindicator-tools
 libindicator3-7
