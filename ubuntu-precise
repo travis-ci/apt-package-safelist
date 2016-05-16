@@ -10372,6 +10372,8 @@ python-empy
 python-empy:i386
 python-enchant
 python-epydoc
+python-eventlet
+python-eventlet-doc
 python-examples
 python-eyed3
 python-fiona
@@ -10780,6 +10782,7 @@ python3-distutils-extra
 python3-doc
 python3-docutils
 python3-enchant
+python3-eventlet
 python3-examples
 python3-fiona
 python3-flask
