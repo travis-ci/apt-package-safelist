@@ -4040,6 +4040,9 @@ libarchive-dev:i386
 libarchive-zip-perl
 libarchive12
 libarchive12:i386
+libargtable2-0
+libargtable2-dev
+libargtable2-docs
 libarmadillo-dev
 libarmadillo2
 libarmadillo2:i386
