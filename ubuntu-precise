@@ -1469,6 +1469,7 @@ gir1.2-gdkpixbuf-2.0
 gir1.2-gdkpixbuf-2.0:i386
 gir1.2-gdl-3
 gir1.2-gee-0.8
+gir1.2-gee-1.0
 gir1.2-gexiv2-0.10
 gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
@@ -5371,6 +5372,9 @@ libgecode:i386
 libgee-0.8-2
 libgee-0.8-2-dbg
 libgee-0.8-dev
+libgee-dev
+libgee2
+libgee2-dbg
 libgenders-perl
 libgenders0
 libgenders0-dev
