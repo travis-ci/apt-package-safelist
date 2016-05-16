@@ -7466,6 +7466,13 @@ libpixman-1-0:i386
 libpixman-1-dev
 libpixman-1-dev:i386
 libplack-perl
+libplist++-dev
+libplist++3v5
+libplist-dbg
+libplist-dev
+libplist-doc
+libplist-utils
+libplist3
 libplplot-ada1
 libplplot-ada1-dev
 libplplot-c++11
@@ -10544,6 +10551,7 @@ python-pip
 python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
+python-plist
 python-plplot
 python-plplot-qt
 python-ply
