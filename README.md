@@ -192,8 +192,8 @@ Grab the generated commit message
 Commit and push, then restart all `travis-build` apps with a bit o' sleep
 
 ``` bash
-for app in $(hk apps | awk '/travis.*build-(prod|stag)/ { print $1 }') ; do
-  hk restart -a ${app} ;
+for app in travis-pro-build-production travis-pro-build-staging travis-build-production travis-build-staging ; do
+  heroku ps:restart -a ${app} ;
   sleep 5 ;
 done
 ```
