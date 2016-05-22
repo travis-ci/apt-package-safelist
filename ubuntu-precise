@@ -868,6 +868,7 @@ expect-dev:i386
 expect:i386
 exuberant-ctags
 eyed3
+faac
 faad
 faad2-dbg
 fakechroot
@@ -5105,6 +5106,8 @@ libexpat1-dev:i386
 libexpat1-udeb
 libexpat1:i386
 libexpect-perl
+libfaac-dev
+libfaac0
 libfaad-dev
 libfaad2
 libfaketime
