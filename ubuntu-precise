@@ -4463,6 +4463,8 @@ libbsd0:i386
 libbsf-java
 libbsf-java:i386
 libbtf1.2.0
+libbtparse-dev
+libbtparse1
 libbz2-1.0
 libbz2-1.0:i386
 libbz2-dev
@@ -8581,6 +8583,7 @@ libtexluajit-dev
 libtexluajit2
 libtext-aspell-perl
 libtext-aspell-perl:i386
+libtext-bibtex-perl
 libtext-charwidth-perl
 libtext-charwidth-perl:i386
 libtext-iconv-perl
