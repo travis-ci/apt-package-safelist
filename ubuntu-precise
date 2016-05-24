@@ -1442,6 +1442,10 @@ ghc-8.0.1
 ghc-8.0.1-dyn
 ghc-8.0.1-htmldocs
 ghc-8.0.1-prof
+ghc-8.0.2
+ghc-8.0.2-dyn
+ghc-8.0.2-htmldocs
+ghc-8.0.2-prof
 ghc-doc
 ghc-head
 ghc-head:i386
