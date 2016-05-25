@@ -10797,6 +10797,7 @@ python-texttable
 python-tk
 python-tk-dbg
 python-tz
+python-unicodecsv
 python-unittest2
 python-vipscc
 python-virtualenv
@@ -11021,6 +11022,7 @@ python3-tabulate
 python3-tk
 python3-tk-dbg
 python3-tz
+python3-unicodecsv
 python3-unittest2
 python3-uno
 python3-venv
