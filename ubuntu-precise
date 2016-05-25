@@ -10710,6 +10710,7 @@ python-wxgtk2.8
 python-wxgtk2.8-dbg
 python-wxtools
 python-wxversion
+python-xapian
 python-xcbgen
 python-xdg
 python-xlib
@@ -11189,6 +11190,7 @@ ruby-ronn
 ruby-rrd
 ruby-simpleextension-dh-auto-install-destdir
 ruby-simpleextension-dh-auto-install-destdir-doc
+ruby-xapian
 ruby-xmmsclient
 ruby1.8
 ruby1.8:i386
@@ -11344,6 +11346,7 @@ tcl:i386
 tclcurl
 tcllib
 tclmagick
+tclxapian
 tclxml
 tclxml-dev
 tcpd
