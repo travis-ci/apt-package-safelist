@@ -10780,6 +10780,8 @@ python-sqlalchemy-ext
 python-statsmodels
 python-statsmodels-doc
 python-statsmodels-lib
+python-stdnum
+python-stdnum-doc
 python-stem
 python-subunit
 python-suds
@@ -11015,6 +11017,7 @@ python3-six
 python3-sphinx
 python3-sqlalchemy
 python3-sqlalchemy-ext
+python3-stdnum
 python3-stem
 python3-subunit
 python3-sympy
