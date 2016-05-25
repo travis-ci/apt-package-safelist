@@ -11323,6 +11323,11 @@ supervisor-doc
 swftools
 swftools-dbg
 swig
+swig-doc
+swig-examples
+swig3.0
+swig3.0-doc
+swig3.0-examples
 swig:i386
 sysbench
 sysv-rc
