@@ -10458,6 +10458,7 @@ python-argparse
 python-argparse:i386
 python-audit
 python-beautifulsoup
+python-blockdiag
 python-bottle
 python-bottle-doc
 python-brlapi
@@ -10895,6 +10896,7 @@ python3-all-dbg
 python3-all-dev
 python3-appdirs
 python3-audit
+python3-blockdiag
 python3-bottle
 python3-brlapi
 python3-bs4
