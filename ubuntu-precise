@@ -1679,6 +1679,8 @@ google-chrome-unstable
 google-cloud-sdk
 google-mock
 google-perftools
+gpac
+gpac-modules-base
 gpc
 gpc-doc
 gpc-doc:i386
@@ -5761,6 +5763,8 @@ libgoogle-glog0v5
 libgoogle-perftools-dev
 libgoogle-perftools0
 libgoogle-perftools0-dbg
+libgpac-dev
+libgpac4
 libgpg-error-dev
 libgpg-error-dev:i386
 libgpg-error0
