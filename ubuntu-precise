@@ -1507,6 +1507,7 @@ gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
+gir1.2-gssdp-1.0
 gir1.2-gst-plugins-base-0.10
 gir1.2-gst-plugins-base-1.0
 gir1.2-gstreamer-0.10
@@ -1743,6 +1744,7 @@ gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
 gsl-bin:i386
+gssdp-tools
 gstreamer-tools
 gstreamer0.10-alsa
 gstreamer0.10-doc
@@ -5830,6 +5832,10 @@ libgssapi-krb5-2
 libgssapi-krb5-2:i386
 libgssapi3-heimdal
 libgssapi3-heimdal:i386
+libgssdp-1.0-3
+libgssdp-1.0-dbg
+libgssdp-1.0-dev
+libgssdp-doc
 libgssrpc4
 libgssrpc4:i386
 libgstreamer-plugins-base0.10-0
