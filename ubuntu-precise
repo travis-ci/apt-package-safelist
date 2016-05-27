@@ -1001,6 +1001,7 @@ freetds-bin
 freetds-common
 freetds-dev
 freetds-dev:i386
+ftdi-eeprom
 ftjam
 fuse
 fuse:i386
@@ -5285,10 +5286,16 @@ libfribidi0-udeb
 libfribidi0:i386
 libftdi-dev
 libftdi1
+libftdi1-2
+libftdi1-2-dbg
 libftdi1-dbg
+libftdi1-dev
 libftdipp-dev
 libftdipp1
+libftdipp1-2v5
+libftdipp1-2v5-dbg
 libftdipp1-dbg
+libftdipp1-dev
 libfuse-dev
 libfuse2
 libfuse2:i386
@@ -10520,6 +10527,7 @@ python-flask-doc
 python-fontforge
 python-fontforge:i386
 python-ftdi
+python-ftdi1
 python-future
 python-future-doc
 python-gamin
@@ -10932,6 +10940,7 @@ python3-eventlet
 python3-examples
 python3-fiona
 python3-flask
+python3-ftdi1
 python3-future
 python3-gdal
 python3-gdbm
