@@ -303,6 +303,13 @@ bitcoin-qt
 bitcoin-tx
 bitcoind
 bjam
+bluetooth
+bluez
+bluez-cups
+bluez-dbg
+bluez-hcidump
+bluez-obexd
+bluez-test-scripts
 boost-build
 botan1.10-dbg
 bottleneck
