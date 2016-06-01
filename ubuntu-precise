@@ -303,6 +303,7 @@ bitcoin-qt
 bitcoin-tx
 bitcoind
 bjam
+blender-ogrexml
 boost-build
 botan1.10-dbg
 bottleneck
@@ -7276,6 +7277,9 @@ libogg-dbg
 libogg-dev
 libogg0
 libogg0:i386
+libogre-1.7.4
+libogre-1.7.4-dbg
+libogre-dev
 libois-1.3.0
 libois-dev
 libomniorb4-1
@@ -9971,6 +9975,11 @@ odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
 odbcinst:i386
+ogre-doc
+ogre-samples
+ogre-samples-data
+ogre-samples-dbg
+ogre-tools
 omake
 omake-doc
 omniidl
