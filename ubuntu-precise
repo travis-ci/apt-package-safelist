@@ -249,6 +249,7 @@ base-passwd:i386
 bash
 bash-completion
 bash:i386
+bats
 bc
 bc:i386
 biblatex
