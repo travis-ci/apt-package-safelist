@@ -680,6 +680,7 @@ dh-autoreconf
 dh-exec
 dh-make
 dh-make:i386
+dh-python
 dh-systemd
 dh-virtualenv
 dia
@@ -991,6 +992,7 @@ fonts-takao-pgothic
 fonts-takao-pgothic:i386
 fonts-texgyre
 fonts-vlgothic
+foo
 fop
 fop-doc
 fplll-tools
@@ -10452,6 +10454,7 @@ pypy-bs4
 pypy-dev
 pypy-dev:i386
 pypy-doc
+pypy-foo
 pypy-lib
 pypy-mutagen
 pypy-pkg-resources
@@ -10540,6 +10543,7 @@ python-flask
 python-flask-doc
 python-fontforge
 python-fontforge:i386
+python-foo
 python-ftdi
 python-ftdi1
 python-future
@@ -10954,6 +10958,7 @@ python3-eventlet
 python3-examples
 python3-fiona
 python3-flask
+python3-foo
 python3-ftdi1
 python3-future
 python3-gdal
