@@ -10442,6 +10442,7 @@ pvlib
 pvlib:i386
 pwgen
 pwgen-udeb
+pydocstyle
 pyfits-utils
 pyflakes
 pylint
