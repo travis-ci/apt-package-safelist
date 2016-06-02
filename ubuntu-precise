@@ -941,6 +941,7 @@ fixincludes
 fixincludes:i386
 flac
 flac:i386
+flake8
 flann-doc
 flashplugin-downloader
 flashplugin-downloader:i386
@@ -10539,6 +10540,7 @@ python-eventlet-doc
 python-examples
 python-eyed3
 python-fiona
+python-flake8
 python-flask
 python-flask-doc
 python-fontforge
@@ -10957,6 +10959,7 @@ python3-enchant
 python3-eventlet
 python3-examples
 python3-fiona
+python3-flake8
 python3-flask
 python3-foo
 python3-ftdi1
