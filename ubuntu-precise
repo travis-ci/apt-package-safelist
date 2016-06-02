@@ -10724,6 +10724,7 @@ python-psycopg2-dbg
 python-psycopg2-doc
 python-pyassimp
 python-pycountry
+python-pycparser
 python-pycurl
 python-pycurl:i386
 python-pyexiv2
@@ -11023,6 +11024,7 @@ python3-psutil-dbg
 python3-psycopg2
 python3-psycopg2-dbg
 python3-pycountry
+python3-pycparser
 python3-pyfits
 python3-pyflakes
 python3-pygments
