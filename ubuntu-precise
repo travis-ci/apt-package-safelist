@@ -10455,6 +10455,7 @@ pypy-dev
 pypy-dev:i386
 pypy-doc
 pypy-foo
+pypy-idna
 pypy-lib
 pypy-mutagen
 pypy-pkg-resources
@@ -10582,6 +10583,7 @@ python-h5py
 python-h5py-doc
 python-httplib2
 python-httplib2:i386
+python-idna
 python-imaging
 python-imaging:i386
 python-imobiledevice
@@ -10971,6 +10973,7 @@ python3-gi-cairo
 python3-gi-dbg
 python3-gi:i386
 python3-h5py
+python3-idna
 python3-ipaddr
 python3-jdcal
 python3-jinja2
