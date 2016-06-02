@@ -1968,6 +1968,9 @@ iodbc:i386
 iperf
 ipmitool
 iproute
+iproute-doc
+iproute2
+iproute2-doc
 iproute:i386
 iptables
 iptables-dev
