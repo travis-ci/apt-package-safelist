@@ -978,6 +978,7 @@ fonts-inconsolata:i386
 fonts-ipafont
 fonts-ipafont-gothic
 fonts-ipafont-mincho
+fonts-liberation
 fonts-linuxlibertine
 fonts-linuxlibertine:i386
 fonts-lyx
@@ -11762,6 +11763,7 @@ ttf-dejavu-core:i386
 ttf-dejavu-extra
 ttf-dejavu-extra:i386
 ttf-freefont
+ttf-liberation
 ttf-lyx
 ttf-mscorefonts-installer
 ttf-mscorefonts-installer:i386
