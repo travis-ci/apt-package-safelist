@@ -10587,6 +10587,7 @@ python-imaging:i386
 python-imobiledevice
 python-indicate
 python-indicate:i386
+python-inflect
 python-ipaddr
 python-iptcdata
 python-irc
@@ -10971,6 +10972,7 @@ python3-gi-cairo
 python3-gi-dbg
 python3-gi:i386
 python3-h5py
+python3-inflect
 python3-ipaddr
 python3-jdcal
 python3-jinja2
