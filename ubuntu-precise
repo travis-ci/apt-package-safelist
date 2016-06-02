@@ -10457,6 +10457,7 @@ pypy-doc
 pypy-foo
 pypy-lib
 pypy-mutagen
+pypy-packaging
 pypy-pkg-resources
 pypy-setuptools
 pypy-six
@@ -10689,6 +10690,7 @@ python-opencv:i386
 python-openpyxl
 python-openssl
 python-openssl-doc
+python-packaging
 python-pandas
 python-pandas-doc
 python-pandas-lib
@@ -11006,6 +11008,7 @@ python3-numpy
 python3-numpy-dbg
 python3-openpyxl
 python3-openssl
+python3-packaging
 python3-pandas
 python3-pandas-lib
 python3-pbr
