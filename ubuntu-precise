@@ -10512,6 +10512,7 @@ python-configobj
 python-configobj:i386
 python-coverage
 python-coverage-dbg
+python-crontab
 python-crypto
 python-crypto:i386
 python-cvxopt
@@ -10937,6 +10938,7 @@ python3-cairo-dev
 python3-cairo-doc
 python3-coverage
 python3-coverage-dbg
+python3-crontab
 python3-dateutil
 python3-dbg
 python3-dbus
