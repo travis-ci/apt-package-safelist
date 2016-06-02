@@ -10455,6 +10455,7 @@ pypy-dev
 pypy-dev:i386
 pypy-doc
 pypy-foo
+pypy-ipaddress
 pypy-lib
 pypy-mutagen
 pypy-pkg-resources
@@ -10588,6 +10589,7 @@ python-imobiledevice
 python-indicate
 python-indicate:i386
 python-ipaddr
+python-ipaddress
 python-iptcdata
 python-irc
 python-jdcal
