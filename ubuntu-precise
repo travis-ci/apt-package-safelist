@@ -10726,6 +10726,7 @@ python-pyassimp
 python-pycountry
 python-pycurl
 python-pycurl:i386
+python-pydot
 python-pyexiv2
 python-pyexiv2-doc
 python-pyfann
@@ -11023,6 +11024,7 @@ python3-psutil-dbg
 python3-psycopg2
 python3-psycopg2-dbg
 python3-pycountry
+python3-pydot
 python3-pyfits
 python3-pyflakes
 python3-pygments
