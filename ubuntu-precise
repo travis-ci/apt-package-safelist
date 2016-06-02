@@ -10849,6 +10849,7 @@ python-tk-dbg
 python-tz
 python-unicodecsv
 python-unittest2
+python-urllib3
 python-vipscc
 python-virtualenv
 python-virtualenv:i386
@@ -11079,6 +11080,7 @@ python3-tz
 python3-unicodecsv
 python3-unittest2
 python3-uno
+python3-urllib3
 python3-venv
 python3-virtualenv
 python3-wheel
