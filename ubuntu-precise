@@ -10495,6 +10495,7 @@ python-bs4-doc
 python-bsddb3
 python-bsddb3-dbg
 python-bsddb3-doc
+python-bz2file
 python-bzrlib
 python-bzrlib:i386
 python-cairo
@@ -10932,6 +10933,7 @@ python3-brlapi
 python3-bs4
 python3-bsddb3
 python3-bsddb3-dbg
+python3-bz2file
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
