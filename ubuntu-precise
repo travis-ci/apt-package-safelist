@@ -10500,6 +10500,7 @@ python-bzrlib:i386
 python-cairo
 python-cairo-dbg
 python-cairo-dev
+python-chardet
 python-cheetah
 python-clang-3.4
 python-clang-3.5
@@ -10935,6 +10936,7 @@ python3-bsddb3-dbg
 python3-cairo
 python3-cairo-dev
 python3-cairo-doc
+python3-chardet
 python3-coverage
 python3-coverage-dbg
 python3-dateutil
