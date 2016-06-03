@@ -530,6 +530,10 @@ coq-theories
 coqide
 coreutils
 coreutils:i386
+corosync
+corosync-dev
+corosync-doc
+corosync-notifyd
 couchdb
 couchdb-bin
 couchdb-bin:i386
@@ -4675,6 +4679,8 @@ libcdt5
 libcext-dev
 libcext-doc
 libcext0
+libcfg-dev
+libcfg6
 libcfitsio-bin
 libcfitsio-dev
 libcfitsio-doc
@@ -4770,6 +4776,8 @@ libclutter-gtk-1.0-0
 libclutter-gtk-1.0-dbg
 libclutter-gtk-1.0-dev
 libclutter-gtk-1.0-doc
+libcmap-dev
+libcmap4
 libcminpack-dev
 libcminpack1
 libcmocka-dev
@@ -4825,6 +4833,8 @@ libconfuse0
 libconfuse0:i386
 libcoq-ocaml
 libcoq-ocaml-dev
+libcorosync-common-dev
+libcorosync-common4
 libcos4-1
 libcos4-1-dbg
 libcos4-dev
@@ -4832,6 +4842,8 @@ libcouchbase-dev
 libcouchbase-dev:i386
 libcouchbase2-libevent
 libcouchbase2-libevent:i386
+libcpg-dev
+libcpg4
 libcpl-dev
 libcpl-doc
 libcplcore20
@@ -7913,6 +7925,8 @@ libquadmath0
 libquadmath0-dbg
 libquadmath0-dbg:i386
 libquadmath0:i386
+libquorum-dev
+libquorum5
 libqwt-dev
 libqwt-doc
 libqwt6
@@ -8166,6 +8180,8 @@ libruby
 libruby1.8
 libruby1.8:i386
 libruby:i386
+libsam-dev
+libsam4
 libsamplerate0
 libsamplerate0-dev
 libsane
@@ -8771,6 +8787,8 @@ libtommath-docs
 libtommath0
 libtool
 libtool:i386
+libtotem-pg-dev
+libtotem-pg5
 libtrang-java
 libtsan0
 libtsan0-dbg
@@ -8902,6 +8920,8 @@ libvorbisenc2
 libvorbisenc2:i386
 libvorbisfile3
 libvorbisfile3:i386
+libvotequorum-dev
+libvotequorum7
 libvpx-dev
 libvpx-doc
 libvpx2
