@@ -8697,6 +8697,9 @@ libtasn1-3-dev
 libtasn1-3-dev:i386
 libtasn1-3:i386
 libtbb-dev
+libtbb-doc
+libtbb2
+libtbb2-dbg
 libtcc-dev
 libtcltk-ruby
 libtcmalloc-minimal0
@@ -11498,6 +11501,7 @@ t1lib-bin
 tango-icon-theme
 tar
 tar:i386
+tbb-examples
 tcc
 tcl
 tcl-dev
