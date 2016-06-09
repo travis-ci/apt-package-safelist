@@ -10660,6 +10660,7 @@ python-mpltoolkits.basemap-dbg
 python-mpltoolkits.basemap-doc
 python-mutagen
 python-mutagen-doc
+python-mwparserfromhell
 python-mysqldb
 python-mysqldb-dbg
 python-netcdf
@@ -10997,6 +10998,7 @@ python3-mpi4py-dbg
 python3-mpltoolkits.basemap
 python3-mpltoolkits.basemap-dbg
 python3-mutagen
+python3-mwparserfromhell
 python3-networkx
 python3-nose
 python3-notmuch
