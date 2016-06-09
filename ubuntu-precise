@@ -4994,6 +4994,12 @@ libdbusmenu-gtk3-dev
 libdbusmenu-gtk4
 libdbusmenu-jsonloader-dev
 libdbusmenu-jsonloader4
+libdbusmenu-qt-dev
+libdbusmenu-qt-doc
+libdbusmenu-qt2
+libdbusmenu-qt5-2
+libdbusmenu-qt5-dev
+libdbusmenu-qt5-doc
 libdbusmenu-tools
 libdcmtk2
 libdcmtk2-dev
