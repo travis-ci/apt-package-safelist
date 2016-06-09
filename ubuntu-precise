@@ -10454,6 +10454,7 @@ pypy-bs4
 pypy-dev
 pypy-dev:i386
 pypy-doc
+pypy-enum34
 pypy-foo
 pypy-lib
 pypy-mutagen
@@ -10536,6 +10537,8 @@ python-docutils
 python-empy
 python-empy:i386
 python-enchant
+python-enum34
+python-enum34-doc
 python-epydoc
 python-eventlet
 python-eventlet-doc
