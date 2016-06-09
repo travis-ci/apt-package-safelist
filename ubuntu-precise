@@ -10457,6 +10457,7 @@ pypy-dev:i386
 pypy-doc
 pypy-enum34
 pypy-foo
+pypy-ipaddress
 pypy-lib
 pypy-mutagen
 pypy-pkg-resources
@@ -10597,6 +10598,7 @@ python-indicate
 python-indicate:i386
 python-inflect
 python-ipaddr
+python-ipaddress
 python-iptcdata
 python-irc
 python-jdcal
