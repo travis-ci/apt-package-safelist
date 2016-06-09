@@ -10463,6 +10463,7 @@ pypy-idna
 pypy-ipaddress
 pypy-lib
 pypy-mutagen
+pypy-packaging
 pypy-pkg-resources
 pypy-pyparsing
 pypy-setuptools
@@ -10711,6 +10712,7 @@ python-opencv:i386
 python-openpyxl
 python-openssl
 python-openssl-doc
+python-packaging
 python-pandas
 python-pandas-doc
 python-pandas-lib
@@ -11053,6 +11055,7 @@ python3-numpy-dbg
 python3-oauthlib
 python3-openpyxl
 python3-openssl
+python3-packaging
 python3-pandas
 python3-pandas-lib
 python3-pbr
