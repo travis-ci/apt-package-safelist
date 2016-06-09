@@ -10665,6 +10665,7 @@ python-matplotlib-dbg:i386
 python-matplotlib-doc
 python-matplotlib-doc:i386
 python-matplotlib:i386
+python-mccabe
 python-mediainfodll
 python-minimal
 python-minimal:i386
@@ -11035,6 +11036,7 @@ python3-markupsafe
 python3-markupsafe-dbg
 python3-matplotlib
 python3-matplotlib-dbg
+python3-mccabe
 python3-mediainfodll
 python3-minimal
 python3-minimal:i386
