@@ -239,6 +239,7 @@ autotools-dev
 autotools-dev:i386
 avr-libc
 awesome
+awscli
 bar
 barcode
 barcode-dbg
