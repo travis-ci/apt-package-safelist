@@ -7900,6 +7900,8 @@ libqt5scintilla2-designer
 libqt5scintilla2-designer-dbg
 libqt5scintilla2-dev
 libqt5scintilla2-l10n
+libqt5script5
+libqt5scripttools5
 libqt5serialport5
 libqt5serialport5-dev
 libqt5sql5
@@ -11296,7 +11298,12 @@ qtpositioning5-dev
 qtpositioning5-doc
 qtpositioning5-doc-html
 qtpositioning5-examples
+qtscript5-dbg
+qtscript5-dev
 qtscript5-doc
+qtscript5-doc-html
+qtscript5-examples
+qtscript5-private-dev
 qtserialport5-dbg
 qtserialport5-doc
 qtserialport5-doc-html
