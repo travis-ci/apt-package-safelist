@@ -5329,6 +5329,9 @@ libftdipp1-dev
 libfuse-dev
 libfuse2
 libfuse2:i386
+libfuzzy-dev
+libfuzzy2
+libfuzzy2-dbg
 libfxscintilla-dev
 libfxscintilla19
 libgail-3-0
@@ -11575,6 +11578,7 @@ squashfs-tools-dbg
 srecord
 srtp-docs
 srtp-utils
+ssdeep
 ssh
 ssh-import-id
 ssh-import-id:i386
