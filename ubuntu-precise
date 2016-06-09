@@ -1489,6 +1489,7 @@ ghc-8.0.2-prof
 ghc-doc
 ghc-head
 ghc-head:i386
+ghc-ppa-tools
 ghc-prof
 ghc:i386
 ghdl
