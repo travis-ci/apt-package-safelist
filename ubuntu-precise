@@ -10706,6 +10706,7 @@ python-mutagen-doc
 python-mwparserfromhell
 python-mysqldb
 python-mysqldb-dbg
+python-ndg-httpsclient
 python-netcdf
 python-networkx
 python-networkx-doc
@@ -11068,6 +11069,7 @@ python3-mpltoolkits.basemap
 python3-mpltoolkits.basemap-dbg
 python3-mutagen
 python3-mwparserfromhell
+python3-ndg-httpsclient
 python3-networkx
 python3-nose
 python3-notmuch
