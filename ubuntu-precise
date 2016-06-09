@@ -10799,6 +10799,8 @@ python-reportlab-doc
 python-requests
 python-requests-oauthlib
 python-requests-oauthlib-doc
+python-requests-toolbelt
+python-requests-toolbelt-doc
 python-requests-whl
 python-restkit
 python-roman
@@ -11084,6 +11086,7 @@ python3-reportlab-accel
 python3-reportlab-accel-dbg
 python3-requests
 python3-requests-oauthlib
+python3-requests-toolbelt
 python3-roman
 python3-scipy
 python3-scipy-dbg
