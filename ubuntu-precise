@@ -7602,6 +7602,10 @@ libphonon-dev
 libphonon-dev:i386
 libphonon4
 libphonon4:i386
+libphonon4qt5-4
+libphonon4qt5-dev
+libphonon4qt5experimental-dev
+libphonon4qt5experimental4
 libphononexperimental-dev
 libphononexperimental-dev:i386
 libphononexperimental4
@@ -10170,6 +10174,8 @@ phonon-backend-null
 phonon-backend-null:i386
 phonon-dbg
 phonon-dbg:i386
+phonon4qt5
+phonon4qt5-backend-null
 phonon:i386
 php-codesniffer
 php-geoip
