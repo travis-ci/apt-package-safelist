@@ -10554,6 +10554,7 @@ python-eyed3
 python-fiona
 python-flask
 python-flask-doc
+python-flickrapi
 python-fontforge
 python-fontforge:i386
 python-foo
@@ -10991,6 +10992,7 @@ python3-eventlet
 python3-examples
 python3-fiona
 python3-flask
+python3-flickrapi
 python3-foo
 python3-ftdi1
 python3-future
