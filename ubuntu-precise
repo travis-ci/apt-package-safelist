@@ -10534,6 +10534,7 @@ python-cairo-dev
 python-cffi
 python-cffi-backend
 python-cffi-backend-dbg
+python-chardet
 python-cheetah
 python-clang-3.4
 python-clang-3.5
@@ -11000,6 +11001,7 @@ python3-cairo-doc
 python3-cffi
 python3-cffi-backend
 python3-cffi-backend-dbg
+python3-chardet
 python3-coverage
 python3-coverage-dbg
 python3-crontab
