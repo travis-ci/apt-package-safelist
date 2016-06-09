@@ -10458,6 +10458,7 @@ pypy-foo
 pypy-lib
 pypy-mutagen
 pypy-pkg-resources
+pypy-pyparsing
 pypy-setuptools
 pypy-six
 pypy-zmq
@@ -10742,6 +10743,8 @@ python-pygresql
 python-pygresql-dbg
 python-pyinotify
 python-pyinotify-doc
+python-pyparsing
+python-pyparsing-doc
 python-pypdf
 python-pypy.translator.sandbox
 python-pytest
@@ -11035,6 +11038,7 @@ python3-pyfits
 python3-pyflakes
 python3-pygments
 python3-pyinotify
+python3-pyparsing
 python3-pyqt4
 python3-pyqt4-dbg
 python3-pyqt4-dbg:i386
