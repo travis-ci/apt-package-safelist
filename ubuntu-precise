@@ -10798,6 +10798,9 @@ python-qt4-sql-dbg
 python-qt4-sql-dbg:i386
 python-qt4-sql:i386
 python-qt4:i386
+python-rdflib
+python-rdflib-doc
+python-rdflib-tools
 python-redis
 python-renderpm
 python-renderpm-dbg
@@ -11097,6 +11100,7 @@ python3-pytest
 python3-pytest-cov
 python3-pytest-runner
 python3-pyudev
+python3-rdflib
 python3-redis
 python3-renderpm
 python3-renderpm-dbg
