@@ -9700,6 +9700,7 @@ manpages-dev:i386
 manpages:i386
 mapnik-doc
 mapnik-utils
+mapnik-vector-tile
 markdown
 mawk
 mawk:i386
