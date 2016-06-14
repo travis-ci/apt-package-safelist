@@ -11432,6 +11432,7 @@ riemann-c-client
 rlfe
 rpm
 rpm:i386
+rpmlint
 rrdcached
 rrdtool
 rrdtool-dbg
