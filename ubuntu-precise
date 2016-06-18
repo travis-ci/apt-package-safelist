@@ -1741,6 +1741,7 @@ gromacs-data
 gromacs-dev
 gromacs-mpich
 gromacs-openmpi
+groonga-normalizer-mysql
 groovy
 groovy:i386
 grub-disk
@@ -6633,6 +6634,9 @@ libmail-sendmail-perl
 libmail-sendmail-perl:i386
 libmapnik-dev
 libmapnik3.0
+libmariadbclient-dev
+libmariadbclient18
+libmariadbd-dev
 libmarkdown2
 libmarkdown2-dbg
 libmarkdown2-dev
@@ -9700,6 +9704,17 @@ manpages-dev:i386
 manpages:i386
 mapnik-doc
 mapnik-utils
+mariadb-client
+mariadb-client-10.0
+mariadb-client-core-10.0
+mariadb-common
+mariadb-connect-engine-10.0
+mariadb-oqgraph-engine-10.0
+mariadb-server
+mariadb-server-10.0
+mariadb-server-core-10.0
+mariadb-test
+mariadb-test-10.0
 markdown
 mawk
 mawk:i386
