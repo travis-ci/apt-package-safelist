@@ -253,6 +253,7 @@ bash:i386
 bats
 bc
 bc:i386
+beanstalkd
 biblatex
 bibutils
 binary_package.name
