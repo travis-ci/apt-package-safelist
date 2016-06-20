@@ -9712,6 +9712,8 @@ md5deep:i386
 mdadm
 mdadm-udeb
 mecab
+mecab-ipadic
+mecab-ipadic-utf8
 mecab-utils
 mediainfo
 mediainfo-gui
