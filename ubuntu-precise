@@ -10715,6 +10715,7 @@ python-matplotlib-doc
 python-matplotlib-doc:i386
 python-matplotlib:i386
 python-mccabe
+python-mecab
 python-mediainfodll
 python-minimal
 python-minimal:i386
