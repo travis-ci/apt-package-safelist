@@ -7809,6 +7809,8 @@ libqb-dev
 libqb-doc
 libqb0
 libqb0-dbg
+libqd-dev
+libqd0
 libqglviewer-dev
 libqglviewer-dev-qt4
 libqglviewer-doc
