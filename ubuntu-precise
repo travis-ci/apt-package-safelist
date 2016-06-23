@@ -240,6 +240,7 @@ autotools-dev:i386
 avr-libc
 awesome
 awscli
+axel
 bar
 barcode
 barcode-dbg
