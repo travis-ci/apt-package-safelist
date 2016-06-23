@@ -404,6 +404,7 @@ cksfv
 cl-brlapi
 cl-pgloader
 cl-quicklisp
+cl-speech-dispatcher
 clang
 clang-3.3
 clang-3.3-doc
@@ -8494,6 +8495,8 @@ libspatialite-dev
 libspatialite3
 libspatialite3:i386
 libspatialite7
+libspeechd-dev
+libspeechd2
 libspice-protocol-dev
 libspice-server-dev
 libspice-server1
@@ -11185,6 +11188,7 @@ python3-sip
 python3-sip-dbg
 python3-sip-dev
 python3-six
+python3-speechd
 python3-sphinx
 python3-sqlalchemy
 python3-sqlalchemy-ext
@@ -11567,6 +11571,10 @@ sparse
 spatialite-bin
 specific
 specific:i386
+speech-dispatcher
+speech-dispatcher-audio-plugins
+speech-dispatcher-doc-cs
+speech-dispatcher-festival
 speech-tools
 speech-tools-dbg
 speech-tools-doc
