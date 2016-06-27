@@ -9440,6 +9440,9 @@ libzeroc-ice34-dbg:i386
 libzeroc-ice34-dev
 libzeroc-ice34-dev:i386
 libzeroc-ice34:i386
+libzim-dev
+libzim0v5
+libzim0v5-dbg
 libzip-dev
 libzip2
 libzip4
