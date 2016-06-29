@@ -9137,6 +9137,7 @@ libxcb-dri2-0-dev
 libxcb-dri3-0
 libxcb-dri3-0-dbg
 libxcb-dri3-dev
+libxcb-ewmh-dev
 libxcb-ewmh1-dev
 libxcb-ewmh2
 libxcb-glx0
