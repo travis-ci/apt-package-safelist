@@ -1546,6 +1546,7 @@ gir1.2-rsvg-2.0:i386
 gir1.2-secret-1
 gir1.2-soup-2.4
 gir1.2-udisks-2.0
+gir1.2-unity-5.0
 gir1.2-upowerglib-1.0
 gir1.2-wnck-1.0
 gir1.2-wnck-3.0
@@ -8850,6 +8851,8 @@ libunistring-dev
 libunistring0
 libunistring0:i386
 libunittest++-dev
+libunity-dev
+libunity9
 libunshield-dev
 libunshield0
 libunwind-dev
