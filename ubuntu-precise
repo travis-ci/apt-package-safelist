@@ -10804,6 +10804,8 @@ python-plplot
 python-plplot-qt
 python-ply
 python-ply-doc
+python-polib
+python-polib-doc
 python-problem-report
 python-protobuf
 python-psutil
@@ -11138,6 +11140,7 @@ python3-pil.imagetk
 python3-pil.imagetk-dbg
 python3-pkg-resources
 python3-ply
+python3-polib
 python3-psutil
 python3-psutil-dbg
 python3-psycopg2
