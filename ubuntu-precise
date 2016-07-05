@@ -266,6 +266,7 @@ binutils-aarch64-linux-gnu
 binutils-alpha-linux-gnu
 binutils-arm-linux-gnueabi
 binutils-arm-linux-gnueabihf
+binutils-arm-none-eabi
 binutils-avr
 binutils-dev
 binutils-doc
