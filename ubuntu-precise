@@ -8908,6 +8908,14 @@ libv4lconvert0
 libv8-3.7.12.22
 libv8-dbg
 libv8-dev
+libva-dev
+libva-drm1
+libva-egl1
+libva-glx1
+libva-tpi1
+libva-wayland1
+libva-x11-1
+libva1
 libvala-0.28-0
 libvala-0.28-0-dbg
 libvala-0.28-dev
@@ -11983,7 +11991,9 @@ uuid
 uuid-dev
 uuid-dev:i386
 v4l-utils
+va-driver-all
 vagrant
+vainfo
 vala-0.28-doc
 valac
 valac-0.28
