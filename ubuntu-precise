@@ -699,6 +699,10 @@ dia-gnome
 dia-libs
 dialog
 diatheke
+dict
+dictd
+dictfmt
+dictzip
 diffstat
 diffstat:i386
 diffutils
