@@ -9043,6 +9043,8 @@ libwrap0
 libwrap0-dev
 libwrap0-dev:i386
 libwrap0:i386
+libwv-1.2-4
+libwv-dev
 libwww-perl
 libwxbase2.8-0
 libwxbase2.8-dbg
@@ -12094,6 +12096,7 @@ wise-doc:i386
 wise:i386
 wkhtmltopdf
 wkhtmltopdf:i386
+wv
 wvdial
 wx-common
 wx2.8-doc
