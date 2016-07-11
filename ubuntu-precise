@@ -6256,6 +6256,10 @@ libiodbc2
 libiodbc2-dev
 libiodbc2-dev:i386
 libiodbc2:i386
+libiomp-dev
+libiomp-doc
+libiomp5
+libiomp5-dbg
 libipc-run-perl
 libipc-run3-perl
 libiptcdata
@@ -7327,6 +7331,10 @@ libomniorb4-dev
 libomnithread3-dev
 libomnithread3c2
 libomnithread3c2-dbg
+libomp-dev
+libomp-doc
+libomp5
+libomp5-dbg
 libompl-dev
 libompl10
 libompl10-dbg
