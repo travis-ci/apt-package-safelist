@@ -9776,8 +9776,11 @@ mii-diag-udeb
 mime-support
 mime-support:i386
 mingw-w64
+mingw-w64-common
 mingw-w64-dev
+mingw-w64-i686-dev
 mingw-w64-tools
+mingw-w64-x86-64-dev
 mingw32
 mingw32-binutils
 mingw32-binutils:i386
