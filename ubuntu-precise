@@ -8756,6 +8756,7 @@ libtbb-doc
 libtbb2
 libtbb2-dbg
 libtcc-dev
+libtclap-dev
 libtcltk-ruby
 libtcmalloc-minimal0
 libtcmalloc-minimal0-dbg
