@@ -678,6 +678,8 @@ default-jdk
 default-jdk-doc
 default-jre
 default-jre-headless
+defoma
+defoma-doc
 dejagnu
 desktop-file-utils
 devscripts
@@ -10461,6 +10463,7 @@ protobuf-compiler
 protobuf-compiler:i386
 protoize
 proxychains
+psfontmgr
 pslib-dev
 pslib1
 pslib1-dbg
