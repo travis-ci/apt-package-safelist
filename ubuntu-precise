@@ -1551,6 +1551,8 @@ gir1.2-upowerglib-1.0
 gir1.2-wnck-1.0
 gir1.2-wnck-3.0
 git
+git-buildpackage
+git-buildpackage-rpm
 git-crypt
 git-man
 git-man:i386
