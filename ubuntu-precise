@@ -683,6 +683,7 @@ desktop-file-utils
 devscripts
 devscripts:i386
 dfu-programmer
+dfu-util
 dh-apparmor
 dh-apparmor:i386
 dh-apport
