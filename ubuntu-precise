@@ -1483,6 +1483,9 @@ ghc-7.8.2:i386
 ghc-7.8.3
 ghc-7.8.3:i386
 ghc-7.8.4
+ghc-7.8.4-dyn
+ghc-7.8.4-htmldocs
+ghc-7.8.4-prof
 ghc-7.8.4:i386
 ghc-8.0.1
 ghc-8.0.1-dyn
