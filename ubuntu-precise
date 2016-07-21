@@ -383,6 +383,7 @@ cdbs
 cdbs-testsuite
 cdialog
 check
+checkpolicy
 checkstyle
 checkstyle:i386
 chef
