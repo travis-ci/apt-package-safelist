@@ -703,6 +703,7 @@ dia-gnome
 dia-libs
 dialog
 diatheke
+dieharder
 diffstat
 diffstat:i386
 diffutils
@@ -5031,6 +5032,8 @@ libdevmapper-event1.02.1:i386
 libdevmapper1.02.1
 libdevmapper1.02.1-udeb
 libdevmapper1.02.1:i386
+libdieharder-dev
+libdieharder3
 libdirectfb-1.2-9
 libdirectfb-1.2-9-dbg
 libdirectfb-1.2-9-udeb
