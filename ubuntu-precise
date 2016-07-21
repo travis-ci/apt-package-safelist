@@ -1527,6 +1527,7 @@ gir1.2-gee-1.0
 gir1.2-gexiv2-0.10
 gir1.2-glib-2.0
 gir1.2-glib-2.0:i386
+gir1.2-gmime-2.6
 gir1.2-gnomekeyring-1.0
 gir1.2-gnomekeyring-1.0:i386
 gir1.2-gst-plugins-base-0.10
@@ -1571,6 +1572,7 @@ glpk-doc:i386
 glpk-utils
 glpk-utils:i386
 glpk:i386
+gmime-bin
 gmp-ecm
 gmsh
 gmsh-doc
@@ -5705,6 +5707,11 @@ libglui-dev
 libglui2c2
 libgme-dev
 libgme0
+libgmime-2.6-0
+libgmime-2.6-dev
+libgmime-2.6-doc
+libgmime2.6-cil
+libgmime2.6-cil-dev
 libgmp-dev
 libgmp-dev:i386
 libgmp10
@@ -9846,6 +9853,7 @@ monodevelop-nunit
 monodevelop-versioncontrol
 monodoc-base
 monodoc-base:i386
+monodoc-gmime2.6-manual
 monodoc-gtk3.0-manual
 monodoc-manual
 monodoc-manual:i386
