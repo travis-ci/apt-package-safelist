@@ -1702,6 +1702,7 @@ gobjc-powerpc64le-linux-gnu
 gobjc-s390x-linux-gnu
 gobjc:i386
 gobject-introspection
+golang-github-spf13-hugo-dev
 golang-redhat-audit-dev
 google-chrome-beta
 google-chrome-stable
@@ -1862,6 +1863,7 @@ htmldoc
 htmldoc-common
 htop
 httpie
+hugo
 hunspell
 hunspell-da
 hunspell-de-at-frami
