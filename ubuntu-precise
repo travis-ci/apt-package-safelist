@@ -1456,6 +1456,9 @@ ghc-7.0.2:i386
 ghc-7.0.3
 ghc-7.0.3:i386
 ghc-7.0.4
+ghc-7.0.4-dyn
+ghc-7.0.4-htmldocs
+ghc-7.0.4-prof
 ghc-7.0.4:i386
 ghc-7.10.1
 ghc-7.10.1:i386
