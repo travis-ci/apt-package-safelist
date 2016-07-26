@@ -11657,6 +11657,7 @@ splint-data
 splint-doc-html
 spyder
 spyder:i386
+sqitch
 sqlite3
 sqlite3-doc
 sqlite3-doc:i386
