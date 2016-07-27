@@ -5451,6 +5451,8 @@ libgcrypt11
 libgcrypt11-dev
 libgcrypt11-dev:i386
 libgcrypt11:i386
+libgd-dbg
+libgd-dev
 libgd-gd2-perl
 libgd-gd2-perl:i386
 libgd-tools
@@ -5463,6 +5465,7 @@ libgd2-xpm
 libgd2-xpm-dev
 libgd2-xpm-dev:i386
 libgd2-xpm:i386
+libgd3
 libgdal-dev
 libgdal-doc
 libgdal-doc:i386
