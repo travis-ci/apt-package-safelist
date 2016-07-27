@@ -11018,6 +11018,19 @@ python-talloc-dev
 python-texttable
 python-tk
 python-tk-dbg
+python-twisted
+python-twisted-bin
+python-twisted-bin-dbg
+python-twisted-conch
+python-twisted-core
+python-twisted-lore
+python-twisted-mail
+python-twisted-names
+python-twisted-news
+python-twisted-runner
+python-twisted-runner-dbg
+python-twisted-web
+python-twisted-words
 python-tz
 python-unicodecsv
 python-unittest2
@@ -11980,6 +11993,7 @@ ttf-liberation
 ttf-lyx
 ttf-mscorefonts-installer
 ttf-mscorefonts-installer:i386
+twisted-doc
 twm
 txt2tags
 tzdata
