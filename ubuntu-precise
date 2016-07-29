@@ -10900,6 +10900,8 @@ python-pygresql
 python-pygresql-dbg
 python-pyinotify
 python-pyinotify-doc
+python-pymc
+python-pymc-doc
 python-pyparsing
 python-pyparsing-doc
 python-pypdf
