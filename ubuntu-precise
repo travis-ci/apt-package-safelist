@@ -609,6 +609,8 @@ cryptsetup
 cryptsetup-bin
 cryptsetup-bin:i386
 cryptsetup-udeb
+cscope
+cscope-el
 csh
 csh:i386
 cssc
