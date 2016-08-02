@@ -339,6 +339,7 @@ busybox-initramfs
 busybox-initramfs:i386
 bwa
 bwa:i386
+bwidget
 bzip2
 bzip2:i386
 bzr
