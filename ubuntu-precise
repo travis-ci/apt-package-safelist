@@ -9536,6 +9536,8 @@ libzookeeper-mt2
 libzookeeper-st-dev
 libzookeeper-st2
 libzookeeper2
+libzopfli-dev
+libzopfli1
 libzzip-0-13
 libzzip-dev
 lilo
@@ -12386,6 +12388,7 @@ zlib1g:i386
 zookeeper
 zookeeper-bin
 zookeeperd
+zopfli
 zsh
 zsh:i386
 zsync
