@@ -1026,6 +1026,7 @@ freetds-bin
 freetds-common
 freetds-dev
 freetds-dev:i386
+fsharp
 ftdi-eeprom
 ftjam
 fuse
@@ -5351,6 +5352,8 @@ libfribidi-dev
 libfribidi0
 libfribidi0-udeb
 libfribidi0:i386
+libfsharp-core4.3-cil
+libfsharp-data-typeproviders4.4-cil
 libftdi-dev
 libftdi1
 libftdi1-2
