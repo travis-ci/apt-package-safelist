@@ -9032,6 +9032,8 @@ libvtkgdcm2-dev
 libvtkgdcm2-dev:i386
 libvtkgdcm2.0
 libvtkgdcm2.0:i386
+libvulkan-dev
+libvulkan1
 libwavpack-dev
 libwavpack1
 libwbclient-dev
@@ -12130,6 +12132,7 @@ voms-server
 vorbis-tools
 vpnc
 vpx-tools
+vulkan-utils
 wamerican
 wamerican:i386
 wammu
