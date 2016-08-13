@@ -10180,6 +10180,7 @@ openmpi-common
 openmpi-doc
 openmpi:i386
 openmpipython
+openntpd
 openscenegraph
 openscenegraph-doc
 openscenegraph-examples
