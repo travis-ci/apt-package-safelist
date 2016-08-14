@@ -8025,6 +8025,11 @@ libraw-bin
 libraw-dev
 libraw-doc
 libraw10
+libraw1394-11
+libraw1394-11-dbg
+libraw1394-dev
+libraw1394-doc
+libraw1394-tools
 librdf-storage-mysql
 librdf-storage-postgresql
 librdf-storage-sqlite
