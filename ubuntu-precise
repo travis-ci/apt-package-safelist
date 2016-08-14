@@ -10376,6 +10376,8 @@ portaudio19-dev
 portaudio19-dev:i386
 portaudio19-doc
 portaudio19-doc:i386
+posh
+posh-dbg
 postfix
 postfix-cdb
 postfix-dev
