@@ -6769,6 +6769,7 @@ libmono-cairo4.0-cil
 libmono-cairo4.0-cil:i386
 libmono-cecil-private-cil
 libmono-cecil-private-cil:i386
+libmono-cecil-vb0.9-cil
 libmono-cil-dev
 libmono-cil-dev:i386
 libmono-codecontracts4.0-cil
@@ -6843,6 +6844,7 @@ libmono-microsoft-build2.0-cil
 libmono-microsoft-build2.0-cil:i386
 libmono-microsoft-csharp4.0-cil
 libmono-microsoft-csharp4.0-cil:i386
+libmono-microsoft-visualbasic10.0-cil
 libmono-microsoft-visualc10.0-cil
 libmono-microsoft-visualc10.0-cil:i386
 libmono-microsoft-web-infrastructure1.0-cil
@@ -9858,6 +9860,7 @@ mono-4.0-gac
 mono-4.0-gac:i386
 mono-4.0-service
 mono-4.0-service:i386
+mono-basic-dbg
 mono-complete
 mono-complete:i386
 mono-csharp-shell
@@ -9884,6 +9887,7 @@ mono-runtime-sgen:i386
 mono-runtime:i386
 mono-utils
 mono-utils:i386
+mono-vbnc
 mono-xbuild
 mono-xbuild:i386
 monodevelop
