@@ -6186,6 +6186,7 @@ libhogweed2
 libhtml-tableextract-perl
 libhtml-template-perl
 libhtml-template-perl:i386
+libhtml-tidy-perl
 libhttp-daemon-perl
 libhttp-parser-dev
 libhttp-parser2.1
