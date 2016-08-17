@@ -10203,6 +10203,8 @@ openscenegraph-doc
 openscenegraph-examples
 openslide-tools
 opensp
+openssh-blacklist
+openssh-blacklist-extra
 openssh-client
 openssh-client:i386
 openssh-server
