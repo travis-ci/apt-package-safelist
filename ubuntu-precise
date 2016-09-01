@@ -695,6 +695,7 @@ dh-apparmor:i386
 dh-apport
 dh-autoreconf
 dh-exec
+dh-golang
 dh-make
 dh-make:i386
 dh-python
