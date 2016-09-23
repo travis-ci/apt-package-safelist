@@ -7263,6 +7263,12 @@ libnettle4
 libnettle4:i386
 libnewt0.52
 libnewt0.52:i386
+libnfc-bin
+libnfc-dev
+libnfc-examples
+libnfc-pn53x-examples
+libnfc5
+libnfc5-dbg
 libnfnetlink-dev
 libnfnetlink0
 libnfnetlink0-dbg
