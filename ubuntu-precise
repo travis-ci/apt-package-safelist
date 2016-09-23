@@ -228,6 +228,7 @@ augeas-tools
 autoconf
 autoconf-archive
 autoconf2.13
+autoconf2.64
 autoconf:i386
 autogen
 autogen-doc
