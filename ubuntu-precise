@@ -8981,6 +8981,8 @@ libubsan0
 libubsan0-dbg
 libubsan0-dbg:i386
 libubsan0:i386
+libucl-dev
+libucl1
 libudev-dev
 libudev0
 libudev0:i386
