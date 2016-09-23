@@ -10004,6 +10004,7 @@ mpltools
 mpltools:i386
 mpv
 mpv-dbg
+mr
 mscgen
 msp430-libc
 msp430mcu
