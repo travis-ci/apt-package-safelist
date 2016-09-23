@@ -27,6 +27,7 @@ android-platform-build-headers
 android-tools-adb
 android-tools-fastboot
 android-tools-fsutils
+anki
 ann-tools
 ansible
 ansible-fireball
