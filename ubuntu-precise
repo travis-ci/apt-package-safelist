@@ -6662,6 +6662,7 @@ liblwgeom-2.1.5:i386
 liblwgeom-2.1.8
 liblwgeom-2.2-5
 liblwgeom-dev
+liblxc1
 liblz4-1
 liblz4-1-dbg
 liblz4-dev
@@ -9788,6 +9789,9 @@ luajit
 luarocks
 lvm2
 lvm2-udeb
+lxc
+lxc-dbg
+lxc-dev
 lyx
 lyx-common
 lyx-dbg
