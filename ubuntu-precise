@@ -1752,6 +1752,7 @@ gobjc-powerpc64le-linux-gnu
 gobjc-s390x-linux-gnu
 gobjc:i386
 gobject-introspection
+golang-github-influxdb-influxdb-dev
 golang-github-spf13-hugo-dev
 golang-redhat-audit-dev
 google-chrome-beta
@@ -2060,6 +2061,9 @@ imagemagick-doc
 imagemagick:i386
 indent
 indent-doc
+influxdb
+influxdb-client
+influxdb-dev
 info
 info:i386
 init
