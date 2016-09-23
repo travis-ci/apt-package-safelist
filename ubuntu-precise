@@ -907,6 +907,7 @@ fakechroot:i386
 fakeroot
 fakeroot:i386
 faketime
+fasm
 fbi
 feh
 ffmpeg
