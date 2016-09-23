@@ -690,6 +690,7 @@ default-jre
 default-jre-headless
 defoma
 defoma-doc
+deja-dup
 dejagnu
 desktop-file-utils
 deutex
