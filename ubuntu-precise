@@ -10960,6 +10960,8 @@ python-pyparsing
 python-pyparsing-doc
 python-pypdf
 python-pypy.translator.sandbox
+python-pysnmp4
+python-pysnmp4-doc
 python-pytest
 python-pytest-cov
 python-pytest-doc
@@ -11298,6 +11300,7 @@ python3-pyqt4.qtsql:i386
 python3-pyqt4:i386
 python3-pyqt5.qsci
 python3-pyqt5.qsci-dbg
+python3-pysnmp4
 python3-pytest
 python3-pytest-cov
 python3-pytest-runner
