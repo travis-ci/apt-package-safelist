@@ -22,6 +22,8 @@ alsa-oss
 alsa-utils
 alsa-utils-udeb
 amqp-tools
+android-logtags-tools
+android-platform-build-headers
 android-tools-adb
 android-tools-fastboot
 android-tools-fsutils
@@ -12415,8 +12417,10 @@ zeroc-icee
 zeroc-icee:i386
 zip
 zip:i386
+zipalign
 zipcmp
 zipmerge
+ziptime
 ziptool
 ziptorrent
 zlib-bin
