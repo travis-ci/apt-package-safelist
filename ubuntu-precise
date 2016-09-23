@@ -11074,6 +11074,8 @@ python-talloc-dev
 python-texttable
 python-tk
 python-tk-dbg
+python-tornado
+python-tornado-doc
 python-tz
 python-unicodecsv
 python-unittest2
@@ -11332,6 +11334,7 @@ python3-sympy
 python3-tabulate
 python3-tk
 python3-tk-dbg
+python3-tornado
 python3-tz
 python3-unicodecsv
 python3-unittest2
