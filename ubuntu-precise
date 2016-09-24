@@ -18,6 +18,8 @@ alex-3.1.4:i386
 alex-3.1.7
 alex:i386
 alien
+allegro-demo
+allegro-examples
 alsa-oss
 alsa-utils
 alsa-utils-udeb
@@ -4160,6 +4162,12 @@ libalgorithm-diff-xs-perl
 libalgorithm-diff-xs-perl:i386
 libalgorithm-merge-perl
 libalgorithm-merge-perl:i386
+liballegro-doc
+liballegro4.2
+liballegro4.2-dev
+liballegro4.2-plugin-esd
+liballegro4.2-plugin-jack
+liballegro4.2-plugin-svgalib
 libalut-dev
 libalut0
 libamd2.3.1
