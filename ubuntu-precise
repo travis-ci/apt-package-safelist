@@ -8606,6 +8606,7 @@ libsnmp15:i386
 libsodium-dbg
 libsodium-dev
 libsodium13
+libsodium18
 libsofthsm2
 libsofthsm2-dev
 libsoil-dev
