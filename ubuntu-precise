@@ -8534,9 +8534,6 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
-libsodium-dbg
-libsodium-dev
-libsodium13
 libsofthsm2
 libsofthsm2-dev
 libsoil-dev
