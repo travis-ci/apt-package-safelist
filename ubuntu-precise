@@ -693,6 +693,7 @@ defoma-doc
 dejagnu
 desktop-file-utils
 deutex
+device-tree-compiler
 devscripts
 devscripts:i386
 dfu-programmer
@@ -5334,6 +5335,8 @@ libfbembed2.5
 libfbembed2.5:i386
 libfcgi-dev
 libfcgi-dev:i386
+libfdt-dev
+libfdt1
 libffi-dev
 libffi-dev:i386
 libffi6
