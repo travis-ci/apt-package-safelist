@@ -693,6 +693,7 @@ defoma-doc
 dejagnu
 desktop-file-utils
 deutex
+device-tree-compiler
 devscripts
 devscripts:i386
 dfu-programmer
