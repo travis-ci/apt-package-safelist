@@ -4155,6 +4155,8 @@ libaio-dev:i386
 libaio1
 libaio1-dbg
 libaio1-udeb
+libaldmb1
+libaldmb1-dev
 libalgorithm-diff-perl
 libalgorithm-diff-perl:i386
 libalgorithm-diff-xs-perl
@@ -5171,6 +5173,8 @@ libdrm2
 libdrm2:i386
 libdrmaa1.0
 libdtdinst-java
+libdumb1
+libdumb1-dev
 libdvbpsi-dbg
 libdvbpsi-dev
 libdvbpsi10
