@@ -6741,6 +6741,7 @@ liblwgeom-2.1.5
 liblwgeom-2.1.5:i386
 liblwgeom-2.1.8
 liblwgeom-2.2-5
+liblwgeom-2.3-0
 liblwgeom-dev
 liblz4-1
 liblz4-1-dbg
@@ -10512,6 +10513,7 @@ postfix-pcre
 postfix-pgsql
 postgis
 postgis-doc
+postgis-gui
 postgresql-9.0-plv8
 postgresql-9.0-plv8:i386
 postgresql-9.1
@@ -10559,6 +10561,9 @@ postgresql-9.5-postgis-2.2
 postgresql-9.5-postgis-scripts
 postgresql-9.5-postgis-scripts:i386
 postgresql-9.5:i386
+postgresql-9.6-postgis-2.3
+postgresql-9.6-postgis-2.3-scripts
+postgresql-9.6-postgis-scripts
 postgresql-client
 postgresql-client-9.1
 postgresql-client-9.1:i386
