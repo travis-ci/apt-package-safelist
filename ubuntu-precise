@@ -8399,6 +8399,8 @@ libsaxonb-java
 libsaxonb-java-doc
 libsaxonhe-java
 libsb2
+libsbc-dev
+libsbc1
 libsbuild-perl
 libscotch-5.1
 libscotch-dbg
@@ -11730,6 +11732,8 @@ samplerate-programs
 samtools
 samtools:i386
 sasl2-bin
+sbc-dbg
+sbc-tools
 sbuild
 scala
 scala-doc
