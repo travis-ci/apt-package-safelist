@@ -7790,6 +7790,8 @@ libpixman-1-0:i386
 libpixman-1-dev
 libpixman-1-dev:i386
 libplack-perl
+libplib-dev
+libplib1
 libplist++-dev
 libplist++3v5
 libplist-dbg
