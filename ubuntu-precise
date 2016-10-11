@@ -6614,6 +6614,8 @@ liblept4
 libleptonica-dev
 libleveldb-dev
 liblinearmath2.83v5
+liblinphone-dev
+liblinphone5
 liblldb-3.5
 liblldb-3.5-dev
 liblldb-3.6
@@ -6827,6 +6829,8 @@ libmecab2
 libmediainfo-dev
 libmediainfo-doc
 libmediainfo0v5
+libmediastreamer-base3
+libmediastreamer-dev
 libmemcache-dev
 libmemcache0
 libmemcached-dev
@@ -7664,6 +7668,8 @@ liborbit2
 liborbit2:i386
 liborc-0.4-0
 liborc-0.4-0:i386
+libortp-dev
+libortp9
 libosmesa6
 libosmesa6-dev
 libosmesa6-dev:i386
@@ -9687,6 +9693,10 @@ lilo-doc
 linklint
 links
 links2
+linphone
+linphone-common
+linphone-dbg
+linphone-nogtk
 lintian
 lintian:i386
 linux-headers-3.13.0-40-generic
