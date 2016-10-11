@@ -1,4 +1,5 @@
 a2ps
+aac-enc
 abiword
 abiword-common
 abiword-dbg
@@ -5359,6 +5360,8 @@ libfbembed2.5
 libfbembed2.5:i386
 libfcgi-dev
 libfcgi-dev:i386
+libfdk-aac-dev
+libfdk-aac1
 libfdt-dev
 libfdt1
 libffi-dev
