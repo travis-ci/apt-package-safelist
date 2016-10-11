@@ -5133,6 +5133,11 @@ libdbusmenu-qt5-2
 libdbusmenu-qt5-dev
 libdbusmenu-qt5-doc
 libdbusmenu-tools
+libdc1394-22
+libdc1394-22-dbg
+libdc1394-22-dev
+libdc1394-22-doc
+libdc1394-utils
 libdcmtk2
 libdcmtk2-dev
 libdcmtk2-dev:i386
