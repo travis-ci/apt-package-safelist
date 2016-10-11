@@ -11023,6 +11023,7 @@ python-pil-doc
 python-pil.imagetk
 python-pil.imagetk-dbg
 python-pip
+python-pip-whl
 python-pip:i386
 python-pkg-resources
 python-pkg-resources:i386
@@ -11375,6 +11376,7 @@ python3-pil
 python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
+python3-pip
 python3-pkg-resources
 python3-ply
 python3-polib
