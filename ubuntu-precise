@@ -1666,6 +1666,7 @@ gnustep-devel
 gnustep-games
 gnutls-bin
 gnutls-doc
+go-bindata
 gobjc
 gobjc++
 gobjc++-4.4
@@ -1758,6 +1759,7 @@ gobjc-s390x-linux-gnu
 gobjc:i386
 gobject-introspection
 golang-github-influxdb-influxdb-dev
+golang-github-jteeuwen-go-bindata-dev
 golang-github-spf13-hugo-dev
 golang-redhat-audit-dev
 google-chrome-beta
