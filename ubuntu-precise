@@ -10251,6 +10251,8 @@ odbcinst
 odbcinst1debian2
 odbcinst1debian2:i386
 odbcinst:i386
+oggvideotools
+oggvideotools-dbg
 ogre-doc
 ogre-samples
 ogre-samples-data
