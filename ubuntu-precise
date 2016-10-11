@@ -5643,6 +5643,7 @@ libgenders0
 libgenders0-dev
 libgenometools0
 libgenometools0-dev
+libgeocoding7
 libgeoip-dev
 libgeoip-dev:i386
 libgeoip1
@@ -7768,9 +7769,12 @@ libphobos-5-dev
 libphobos-5-dev:i386
 libphobos-6-dev
 libphobos-dev
+libphonenumber-dev
 libphonenumber6
 libphonenumber6-dev
 libphonenumber6-java
+libphonenumber7
+libphonenumber7-java
 libphonon-dev
 libphonon-dev:i386
 libphonon4
