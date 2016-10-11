@@ -10477,6 +10477,7 @@ pkg-config:i386
 pkg-test
 pkg-test-illiterate
 pkg-test-no-install
+plantuml
 plplot-doc
 plplot-tcl
 plplot-tcl-bin
