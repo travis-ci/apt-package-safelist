@@ -92,6 +92,8 @@ barcode
 barcode-dbg
 barcode-dbg:i386
 barcode:i386
+bc
+bc:i386
 bibutils
 bibutils:i386
 bisonc++
