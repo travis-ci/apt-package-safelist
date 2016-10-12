@@ -1,6 +1,8 @@
 # APT package whitelist
 
-This repo contains plain text files for the packages approved for installation in restricted build environments,
+We have a container-based infrastructure which runs docker. Because docker containers are not fully isolated, the use of `sudo` is disallowed on that environment, to prevent builds from breaking out to the host machine. We do however want to allow the installation of some packages via apt.
+
+This repo contains plain text files for the packages approved for installation in those restricted build environments,
 specifically meant for use with the [`apt_packages` addon in
 travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/build/addons/apt_packages.rb).
 
