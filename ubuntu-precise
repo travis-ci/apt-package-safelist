@@ -9501,7 +9501,10 @@ libxkbcommon-dev
 libxkbcommon-x11-0
 libxkbcommon-x11-dev
 libxkbcommon0
+libxkbfile-dev
 libxkbfile1
+libxkbfile1-dbg
+libxkbfile1-udeb
 libxkbfile1:i386
 libxml++2.6-2v5
 libxml++2.6-dbg
