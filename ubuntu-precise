@@ -9047,6 +9047,8 @@ libudunits2-dev
 libumfpack5.6.2
 libunbound-dev
 libunbound-dev:i386
+libuninameslist-dev
+libuninameslist0
 libunistring-dev
 libunistring0
 libunistring0:i386
