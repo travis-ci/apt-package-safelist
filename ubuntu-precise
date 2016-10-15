@@ -8700,6 +8700,9 @@ libspice-protocol-dev
 libspice-server-dev
 libspice-server1
 libspice-server1-dbg
+libspiro-dev
+libspiro0
+libspiro0-dbg
 libspnav-dev
 libspnav0
 libspotify-dev
