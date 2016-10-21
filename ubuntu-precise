@@ -10094,6 +10094,8 @@ mtools:i386
 multiarch-support
 multiarch-support:i386
 multiboot-doc
+mummer
+mummer-doc
 mumps-test
 munge
 mupdf
