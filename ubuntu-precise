@@ -7908,6 +7908,9 @@ libpq5
 libpq5:i386
 libpqxx-3.1
 libpqxx-3.1-dbg
+libpqxx-4.0v5
+libpqxx-dev
+libpqxx-doc
 libpqxx3-dev
 libpqxx3-doc
 libprocps4
