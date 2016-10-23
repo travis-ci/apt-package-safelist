@@ -6512,6 +6512,7 @@ libjpeg9-dev
 libjs-coffeescript
 libjs-jquery
 libjs-jquery:i386
+libjs-less
 libjs-sphinxdoc
 libjs-underscore
 libjson-c-dev
@@ -10198,6 +10199,7 @@ ninja-build
 ninja-build-doc
 ninja-build:i386
 nkf
+node-less
 node-underscore
 nodejs
 nodejs-dbg
