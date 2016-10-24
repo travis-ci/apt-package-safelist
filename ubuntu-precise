@@ -5817,6 +5817,7 @@ libgles2-mesa:i386
 libglew-dbg
 libglew-dev
 libglew1.10
+libglew2.0
 libglewmx-dbg
 libglewmx-dev
 libglewmx1.10
