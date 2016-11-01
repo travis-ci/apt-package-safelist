@@ -652,6 +652,7 @@ cython3-dbg
 darcs
 dash
 dash:i386
+datefudge
 db-util
 db-util:i386
 dblatex
