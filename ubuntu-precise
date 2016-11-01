@@ -10452,6 +10452,7 @@ phonon4qt5-backend-null
 phonon:i386
 php-codesniffer
 php-geoip
+php-igbinary
 php-pear
 php-pear:i386
 php-zeroc-ice
