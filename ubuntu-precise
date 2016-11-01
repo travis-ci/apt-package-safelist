@@ -12199,6 +12199,7 @@ ttf-liberation
 ttf-lyx
 ttf-mscorefonts-installer
 ttf-mscorefonts-installer:i386
+ttfautohint
 twm
 txt2tags
 tzdata
