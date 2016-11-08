@@ -12217,6 +12217,8 @@ ubuntu-minimal:i386
 ubuntu-sdk
 ucf
 ucf:i386
+ucspi-tcp
+ucspi-tcp-ipv6
 udeb
 udeb:i386
 udev
