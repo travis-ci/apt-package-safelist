@@ -1240,6 +1240,7 @@ gcc-mingw-w64-i686
 gcc-mingw-w64-i686:i386
 gcc-mingw-w64-x86-64
 gcc-mingw-w64-x86-64:i386
+gcc-mingw32
 gcc-mips-linux-gnu
 gcc-mipsel-linux-gnu
 gcc-msp430
@@ -1646,6 +1647,9 @@ gnat-5:i386
 gnat-6
 gnat-6-doc
 gnat-6-sjlj
+gnat-mingw-w64
+gnat-mingw-w64-i686
+gnat-mingw-w64-x86-64
 gnome-common
 gnome-doc-utils
 gnome-mplayer
