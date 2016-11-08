@@ -7748,6 +7748,7 @@ libpathplan4:i386
 libpcap-dev
 libpcap-dev:i386
 libpcap0.8
+libpcap0.8-dbg
 libpcap0.8-dev
 libpcap0.8-dev:i386
 libpcap0.8:i386
