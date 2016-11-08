@@ -27,7 +27,7 @@ function warn() {
 }
 
 function usage() {
-	echo "Usage: $0 [-y] repo issue_number [package [additional_packages …]]"
+	echo "Usage: $0 [-y] repo issue_number dist [package [additional_packages …]]"
 }
 
 while getopts "sy" opt; do
@@ -43,7 +43,7 @@ done
 
 shift $((OPTIND-1))
 
-if [ $# -lt 2 ]; then
+if [ $# -lt 3 ]; then
 	usage
 	exit 0
 fi
