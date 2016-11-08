@@ -54,6 +54,8 @@ ISSUE_REPO=$1
 shift
 ISSUE_NUMBER=$1
 shift
+DIST=$1
+shift
 
 PACKAGES=( $@ )
 if [ -z "$PACKAGES"  ]; then
@@ -95,7 +97,7 @@ while [ $current -lt $HITS ]; do
 	let current=$current+1
 done
 
-notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
+notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}\nDIST: ${DIST}"
 
 BRANCH="test-${ISSUE_REPO}-${ISSUE_NUMBER}"
 notice "Setting up Git"
@@ -119,9 +121,9 @@ git checkout $DEFAULT_BRANCH
 git checkout -b $BRANCH
 for p in ${PACKAGES[*]}; do
 	notice "Adding ${p}"
-	env PACKAGE=${p} make add > /dev/null
+	env PACKAGE=${p} make add ubuntu-${DIST} > /dev/null
 done
-git add ubuntu-precise
+git add ubuntu-${DIST}
 git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-precise; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}
 
 Packages: ${PACKAGES}"
