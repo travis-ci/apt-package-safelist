@@ -494,6 +494,9 @@ libepsilon0
 liberror-perl
 libestools-dev
 libestools-dev:i386
+libev-dev
+libev-libevent-dev
+libev4
 libevent-2.0-5
 libexif-dev
 libexif12
