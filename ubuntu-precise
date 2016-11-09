@@ -4818,6 +4818,8 @@ libccolamd2.8.0
 libcdt4
 libcdt4:i386
 libcdt5
+libcereal-dev
+libcereal-doc
 libcext-dev
 libcext-doc
 libcext0
