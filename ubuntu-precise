@@ -1015,6 +1015,7 @@ fonts-ipafont-mincho
 fonts-liberation
 fonts-linuxlibertine
 fonts-linuxlibertine:i386
+fonts-lmodern
 fonts-lyx
 fonts-nanum
 fonts-nanum-extra
