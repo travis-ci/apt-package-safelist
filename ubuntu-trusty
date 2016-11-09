@@ -853,6 +853,9 @@ libsctp1
 libsdl2-ttf-2.0-0
 libsdl2-ttf-dbg
 libsdl2-ttf-dev
+libsdl2-2.0-0
+libsdl2-dbg
+libsdl2-dev
 libselinux1
 libsfstdc++6
 libsfstdc++6-4.6-dbg
