@@ -1174,6 +1174,8 @@ python-demjson:i386
 python-dev
 python-enchant
 python-enchant:i386
+python-enum34
+python-enum34-doc
 python-flickrapi
 python-flickrapi:i386
 python-gflags
@@ -1221,6 +1223,7 @@ python3-chardet
 python3-chardet:i386
 python3-enchant
 python3-enchant:i386
+python3-enum34
 python3-ipaddr
 python3-ipaddr:i386
 qdbus
