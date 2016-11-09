@@ -752,7 +752,9 @@ libparted0debian1
 libpathplan4
 libpciaccess0
 libpcre3
+libpcre3-dbg
 libpcre3-dev
+libpcre3-udeb
 libpcrecpp0
 libpcsclite1
 libpgm-5.1-0
@@ -1123,6 +1125,7 @@ oracle-java7-installer
 oracle-java8-installer
 passwd
 patch
+pcregrep
 perl
 perl-base
 perl-modules
@@ -1288,6 +1291,7 @@ tzdata
 tzdata-java
 ubuntu-keyring
 ucf
+udeb
 udev
 udisks
 unattended-upgrades
