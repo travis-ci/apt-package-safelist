@@ -121,10 +121,10 @@ git checkout $DEFAULT_BRANCH
 git checkout -b $BRANCH
 for p in ${PACKAGES[*]}; do
 	notice "Adding ${p}"
-	env PACKAGE=${p} make add ubuntu-${DIST} > /dev/null
+	env PACKAGE=${p} DISTRO=ubuntu-${DIST} make add > /dev/null
 done
 git add ubuntu-${DIST}
-git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-precise; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}
+git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-${DIST}; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}
 
 Packages: ${PACKAGES}"
 
