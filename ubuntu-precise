@@ -9060,6 +9060,8 @@ libudev0
 libudev0:i386
 libudisks2-0
 libudisks2-dev
+libudns-dev
+libudns0
 libudunits2-0
 libudunits2-dev
 libumfpack5.6.2
@@ -12234,6 +12236,7 @@ udisks
 udisks2
 udisks2-doc
 udisks:i386
+udns-utils
 udunits-bin
 unace
 unattended-upgrades
