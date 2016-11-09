@@ -828,6 +828,9 @@ libsasl2-2
 libsasl2-dev
 libsasl2-modules
 libsctp1
+libsdl2-2.0-0
+libsdl2-dbg
+libsdl2-dev
 libselinux1
 libsfstdc++6
 libsfstdc++6-4.6-dbg
