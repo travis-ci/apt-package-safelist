@@ -926,6 +926,8 @@ libobjc4
 libobjc4-dbg
 libodbc1
 libogg0
+libopenblas-base
+libopenblas-dev
 libopenexr-dev
 libopenexr6
 libopts25
