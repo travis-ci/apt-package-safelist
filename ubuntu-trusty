@@ -677,6 +677,10 @@ libltdl-dev
 libltdl7
 liblvm2app2.2
 liblwgeom-2.1.5
+liblz4-1
+liblz4-1-dbg
+liblz4-dev
+liblz4-tool
 liblzma5
 libmagic1
 libmagick++-dev
