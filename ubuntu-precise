@@ -3908,6 +3908,7 @@ lemon
 leptonica-progs
 less
 less:i386
+leveldb-doc
 levelone
 leveltemplate
 leveltwo
@@ -6619,7 +6620,9 @@ liblensfun-doc
 liblensfun0
 liblept4
 libleptonica-dev
+libleveldb-dbg
 libleveldb-dev
+libleveldb1v5
 liblinearmath2.83v5
 liblinphone-dev
 liblinphone5
