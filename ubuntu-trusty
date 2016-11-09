@@ -1204,6 +1204,8 @@ python-pkg-resources
 python-pycurl
 python-pypdf
 python-pypdf:i386
+python-pytest
+python-pytest-doc
 python-pywbem
 python-pywbem:i386
 python-simplejson
@@ -1223,6 +1225,7 @@ python3-enchant
 python3-enchant:i386
 python3-ipaddr
 python3-ipaddr:i386
+python3-pytest
 qdbus
 qt4-linguist-tools
 qt4-qmake
