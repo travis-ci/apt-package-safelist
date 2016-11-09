@@ -845,6 +845,9 @@ liblz4-1-dbg
 liblz4-dev
 liblz4-tool
 liblzma5
+liblzo2-2
+liblzo2-2-udeb
+liblzo2-dev
 libmagic1
 libmagick++-dev
 libmagick++-dev:i386
