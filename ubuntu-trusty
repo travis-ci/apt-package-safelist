@@ -218,6 +218,10 @@ erlang-syntax-tools
 erlang-tools
 erlang-webtool
 erlang-xmerl
+espeak
+espeak-data
+espeak-data-udeb
+espeak-dbg
 fakeroot
 file
 findutils
@@ -492,6 +496,8 @@ libedit2
 libelf1
 libepsilon0
 liberror-perl
+libespeak-dev
+libespeak1
 libestools-dev
 libestools-dev:i386
 libevent-2.0-5
@@ -1284,6 +1290,7 @@ tzdata
 tzdata-java
 ubuntu-keyring
 ucf
+udeb
 udev
 udisks
 unattended-upgrades
