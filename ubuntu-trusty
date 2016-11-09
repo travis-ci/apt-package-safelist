@@ -307,6 +307,7 @@ gvfs-common
 gvfs-daemons
 gvfs-libs
 gzip
+haveged
 hdparm
 hicolor-icon-theme
 hostname
@@ -603,6 +604,9 @@ libgvpr1
 libhamlib2++c2
 libhamlib2++c2:i386
 libhashkit0
+libhavege-dev
+libhavege1
+libhavege1-dbg
 libhawtjni-runtime-java
 libhawtjni-runtime-java:i386
 libhcrypto4-heimdal
