@@ -933,6 +933,7 @@ libtinfo5
 libtolua++5.1-dev
 libtolua++5.1-dev:i386
 libtool
+libtool-doc
 libucl-dev
 libucl-dev:i386
 libucl1
