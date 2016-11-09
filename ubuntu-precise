@@ -1237,6 +1237,7 @@ gcc-doc
 gcc-doc:i386
 gcc-mingw-w64
 gcc-mingw-w64-base
+gcc-mingw-w64-bootstrap
 gcc-mingw-w64-i686
 gcc-mingw-w64-i686:i386
 gcc-mingw-w64-x86-64
