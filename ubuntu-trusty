@@ -276,6 +276,7 @@ gir1.2-pango-1.0
 gir1.2-rsvg-2.0
 git
 git-man
+glew-utils
 gnupg
 gpgv
 gpp
@@ -543,6 +544,12 @@ libgl1-mesa-dev
 libgl1-mesa-dri
 libgl1-mesa-glx
 libglapi-mesa
+libglew-dbg
+libglew-dev
+libglew1.10
+libglewmx-dbg
+libglewmx-dev
+libglewmx1.10
 libglfw-dev
 libglfw-dev:i386
 libglfw2
