@@ -678,6 +678,9 @@ libltdl7
 liblvm2app2.2
 liblwgeom-2.1.5
 liblzma5
+liblzo2-2
+liblzo2-2-udeb
+liblzo2-dev
 libmagic1
 libmagick++-dev
 libmagick++-dev:i386
@@ -1284,6 +1287,7 @@ tzdata
 tzdata-java
 ubuntu-keyring
 ucf
+udeb
 udev
 udisks
 unattended-upgrades
