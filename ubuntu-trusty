@@ -225,6 +225,9 @@ firefox-locale-en
 flex
 fontconfig
 fontconfig-config
+freeglut3
+freeglut3-dbg
+freeglut3-dev
 ftdi-eeprom
 ftdi-eeprom:i386
 ftjam
