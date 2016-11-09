@@ -10420,6 +10420,7 @@ patch:i386
 patchutils
 patsy
 patsy:i386
+paxctl
 pbuilder
 pbuilder:i386
 pciutils
