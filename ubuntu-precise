@@ -10082,6 +10082,7 @@ mountall
 mountall:i386
 mp3gain
 mp3splt
+mp3val
 mp4v2-dbg
 mp4v2-utils
 mpich2python
