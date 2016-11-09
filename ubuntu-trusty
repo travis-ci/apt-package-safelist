@@ -723,6 +723,8 @@ libnss3
 libnss3-1d
 libodbc1
 libogg0
+libopenblas-base
+libopenblas-dev
 libopenexr-dev
 libopenexr6
 libopts25
