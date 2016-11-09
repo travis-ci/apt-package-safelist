@@ -8703,6 +8703,11 @@ libspatialite3:i386
 libspatialite7
 libspeechd-dev
 libspeechd2
+libspeex-dbg
+libspeex-dev
+libspeex1
+libspeexdsp-dev
+libspeexdsp1
 libspice-protocol-dev
 libspice-server-dev
 libspice-server1
@@ -11870,6 +11875,8 @@ speech-dispatcher-festival
 speech-tools
 speech-tools-dbg
 speech-tools-doc
+speex
+speex-doc
 sphinx-common
 sphinx-doc
 sphinxsearch
