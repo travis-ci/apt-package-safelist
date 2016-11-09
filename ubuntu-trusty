@@ -827,6 +827,7 @@ libruli4:i386
 libsasl2-2
 libsasl2-dev
 libsasl2-modules
+libsctp-dev
 libsctp1
 libselinux1
 libsfstdc++6
