@@ -761,6 +761,10 @@ libitm1
 libitm1-dbg
 libjansi-java
 libjansi-java:i386
+libjansson-dbg
+libjansson-dev
+libjansson-doc
+libjansson4
 libjasper-dev
 libjasper1
 libjbig2dec0
