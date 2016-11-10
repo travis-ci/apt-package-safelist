@@ -10836,6 +10836,9 @@ python-apt:i386
 python-argparse
 python-argparse:i386
 python-audit
+python-babel
+python-babel-doc
+python-babel-localedata
 python-backports.ssl-match-hostname
 python-beautifulsoup
 python-blockdiag
@@ -11325,6 +11328,7 @@ python3-all-dbg
 python3-all-dev
 python3-appdirs
 python3-audit
+python3-babel
 python3-blockdiag
 python3-bottle
 python3-brlapi
