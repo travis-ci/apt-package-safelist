@@ -1038,12 +1038,12 @@ libsasl2-dev
 libsasl2-modules
 libsctp-dev
 libsctp1
-libsdl2-ttf-2.0-0
-libsdl2-ttf-dbg
-libsdl2-ttf-dev
 libsdl2-2.0-0
 libsdl2-dbg
 libsdl2-dev
+libsdl2-ttf-2.0-0
+libsdl2-ttf-dbg
+libsdl2-ttf-dev
 libselinux1
 libsfasan0
 libsfasan0-dbg
@@ -1162,8 +1162,8 @@ libtinfo5
 libtolua++5.1-dev
 libtolua++5.1-dev:i386
 libtool
-libtsan0
 libtool-doc
+libtsan0
 libtsan0-dbg
 libucl-dev
 libucl-dev:i386
@@ -1514,11 +1514,11 @@ python3-imaging-tk
 python3-imaging-tk-dbg
 python3-ipaddr
 python3-ipaddr:i386
-python3-pytest
 python3-pil
 python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
+python3-pytest
 python3-sane
 python3-sane-dbg
 qdbus
@@ -1589,6 +1589,8 @@ unattended-upgrades
 unzip
 upstart
 util-linux
+valgrind
+valgrind-dbg
 vim
 vim-common
 vim-runtime
