@@ -1496,6 +1496,8 @@ python-software-properties
 python-unittest2
 python-unittest2:i386
 python-wadllib
+python-yaml
+python-yaml-dbg
 python-zope.interface
 python-zsi
 python-zsi:i386
@@ -1522,6 +1524,8 @@ python3-pil.imagetk-dbg
 python3-pytest
 python3-sane
 python3-sane-dbg
+python3-yaml
+python3-yaml-dbg
 qdbus
 qt4-linguist-tools
 qt4-qmake
