@@ -279,6 +279,7 @@ gcc-4.8-locales
 gcc-4.8-multilib
 gcc-4.8-plugin-dev
 gcc-4.8-source
+gcc-arm-none-eabi
 gccgo-4.8
 gccgo-4.8-doc
 gccgo-4.8-multilib
