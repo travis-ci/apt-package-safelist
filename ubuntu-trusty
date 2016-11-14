@@ -358,12 +358,17 @@ hunspell-sh
 hunspell-sh:i386
 hyphen-sh
 hyphen-sh:i386
+ice35-services
+ice35-slice
+ice35-translators
+icebox
 icedtea-6-jre-cacao
 icedtea-6-jre-jamvm
 icedtea-6-plugin
 icedtea-7-plugin
 icedtea-netx
 icedtea-netx-common
+icegrid-gui
 ifrench
 ifrench:i386
 ifupdown
@@ -640,6 +645,7 @@ libfontenc1
 libfreetype6
 libfreetype6-dev
 libfreexl1
+libfreeze35
 libfuse2
 libgcc-4.8-dev
 libgcc1
@@ -673,6 +679,7 @@ libgirepository-1.0-1
 libgl1-mesa-dev
 libgl1-mesa-dri
 libgl1-mesa-glx
+libglacier2-35
 libglapi-mesa
 libglew-dbg
 libglew-dev
@@ -785,6 +792,14 @@ libhtml-template-perl
 libhx509-5-heimdal
 libice-dev
 libice6
+libicebox35
+libicedb35
+libicegrid35
+libicepatch2-35
+libicessl35
+libicestorm35
+libiceutil35
+libicexml35
 libicu-dev
 libicu48
 libidl-common
@@ -1077,6 +1092,7 @@ libsigc++-2.0-doc
 libsigc++-2.0-doc:i386
 libsigsegv2
 libslang2
+libslice35
 libsm-dev
 libsm6
 libsndfile1
@@ -1278,6 +1294,11 @@ libxxf86dga1
 libxxf86vm1
 libyaml-0-2
 libyaml-dev
+libzeroc-ice3.5-cil
+libzeroc-ice3.5-java
+libzeroc-ice35
+libzeroc-ice35-dbg
+libzeroc-ice35-dev
 libzipios++-dev
 libzipios++-dev:i386
 libzipios++-doc
@@ -1391,6 +1412,7 @@ perl-modules
 pgdg-keyring
 pgf
 pgf:i386
+php-zeroc-ice
 pinfo
 pinfo:i386
 pkg-config
@@ -1496,6 +1518,7 @@ python-software-properties
 python-unittest2
 python-unittest2:i386
 python-wadllib
+python-zeroc-ice
 python-zope.interface
 python-zsi
 python-zsi:i386
@@ -1522,6 +1545,7 @@ python3-pil.imagetk-dbg
 python3-pytest
 python3-sane
 python3-sane-dbg
+python3-zeroc-ice
 qdbus
 qt4-linguist-tools
 qt4-qmake
@@ -1533,6 +1557,7 @@ riak
 rsync
 ruby
 ruby-mysql
+ruby-zeroc-ice
 ruby1.8
 scons
 sed
@@ -1650,6 +1675,7 @@ xz-lzma
 xz-utils
 z80asm
 z80asm:i386
+zeroc-ice35
 zip
 zlib1g
 zlib1g-dev
