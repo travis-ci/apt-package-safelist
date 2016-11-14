@@ -914,6 +914,9 @@ libnet-daemon-perl:i386
 libnetcdf6
 libnetpbm10
 libnettle4
+libnewlib-arm-none-eabi
+libnewlib-dev
+libnewlib-doc
 libnfnetlink0
 libnih-dbus1
 libnih1
@@ -1355,6 +1358,7 @@ ncurses-bin
 netbase
 netcat-openbsd
 netpbm
+newlib-source
 notification-daemon
 nsis
 nsis-common
