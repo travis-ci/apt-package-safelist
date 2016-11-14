@@ -10397,6 +10397,7 @@ oracle-java7-installer
 oracle-java7-installer:i386
 oracle-java8-installer
 oracle-java8-installer:i386
+oracle-java8-set-default
 oracle-java9-installer
 oracle-java9-installer:i386
 osc
