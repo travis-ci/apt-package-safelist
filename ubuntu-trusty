@@ -921,6 +921,9 @@ libnotify4
 libnspr4
 libnss3
 libnss3-1d
+libnuma-dbg
+libnuma-dev
+libnuma1
 libobjc-4.8-dev
 libobjc4
 libobjc4-dbg
@@ -1365,6 +1368,7 @@ nsis-pluginapi
 nsis-pluginapi:i386
 nsis:i386
 ntfs-3g
+numactl
 odbcinst
 odbcinst1debian2
 omniidl-python
