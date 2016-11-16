@@ -809,6 +809,9 @@ libjansson4
 libjasper-dev
 libjasper1
 libjbig2dec0
+libjemalloc-dev
+libjemalloc1
+libjemalloc1-dbg
 libjpeg-dev
 libjpeg-turbo8
 libjpeg-turbo8-dev
