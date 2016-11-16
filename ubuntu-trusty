@@ -175,6 +175,7 @@ dmsetup
 docbook5-xml
 docbook5-xml:i386
 dosfstools
+dpatch
 dpkg
 dpkg-dev
 e2fslibs
