@@ -467,6 +467,10 @@ lib64stdc++6-4.6-dbg:i386
 lib64stdc++6-4.8-dbg
 lib64stdc++6:i386
 libacl1
+libaio-dev
+libaio1
+libaio1-dbg
+libaio1-udeb
 libalgorithm-diff-perl
 libalgorithm-diff-xs-perl
 libalgorithm-merge-perl
