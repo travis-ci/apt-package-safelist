@@ -1621,6 +1621,7 @@ x11proto-xf86vidmode-dev:i386
 x11proto-xinerama-dev
 x11proto-xinerama-dev:i386
 xauth
+xbase-clients
 xdg-utils
 xfonts-100dpi
 xfonts-100dpi-transcoded
@@ -1641,10 +1642,16 @@ xkb-data
 xml-core
 xmltoman
 xmltoman:i386
+xorg
+xorg-dev
 xorg-sgml-doctools
 xserver-common
+xserver-xorg
 xserver-xorg-core
+xserver-xorg-input-all
+xserver-xorg-video-all
 xtrans-dev
+xutils
 xvfb
 xz-lzma
 xz-utils
