@@ -818,6 +818,8 @@ libjs-jquery
 libjson0
 libjsr305-java
 libjsr305-java:i386
+libjudy-dev
+libjudydebian1
 libk5crypto3
 libkadm5clnt-mit8
 libkadm5srv-mit8
