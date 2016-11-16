@@ -665,6 +665,9 @@ libgeos-3.3.8
 libgeos-c1
 libgeos-dev
 libgettextpo0
+libgflags-dev
+libgflags-doc
+libgflags2
 libgfortran-4.8-dev
 libgfortran3
 libgfortran3-dbg
