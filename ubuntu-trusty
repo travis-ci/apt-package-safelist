@@ -877,6 +877,7 @@ libmount1
 libmozjs185-1.0
 libmpc2
 libmpfr4
+libmpfr-dev
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
