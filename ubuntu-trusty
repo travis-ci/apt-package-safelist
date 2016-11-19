@@ -1009,6 +1009,10 @@ libqt4-svg
 libqt4-test
 libqt4-xml
 libqt4-xmlpatterns
+libqt5webkit5
+libqt5webkit5-dbg
+libqt5webkit5-dev
+libqt5webkit5-qmlwebkitplugin
 libqtcore4
 libqtgui4
 libqtwebkit-dev
@@ -1496,6 +1500,7 @@ python-software-properties
 python-unittest2
 python-unittest2:i386
 python-wadllib
+python-webkitwx
 python-zope.interface
 python-zsi
 python-zsi:i386
@@ -1525,6 +1530,8 @@ python3-sane-dbg
 qdbus
 qt4-linguist-tools
 qt4-qmake
+qtwebkit5-doc
+qtwebkit5-doc-html
 rabbitmq-server
 ragel
 readline-common
@@ -1597,6 +1604,7 @@ vpnc
 vpnc:i386
 wamerican
 wamerican:i386
+webkitwx-headers
 weex
 weex:i386
 wget
