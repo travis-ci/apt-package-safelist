@@ -10330,6 +10330,9 @@ openal-info
 openbabel
 openbabel-dbg
 openbabel-gui
+openbios
+openbios-ppc
+openbios-sparc
 opencascade-draw
 opencascade-examples
 opencl-headers
