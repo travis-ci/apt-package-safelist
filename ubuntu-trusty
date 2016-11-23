@@ -325,6 +325,10 @@ gputils-common:i386
 gputils-doc
 gputils-doc:i386
 gputils:i386
+graphicsmagick
+graphicsmagick-dbg
+graphicsmagick-imagemagick-compat
+graphicsmagick-libmagick-dev-compat
 grep
 groff-base
 groovy
@@ -714,6 +718,11 @@ libgpg-error-dev
 libgpg-error0
 libgpm2
 libgraph4
+libgraphics-magick-perl
+libgraphicsmagick++1-dev
+libgraphicsmagick++3
+libgraphicsmagick1-dev
+libgraphicsmagick3
 libgraphviz-dev
 libgs9
 libgs9-common
@@ -1570,6 +1579,7 @@ sudo
 sysv-rc
 sysvinit-utils
 tar
+tclmagick
 tcpd
 texlive-doc-cs+sk
 texlive-doc-cs+sk:i386
