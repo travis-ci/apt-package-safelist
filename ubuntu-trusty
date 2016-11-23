@@ -364,6 +364,7 @@ icedtea-6-plugin
 icedtea-7-plugin
 icedtea-netx
 icedtea-netx-common
+icnsutils
 ifrench
 ifrench:i386
 ifupdown
@@ -785,6 +786,8 @@ libhtml-template-perl
 libhx509-5-heimdal
 libice-dev
 libice6
+libicns-dev
+libicns1
 libicu-dev
 libicu48
 libidl-common
