@@ -621,6 +621,10 @@ cscope
 cscope-el
 csh
 csh:i386
+csladspa
+csound
+csound-data
+csound-utils
 cssc
 ctpl
 cucumber
@@ -5016,6 +5020,14 @@ libcryptsetup4
 libcryptsetup4-udeb
 libcryptsetup4:i386
 libcsiro0
+libcsnd-dev
+libcsnd6-6.0v5
+libcsnd6-java
+libcsound64-6.0
+libcsound64-dev
+libcsound64-doc
+libcsoundac-dev
+libcsoundac6.0v5
 libcsparse3.1.2
 libcss-dom-perl
 libct4
@@ -6745,6 +6757,7 @@ liblua5.1-0-dev:i386
 liblua5.1-0:i386
 liblua5.1-bitop-dev
 liblua5.1-bitop0
+liblua5.1-luacsnd
 liblua5.1-rrd-dev
 liblua5.1-rrd0
 liblua5.2-0
@@ -10434,6 +10447,7 @@ pciutils
 pciutils-udeb
 pcregrep
 pcscd
+pd-csound
 pdftk
 pdftk-dbg
 pdftk:i386
@@ -10873,6 +10887,8 @@ python-coverage-dbg
 python-crontab
 python-crypto
 python-crypto:i386
+python-csound
+python-csoundac
 python-cvxopt
 python-dateutil
 python-dbg
