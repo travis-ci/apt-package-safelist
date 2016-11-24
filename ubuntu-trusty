@@ -1382,6 +1382,8 @@ openssl
 oracle-java7-installer
 oracle-java8-installer
 oracle-java8-set-default
+p7zip
+p7zip-full
 passwd
 patch
 pcregrep
