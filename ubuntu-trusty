@@ -412,6 +412,7 @@ language-pack-ss:i386
 latexml
 latexml:i386
 less
+lftp
 lib32asan0
 lib32asan0-dbg
 lib32atomic1
