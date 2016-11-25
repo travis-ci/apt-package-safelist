@@ -233,6 +233,7 @@ fixincludes
 flex
 fontconfig
 fontconfig-config
+fonts-lmodern
 freeglut3
 freeglut3-dbg
 freeglut3-dev
@@ -1291,6 +1292,7 @@ linux-libc-dev
 littler
 littler:i386
 lksctp-tools
+lmodern
 locales
 login
 logrotate
