@@ -952,6 +952,8 @@ libparse-yapp-perl:i386
 libparted0debian1
 libpathplan4
 libpciaccess0
+libpcre++-dev
+libpcre++0
 libpcre3
 libpcre3-dbg
 libpcre3-dev
