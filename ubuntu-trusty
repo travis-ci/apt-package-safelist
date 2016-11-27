@@ -617,6 +617,8 @@ libestools-dev:i386
 libev-dev
 libev-libevent-dev
 libev4
+libevdev-dev
+libevdev2
 libevent-2.0-5
 libexif-dev
 libexif12
