@@ -10197,6 +10197,7 @@ netcdf-bin
 netcdf-bin:i386
 netcdf-dbg
 netcdf-doc
+netmask
 netpbm
 netpbm:i386
 nettle-bin
