@@ -1535,6 +1535,7 @@ ruby
 ruby-mysql
 ruby1.8
 scons
+seabios
 sed
 sensible-utils
 sgml-base
