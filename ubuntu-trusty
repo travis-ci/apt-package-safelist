@@ -168,6 +168,7 @@ debianutils
 dfu-util
 dfu-util:i386
 dh-apparmor
+dh-virtualenv
 diffutils
 ditaa
 ditaa:i386
