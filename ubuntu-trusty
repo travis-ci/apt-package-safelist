@@ -904,6 +904,7 @@ libn32quadmath0-dbg
 libn32stdc++-4.8-dev
 libn32stdc++6
 libn32stdc++6-4.8-dbg
+libnacl-dev
 libncurses5
 libncurses5-dev
 libncursesw5
@@ -1344,6 +1345,7 @@ mysql-common
 mysql-server
 mysql-server-5.5
 mysql-server-core-5.5
+nacl-tools
 naturaldocs
 naturaldocs:i386
 ncbi-blast+
