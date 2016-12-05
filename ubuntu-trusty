@@ -98,6 +98,7 @@ autoconf2.64:i386
 autogen
 automake
 autotools-dev
+avr-libc
 axel
 axel:i386
 barcode
