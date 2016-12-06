@@ -301,6 +301,8 @@ gfortran-4.8
 gfortran-4.8-doc
 gfortran-4.8-multilib
 ghostscript
+gir1.2-appindicator-0.1
+gir1.2-appindicator3-0.1
 gir1.2-atk-1.0
 gir1.2-freedesktop
 gir1.2-gdkpixbuf-2.0
@@ -477,6 +479,13 @@ libaosd-text2
 libaosd-text2:i386
 libaosd2
 libaosd2:i386
+libappindicator-dev
+libappindicator-doc
+libappindicator0.1-cil
+libappindicator0.1-cil-dev
+libappindicator1
+libappindicator3-1
+libappindicator3-dev
 libapr1
 libaprutil1
 libapt-inst1.4
@@ -1428,6 +1437,7 @@ proj-bin
 proj-data
 psmisc
 python
+python-appindicator
 python-apt
 python-apt-common
 python-argparse
