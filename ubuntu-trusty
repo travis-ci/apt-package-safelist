@@ -1297,6 +1297,8 @@ logrotate
 lsb-base
 lsb-release
 lsof
+lua-filesystem
+lua-filesystem-dev
 lzop
 lzop:i386
 m4
