@@ -1093,6 +1093,9 @@ libspnav0
 libspnav0:i386
 libsqlite3-0
 libsqlite3-dev
+libsrecord-dev
+libsrecord0
+libsrecord0-dbg
 libss2
 libssl-dev
 libssl-doc
@@ -1560,6 +1563,7 @@ splint-doc-html:i386
 splint:i386
 sqlite3
 sqlite3-doc
+srecord
 ssh
 ssh-import-id
 sshpass
