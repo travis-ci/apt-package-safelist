@@ -1491,6 +1491,7 @@ python-pywbem
 python-pywbem:i386
 python-sane
 python-sane-dbg
+python-serial
 python-simplejson
 python-software-properties
 python-unittest2
@@ -1522,6 +1523,7 @@ python3-pil.imagetk-dbg
 python3-pytest
 python3-sane
 python3-sane-dbg
+python3-serial
 qdbus
 qt4-linguist-tools
 qt4-qmake
