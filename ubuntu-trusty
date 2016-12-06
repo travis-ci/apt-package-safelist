@@ -172,6 +172,8 @@ diffutils
 ditaa
 ditaa:i386
 dmsetup
+docbook-xsl-saxon
+docbook-xsl-saxon-gcj
 docbook5-xml
 docbook5-xml:i386
 dosfstools
