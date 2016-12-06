@@ -233,6 +233,7 @@ fixincludes
 flex
 fontconfig
 fontconfig-config
+fonts-liberation
 freeglut3
 freeglut3-dbg
 freeglut3-dev
@@ -1579,6 +1580,7 @@ tsocks
 tsocks:i386
 ttf-dejavu-core
 ttf-dejavu-extra
+ttf-liberation
 tzdata
 tzdata-java
 ubuntu-keyring
