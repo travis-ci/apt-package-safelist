@@ -1530,6 +1530,7 @@ ragel
 readline-common
 redis-server
 riak
+rpm
 rsync
 ruby
 ruby-mysql
