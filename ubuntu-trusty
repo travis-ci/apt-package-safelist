@@ -1267,6 +1267,7 @@ libxrandr-dev
 libxrandr2
 libxrender-dev
 libxrender1
+libxslt1-dbg
 libxslt1-dev
 libxslt1.1
 libxss1
@@ -1463,6 +1464,8 @@ python-keyring
 python-launchpadlib
 python-lazr.restfulclient
 python-lazr.uri
+python-libxslt1
+python-libxslt1-dbg
 python-minimal
 python-nosexcover
 python-nosexcover:i386
@@ -1645,6 +1648,7 @@ xmltoman:i386
 xorg-sgml-doctools
 xserver-common
 xserver-xorg-core
+xsltproc
 xtrans-dev
 xvfb
 xz-lzma
