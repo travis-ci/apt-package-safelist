@@ -118,7 +118,9 @@ bisonc++
 bisonc++-doc
 bisonc++-doc:i386
 bisonc++:i386
+bsdcpio
 bsdmainutils
+bsdtar
 bsdutils
 build-essential
 busybox-initramfs
@@ -481,7 +483,9 @@ libapr1
 libaprutil1
 libapt-inst1.4
 libapt-pkg4.12
+libarchive-dev
 libarchive12
+libarchive13
 libarmadillo2
 libasan0
 libasan0-dbg
