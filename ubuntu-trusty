@@ -607,6 +607,8 @@ libdrm-nouveau2
 libdrm-radeon1
 libdrm2
 libedit2
+libeigen3-dev
+libeigen3-doc
 libelf1
 libepsilon0
 liberror-perl
