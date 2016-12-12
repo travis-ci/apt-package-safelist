@@ -1284,6 +1284,9 @@ libzipios++-doc
 libzipios++-doc:i386
 libzipios++0c2a
 libzipios++0c2a:i386
+libzmq-dbg
+libzmq-dev
+libzmq1
 libzmq3
 linklint
 linklint:i386
