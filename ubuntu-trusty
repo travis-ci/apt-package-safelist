@@ -1079,6 +1079,8 @@ libsigsegv2
 libslang2
 libsm-dev
 libsm6
+libsnappy-dev
+libsnappy1
 libsndfile1
 libsoil-dev
 libsoil-dev:i386
