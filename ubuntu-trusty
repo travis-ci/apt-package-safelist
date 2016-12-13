@@ -311,6 +311,7 @@ gir1.2-rsvg-2.0
 git
 git-man
 glew-utils
+gmime-bin
 gnupg
 gobjc++-4.8
 gobjc++-4.8-multilib
@@ -694,6 +695,12 @@ libgme-dev
 libgme-dev:i386
 libgme0
 libgme0:i386
+libgmime-2.6-0
+libgmime-2.6-0-dbg
+libgmime-2.6-dev
+libgmime-2.6-doc
+libgmime2.6-cil
+libgmime2.6-cil-dev
 libgmp10
 libgnome-keyring-common
 libgnome-keyring0
@@ -1321,6 +1328,7 @@ mingw32-runtime:i386
 mingw32:i386
 module-init-tools
 mongodb-10gen
+monodoc-gmime2.6-manual
 mount
 mountall
 mtools
