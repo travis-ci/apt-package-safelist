@@ -1382,6 +1382,7 @@ openssl
 oracle-java7-installer
 oracle-java8-installer
 oracle-java8-set-default
+pandoc
 passwd
 patch
 pcregrep
