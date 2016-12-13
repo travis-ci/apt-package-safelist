@@ -295,6 +295,8 @@ gconf2-common
 gdc-4.8
 genromfs
 genromfs:i386
+geoip-bin
+geoip-dbg
 gettext
 gettext-base
 gfortran-4.8
@@ -660,6 +662,8 @@ libgdk-pixbuf2.0-0
 libgdk-pixbuf2.0-common
 libgdk-pixbuf2.0-dev
 libgdu0
+libgeoip-dev
+libgeoip1
 libgeos-3.2.2
 libgeos-3.3.8
 libgeos-c1
