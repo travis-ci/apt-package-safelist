@@ -7332,6 +7332,8 @@ libn32stdc++6:i386
 libn32z1
 libn32z1-dev
 libname-clash-ruby
+libnatpmp-dev
+libnatpmp1
 libncurses5
 libncurses5-dev
 libncurses5-dev:i386
@@ -10173,6 +10175,7 @@ nas
 nas-bin
 nas-doc
 nasm
+natpmp-utils
 naturaldocs
 ncbi-blast+
 ncbi-blast+-legacy
