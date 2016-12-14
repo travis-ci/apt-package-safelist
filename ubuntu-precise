@@ -4308,6 +4308,8 @@ libatasmart-bin
 libatasmart-dev
 libatasmart4
 libatasmart4:i386
+libatdgen-ocaml
+libatdgen-ocaml-dev
 libatk-wrapper-java
 libatk-wrapper-java-jni
 libatk-wrapper-java-jni:i386
