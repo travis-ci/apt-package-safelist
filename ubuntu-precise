@@ -7779,6 +7779,7 @@ libpcrecpp0v5
 libpcsclite-dev
 libpcsclite1
 libpcsclite1:i386
+libperl-critic-perl
 libperl-dev
 libperl-dev:i386
 libperl5.14
