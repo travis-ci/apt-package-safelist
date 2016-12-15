@@ -1654,3 +1654,11 @@ z80asm:i386
 zip
 zlib1g
 zlib1g-dev
+zsh
+zsh-beta
+zsh-beta-doc
+zsh-common
+zsh-dbg
+zsh-dev
+zsh-doc
+zsh-static
