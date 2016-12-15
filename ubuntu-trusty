@@ -1038,6 +1038,9 @@ libsasl2-dev
 libsasl2-modules
 libsctp-dev
 libsctp1
+libsdl1.2-dbg
+libsdl1.2-dev
+libsdl1.2debian
 libsdl2-2.0-0
 libsdl2-dbg
 libsdl2-dev
