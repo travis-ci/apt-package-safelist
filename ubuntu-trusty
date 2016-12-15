@@ -306,6 +306,7 @@ gir1.2-freedesktop
 gir1.2-gdkpixbuf-2.0
 gir1.2-glib-2.0
 gir1.2-gtk-2.0
+gir1.2-gtk-3.0
 gir1.2-pango-1.0
 gir1.2-rsvg-2.0
 git
@@ -341,6 +342,7 @@ gsfonts-x11
 gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
+gtk-3-examples
 guile-1.8-libs
 gvfs
 gvfs-common
@@ -641,6 +643,10 @@ libfreetype6
 libfreetype6-dev
 libfreexl1
 libfuse2
+libgail-3-0
+libgail-3-0-dbg
+libgail-3-dev
+libgail-3-doc
 libgcc-4.8-dev
 libgcc1
 libgcj-doc
@@ -727,8 +733,12 @@ libgssrpc4
 libgstreamer-plugins-base0.
 libgstreamer0.10-0
 libgtk-3-0
+libgtk-3-0-dbg
+libgtk-3-0-udeb
 libgtk-3-bin
 libgtk-3-common
+libgtk-3-dev
+libgtk-3-doc
 libgtk2.0-0
 libgtk2.0-bin
 libgtk2.0-common
