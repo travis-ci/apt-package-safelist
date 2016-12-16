@@ -640,6 +640,10 @@ libfontenc1
 libfreetype6
 libfreetype6-dev
 libfreexl1
+libfribidi-bin
+libfribidi-dev
+libfribidi0
+libfribidi0-udeb
 libfuse2
 libgcc-4.8-dev
 libgcc1
