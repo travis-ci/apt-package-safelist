@@ -1057,6 +1057,14 @@ libsfgomp1
 libsfgomp1-dbg
 libsfitm1
 libsfitm1-dbg
+libsfml-audio2
+libsfml-dev
+libsfml-doc
+libsfml-graphics2
+libsfml-network2
+libsfml-system2
+libsfml-window2
+libsfml2-dbg
 libsfobjc-4.8-dev
 libsfobjc4
 libsfobjc4-dbg
