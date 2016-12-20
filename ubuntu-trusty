@@ -1,3 +1,5 @@
+acpica-tools
+acpidump
 adduser
 ant
 ant-contrib
@@ -424,6 +426,7 @@ hunspell-sh
 hunspell-sh:i386
 hyphen-sh
 hyphen-sh:i386
+iasl
 icedtea-6-jre-cacao
 icedtea-6-jre-jamvm
 icedtea-6-plugin
