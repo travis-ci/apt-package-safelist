@@ -948,6 +948,8 @@ libjpeg8
 libjpeg8-dev
 libjs-jquery
 libjson0
+libjsoncpp-dev
+libjsoncpp0
 libjsr305-java
 libjsr305-java:i386
 libjudy-dev
