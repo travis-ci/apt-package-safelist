@@ -549,6 +549,7 @@ libavl-dev
 libavl-dev:i386
 libavl1
 libavl1:i386
+libbam-dev
 libbibutils-dev
 libbibutils-dev:i386
 libbibutils2
@@ -1885,6 +1886,7 @@ rsync
 ruby
 ruby-mysql
 ruby1.8
+samtools
 scons
 sed
 sensible-utils
