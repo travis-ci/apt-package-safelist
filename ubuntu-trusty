@@ -1091,6 +1091,11 @@ libsoil1-dbg
 libsoil1-dbg:i386
 libsoil1:i386
 libspatialite3
+libspeex-dbg
+libspeex-dev
+libspeex1
+libspeexdsp-dev
+libspeexdsp1
 libspnav-dev
 libspnav-dev:i386
 libspnav0
@@ -1558,6 +1563,8 @@ socklog:i386
 sound-theme-freedesktop
 speech-tools-doc
 speech-tools-doc:i386
+speex
+speex-doc
 splint
 splint-data
 splint-data:i386
