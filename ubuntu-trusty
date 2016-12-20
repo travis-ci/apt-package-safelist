@@ -189,6 +189,7 @@ doxygen-dbg
 doxygen-doc
 doxygen-gui
 doxygen-latex
+dpatch
 dpkg
 dpkg-dev
 e2fslibs
