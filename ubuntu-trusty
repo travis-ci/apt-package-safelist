@@ -1980,6 +1980,17 @@ wamerican:i386
 weex
 weex:i386
 wget
+wine
+wine1.4
+wine1.4-amd64
+wine1.4-dbg
+wine1.4-dev
+wine1.4-i386
+wine1.6
+wine1.6-amd64
+wine1.6-dbg
+wine1.6-dev
+wine1.6-i386
 x11-common
 x11-utils
 x11-xkb-utils
