@@ -1031,10 +1031,13 @@ libossp-uuid16
 libp11-kit-dev
 libp11-kit0
 libpam-ck-connector
+libpam-cracklib
+libpam-doc
 libpam-modules
 libpam-modules-bin
 libpam-runtime
 libpam0g
+libpam0g-dev
 libpango1.0-0
 libpango1.0-dev
 libpaper-utils
