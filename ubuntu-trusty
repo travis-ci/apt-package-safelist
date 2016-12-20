@@ -2100,6 +2100,8 @@ python-qt4-sql-dbg
 python-sane
 python-sane-dbg
 python-serial
+python-scipy
+python-scipy-dbg
 python-simplejson
 python-software-properties
 python-tables
@@ -2153,6 +2155,8 @@ python3-sane
 python3-sane-dbg
 python3-tables
 python3-serial
+python3-scipy
+python3-scipy-dbg
 python3-tables-dbg
 python3-yaml
 python3-yaml-dbg
