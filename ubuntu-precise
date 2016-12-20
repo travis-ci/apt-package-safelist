@@ -6862,6 +6862,8 @@ liblzma-dev:i386
 liblzma-doc
 liblzma5
 liblzma5:i386
+liblzo2-2
+liblzo2-2-udeb
 liblzo2-dev
 liblzo2-dev:i386
 libmad0
