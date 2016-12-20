@@ -876,6 +876,10 @@ libmng1
 libmount1
 libmozjs185-1.0
 libmpc2
+libmpdclient-dev
+libmpdclient-doc
+libmpdclient2
+libmpdclient2-dbg
 libmpfr4
 libmysql++-dev
 libmysql++-dev:i386
