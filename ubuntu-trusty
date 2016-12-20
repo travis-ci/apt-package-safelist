@@ -1611,6 +1611,11 @@ python-sane
 python-sane-dbg
 python-simplejson
 python-software-properties
+python-tables
+python-tables-data
+python-tables-dbg
+python-tables-doc
+python-tables-lib
 python-unittest2
 python-unittest2:i386
 python-wadllib
@@ -1643,6 +1648,9 @@ python3-pil.imagetk-dbg
 python3-pytest
 python3-sane
 python3-sane-dbg
+python3-tables
+python3-tables-dbg
+python3-tables-lib
 qdbus
 qt4-bin-dbg
 qt4-default
