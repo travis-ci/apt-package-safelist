@@ -3877,6 +3877,7 @@ latex-cjk-common
 latex-cjk-japanese
 latex-cjk-korean
 latex-cjk-thai
+latex-make
 latex-xcolor
 latex2html
 latexmk
