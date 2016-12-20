@@ -1142,12 +1142,15 @@ libmozjs185-1.0
 libmpc2
 libmpdclient-dev
 libmpdclient-doc
+libmpfr-dev
+libmpfr-doc
 libmpdclient2
 libmpdclient2-dbg
 libmpfr4
 libmudflap0-4.8-dev-armhf-cross
 libmudflap0-armhf-cross
 libmudflap0-dbg-armhf-cross
+libmpfr4-dbg
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
