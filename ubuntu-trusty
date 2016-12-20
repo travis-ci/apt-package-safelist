@@ -165,6 +165,7 @@ debconf
 debconf-utils
 debhelper
 debianutils
+devscripts
 dfu-util
 dfu-util:i386
 dh-apparmor
