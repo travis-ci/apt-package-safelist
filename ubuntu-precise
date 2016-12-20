@@ -984,6 +984,7 @@ flashplugin-downloader
 flashplugin-downloader:i386
 flashplugin-installer
 flashplugin-installer:i386
+flawfinder
 flex
 flex:i386
 flexc++
