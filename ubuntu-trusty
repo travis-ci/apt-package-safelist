@@ -1845,6 +1845,15 @@ openjdk-7-jre-headless
 openssh-client
 openssh-server
 openssl
+openvswitch-common
+openvswitch-controller
+openvswitch-datapath-dkms
+openvswitch-datapath-source
+openvswitch-dbg
+openvswitch-ipsec
+openvswitch-pki
+openvswitch-switch
+openvswitch-test
 oracle-java7-installer
 oracle-java8-installer
 oracle-java8-set-default
@@ -1852,6 +1861,7 @@ pandoc
 pandoc-data
 p7zip
 p7zip-full
+ovsdbmonitor
 passwd
 patch
 pcregrep
@@ -1969,6 +1979,7 @@ python-omniorb-doc:i386
 python-omniorb-omg
 python-omniorb-omg:i386
 python-omniorb:i386
+python-openvswitch
 python-paramiko
 python-pil
 python-pil-dbg
