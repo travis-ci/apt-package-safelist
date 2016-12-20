@@ -251,7 +251,6 @@ fixincludes
 flex
 fontconfig
 fontconfig-config
-foo
 fonts-lmodern
 freeglut3
 freeglut3-dbg
