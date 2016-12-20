@@ -624,6 +624,12 @@ libev-dev
 libev-libevent-dev
 libev4
 libevent-2.0-5
+libevent-core-2.0-5
+libevent-dbg
+libevent-dev
+libevent-extra-2.0-5
+libevent-openssl-2.0-5
+libevent-pthreads-2.0-5
 libexif-dev
 libexif12
 libexpat1
