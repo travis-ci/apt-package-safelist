@@ -1012,6 +1012,7 @@ libmpdclient-doc
 libmpdclient2
 libmpdclient2-dbg
 libmpfr4
+libmpfr-dev
 libmysql++-dev
 libmysql++-dev:i386
 libmysql++3
