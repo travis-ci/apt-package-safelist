@@ -1171,6 +1171,8 @@ liblz4-1
 liblz4-1-dbg
 liblz4-dev
 liblz4-tool
+liblzma-dev
+liblzma-doc
 liblzma5
 liblzo2-2
 liblzo2-2-udeb
@@ -2366,6 +2368,7 @@ xvfb
 xz-lzma
 xz-utils
 yasm
+xzdec
 z80asm
 z80asm:i386
 zip
