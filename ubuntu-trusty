@@ -325,6 +325,7 @@ gir1.2-gdkpixbuf-2.0
 gir1.2-glib-2.0
 gir1.2-gtk-2.0
 gir1.2-pango-1.0
+gir1.2-poppler-0.18
 gir1.2-rsvg-2.0
 git
 git-man
@@ -1097,7 +1098,19 @@ libpng12-dev
 libpolkit-agent-1-0
 libpolkit-backend-1-0
 libpolkit-gobject-1-0
+libpoppler-cpp-dev
+libpoppler-cpp0
+libpoppler-dev
+libpoppler-glib-dev
+libpoppler-glib-doc
+libpoppler-glib8
+libpoppler-private-dev
+libpoppler-qt4-4
+libpoppler-qt4-dev
+libpoppler-qt5-1
+libpoppler-qt5-dev
 libpoppler19
+libpoppler44
 libpopt0
 libportaudio-dev
 libportaudio-dev:i386
@@ -1586,6 +1599,8 @@ po-debconf
 po-debconf:i386
 policykit-1
 policykit-1-gnome
+poppler-dbg
+poppler-utils
 postgresql-9.1
 postgresql-9.1-postgis-2.1
 postgresql-9.1-postgis-scri
