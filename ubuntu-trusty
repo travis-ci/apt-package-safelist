@@ -1190,7 +1190,9 @@ libqt4-webkit
 libqt4-webkit-dbg
 libqt4-xml
 libqt4-xmlpatterns
+libqt5script5
 libqt4-xmlpatterns-dbg
+libqt5scripttools5
 libqtcore4
 libqtdbus4
 libqtgui4
@@ -1795,11 +1797,17 @@ qt4-doc
 qt4-doc-html
 qt4-linguist-tools
 qt4-qmake
+qtscript5-dbg
 qt4-qmlviewer
 qt4-qtconfig
 qtbubblelevel
 qtcore4-l10n
 quickhit
+qtscript5-dev
+qtscript5-doc
+qtscript5-doc-html
+qtscript5-examples
+qtscript5-private-dev
 rabbitmq-server
 ragel
 readline-common
