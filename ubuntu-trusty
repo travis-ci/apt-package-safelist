@@ -116,7 +116,14 @@ bc:i386
 bibutils
 bibutils:i386
 binutils
+binutils-dev
 binutils-doc
+binutils-hppa64
+binutils-multiarch
+binutils-multiarch-dev
+binutils-source
+binutils-static
+binutils-static-udeb
 bison
 bisonc++
 bisonc++-doc
