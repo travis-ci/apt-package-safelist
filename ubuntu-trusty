@@ -137,6 +137,11 @@ cksfv
 cksfv:i386
 cl-quicklisp
 cl-quicklisp:i386
+clang-3.6
+clang-3.6-doc
+clang-3.6-examples
+clang-format-3.6
+clang-modernize-3.6
 cmake
 cmake-data
 cmap-adobe-japan1
@@ -155,6 +160,7 @@ cpp
 cpp-4.6
 cpp-4.8
 cpp-4.8-doc
+cpp11-migrate-3.6
 cron
 cryptsetup-bin
 curl
@@ -589,6 +595,10 @@ libcap2
 libcdt4
 libcgraph5
 libck-connector0
+libclang-3.6-dev
+libclang-common-3.6-dev
+libclang1-3.6
+libclang1-3.6-dbg
 libclass-isa-perl
 libcomerr2
 libcommons-daemon-java
@@ -904,7 +914,12 @@ liblcms1-dev
 liblcms2-2
 libldap-2.4-2
 libldap2-dev
+liblldb-3.6
+liblldb-3.6-dev
+libllvm-3.6-ocaml-dev
 libllvm3.0
+libllvm3.6
+libllvm3.6-dbg
 liblocale-gettext-perl
 liblockfile-bin
 liblockfile1
@@ -1408,6 +1423,14 @@ linux-libc-dev
 littler
 littler:i386
 lksctp-tools
+lldb-3.6
+lldb-3.6-dev
+llvm-3.6
+llvm-3.6-dev
+llvm-3.6-doc
+llvm-3.6-examples
+llvm-3.6-runtime
+llvm-3.6-tools
 locales
 login
 logrotate
@@ -1557,6 +1580,7 @@ python-babel
 python-babel-doc
 python-babel-localedata
 python-bzrlib
+python-clang-3.6
 python-configobj
 python-crypto
 python-dbg
@@ -1591,6 +1615,7 @@ python-keyring
 python-launchpadlib
 python-lazr.restfulclient
 python-lazr.uri
+python-lldb-3.6
 python-minimal
 python-nosexcover
 python-nosexcover:i386
