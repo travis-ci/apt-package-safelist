@@ -349,8 +349,12 @@ gputils-common:i386
 gputils-doc
 gputils-doc:i386
 gputils:i386
+graphicsmagick
+graphicsmagick-dbg
 graphviz
 graphviz-dev
+graphicsmagick-imagemagick-compat
+graphicsmagick-libmagick-dev-compat
 graphviz-doc
 grep
 groff-base
@@ -822,6 +826,11 @@ libgq-gconf-doc
 libgq-gconf0
 libgq-gconf0-dbg
 libgraph4
+libgraphics-magick-perl
+libgraphicsmagick++1-dev
+libgraphicsmagick++3
+libgraphicsmagick1-dev
+libgraphicsmagick3
 libgraphviz-dev
 libgs9
 libgs9-common
@@ -1918,6 +1927,7 @@ swig2.0-examples
 sysv-rc
 sysvinit-utils
 tar
+tclmagick
 tcpd
 texlive
 texlive-bibtex-extra
