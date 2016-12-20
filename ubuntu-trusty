@@ -1369,6 +1369,8 @@ libxxf86dga1
 libxxf86vm1
 libyaml-0-2
 libyaml-dev
+libzip-dev
+libzip2
 libzipios++-dev
 libzipios++-dev:i386
 libzipios++-doc
@@ -1819,5 +1821,8 @@ yasm
 z80asm
 z80asm:i386
 zip
+zipcmp
+zipmerge
+ziptorrent
 zlib1g
 zlib1g-dev
