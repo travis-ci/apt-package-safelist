@@ -750,6 +750,8 @@ docbook-utils
 docbook-xml
 docbook-xsl
 docbook-xsl-ns
+docbook-xsl-saxon
+docbook-xsl-saxon-gcj
 docbook2x
 docbook5-xml
 docutils-common
