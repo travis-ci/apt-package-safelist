@@ -1701,6 +1701,7 @@ xtrans-dev
 xvfb
 xz-lzma
 xz-utils
+yasm
 z80asm
 z80asm:i386
 zip
