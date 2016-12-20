@@ -190,6 +190,7 @@ eatmydata
 eatmydata:i386
 eject
 elasticsearch
+elfutils
 emacs23-bin-common
 emacs23-common
 emacs23-gtk
@@ -500,6 +501,8 @@ libarchive12
 libarmadillo2
 libasan0
 libasan0-dbg
+libasm-dev
+libasm1
 libasn1-8-heimdal
 libasound2
 libasyncns0
@@ -624,7 +627,10 @@ libdrm-nouveau1a
 libdrm-nouveau2
 libdrm-radeon1
 libdrm2
+libdw-dev
+libdw1
 libedit2
+libelf-dev
 libelf1
 libepsilon0
 liberror-perl
