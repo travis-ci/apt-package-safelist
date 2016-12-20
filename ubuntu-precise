@@ -4442,6 +4442,8 @@ libboost-atomic1.54-dev
 libboost-atomic1.54.0
 libboost-atomic1.55-dev
 libboost-atomic1.55.0
+libboost-atomic1.58-dev
+libboost-atomic1.58.0
 libboost-atomic1.60-dev
 libboost-atomic1.60.0
 libboost-chrono-dev
@@ -4449,6 +4451,8 @@ libboost-chrono1.54-dev
 libboost-chrono1.54.0
 libboost-chrono1.55-dev
 libboost-chrono1.55.0
+libboost-chrono1.58-dev
+libboost-chrono1.58.0
 libboost-chrono1.60-dev
 libboost-chrono1.60.0
 libboost-context-dev
@@ -4456,11 +4460,15 @@ libboost-context1.54-dev
 libboost-context1.54.0
 libboost-context1.55-dev
 libboost-context1.55.0
+libboost-context1.58-dev
+libboost-context1.58.0
 libboost-context1.60-dev
 libboost-context1.60.0
 libboost-coroutine-dev
 libboost-coroutine1.54-dev
 libboost-coroutine1.55-dev
+libboost-coroutine1.58-dev
+libboost-coroutine1.58.0
 libboost-coroutine1.60-dev
 libboost-coroutine1.60.0
 libboost-date-time-dev
@@ -4469,6 +4477,8 @@ libboost-date-time1.54-dev
 libboost-date-time1.54.0
 libboost-date-time1.55-dev
 libboost-date-time1.55.0
+libboost-date-time1.58-dev
+libboost-date-time1.58.0
 libboost-date-time1.60-dev
 libboost-date-time1.60.0
 libboost-dbg
@@ -4478,6 +4488,7 @@ libboost-doc
 libboost-exception-dev
 libboost-exception1.54-dev
 libboost-exception1.55-dev
+libboost-exception1.58-dev
 libboost-exception1.60-dev
 libboost-filesystem-dev
 libboost-filesystem-dev:i386
@@ -4485,6 +4496,8 @@ libboost-filesystem1.54-dev
 libboost-filesystem1.54.0
 libboost-filesystem1.55-dev
 libboost-filesystem1.55.0
+libboost-filesystem1.58-dev
+libboost-filesystem1.58.0
 libboost-filesystem1.60-dev
 libboost-filesystem1.60.0
 libboost-graph-dev
@@ -4495,12 +4508,16 @@ libboost-graph-parallel1.54-dev
 libboost-graph-parallel1.54.0
 libboost-graph-parallel1.55-dev
 libboost-graph-parallel1.55.0
+libboost-graph-parallel1.58-dev
+libboost-graph-parallel1.58.0
 libboost-graph-parallel1.60-dev
 libboost-graph-parallel1.60.0
 libboost-graph1.54-dev
 libboost-graph1.54.0
 libboost-graph1.55-dev
 libboost-graph1.55.0
+libboost-graph1.58-dev
+libboost-graph1.58.0
 libboost-graph1.60-dev
 libboost-graph1.60.0
 libboost-iostreams-dev
@@ -4509,6 +4526,8 @@ libboost-iostreams1.54-dev
 libboost-iostreams1.54.0
 libboost-iostreams1.55-dev
 libboost-iostreams1.55.0
+libboost-iostreams1.58-dev
+libboost-iostreams1.58.0
 libboost-iostreams1.60-dev
 libboost-iostreams1.60.0
 libboost-locale-dev
@@ -4516,6 +4535,8 @@ libboost-locale1.54-dev
 libboost-locale1.54.0
 libboost-locale1.55-dev
 libboost-locale1.55.0
+libboost-locale1.58-dev
+libboost-locale1.58.0
 libboost-locale1.60-dev
 libboost-locale1.60.0
 libboost-log-dev
@@ -4523,6 +4544,8 @@ libboost-log1.54-dev
 libboost-log1.54.0
 libboost-log1.55-dev
 libboost-log1.55.0
+libboost-log1.58-dev
+libboost-log1.58.0
 libboost-log1.60-dev
 libboost-log1.60.0
 libboost-math-dev
@@ -4531,6 +4554,8 @@ libboost-math1.54-dev
 libboost-math1.54.0
 libboost-math1.55-dev
 libboost-math1.55.0
+libboost-math1.58-dev
+libboost-math1.58.0
 libboost-math1.60-dev
 libboost-math1.60.0
 libboost-mpi-dev
@@ -4541,12 +4566,16 @@ libboost-mpi-python1.54-dev
 libboost-mpi-python1.54.0
 libboost-mpi-python1.55-dev
 libboost-mpi-python1.55.0
+libboost-mpi-python1.58-dev
+libboost-mpi-python1.58.0
 libboost-mpi-python1.60-dev
 libboost-mpi-python1.60.0
 libboost-mpi1.54-dev
 libboost-mpi1.54.0
 libboost-mpi1.55-dev
 libboost-mpi1.55.0
+libboost-mpi1.58-dev
+libboost-mpi1.58.0
 libboost-mpi1.60-dev
 libboost-mpi1.60.0
 libboost-program-options-dev
@@ -4555,6 +4584,8 @@ libboost-program-options1.54-dev
 libboost-program-options1.54.0
 libboost-program-options1.55-dev
 libboost-program-options1.55.0
+libboost-program-options1.58-dev
+libboost-program-options1.58.0
 libboost-program-options1.60-dev
 libboost-program-options1.60.0
 libboost-python-dev
@@ -4563,6 +4594,8 @@ libboost-python1.54-dev
 libboost-python1.54.0
 libboost-python1.55-dev
 libboost-python1.55.0
+libboost-python1.58-dev
+libboost-python1.58.0
 libboost-python1.60-dev
 libboost-python1.60.0
 libboost-random-dev
@@ -4570,6 +4603,8 @@ libboost-random1.54-dev
 libboost-random1.54.0
 libboost-random1.55-dev
 libboost-random1.55.0
+libboost-random1.58-dev
+libboost-random1.58.0
 libboost-random1.60-dev
 libboost-random1.60.0
 libboost-regex-dev
@@ -4578,6 +4613,8 @@ libboost-regex1.54-dev
 libboost-regex1.54.0
 libboost-regex1.55-dev
 libboost-regex1.55.0
+libboost-regex1.58-dev
+libboost-regex1.58.0
 libboost-regex1.60-dev
 libboost-regex1.60.0
 libboost-serialization-dev
@@ -4586,6 +4623,8 @@ libboost-serialization1.54-dev
 libboost-serialization1.54.0
 libboost-serialization1.55-dev
 libboost-serialization1.55.0
+libboost-serialization1.58-dev
+libboost-serialization1.58.0
 libboost-serialization1.60-dev
 libboost-serialization1.60.0
 libboost-signals-dev
@@ -4594,6 +4633,8 @@ libboost-signals1.54-dev
 libboost-signals1.54.0
 libboost-signals1.55-dev
 libboost-signals1.55.0
+libboost-signals1.58-dev
+libboost-signals1.58.0
 libboost-signals1.60-dev
 libboost-signals1.60.0
 libboost-system-dev
@@ -4602,6 +4643,8 @@ libboost-system1.54-dev
 libboost-system1.54.0
 libboost-system1.55-dev
 libboost-system1.55.0
+libboost-system1.58-dev
+libboost-system1.58.0
 libboost-system1.60-dev
 libboost-system1.60.0
 libboost-test-dev
@@ -4610,6 +4653,8 @@ libboost-test1.54-dev
 libboost-test1.54.0
 libboost-test1.55-dev
 libboost-test1.55.0
+libboost-test1.58-dev
+libboost-test1.58.0
 libboost-test1.60-dev
 libboost-test1.60.0
 libboost-thread-dev
@@ -4618,6 +4663,8 @@ libboost-thread1.54-dev
 libboost-thread1.54.0
 libboost-thread1.55-dev
 libboost-thread1.55.0
+libboost-thread1.58-dev
+libboost-thread1.58.0
 libboost-thread1.60-dev
 libboost-thread1.60.0
 libboost-timer-dev
@@ -4625,6 +4672,8 @@ libboost-timer1.54-dev
 libboost-timer1.54.0
 libboost-timer1.55-dev
 libboost-timer1.55.0
+libboost-timer1.58-dev
+libboost-timer1.58.0
 libboost-timer1.60-dev
 libboost-timer1.60.0
 libboost-tools-dev
@@ -4636,6 +4685,8 @@ libboost-wave1.54-dev
 libboost-wave1.54.0
 libboost-wave1.55-dev
 libboost-wave1.55.0
+libboost-wave1.58-dev
+libboost-wave1.58.0
 libboost-wave1.60-dev
 libboost-wave1.60.0
 libboost1.54-all-dev
@@ -4647,6 +4698,11 @@ libboost1.55-dbg
 libboost1.55-dev
 libboost1.55-doc
 libboost1.55-tools-dev
+libboost1.58-all-dev
+libboost1.58-dbg
+libboost1.58-dev
+libboost1.58-doc
+libboost1.58-tools-dev
 libboost1.60-all-dev
 libboost1.60-dbg
 libboost1.60-dev
