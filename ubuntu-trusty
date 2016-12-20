@@ -1637,7 +1637,10 @@ libunittest++-dev
 libunittest++-dev:i386
 libusb++-0.1-4c2
 libusb++-0.1-4c2:i386
+libusb++-dev
 libusb-0.1-4
+libusb-0.1-udeb
+libusb-dev
 libuuid1
 libvolk0.0.0
 libvorbis0a
