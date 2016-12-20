@@ -500,6 +500,7 @@ language-pack-ss-base
 language-pack-ss-base:i386
 language-pack-ss:i386
 latex-beamer
+latex-make
 latexml
 latexml:i386
 less
