@@ -1093,6 +1093,14 @@ libpgm-5.1-0
 libphobos-4.8-dev
 libphobos-dev
 libphobos-dev:i386
+libphonon-dev
+libphonon4
+libphonon4qt5-4
+libphonon4qt5-dev
+libphonon4qt5experimental-dev
+libphonon4qt5experimental4
+libphononexperimental-dev
+libphononexperimental4
 libpipeline1
 libpixman-1-0
 libpixman-1-dev
@@ -1601,6 +1609,11 @@ perl-modules
 pgdg-keyring
 pgf
 pgf:i386
+phonon
+phonon-backend-null
+phonon-dbg
+phonon4qt5
+phonon4qt5-backend-null
 pinfo
 pinfo:i386
 pkg-config
