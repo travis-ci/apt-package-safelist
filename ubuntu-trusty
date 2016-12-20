@@ -1273,6 +1273,10 @@ libvolk0.0.0
 libvorbis0a
 libvorbisenc2
 libvorbisfile3
+libvpx-dev
+libvpx-doc
+libvpx1
+libvpx1-dbg
 libwind0-heimdal
 libwmf-dev
 libwmf0.2-7
@@ -1768,6 +1772,7 @@ vim-common
 vim-runtime
 vpnc
 vpnc:i386
+vpx-tools
 wamerican
 wamerican:i386
 weex
