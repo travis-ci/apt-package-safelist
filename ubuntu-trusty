@@ -252,6 +252,7 @@ flex
 fontconfig
 fontconfig-config
 foo
+fonts-lmodern
 freeglut3
 freeglut3-dbg
 freeglut3-dev
@@ -1740,6 +1741,7 @@ llvm-3.6-doc
 llvm-3.6-examples
 llvm-3.6-runtime
 llvm-3.6-tools
+lmodern
 locales
 login
 logrotate
