@@ -1619,6 +1619,8 @@ python-tables-lib
 python-unittest2
 python-unittest2:i386
 python-wadllib
+python-yaml
+python-yaml-dbg
 python-zope.interface
 python-zsi
 python-zsi:i386
@@ -1650,6 +1652,8 @@ python3-sane
 python3-sane-dbg
 python3-tables
 python3-tables-dbg
+python3-yaml
+python3-yaml-dbg
 python3-tables-lib
 qdbus
 qt4-bin-dbg
