@@ -175,6 +175,11 @@ dmsetup
 docbook5-xml
 docbook5-xml:i386
 dosfstools
+doxygen
+doxygen-dbg
+doxygen-doc
+doxygen-gui
+doxygen-latex
 dpkg
 dpkg-dev
 e2fslibs
