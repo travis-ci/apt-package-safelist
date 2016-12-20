@@ -1240,6 +1240,9 @@ libxdamage-dev
 libxdamage1
 libxdmcp-dev
 libxdmcp6
+libxdo-dev
+libxdo3
+libxdo3-dbg
 libxdot4
 libxerces-c28
 libxerces2-java
@@ -1686,6 +1689,7 @@ x11proto-xinerama-dev
 x11proto-xinerama-dev:i386
 xauth
 xdg-utils
+xdotool
 xfonts-100dpi
 xfonts-100dpi-transcoded
 xfonts-100dpi-transcoded:i386
