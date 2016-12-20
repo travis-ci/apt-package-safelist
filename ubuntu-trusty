@@ -263,6 +263,7 @@ fontconfig
 fontconfig-config
 fop
 fonts-lmodern
+fonts-liberation
 fop-doc
 freeglut3
 freeglut3-dbg
@@ -2262,6 +2263,7 @@ tsocks
 tsocks:i386
 ttf-dejavu-core
 ttf-dejavu-extra
+ttf-liberation
 tzdata
 tzdata-java
 ubuntu-keyring
