@@ -951,6 +951,10 @@ libparse-yapp-perl
 libparse-yapp-perl:i386
 libparted0debian1
 libpathplan4
+libpcap-dev
+libpcap0.8
+libpcap0.8-dbg
+libpcap0.8-dev
 libpciaccess0
 libpcre3
 libpcre3-dbg
