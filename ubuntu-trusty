@@ -795,6 +795,8 @@ libdw-dev
 libdw1
 libedit2
 libelf-dev
+libeigen3-dev
+libeigen3-doc
 libelf1
 libepsilon0
 liberror-perl
