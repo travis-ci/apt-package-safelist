@@ -1263,6 +1263,8 @@ libpcap0.8
 libpcap0.8-dbg
 libpcap0.8-dev
 libpciaccess0
+libpcre++-dev
+libpcre++0
 libpcre3
 libpcre3-dbg
 libpcre3-dev
