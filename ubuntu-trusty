@@ -1640,6 +1640,8 @@ oracle-java8-installer
 oracle-java8-set-default
 pandoc
 pandoc-data
+p7zip
+p7zip-full
 passwd
 patch
 pcregrep
