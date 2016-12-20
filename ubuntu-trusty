@@ -1743,6 +1743,7 @@ libxrandr-dev
 libxrandr2
 libxrender-dev
 libxrender1
+libxslt1-dbg
 libxslt1-dev
 libxslt1.1
 libxss1
@@ -1996,6 +1997,8 @@ python-launchpadlib
 python-lazr.restfulclient
 python-lazr.uri
 python-lldb-3.6
+python-libxslt1
+python-libxslt1-dbg
 python-minimal
 python-nosexcover
 python-nosexcover:i386
@@ -2323,6 +2326,7 @@ xserver-xorg
 xserver-xorg-core
 xserver-xorg-input-all
 xserver-xorg-video-all
+xsltproc
 xtrans-dev
 xutils
 xvfb
