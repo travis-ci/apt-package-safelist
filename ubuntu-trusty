@@ -130,6 +130,7 @@ bzr
 ca-certificates
 ca-certificates-java
 ccache
+checkpolicy
 chef
 chromium-browser
 chromium-browser-l10n
