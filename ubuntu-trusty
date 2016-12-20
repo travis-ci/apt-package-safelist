@@ -1580,6 +1580,9 @@ python-lazr.uri
 python-minimal
 python-nosexcover
 python-nosexcover:i386
+python-numpy
+python-numpy-dbg
+python-numpy-doc
 python-oauth
 python-omniorb
 python-omniorb-dbg
@@ -1631,6 +1634,8 @@ python3-imaging-tk
 python3-imaging-tk-dbg
 python3-ipaddr
 python3-ipaddr:i386
+python3-numpy
+python3-numpy-dbg
 python3-pil
 python3-pil-dbg
 python3-pil.imagetk
