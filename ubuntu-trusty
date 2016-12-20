@@ -1294,6 +1294,8 @@ libnettle4
 libnfnetlink0
 libnih-dbus1
 libnih1
+libnoise-dev
+libnoise0
 libnotify4
 libnspr4
 libnss3
