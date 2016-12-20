@@ -325,6 +325,7 @@ gobjc++-4.8
 gobjc++-4.8-multilib
 gobjc-4.8
 gobjc-4.8-multilib
+gobject-introspection
 gpgv
 gpp
 gpp:i386
@@ -692,6 +693,8 @@ libgfortran3
 libgfortran3-dbg
 libgif4
 libgirepository-1.0-1
+libgirepository1.0-dev
+libgirepository1.0-doc
 libgl1-mesa-dev
 libgl1-mesa-dri
 libgl1-mesa-glx
