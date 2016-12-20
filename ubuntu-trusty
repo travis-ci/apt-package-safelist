@@ -1580,6 +1580,12 @@ sshpass:i386
 ssl-cert
 subversion
 sudo
+swig
+swig-doc
+swig-examples
+swig2.0
+swig2.0-doc
+swig2.0-examples
 sysv-rc
 sysvinit-utils
 tar
