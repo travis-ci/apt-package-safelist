@@ -132,6 +132,7 @@ chef
 chromium-browser
 chromium-browser-l10n
 chromium-codecs-ffmpeg-extr
+chrpath
 cksfv
 cksfv:i386
 cl-quicklisp
