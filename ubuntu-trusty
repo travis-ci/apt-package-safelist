@@ -574,6 +574,9 @@ libck-connector0
 libclass-isa-perl
 libcomerr2
 libcommons-daemon-java
+libcppunit-1.13-0
+libcppunit-dev
+libcppunit-doc
 libcroco3
 libcrypto++-dev
 libcrypto++-dev:i386
