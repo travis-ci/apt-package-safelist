@@ -5412,6 +5412,9 @@ libfaac-dev
 libfaac0
 libfaad-dev
 libfaad2
+libfabric-dev
+libfabric1
+libfabric1-dbg
 libfaketime
 libfann-dbg
 libfann-dev
