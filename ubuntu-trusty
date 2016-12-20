@@ -639,6 +639,12 @@ libdbd-mysql-perl
 libdbi-perl
 libdbus-1-3
 libdbus-glib-1-2
+libdbusmenu-qt-dev
+libdbusmenu-qt-doc
+libdbusmenu-qt2
+libdbusmenu-qt5
+libdbusmenu-qt5-dev
+libdbusmenu-qt5-doc
 libdconf0
 libdevmapper-event1.02.1
 libdevmapper1.02.1
