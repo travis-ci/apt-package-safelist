@@ -1442,6 +1442,9 @@ python-apt
 python-apt-common
 python-argparse
 python-argparse:i386
+python-babel
+python-babel-doc
+python-babel-localedata
 python-bzrlib
 python-configobj
 python-crypto
@@ -1492,6 +1495,7 @@ python-pil-doc
 python-pil.imagetk
 python-pil.imagetk-dbg
 python-pkg-resources
+python-pybabel
 python-pycurl
 python-pypdf
 python-pypdf:i386
@@ -1512,6 +1516,7 @@ python-zsi:i386
 python2.7
 python2.7-dev
 python2.7-minimal
+python3-babel
 python3-chardet
 python3-chardet:i386
 python3-enchant
