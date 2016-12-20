@@ -741,6 +741,9 @@ libgflags2
 libgfortran-4.8-dev
 libgfortran3
 libgfortran3-dbg
+libghc-pandoc-dev
+libghc-pandoc-doc
+libghc-pandoc-prof
 libgif4
 libgirepository-1.0-1
 libgirepository1.0-dev
@@ -1619,6 +1622,8 @@ openssl
 oracle-java7-installer
 oracle-java8-installer
 oracle-java8-set-default
+pandoc
+pandoc-data
 passwd
 patch
 pcregrep
