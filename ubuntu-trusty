@@ -259,7 +259,9 @@ fixincludes
 flex
 fontconfig
 fontconfig-config
+fop
 fonts-lmodern
+fop-doc
 freeglut3
 freeglut3-dbg
 freeglut3-dev
@@ -816,6 +818,7 @@ libflac8
 libfontconfig1
 libfontconfig1-dev
 libfontenc1
+libfop-java
 libfreetype6
 libfreetype6-dev
 libfreexl1
