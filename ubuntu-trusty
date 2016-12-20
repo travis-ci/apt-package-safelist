@@ -950,7 +950,15 @@ libkrb5-26-heimdal
 libkrb5-3
 libkrb5-dev
 libkrb5support0
+liblapack-dev
+liblapack-doc
+liblapack-doc-man
+liblapack-pic
+liblapack-test
+liblapack3
 liblapack3gf
+liblapacke
+liblapacke-dev
 liblcms1
 liblcms1-dev
 liblcms2-2
