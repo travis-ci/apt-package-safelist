@@ -397,6 +397,7 @@ gvfs-libs
 gzip
 haveged
 hdparm
+help2man
 hicolor-icon-theme
 hostname
 html2text
@@ -753,6 +754,8 @@ libestools-dev:i386
 libev-dev
 libev-libevent-dev
 libev4
+libevdev-dev
+libevdev2
 libevent-2.0-5
 libevent-core-2.0-5
 libevent-dbg
@@ -1265,6 +1268,8 @@ libpcap0.8
 libpcap0.8-dbg
 libpcap0.8-dev
 libpciaccess0
+libpcre++-dev
+libpcre++0
 libpcre3
 libpcre3-dbg
 libpcre3-dev
