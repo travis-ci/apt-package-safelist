@@ -310,6 +310,7 @@ gcc-4.8-plugin-dev
 gcc-4.8-plugin-dev-arm-linux-gnueabihf
 gcc-4.8-source
 gcc-arm-none-eabi
+gcc-avr
 gcc-doc
 gcc-multilib
 gccgo
