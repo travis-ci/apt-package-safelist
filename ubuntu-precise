@@ -7501,6 +7501,8 @@ libnl-xfrm-3-dev
 libnlopt-dev
 libnlopt-guile0
 libnlopt0
+libnoise-dev
+libnoise0
 libnotify-bin
 libnotify-dev
 libnotify-dev:i386
