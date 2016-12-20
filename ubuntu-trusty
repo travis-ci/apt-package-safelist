@@ -1523,8 +1523,16 @@ libsfitm1
 libsfitm1-armhf-cross
 libsfitm1-dbg
 libsfitm1-dbg-armhf-cross
+libsfml-audio2
+libsfml-dev
+libsfml-doc
 libsfmudflap0-armhf-cross
+libsfml-graphics2
+libsfml-network2
 libsfmudflap0-dbg-armhf-cross
+libsfml-system2
+libsfml-window2
+libsfml2-dbg
 libsfobjc-4.8-dev
 libsfobjc-4.8-dev-armhf-cross
 libsfobjc4
