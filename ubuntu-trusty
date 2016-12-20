@@ -1306,9 +1306,16 @@ libtext-wrapi18n-perl
 libtext-wrapi18n-perl:i386
 libthai-data
 libthai0
+libtiff-doc
+libtiff-opengl
+libtiff-tools
 libtiff4
 libtiff4-dev
+libtiff5
+libtiff5-alt-dev
+libtiff5-dev
 libtiffxx0c2
+libtiffxx5
 libtimedate-perl
 libtinfo-dev
 libtinfo5
