@@ -88,7 +88,7 @@ while [ $current -lt $HITS ]; do
 	echo $CANDIDATE_PACKAGE | grep -q -E " in [[:alnum:]]*$"
 	if [ $? -gt 0]; then
 		# it isn't, so assume it's meant for precise
-		CANDIDATE_PACKAGE=$(echo $CANDIDATE_PACKAGE " in precise"
+		CANDIDATE_PACKAGE=$(echo $CANDIDATE_PACKAGE " in precise")
 	fi
 
 	if [[ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} && z$CANDIDATE_PR_NUMBER != z$ISSUE_NUMBER ]]; then
