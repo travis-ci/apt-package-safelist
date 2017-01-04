@@ -165,6 +165,10 @@ fi
 if [ ${has_setuid} -gt 0 ]; then
 	COMMENT="\n\n***NOTE***\n\nsetuid/seteuid/setgid bits were found. Be sure to check the build result.\n\n${COMMENT}"
 fi
+
+notice "POST JSON payload"
+echo "{\"title\":\"Pull request for ${ISSUE_PACKAGE} in ${DIST}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}"
+
 curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE} in ${DIST}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
 	https://api.github.com/repos/travis-ci/apt-package-whitelist/pulls > pr_payload
