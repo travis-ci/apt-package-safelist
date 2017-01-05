@@ -72,7 +72,7 @@ if [ -z "$PACKAGES"  ]; then
 fi
 
 # This will contain "<package_name> in <dist>"
-ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' '; echo " in ${DIST}")
+ISSUE_PACKAGE=$(echo -n $PACKAGES | cut -f1 -d' '; echo " in ${DIST}")
 
 ### Search for an existing PR
 SEARCH_URL="https://api.github.com/search/issues?q=repo:travis-ci/$ISSUE_REPO+type:pr+is:open+%s"
