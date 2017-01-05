@@ -197,6 +197,7 @@ diffutils
 ditaa
 ditaa:i386
 dmsetup
+docbook-xml
 docbook-xsl
 docbook-xsl-ns
 docbook-xsl-saxon
