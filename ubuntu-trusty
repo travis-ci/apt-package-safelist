@@ -1762,6 +1762,7 @@ libxcb-shape0
 libxcb-shm0
 libxcb-shm0-dev
 libxcb-util0
+libxcb-util0-dev
 libxcb1
 libxcb1-dev
 libxcomposite-dev
