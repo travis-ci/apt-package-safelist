@@ -181,6 +181,8 @@ cryptsetup-bin
 curl
 dash
 dbus
+dbus-1-dbg
+dbus-1-doc
 dbus-x11
 dconf-gsettings-backend
 dconf-service
@@ -774,6 +776,7 @@ libdb5.1
 libdbd-mysql-perl
 libdbi-perl
 libdbus-1-3
+libdbus-1-dev
 libdbus-glib-1-2
 libdbusmenu-qt-dev
 libdbusmenu-qt-doc
