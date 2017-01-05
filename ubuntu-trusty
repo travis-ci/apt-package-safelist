@@ -1755,7 +1755,11 @@ libx32tsan0-dbg-armhf-cross
 libxau-dev
 libxau6
 libxaw7
+libxcb-ewmh-dev
+libxcb-ewmh2
 libxcb-glx0
+libxcb-icccm4
+libxcb-icccm4-dev
 libxcb-render0
 libxcb-render0-dev
 libxcb-shape0
