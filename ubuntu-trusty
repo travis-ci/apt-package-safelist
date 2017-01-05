@@ -140,6 +140,7 @@ bzr
 ca-certificates
 ca-certificates-java
 ccache
+cfdisk-udeb
 checkpolicy
 chef
 chromium-browser
@@ -263,6 +264,7 @@ espeak-data
 espeak-data-udeb
 espeak-dbg
 fakeroot
+fdisk-udeb
 file
 findutils
 firefox-locale-en
@@ -685,7 +687,9 @@ libbibutils2
 libbibutils2:i386
 libbison-dev
 libblas3gf
+libblkid-dev
 libblkid1
+libblkid1-udeb
 libblocksruntime-dev
 libblocksruntime-dev:i386
 libblocksruntime0
@@ -1213,7 +1217,9 @@ libmemcached6
 libmemcachedprotocol0
 libmemcachedutil1
 libmng1
+libmount-dev
 libmount1
+libmount1-udeb
 libmozjs185-1.0
 libmpc2
 libmpdclient-dev
@@ -1687,6 +1693,7 @@ libusb-0.1-4
 libusb-0.1-udeb
 libusb-dev
 libuuid1
+libuuid1-udeb
 libvolk0.0.0
 libvorbis0a
 libvorbisenc2
@@ -2331,6 +2338,10 @@ unattended-upgrades
 unzip
 upstart
 util-linux
+util-linux-locales
+util-linux-udeb
+uuid-dev
+uuid-runtime
 vim
 vim-common
 vim-runtime
