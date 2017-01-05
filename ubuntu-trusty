@@ -383,6 +383,7 @@ gir1.2-gtk-2.0
 gir1.2-pango-1.0
 gir1.2-poppler-0.18
 gir1.2-rsvg-2.0
+gir1.2-soup-2.4
 git
 git-man
 glew-utils
@@ -1579,6 +1580,12 @@ libsoil1
 libsoil1-dbg
 libsoil1-dbg:i386
 libsoil1:i386
+libsoup-gnome2.4-1
+libsoup-gnome2.4-dev
+libsoup2.4-1
+libsoup2.4-dbg
+libsoup2.4-dev
+libsoup2.4-doc
 libspatialite3
 libspeex-dbg
 libspeex-dev
