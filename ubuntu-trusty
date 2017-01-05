@@ -1567,6 +1567,8 @@ libsm6
 libsnappy-dev
 libsnappy1
 libsndfile1
+libsndfile1-dbg
+libsndfile1-dev
 libsoil-dev
 libsoil-dev:i386
 libsoil1
@@ -2234,6 +2236,8 @@ shtool
 shtool:i386
 shunit2
 shunit2:i386
+sndfile-programs
+sndfile-programs-dbg
 snmp-mibs-downloader
 snmp-mibs-downloader:i386
 socklog
