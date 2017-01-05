@@ -59,8 +59,6 @@ shift
 DIST=$1
 shift
 
-set -x
-
 PACKAGES=( $@ )
 if [ -z "$PACKAGES"  ]; then
 	if [ -f $(dirname $0)/packages ]; then
@@ -74,9 +72,7 @@ if [ -z "$PACKAGES"  ]; then
 fi
 
 # This will contain "<package_name> in <dist>"
-ISSUE_PACKAGE=$(echo -n $PACKAGES | cut -f1 -d' '; echo " in ${DIST}")
-
-set +x
+ISSUE_PACKAGE="$(echo $PACKAGES | cut -f1 -d' ') in ${DIST}"
 
 ### Search for an existing PR
 SEARCH_URL="https://api.github.com/search/issues?q=repo:travis-ci/$ISSUE_REPO+type:pr+is:open+%s"
@@ -87,8 +83,6 @@ HITS=$(jq < search_results.json '.total_count')
 
 current=0
 while [ $current -lt $HITS ]; do
-	set -x
-
 	# This will set CANDIDATE_PACKAGE to "<package_name> in <dist>" or "<package_name>"
 	CANDIDATE_PACKAGE=$(  jq -r < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
 	CANDIDATE_PR_NUMBER=$(jq -r < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
@@ -98,8 +92,6 @@ while [ $current -lt $HITS ]; do
 		# it isn't, so assume it's meant for precise
 		CANDIDATE_PACKAGE=$(echo $CANDIDATE_PACKAGE " in precise")
 	fi
-
-	set +x
 
 	if [[ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} && z$CANDIDATE_PR_NUMBER != z$ISSUE_NUMBER ]]; then
 		# duplicate is found. Close the issue
