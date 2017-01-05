@@ -508,6 +508,7 @@ latex-beamer
 latex-make
 latexml
 latexml:i386
+lcov
 less
 levelone
 leveltemplate
