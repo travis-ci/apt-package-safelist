@@ -392,6 +392,7 @@ glew-utils
 gmime-bin
 gnome-session-canberra
 gnome-icon-theme-extras
+gnome-icon-theme-symbolic
 gnupg
 gnuradio
 gnuradio-dev
