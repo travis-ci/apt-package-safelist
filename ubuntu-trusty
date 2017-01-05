@@ -267,6 +267,8 @@ espeak-data-udeb
 espeak-dbg
 fakeroot
 file
+finch
+finch-dev
 findutils
 firefox-locale-en
 fixincludes
@@ -1431,6 +1433,9 @@ libproj0
 libpthread-stubs0
 libpthread-stubs0-dev
 libpulse0
+libpurple-bin
+libpurple-dev
+libpurple0
 libpython-all-dbg
 libpython-all-dev
 libpython-dbg
@@ -2088,6 +2093,10 @@ phonon-backend-null
 phonon-dbg
 phonon4qt5
 phonon4qt5-backend-null
+pidgin
+pidgin-data
+pidgin-dbg
+pidgin-dev
 pinfo
 pinfo:i386
 pkg-config
