@@ -403,6 +403,8 @@ gobject-introspection
 gpgv
 gpp
 gpp:i386
+gprbuild
+gprbuild-doc
 gputils
 gputils-common
 gputils-common:i386
