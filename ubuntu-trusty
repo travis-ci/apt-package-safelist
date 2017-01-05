@@ -150,6 +150,7 @@ cksfv
 cksfv:i386
 cl-quicklisp
 cl-quicklisp:i386
+cl-speech-dispatcher
 clang-3.6
 clang-3.6-doc
 clang-3.6-examples
@@ -1619,6 +1620,8 @@ libsoup2.4-dbg
 libsoup2.4-dev
 libsoup2.4-doc
 libspatialite3
+libspeechd-dev
+libspeechd2
 libspeex-dbg
 libspeex-dev
 libspeex1
@@ -2299,6 +2302,7 @@ python3-sane-dbg
 python3-scipy
 python3-scipy-dbg
 python3-serial
+python3-speechd
 python3-tables
 python3-tables-dbg
 python3-tables-lib
@@ -2368,6 +2372,12 @@ socklog-run
 socklog-run:i386
 socklog:i386
 sound-theme-freedesktop
+speech-dispatcher
+speech-dispatcher-audio-plugins
+speech-dispatcher-dbg
+speech-dispatcher-doc-cs
+speech-dispatcher-festival
+speech-dispatcher-flite
 speech-tools-doc
 speech-tools-doc:i386
 speex
