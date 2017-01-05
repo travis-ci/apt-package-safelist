@@ -194,6 +194,7 @@ dfu-util:i386
 dh-apparmor
 dh-virtualenv
 diffutils
+discount
 ditaa
 ditaa:i386
 dmsetup
@@ -1208,6 +1209,9 @@ libmagickwand-dev
 libmagickwand4
 libmail-sendmail-perl
 libmail-sendmail-perl:i386
+libmarkdown2
+libmarkdown2-dbg
+libmarkdown2-dev
 libmemcached-dev
 libmemcached6
 libmemcachedprotocol0
