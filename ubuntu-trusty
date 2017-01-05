@@ -1769,9 +1769,11 @@ libxau-dev
 libxau6
 libxaw7
 libxcb-composite0
+libxcb-ewmh-dev
 libxcb-composite0-dbg
 libxcb-composite0-dev
 libxcb-damage0
+libxcb-ewmh2
 libxcb-damage0-dbg
 libxcb-damage0-dev
 libxcb-doc
@@ -1787,6 +1789,8 @@ libxcb-dri3-dev
 libxcb-glx0
 libxcb-glx0-dbg
 libxcb-glx0-dev
+libxcb-icccm4
+libxcb-icccm4-dev
 libxcb-present-dev
 libxcb-present0
 libxcb-present0-dbg
