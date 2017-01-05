@@ -381,6 +381,7 @@ gir1.2-atk-1.0
 gir1.2-freedesktop
 gir1.2-gdkpixbuf-2.0
 gir1.2-glib-2.0
+gir1.2-gssdp-1.0
 gir1.2-gtk-2.0
 gir1.2-pango-1.0
 gir1.2-poppler-0.18
@@ -444,6 +445,7 @@ gsfonts-x11
 gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
+gssdp-tools
 guile-1.8-libs
 gvfs
 gvfs-common
@@ -1031,6 +1033,10 @@ libgsl0-prof
 libgsl0ldbl
 libgssapi-krb5-2
 libgssapi3-heimdal
+libgssdp-1.0-3
+libgssdp-1.0-dbg
+libgssdp-1.0-dev
+libgssdp-doc
 libgssrpc4
 libgstreamer-plugins-base0.
 libgstreamer0.10-0
