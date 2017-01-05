@@ -1594,6 +1594,7 @@ libssl-doc
 libssl0.9.8
 libssl1.0.0
 libstartup-notification0
+libstartup-notification0-dev
 libstdc++-4.8-dev
 libstdc++-4.8-dev-armhf-cross
 libstdc++-4.8-doc
