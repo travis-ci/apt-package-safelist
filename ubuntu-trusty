@@ -2552,6 +2552,7 @@ xserver-xorg-video-all
 xsltproc
 xtrans-dev
 xutils
+xutils-dev
 xvfb
 xz-lzma
 xz-utils
