@@ -2208,6 +2208,7 @@ python-libxslt1
 python-libxslt1-dbg
 python-lldb-3.6
 python-minimal
+python-mysql.connector
 python-nosexcover
 python-nosexcover:i386
 python-numpy
@@ -2290,6 +2291,7 @@ python3-imaging-tk
 python3-imaging-tk-dbg
 python3-ipaddr
 python3-ipaddr:i386
+python3-mysql.connector
 python3-numpy
 python3-numpy-dbg
 python3-pil
