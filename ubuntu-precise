@@ -684,6 +684,8 @@ debconf-utils:i386
 debconf:i386
 debhelper
 debhelper:i386
+debian-archive-keyring
+debian-archive-keyring-udeb
 debianutils
 debianutils:i386
 debmirror
