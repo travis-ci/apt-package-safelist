@@ -188,6 +188,8 @@ dconf-service
 debconf
 debconf-utils
 debhelper
+debian-archive-keyring
+debian-archive-keyring-udeb
 debianutils
 devscripts
 dfu-util
