@@ -497,6 +497,8 @@ cmap-adobe-japan1:i386
 cminpack-doc
 cmocka-doc
 cnotmuch
+coccinelle
+coccinelle-doc
 coffeescript
 coffeescript-doc
 coinor-cbc
