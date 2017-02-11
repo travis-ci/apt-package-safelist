@@ -271,6 +271,7 @@ espeak-data-udeb
 espeak-dbg
 fakeroot
 file
+file-dbg
 finch
 finch-dev
 findutils
@@ -2901,6 +2902,7 @@ liblzma5
 liblzo2-2
 liblzo2-2-udeb
 liblzo2-dev
+libmagic-dev
 libmagic1
 libmagick++-dev
 libmagick++-dev:i386
@@ -3871,6 +3873,7 @@ python-lazr.uri
 python-libxslt1
 python-libxslt1-dbg
 python-lldb-3.6
+python-magic
 python-minimal
 python-mysql.connector
 python-nosexcover
@@ -3955,6 +3958,7 @@ python3-imaging-tk
 python3-imaging-tk-dbg
 python3-ipaddr
 python3-ipaddr:i386
+python3-magic
 python3-mysql.connector
 python3-numpy
 python3-numpy-dbg
