@@ -9150,6 +9150,8 @@ libtool:i386
 libtotem-pg-dev
 libtotem-pg5
 libtrang-java
+libtre-dev
+libtre5
 libtsan0
 libtsan0-dbg
 libtsan0-dbg:i386
@@ -12331,6 +12333,7 @@ tomcat7-examples
 tomcat7-user
 trang
 transfig
+tre-agrep
 tree
 tree:i386
 trimmomatic
