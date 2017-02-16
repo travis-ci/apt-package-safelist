@@ -3669,6 +3669,11 @@ mercurial
 mercurial-common
 mesa-common-dev
 mime-support
+mingw-w64
+mingw-w64-common
+mingw-w64-i686-dev
+mingw-w64-tools
+mingw-w64-x86-64-dev
 mingw32
 mingw32-binutils
 mingw32-runtime
