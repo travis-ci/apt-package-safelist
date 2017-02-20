@@ -4021,6 +4021,7 @@ ragel
 readline-common
 redis-server
 riak
+rng-tools
 rpm
 rsync
 ruby
