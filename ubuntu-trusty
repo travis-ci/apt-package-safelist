@@ -2460,6 +2460,11 @@ libcrypto++-doc:i386
 libcrypto++-utils
 libcrypto++-utils:i386
 libcryptsetup4
+libcunit1
+libcunit1-dev
+libcunit1-doc
+libcunit1-ncurses
+libcunit1-ncurses-dev
 libcups2
 libcupsimage2
 libcurl3
