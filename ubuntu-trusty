@@ -200,6 +200,12 @@ diffutils
 discount
 ditaa
 ditaa:i386
+djview
+djview3
+djvulibre-bin
+djvulibre-dbg
+djvulibre-desktop
+djvuserve
 dmsetup
 docbook-xml
 docbook-xsl
