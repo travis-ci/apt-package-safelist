@@ -4150,6 +4150,7 @@ udisks
 unattended-upgrades
 unzip
 upstart
+upx-ucl
 util-linux
 vim
 vim-common
