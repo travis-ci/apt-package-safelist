@@ -2638,7 +2638,11 @@ libgmime-2.6-dev
 libgmime-2.6-doc
 libgmime2.6-cil
 libgmime2.6-cil-dev
+libgmp-dev
 libgmp10
+libgmp10-doc
+libgmp3-dev
+libgmpxx4ldbl
 libgnome-keyring-common
 libgnome-keyring0
 libgnome2-0
