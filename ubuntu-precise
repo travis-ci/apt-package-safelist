@@ -450,6 +450,9 @@ clang-3.8-examples
 clang-3.9
 clang-3.9-doc
 clang-3.9-examples
+clang-5.0
+clang-5.0-doc
+clang-5.0-examples
 clang-format-3.3
 clang-format-3.4
 clang-format-3.5
@@ -460,6 +463,7 @@ clang-format-3.7
 clang-format-3.7:i386
 clang-format-3.8
 clang-format-3.9
+clang-format-5.0
 clang-modernize-3.4
 clang-modernize-3.5
 clang-modernize-3.6
@@ -469,6 +473,7 @@ clang-tidy-3.6
 clang-tidy-3.7
 clang-tidy-3.8
 clang-tidy-3.9
+clang-tidy-5.0
 clang:i386
 clearsilver-dev
 cli-common
@@ -4957,6 +4962,7 @@ libclang-3.6-dev
 libclang-3.7-dev
 libclang-3.8-dev
 libclang-3.9-dev
+libclang-5.0-dev
 libclang-common-3.3-dev
 libclang-common-3.4-dev
 libclang-common-3.5-dev
@@ -4964,6 +4970,7 @@ libclang-common-3.6-dev
 libclang-common-3.7-dev
 libclang-common-3.8-dev
 libclang-common-3.9-dev
+libclang-common-5.0-dev
 libclang1-3.3
 libclang1-3.3-dbg
 libclang1-3.4
@@ -4978,6 +4985,8 @@ libclang1-3.8
 libclang1-3.8-dbg
 libclang1-3.9
 libclang1-3.9-dbg
+libclang1-5.0
+libclang1-5.0-dbg
 libclass-isa-perl
 libclass-isa-perl:i386
 libclblas-bin
@@ -5578,6 +5587,7 @@ libftdipp1-dev
 libfuse-dev
 libfuse2
 libfuse2:i386
+libfuzzer-5.0-dev
 libfuzzy-dev
 libfuzzy2
 libfuzzy2-dbg
@@ -6723,6 +6733,9 @@ libleveldb1v5
 liblinearmath2.83v5
 liblinphone-dev
 liblinphone5
+liblld-5.0
+liblld-5.0-dbg
+liblld-5.0-dev
 liblldb-3.5
 liblldb-3.5-dev
 liblldb-3.6
@@ -6736,6 +6749,9 @@ liblldb-3.8-dev
 liblldb-3.9
 liblldb-3.9-dbg
 liblldb-3.9-dev
+liblldb-5.0
+liblldb-5.0-dbg
+liblldb-5.0-dev
 libllvm-3.3-ocaml-dev
 libllvm-3.4-ocaml-dev
 libllvm-3.5-ocaml-dev
@@ -6743,6 +6759,7 @@ libllvm-3.6-ocaml-dev
 libllvm-3.7-ocaml-dev
 libllvm-3.8-ocaml-dev
 libllvm-3.9-ocaml-dev
+libllvm-5.0-ocaml-dev
 libllvm2.8
 libllvm2.8:i386
 libllvm2.9
@@ -6781,6 +6798,8 @@ libllvm3.8
 libllvm3.8-dbg
 libllvm3.9
 libllvm3.9-dbg
+libllvm5.0
+libllvm5.0-dbg
 liblo-dev
 liblo-tools
 liblo7
@@ -9862,6 +9881,7 @@ littler:i386
 live-build
 lksctp-tools
 lksctp-tools:i386
+lld-5.0
 lldb-3.3
 lldb-3.5
 lldb-3.5-dev
@@ -9872,6 +9892,7 @@ lldb-3.7-dev
 lldb-3.8
 lldb-3.8-dev
 lldb-3.9
+lldb-5.0
 llvm
 llvm-2.8
 llvm-2.8-dev
@@ -10007,6 +10028,12 @@ llvm-3.9-dev
 llvm-3.9-doc
 llvm-3.9-examples
 llvm-3.9-runtime
+llvm-5.0
+llvm-5.0-dev
+llvm-5.0-doc
+llvm-5.0-examples
+llvm-5.0-runtime
+llvm-5.0-tools
 llvm-dev
 llvm-dev:i386
 llvm-gcc-4.6
@@ -10991,6 +11018,7 @@ python-clang-3.6
 python-clang-3.7
 python-clang-3.8
 python-clang-3.9
+python-clang-5.0
 python-clearsilver
 python-configobj
 python-configobj:i386
@@ -11114,6 +11142,7 @@ python-lldb-3.6
 python-lldb-3.7
 python-lldb-3.8
 python-lldb-3.9
+python-lldb-5.0
 python-lockfile
 python-lockfile-doc
 python-lvm2
