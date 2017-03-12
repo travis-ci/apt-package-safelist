@@ -371,6 +371,7 @@ cabal-install-1.20:i386
 cabal-install-1.22
 cabal-install-1.22:i386
 cabal-install-1.24
+cabal-install-2.0
 cabal-install-head
 cabal-install-head:i386
 cabal-install:i386
