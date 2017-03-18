@@ -95,7 +95,9 @@ astyle
 atomicparsley
 atomicparsley:i386
 autoconf
+autoconf-archive
 autoconf-doc
+autoconf-gl-macros
 autoconf2.64
 autoconf2.64:i386
 autogen
