@@ -493,6 +493,7 @@ imagemagick-common
 initramfs-tools
 initramfs-tools-bin
 initscripts
+inkscape
 insserv
 intltool
 intltool-debian
