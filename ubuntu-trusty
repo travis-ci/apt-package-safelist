@@ -3178,6 +3178,7 @@ libqt5clucene5
 libqt5designer5
 libqt5designercomponents5
 libqt5help5
+libqt5qml-quickcontrols
 libqt5script5
 libqt5scripttools5
 libqtcore4
@@ -4019,7 +4020,11 @@ qt4-qtconfig
 qtbase5-doc
 qtbubblelevel
 qtcore4-l10n
+qtdeclarative5-controls-plugin
 qtdeclarative5-doc
+qtdeclarative5-quicklayouts-plugin
+qtquickcontrols5-doc
+qtquickcontrols5-doc-html
 qtscript5-dbg
 qtscript5-dev
 qtscript5-doc
