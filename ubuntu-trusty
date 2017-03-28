@@ -3739,6 +3739,8 @@ ncurses-bin
 netbase
 netcat-openbsd
 netpbm
+ninja-build
+ninja-build-doc
 notification-daemon
 nsis
 nsis-common
