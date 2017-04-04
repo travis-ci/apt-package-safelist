@@ -2335,6 +2335,13 @@ libappindicator3-1
 libappindicator3-dev
 libapr1
 libaprutil1
+libaprutil1-dbd-mysql
+libaprutil1-dbd-odbc
+libaprutil1-dbd-pgsql
+libaprutil1-dbd-sqlite3
+libaprutil1-dbg
+libaprutil1-dev
+libaprutil1-ldap
 libapt-inst1.4
 libapt-pkg4.12
 libarchive-dev
