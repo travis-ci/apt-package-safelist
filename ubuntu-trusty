@@ -2455,6 +2455,9 @@ libclang1-3.6-dbg
 libclass-isa-perl
 libcomerr2
 libcommons-daemon-java
+libconsole-bridge-dev
+libconsole-bridge0.2
+libconsole-bridge0.2-dbg
 libcppunit-1.13-0
 libcppunit-dev
 libcppunit-doc
