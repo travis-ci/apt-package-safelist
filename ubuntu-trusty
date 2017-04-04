@@ -2488,6 +2488,9 @@ libdbd-mysql-perl
 libdbi-perl
 libdbus-1-3
 libdbus-glib-1-2
+libdbus-glib-1-2-dbg
+libdbus-glib-1-dev
+libdbus-glib-1-doc
 libdbusmenu-qt-dev
 libdbusmenu-qt-doc
 libdbusmenu-qt2
