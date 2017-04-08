@@ -200,6 +200,7 @@ dh-apparmor
 dh-virtualenv
 diffutils
 discount
+distro-info
 ditaa
 ditaa:i386
 djview
@@ -2510,6 +2511,7 @@ libdbusmenu-qt5-doc
 libdconf0
 libdevmapper-event1.02.1
 libdevmapper1.02.1
+libdistro-info-perl
 libdjvulibre-dev
 libdjvulibre-text
 libdjvulibre21
@@ -3878,6 +3880,7 @@ python-dbg
 python-demjson
 python-demjson:i386
 python-dev
+python-distro-info
 python-doc
 python-docutils
 python-enchant
@@ -3982,6 +3985,7 @@ python3-chardet
 python3-chardet:i386
 python3-dbus.mainloop.qt
 python3-dbus.mainloop.qt-dbg
+python3-distro-info
 python3-docutils
 python3-enchant
 python3-enchant:i386
