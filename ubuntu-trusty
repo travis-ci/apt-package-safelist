@@ -395,6 +395,7 @@ gir1.2-gdkpixbuf-2.0
 gir1.2-glib-2.0
 gir1.2-gssdp-1.0
 gir1.2-gtk-2.0
+gir1.2-gudev-1.0
 gir1.2-pango-1.0
 gir1.2-poppler-0.18
 gir1.2-rsvg-2.0
@@ -2756,6 +2757,7 @@ libgts-dbg:i386
 libgts-dev
 libgts-dev:i386
 libgudev-1.0-0
+libgudev-1.0-dev
 libgv-guile
 libgv-lua
 libgv-perl
@@ -3066,6 +3068,7 @@ libpam-doc
 libpam-modules
 libpam-modules-bin
 libpam-runtime
+libpam-systemd
 libpam0g
 libpam0g-dev
 libpango1.0-0
@@ -3389,6 +3392,14 @@ libsvn1
 libswitch-perl
 libswitch-perl:i386
 libsys-hostname-long-perl
+libsystemd-daemon-dev
+libsystemd-daemon0
+libsystemd-id128-0
+libsystemd-id128-dev
+libsystemd-journal-dev
+libsystemd-journal0
+libsystemd-login-dev
+libsystemd-login0
 libtasn1-3
 libtasn1-3-dev
 libtclap-dev
@@ -3428,7 +3439,10 @@ libucl-dev
 libucl-dev:i386
 libucl1
 libucl1:i386
+libudev-dev
 libudev0
+libudev1
+libudev1-udeb
 libunistring0
 libunittest++-dev
 libunittest++-dev:i386
@@ -3961,6 +3975,7 @@ python-scipy-dbg
 python-serial
 python-simplejson
 python-software-properties
+python-systemd
 python-tables
 python-tables-data
 python-tables-dbg
@@ -4121,6 +4136,9 @@ swig-examples
 swig2.0
 swig2.0-doc
 swig2.0-examples
+systemd
+systemd-services
+systemd-sysv
 sysv-rc
 sysvinit-utils
 tar
@@ -4181,6 +4199,7 @@ ubuntu-keyring
 ucf
 udeb
 udev
+udev-udeb
 udisks
 unattended-upgrades
 unzip
