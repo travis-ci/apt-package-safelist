@@ -503,6 +503,7 @@ intltool-debian:i386
 intltool:i386
 iproute
 iptables
+iptables-dev
 iso-codes
 ivy
 java-common
@@ -3026,6 +3027,9 @@ libneon27-gnutls
 libnet-daemon-perl
 libnet-daemon-perl:i386
 libnetcdf6
+libnetfilter-queue-dev
+libnetfilter-queue1
+libnetfilter-queue1-dbg
 libnetpbm10
 libnettle4
 libnfnetlink0
