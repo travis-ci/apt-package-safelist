@@ -1826,6 +1826,9 @@ graphviz-dev
 graphviz-dev:i386
 graphviz-doc
 graphviz:i386
+grass
+grass-dev
+grass-doc
 grep
 grep:i386
 gridengine-client
