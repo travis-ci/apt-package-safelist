@@ -11268,6 +11268,7 @@ python-pil.imagetk-dbg
 python-pip
 python-pip-whl
 python-pip:i386
+python-pivy
 python-pkg-resources
 python-pkg-resources:i386
 python-plist
