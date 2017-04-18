@@ -9177,6 +9177,8 @@ libtinyxml-dev
 libtinyxml-doc
 libtinyxml2.6.2
 libtinyxml2.6.2-dbg
+libtk8.6
+libtk8.6-dbg
 libtokyocabinet-dbg
 libtokyocabinet-dev
 libtokyocabinet9
@@ -12379,6 +12381,9 @@ tk8.5
 tk8.5-dev
 tk8.5-dev:i386
 tk8.5:i386
+tk8.6
+tk8.6-dev
+tk8.6-doc
 tk:i386
 tklib
 tmate
