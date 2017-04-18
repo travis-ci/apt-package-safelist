@@ -2455,6 +2455,7 @@ libcanberra0-dbg
 libcap2
 libcdt4
 libcdt5
+libcf0
 libcgraph5
 libcgraph6
 libck-connector0
@@ -3025,7 +3026,11 @@ libncursesw5-dev
 libneon27-gnutls
 libnet-daemon-perl
 libnet-daemon-perl:i386
+libnetcdf-dev
 libnetcdf6
+libnetcdfc++4
+libnetcdfc7
+libnetcdff5
 libnetpbm10
 libnettle4
 libnfnetlink0
@@ -3755,6 +3760,9 @@ ncurses-base
 ncurses-bin
 netbase
 netcat-openbsd
+netcdf-bin
+netcdf-dbg
+netcdf-doc
 netpbm
 ninja-build
 ninja-build-doc
