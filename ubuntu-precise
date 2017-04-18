@@ -1622,6 +1622,7 @@ gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
 gir1.2-gtkclutter-1.0
 gir1.2-gtkspell3-3.0
+gir1.2-gudev-1.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
@@ -7869,6 +7870,7 @@ libpam-oath
 libpam-runtime
 libpam-runtime:i386
 libpam-smbpass
+libpam-systemd
 libpam-winbind
 libpam0g
 libpam0g-dev
@@ -9080,6 +9082,16 @@ libsynctex-dev
 libsynctex1
 libsys-hostname-long-perl
 libsys-hostname-long-perl:i386
+libsystemd-daemon-dev
+libsystemd-daemon0
+libsystemd-dev
+libsystemd-id128-0
+libsystemd-id128-dev
+libsystemd-journal-dev
+libsystemd-journal0
+libsystemd-login-dev
+libsystemd-login0
+libsystemd0
 libt1-5
 libt1-5-dbg
 libt1-dev
@@ -9214,6 +9226,8 @@ libucl1
 libudev-dev
 libudev0
 libudev0:i386
+libudev1
+libudev1-udeb
 libudisks2-0
 libudisks2-dev
 libudns-dev
@@ -11689,6 +11703,7 @@ python3-stdnum
 python3-stem
 python3-subunit
 python3-sympy
+python3-systemd
 python3-tabulate
 python3-tk
 python3-tk-dbg
@@ -12131,6 +12146,9 @@ swig3.0-doc
 swig3.0-examples
 swig:i386
 sysbench
+systemd
+systemd-dbg
+systemd-sysv
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
@@ -12434,6 +12452,7 @@ ucspi-tcp-ipv6
 udeb
 udeb:i386
 udev
+udev-udeb
 udev:i386
 udisks
 udisks2
