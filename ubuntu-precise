@@ -6103,6 +6103,7 @@ libgpg-error0
 libgpg-error0:i386
 libgpgme11
 libgpgme11-dev
+libgphoto2-2:i386
 libgphoto2-6
 libgphoto2-dev
 libgphoto2-dev-doc
@@ -8569,6 +8570,7 @@ libsam4
 libsamplerate0
 libsamplerate0-dev
 libsane
+libsane:i386
 libsane-common
 libsane-dbg
 libsane-dev
