@@ -3052,6 +3052,9 @@ libopenblas-base
 libopenblas-dev
 libopenexr-dev
 libopenexr6
+libopenmpi-dev
+libopenmpi1.6
+libopenmpi1.6-dbg
 libopts25
 libopts25-dev
 liborbit2
@@ -3780,6 +3783,10 @@ openjdk-6-jre-lib
 openjdk-7-jdk
 openjdk-7-jre
 openjdk-7-jre-headless
+openmpi-bin
+openmpi-checkpoint
+openmpi-common
+openmpi-doc
 openssh-client
 openssh-server
 openssl
