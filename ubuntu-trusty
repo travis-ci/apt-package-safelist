@@ -179,6 +179,7 @@ cpp-4.8-arm-linux-gnueabihf
 cpp-4.8-doc
 cpp-doc
 cpp11-migrate-3.6
+cracklib-runtime
 cron
 cryptsetup-bin
 curl
@@ -2473,6 +2474,9 @@ libconsole-bridge0.2-dbg
 libcppunit-1.13-0
 libcppunit-dev
 libcppunit-doc
+libcrack2
+libcrack2-dev
+libcrack2-udeb
 libcroco3
 libcrypto++-dev
 libcrypto++-dev:i386
@@ -3886,6 +3890,7 @@ python-babel-localedata
 python-bzrlib
 python-clang-3.6
 python-configobj
+python-cracklib
 python-crypto
 python-dbg
 python-demjson
@@ -3994,6 +3999,7 @@ python2.7-minimal
 python3-babel
 python3-chardet
 python3-chardet:i386
+python3-cracklib
 python3-dbus.mainloop.qt
 python3-dbus.mainloop.qt-dbg
 python3-distro-info
