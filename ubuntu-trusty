@@ -3456,6 +3456,9 @@ libusb-0.1-4
 libusb-0.1-udeb
 libusb-dev
 libuuid1
+libuv-dev
+libuv0.10
+libuv0.10-dbg
 libvolk0.0.0
 libvorbis0a
 libvorbisenc2
