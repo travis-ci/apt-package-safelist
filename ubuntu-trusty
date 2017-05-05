@@ -102,6 +102,7 @@ autoconf2.64
 autoconf2.64:i386
 autogen
 automake
+autopoint
 autotools-dev
 avr-libc
 axel
@@ -380,6 +381,8 @@ geoip-bin
 geoip-dbg
 gettext
 gettext-base
+gettext-doc
+gettext-el
 gfortran
 gfortran-4.8
 gfortran-4.8-arm-linux-gnueabihf
@@ -2358,6 +2361,8 @@ libasm-dev
 libasm1
 libasn1-8-heimdal
 libasound2
+libasprintf-dev
+libasprintf0c2
 libasyncns0
 libatasmart4
 libatk-wrapper-java
@@ -2623,6 +2628,7 @@ libgeos-3.2.2
 libgeos-3.3.8
 libgeos-c1
 libgeos-dev
+libgettextpo-dev
 libgettextpo0
 libgflags-dev
 libgflags-doc
