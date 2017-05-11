@@ -2877,6 +2877,7 @@ libjpeg-turbo8-dev
 libjpeg8
 libjpeg8-dev
 libjs-jquery
+libjs-sphinxdoc
 libjson0
 libjsoncpp-dev
 libjsoncpp0
@@ -3987,6 +3988,7 @@ python-scipy-dbg
 python-serial
 python-simplejson
 python-software-properties
+python-sphinx
 python-tables
 python-tables-data
 python-tables-dbg
@@ -4044,6 +4046,7 @@ python3-scipy
 python3-scipy-dbg
 python3-serial
 python3-speechd
+python3-sphinx
 python3-tables
 python3-tables-dbg
 python3-tables-lib
@@ -4128,6 +4131,8 @@ speech-tools-doc
 speech-tools-doc:i386
 speex
 speex-doc
+sphinx-common
+sphinx-doc
 splint
 splint-data
 splint-data:i386
