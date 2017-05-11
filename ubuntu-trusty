@@ -3980,6 +3980,8 @@ python-qt4-phonon
 python-qt4-phonon-dbg
 python-qt4-sql
 python-qt4-sql-dbg
+python-requests
+python-requests-whl
 python-sane
 python-sane-dbg
 python-scipy
@@ -4038,6 +4040,7 @@ python3-pyqt4.qtopengl-dbg
 python3-pyqt4.qtsql
 python3-pyqt4.qtsql-dbg
 python3-pytest
+python3-requests
 python3-sane
 python3-sane-dbg
 python3-scipy
