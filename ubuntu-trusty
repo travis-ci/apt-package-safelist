@@ -481,6 +481,7 @@ hunspell-sh:i386
 hyphen-sh
 hyphen-sh:i386
 iasl
+ibverbs-utils
 icedtea-6-jre-cacao
 icedtea-6-jre-jamvm
 icedtea-6-plugin
@@ -2838,6 +2839,9 @@ libhtml-tableextract-perl
 libhtml-tableextract-perl:i386
 libhtml-template-perl
 libhx509-5-heimdal
+libibverbs-dev
+libibverbs1
+libibverbs1-dbg
 libice-dev
 libice6
 libicns-dev
