@@ -1,5 +1,6 @@
 acpica-tools
 acpidump
+adacurses
 adduser
 ant
 ant-contrib
@@ -2239,6 +2240,10 @@ lib32itm1-dbg
 lib32itm1-dbg-armhf-cross
 lib32mudflap0-armhf-cross
 lib32mudflap0-dbg-armhf-cross
+lib32ncurses5
+lib32ncurses5-dev
+lib32ncursesw5
+lib32ncursesw5-dev
 lib32objc-4.8-dev
 lib32objc-4.8-dev-armhf-cross
 lib32objc4
@@ -2258,6 +2263,8 @@ lib32stdc++6-4.8-dbg
 lib32stdc++6-4.8-dbg-armhf-cross
 lib32stdc++6-armhf-cross
 lib32stdc++6:i386
+lib32tinfo-dev
+lib32tinfo5
 lib32tsan0-armhf-cross
 lib32tsan0-dbg-armhf-cross
 lib64asan0
@@ -2292,6 +2299,8 @@ lib64itm1-dbg
 lib64itm1-dbg-armhf-cross
 lib64mudflap0-armhf-cross
 lib64mudflap0-dbg-armhf-cross
+lib64ncurses5
+lib64ncurses5-dev
 lib64objc-4.8-dev
 lib64objc-4.8-dev-armhf-cross
 lib64objc4
@@ -2311,6 +2320,7 @@ lib64stdc++6-4.8-dbg
 lib64stdc++6-4.8-dbg-armhf-cross
 lib64stdc++6-armhf-cross
 lib64stdc++6:i386
+lib64tinfo5
 lib64tsan0-armhf-cross
 lib64tsan0-dbg-armhf-cross
 libacl1
@@ -3026,8 +3036,10 @@ libn32tsan0-armhf-cross
 libn32tsan0-dbg-armhf-cross
 libnacl-dev
 libncurses5
+libncurses5-dbg
 libncurses5-dev
 libncursesw5
+libncursesw5-dbg
 libncursesw5-dev
 libneon27-gnutls
 libnet-daemon-perl
@@ -3433,6 +3445,7 @@ libtiffxx5
 libtimedate-perl
 libtinfo-dev
 libtinfo5
+libtinfo5-dbg
 libtolua++5.1-dev
 libtolua++5.1-dev:i386
 libtool
@@ -3505,6 +3518,10 @@ libx32itm1-dbg
 libx32itm1-dbg-armhf-cross
 libx32mudflap0-armhf-cross
 libx32mudflap0-dbg-armhf-cross
+libx32ncurses5
+libx32ncurses5-dev
+libx32ncursesw5
+libx32ncursesw5-dev
 libx32objc-4.8-dev
 libx32objc-4.8-dev-armhf-cross
 libx32objc4
@@ -3519,6 +3536,8 @@ libx32stdc++6
 libx32stdc++6-4.8-dbg
 libx32stdc++6-4.8-dbg-armhf-cross
 libx32stdc++6-armhf-cross
+libx32tinfo-dev
+libx32tinfo5
 libx32tsan0-armhf-cross
 libx32tsan0-dbg-armhf-cross
 libxau-dev
@@ -3770,6 +3789,10 @@ ncbi-blast+-legacy:i386
 ncbi-blast+:i386
 ncurses-base
 ncurses-bin
+ncurses-doc
+ncurses-examples
+ncurses-term
+ncurses6
 netbase
 netcat-openbsd
 netcdf-bin
