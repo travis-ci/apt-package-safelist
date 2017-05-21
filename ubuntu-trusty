@@ -3461,6 +3461,8 @@ libusb-0.1-4
 libusb-0.1-udeb
 libusb-dev
 libuuid1
+libviennacl-dev
+libviennacl-doc
 libvolk0.0.0
 libvorbis0a
 libvorbisenc2
