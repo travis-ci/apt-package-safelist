@@ -2260,6 +2260,8 @@ lib32stdc++6-armhf-cross
 lib32stdc++6:i386
 lib32tsan0-armhf-cross
 lib32tsan0-dbg-armhf-cross
+lib32z1
+lib32z1-dev
 lib64asan0
 lib64asan0-armhf-cross
 lib64asan0-dbg
@@ -2313,6 +2315,8 @@ lib64stdc++6-armhf-cross
 lib64stdc++6:i386
 lib64tsan0-armhf-cross
 lib64tsan0-dbg-armhf-cross
+lib64z1
+lib64z1-dev
 libacl1
 libaio-dev
 libaio1
@@ -3029,6 +3033,8 @@ libn32stdc++6-4.8-dbg-armhf-cross
 libn32stdc++6-armhf-cross
 libn32tsan0-armhf-cross
 libn32tsan0-dbg-armhf-cross
+libn32z1
+libn32z1-dev
 libnacl-dev
 libncurses5
 libncurses5-dev
@@ -3542,6 +3548,8 @@ libx32stdc++6-4.8-dbg-armhf-cross
 libx32stdc++6-armhf-cross
 libx32tsan0-armhf-cross
 libx32tsan0-dbg-armhf-cross
+libx32z1
+libx32z1-dev
 libxau-dev
 libxau6
 libxaw7
@@ -4327,8 +4335,11 @@ zip
 zipcmp
 zipmerge
 ziptorrent
+zlib-bin
 zlib1g
+zlib1g-dbg
 zlib1g-dev
+zlib1g-udeb
 zsh
 zsh-beta
 zsh-beta-doc
