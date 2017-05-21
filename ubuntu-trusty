@@ -2853,6 +2853,11 @@ libilmbase-dev
 libilmbase6
 libimage-magick-perl
 libimage-magick-perl:i386
+libindicator-dev
+libindicator3-7
+libindicator3-dev
+libindicator3-tools
+libindicator7
 libiptcdata
 libiptcdata:i386
 libitm1
