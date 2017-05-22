@@ -398,6 +398,7 @@ gir1.2-gdkpixbuf-2.0
 gir1.2-glib-2.0
 gir1.2-gssdp-1.0
 gir1.2-gtk-2.0
+gir1.2-harfbuzz-0.0
 gir1.2-pango-1.0
 gir1.2-poppler-0.18
 gir1.2-rsvg-2.0
@@ -2795,6 +2796,13 @@ libgvpr1
 libgvpr2
 libhamlib2++c2
 libhamlib2++c2:i386
+libharfbuzz-bin
+libharfbuzz-dev
+libharfbuzz-doc
+libharfbuzz-gobject0
+libharfbuzz-icu0
+libharfbuzz0-udeb
+libharfbuzz0b
 libhashkit0
 libhavege-dev
 libhavege1
