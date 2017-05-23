@@ -405,6 +405,8 @@ gir1.2-soup-2.4
 git
 git-man
 glew-utils
+glpk-doc
+glpk-utils
 gmime-bin
 gnat
 gnat-doc
@@ -2678,6 +2680,9 @@ libglib2.0-data
 libglib2.0-dev
 libglm-dev
 libglm-doc
+libglpk-dev
+libglpk36
+libglpk36-dbg
 libglu1-mesa
 libglu1-mesa-dev
 libgme-dev
