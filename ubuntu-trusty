@@ -3725,6 +3725,10 @@ libxi-dev
 libxi6
 libxinerama-dev
 libxinerama1
+libxkbcommon-dev
+libxkbcommon-x11-0
+libxkbcommon-x11-dev
+libxkbcommon0
 libxkbfile1
 libxml++2.6-dbg
 libxml++2.6-dbg:i386
