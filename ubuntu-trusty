@@ -506,6 +506,14 @@ intltool-debian:i386
 intltool:i386
 iproute
 iptables
+ipython
+ipython-doc
+ipython-notebook
+ipython-notebook-common
+ipython-qtconsole
+ipython3
+ipython3-notebook
+ipython3-qtconsole
 iso-codes
 ivy
 java-common
