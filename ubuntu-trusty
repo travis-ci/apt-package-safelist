@@ -2620,6 +2620,8 @@ libfribidi-dev
 libfribidi0
 libfribidi0-udeb
 libfuse2
+libgc-dev
+libgc1c2
 libgcc-4.8-dev
 libgcc-4.8-dev-armhf-cross
 libgcc1
