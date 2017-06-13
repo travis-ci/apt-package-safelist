@@ -4364,6 +4364,7 @@ libatlas-dev:i386
 libatlas-doc
 libatlas-test
 libatlas3-base
+libatomic-ops-dev
 libatomic1
 libatomic1-dbg
 libatomic1-dbg:i386
