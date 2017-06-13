@@ -390,6 +390,8 @@ gfortran-4.8-multilib-arm-linux-gnueabihf
 gfortran-doc
 gfortran-multilib
 ghostscript
+giflib-dbg
+giflib-tools
 gir1.2-appindicator-0.1
 gir1.2-appindicator3-0.1
 gir1.2-atk-1.0
@@ -2678,6 +2680,7 @@ libgfortran3-dbg-armhf-cross
 libghc-pandoc-dev
 libghc-pandoc-doc
 libghc-pandoc-prof
+libgif-dev
 libgif4
 libgimpactutils2.81
 libgirepository-1.0-1
