@@ -4093,6 +4093,8 @@ python-pil-dbg
 python-pil-doc
 python-pil.imagetk
 python-pil.imagetk-dbg
+python-pip
+python-pip-whl
 python-pkg-resources
 python-pybabel
 python-pycurl
@@ -4166,6 +4168,7 @@ python3-pil
 python3-pil-dbg
 python3-pil.imagetk
 python3-pil.imagetk-dbg
+python3-pip
 python3-pyqt4
 python3-pyqt4-dbg
 python3-pyqt4.phonon
