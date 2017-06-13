@@ -3562,6 +3562,8 @@ libudev0
 libunistring0
 libunittest++-dev
 libunittest++-dev:i386
+libunshield-dev
+libunshield0
 libusb++-0.1-4c2
 libusb++-0.1-4c2:i386
 libusb++-dev
@@ -4356,6 +4358,7 @@ udeb
 udev
 udisks
 unattended-upgrades
+unshield
 unzip
 upstart
 upx-ucl
