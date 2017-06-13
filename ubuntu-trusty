@@ -2381,6 +2381,7 @@ libatk-wrapper-java-jni
 libatk1.0-0
 libatk1.0-data
 libatk1.0-dev
+libatomic-ops-dev
 libatomic1
 libatomic1-armhf-cross
 libatomic1-dbg
