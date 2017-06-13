@@ -2441,6 +2441,16 @@ libboost-timer-dev
 libboost-tools-dev
 libboost-wave-dev
 libbsd0
+libbullet-dev
+libbullet-doc
+libbullet-extras-dev
+libbullet2.81-dbg
+libbulletcollision2.81
+libbulletdynamics2.81
+libbulletfileloader2.81
+libbulletsoftbody2.81
+libbulletworldimporter2.81
+libbulletxmlworldimporter2.81
 libbz2-1.0
 libbz2-dev
 libc-bin
@@ -2487,6 +2497,7 @@ libcommons-daemon-java
 libconsole-bridge-dev
 libconsole-bridge0.2
 libconsole-bridge0.2-dbg
+libconvexdecomposition2.81
 libcppunit-1.13-0
 libcppunit-dev
 libcppunit-doc
@@ -2657,6 +2668,7 @@ libghc-pandoc-dev
 libghc-pandoc-doc
 libghc-pandoc-prof
 libgif4
+libgimpactutils2.81
 libgirepository-1.0-1
 libgirepository1.0-dev
 libgirepository1.0-doc
@@ -2795,6 +2807,7 @@ libgvc6
 libgvc6-plugins-gtk
 libgvpr1
 libgvpr2
+libhacd2.81
 libhamlib2++c2
 libhamlib2++c2:i386
 libharfbuzz-bin
@@ -2950,6 +2963,7 @@ liblcms1-dev
 liblcms2-2
 libldap-2.4-2
 libldap2-dev
+liblinearmath2.81
 liblldb-3.6
 liblldb-3.6-dev
 libllvm-3.6-ocaml-dev
