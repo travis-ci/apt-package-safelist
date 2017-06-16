@@ -180,6 +180,7 @@ cpp-4.8-arm-linux-gnueabihf
 cpp-4.8-doc
 cpp-doc
 cpp11-migrate-3.6
+cppcheck
 cracklib-runtime
 cron
 cryptsetup-bin
