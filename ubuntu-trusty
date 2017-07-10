@@ -3023,6 +3023,10 @@ libmemcached6
 libmemcachedprotocol0
 libmemcachedutil1
 libmng1
+libmongo-client-dev
+libmongo-client-doc
+libmongo-client0
+libmongo-client0-dbg
 libmount1
 libmozjs185-1.0
 libmpc2
