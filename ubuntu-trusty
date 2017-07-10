@@ -2391,6 +2391,12 @@ libatk-wrapper-java-jni
 libatk1.0-0
 libatk1.0-data
 libatk1.0-dev
+libatlas-base-dev
+libatlas-dev
+libatlas-doc
+libatlas-test
+libatlas3-base
+libatlas3gf-base
 libatomic-ops-dev
 libatomic1
 libatomic1-armhf-cross
