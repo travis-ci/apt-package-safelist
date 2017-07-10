@@ -4157,6 +4157,8 @@ python-tables-lib
 python-unittest2
 python-unittest2:i386
 python-wadllib
+python-wheel
+python-wheel-common
 python-yaml
 python-yaml-dbg
 python-zope.interface
@@ -4215,6 +4217,7 @@ python3-sphinx
 python3-tables
 python3-tables-dbg
 python3-tables-lib
+python3-wheel
 python3-yaml
 python3-yaml-dbg
 qdbus
