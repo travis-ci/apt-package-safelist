@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+set -o errexit
+
 ANSI_RED="\033[31;1m"
 ANSI_GREEN="\033[32;1m"
 ANSI_RESET="\033[0m"
@@ -27,7 +29,7 @@ function warn() {
 }
 
 function usage() {
-	echo "Usage: $0 [-y] repo issue_number [package [additional_packages …]]"
+	echo "Usage: $0 [-y] repo issue_number dist [package [additional_packages …]]"
 }
 
 while getopts "sy" opt; do
@@ -43,7 +45,7 @@ done
 
 shift $((OPTIND-1))
 
-if [ $# -lt 2 ]; then
+if [ $# -lt 3 ]; then
 	usage
 	exit 0
 fi
@@ -53,6 +55,8 @@ fi
 ISSUE_REPO=$1
 shift
 ISSUE_NUMBER=$1
+shift
+DIST=$1
 shift
 
 PACKAGES=( $@ )
@@ -67,7 +71,8 @@ if [ -z "$PACKAGES"  ]; then
 	fi
 fi
 
-ISSUE_PACKAGE=$(echo $PACKAGES | cut -f1 -d' ')
+# This will contain "<package_name> in <dist>"
+ISSUE_PACKAGE="$(echo $PACKAGES | cut -f1 -d' ') in ${DIST}"
 
 ### Search for an existing PR
 SEARCH_URL="https://api.github.com/search/issues?q=repo:travis-ci/$ISSUE_REPO+type:pr+is:open+%s"
@@ -78,10 +83,17 @@ HITS=$(jq < search_results.json '.total_count')
 
 current=0
 while [ $current -lt $HITS ]; do
+	# This will set CANDIDATE_PACKAGE to "<package_name> in <dist>" or "<package_name>"
 	CANDIDATE_PACKAGE=$(  jq -r < search_results.json ".items | .[$current] | .title | scan(\"Pull request for (.*)$\") [0]")
 	CANDIDATE_PR_NUMBER=$(jq -r < search_results.json ".items | .[$current] | .body  | scan(\"Resolves [^#]+#(?<number>[0-9]+)\") [0]")
+	# check if ${DIST} is present
+	echo $CANDIDATE_PACKAGE | grep -q -E " in [[:alnum:]]*$"
+	if [ $? -gt 0]; then
+		# it isn't, so assume it's meant for precise
+		CANDIDATE_PACKAGE=$(echo $CANDIDATE_PACKAGE " in precise")
+	fi
 
-	if [ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} && z$CANDIDATE_PR_NUMBER = z$ISSUE_NUMBER ]; then
+	if [[ z${CANDIDATE_PACKAGE} = z${ISSUE_PACKAGE} && z$CANDIDATE_PR_NUMBER != z$ISSUE_NUMBER ]]; then
 		# duplicate is found. Close the issue
 		echo "${ANSI_RED}This is a duplicate request${ANSI_RESET}"
 		curl -X POST -d "{\"body\":\"Duplicate of travis-ci/$ISSUE_REPO#$CANDIDATE_PR_NUMBER\"}" \
@@ -95,7 +107,7 @@ while [ $current -lt $HITS ]; do
 	let current=$current+1
 done
 
-notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}"
+notice "Setting up PR with\nRepo: ${ISSUE_REPO}\nNUMBER: ${ISSUE_NUMBER}\nPackages: ${PACKAGES[*]}\nDIST: ${DIST}"
 
 BRANCH="test-${ISSUE_REPO}-${ISSUE_NUMBER}"
 notice "Setting up Git"
@@ -119,10 +131,10 @@ git checkout $DEFAULT_BRANCH
 git checkout -b $BRANCH
 for p in ${PACKAGES[*]}; do
 	notice "Adding ${p}"
-	env PACKAGE=${p} make add > /dev/null
+	env PACKAGE=${p} DISTRO=ubuntu-${DIST} make add > /dev/null
 done
-git add ubuntu-precise
-git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-precise; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}
+git add ubuntu-${DIST}
+git commit -m "Add ${ISSUE_PACKAGE} to ubuntu-${DIST}; resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}
 
 Packages: ${PACKAGES}"
 
@@ -153,15 +165,17 @@ fi
 if [ ${has_setuid} -gt 0 ]; then
 	COMMENT="\n\n***NOTE***\n\nsetuid/seteuid/setgid bits were found. Be sure to check the build result.\n\n${COMMENT}"
 fi
-curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
+
+
+curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
 	https://api.github.com/repos/travis-ci/apt-package-whitelist/pulls > pr_payload
 if [ $? -eq 0 -a ${has_setuid} -gt 0 ]; then
-	curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
+	curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 		-d "[\"textual-suid-present\"]" \
 		$(jq .issue_url pr_payload | cut -f2 -d\")/labels
 fi
-curl -X POST -sS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
+curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "[\"apt-whitelist-check-run\"]" \
 	https://api.github.com/repos/travis-ci/${ISSUE_REPO}/issues/${ISSUE_NUMBER}/labels
 
