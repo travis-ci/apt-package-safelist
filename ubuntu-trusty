@@ -6178,6 +6178,8 @@ libglpk0
 libglpk0-dbg
 libglpk0-dbg:i386
 libglpk0:i386
+libglpk36
+libglpk36-dbg
 libglu1-mesa
 libglu1-mesa-dev
 libglu1-mesa-dev:i386
