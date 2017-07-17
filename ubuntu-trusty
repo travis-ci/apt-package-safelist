@@ -1683,11 +1683,11 @@ gir1.2-gst-plugins-base-1.0
 gir1.2-gstreamer-0.10
 gir1.2-gstreamer-1.0
 gir1.2-gtk-2.0
-gir1.2-gudev-1.0
 gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
 gir1.2-gtkclutter-1.0
 gir1.2-gtkspell3-3.0
+gir1.2-gudev-1.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
@@ -6496,7 +6496,6 @@ libgts-dbg:i386
 libgts-dev
 libgts-dev:i386
 libgudev-1.0-0
-libgudev-1.0-dev
 libgudev-1.0-0:i386
 libgudev-1.0-dev
 libgudev-1.0-dev:i386
@@ -8247,9 +8246,9 @@ libpam-modules-bin:i386
 libpam-modules:i386
 libpam-oath
 libpam-runtime
-libpam-systemd
 libpam-runtime:i386
 libpam-smbpass
+libpam-systemd
 libpam-winbind
 libpam0g
 libpam0g-dev
@@ -9525,6 +9524,7 @@ libsybdb5
 libsynctex-dev
 libsynctex1
 libsys-hostname-long-perl
+libsys-hostname-long-perl:i386
 libsystemd-daemon-dev
 libsystemd-daemon0
 libsystemd-id128-0
@@ -9533,7 +9533,6 @@ libsystemd-journal-dev
 libsystemd-journal0
 libsystemd-login-dev
 libsystemd-login0
-libsys-hostname-long-perl:i386
 libt1-5
 libt1-5-dbg
 libt1-dev
@@ -9677,9 +9676,9 @@ libucl1
 libucl1:i386
 libudev-dev
 libudev0
+libudev0:i386
 libudev1
 libudev1-udeb
-libudev0:i386
 libudisks2-0
 libudisks2-dev
 libudns-dev
@@ -11992,7 +11991,6 @@ python-sklearn-doc
 python-sklearn-lib
 python-smbus
 python-software-properties
-python-systemd
 python-software-properties:i386
 python-sphinx
 python-sqlalchemy
@@ -12010,6 +12008,7 @@ python-support
 python-swiftclient
 python-sympy
 python-sympy-doc
+python-systemd
 python-tables
 python-tables-data
 python-tables-dbg
@@ -12766,14 +12765,14 @@ swig-examples
 swig2.0
 swig2.0-doc
 swig2.0-examples
-systemd
-systemd-services
-systemd-sysv
 swig3.0
 swig3.0-doc
 swig3.0-examples
 swig:i386
 sysbench
+systemd
+systemd-services
+systemd-sysv
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
