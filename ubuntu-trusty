@@ -13058,6 +13058,7 @@ valac-0.28
 valac-0.28-dbg
 valac-0.28-vapi
 valgrind
+valgrind-dbg
 valgrind:i386
 vamp-examples
 vamp-examples:i386
