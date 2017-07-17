@@ -9684,6 +9684,9 @@ libutfcpp-doc
 libuuid-tiny-perl
 libuuid1
 libuuid1:i386
+libuv-dev
+libuv0.10
+libuv0.10-dbg
 libv4l-0
 libv4l-dev
 libv4l2rds0
