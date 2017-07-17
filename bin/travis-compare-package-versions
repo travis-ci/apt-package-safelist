@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+
+set -o errexit
+
+main() {
+  local package="${1}"
+  local dist_a="${2:-precise}"
+  local dist_b="${3:-trusty}"
+  local diff_opts="${4:-"-u"}"
+
+  TOP="$(git rev-parse --show-toplevel)"
+  export TOP
+
+  for dist in "${dist_a}" "${dist_b}"; do
+    if ! grep -q "^${package} " "${TOP}/.packages/${dist}"; then
+      echo "Package ${package} missing from ${dist}"
+      exit 1
+    fi
+  done
+
+  exec diff ${diff_opts} \
+    --label "a/${package}/version" \
+    <(__package_version "${package}" "${dist_a}") \
+    --label "b/${package}/version" \
+    <(__package_version "${package}" "${dist_b}")
+}
+
+__package_version() {
+  local package="${1}"
+  local manifest="${2}"
+
+  awk "/^${package} / { sub(/\\(/, \"\", \$2) ; print \$2 }" \
+    "${TOP}/.packages/${manifest}"
+}
+
+
+main "$@"

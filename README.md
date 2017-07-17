@@ -1,6 +1,8 @@
 # APT package whitelist
 
-This repo contains plain text files for the packages approved for installation in restricted build environments,
+We have a container-based infrastructure which runs docker. Because docker containers are not fully isolated, the use of `sudo` is disallowed on that environment, to prevent builds from breaking out to the host machine. We do however want to allow the installation of some packages via apt.
+
+This repo contains plain text files for the packages approved for installation in those restricted build environments,
 specifically meant for use with the [`apt_packages` addon in
 travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/build/addons/apt_packages.rb).
 
@@ -10,15 +12,20 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 **PLEASE READ CAREFULLY!**
 
-0. Check the list of approved packages for your build environment (most likely [`ubuntu-precise`](./ubuntu-precise)).
+0. Check the list of approved packages for your build environment ([`ubuntu-precise`](./ubuntu-precise) or [`ubuntu-trusty`](./ubuntu-trusty)).
 0. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-whitelist/issues)
-   and [pull requests](https://github.com/travis-ci/apt-package-whitelist/pulls) requesting the package you
-   want, and if one doesn't exist please
-   open an issue requesting the package you need in the [this
-   repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___)
-   (and be sure to replace `__PACKAGE__` in the issue title).
+   and [pull requests](https://github.com/travis-ci/apt-package-whitelist/pulls) requesting the package you want.
 
-0. Currently, we are in the process of automating request approval process.
+   ***Please [search first](https://github.com/travis-ci/apt-package-whitelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
+
+   If one doesn't exist please
+   open an issue requesting the package you need in the [this
+   repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___+in+_PRECISE_OR_TRUSTY_).
+   Be sure to replace `__PACKAGE__` in the issue title, and
+   to indicate in the issue title whether you'd want the package
+   in Precise or Trusty. If none is specified, we will test it on Precise.
+
+0. The initial steps for package approval process is automated.
   1. This means that the issues' subject should follow exactly the one indicated.
   That is, there should be **exactly one package** per issue.
   The process would not work with multiple package requests in one issue.
@@ -189,8 +196,8 @@ Grab the generated commit message
 Commit and push, then restart all `travis-build` apps with a bit o' sleep
 
 ``` bash
-for app in $(hk apps | awk '/travis.*build-(prod|stag)/ { print $1 }') ; do
-  hk restart -a ${app} ;
+for app in travis-pro-build-production travis-pro-build-staging travis-build-production travis-build-staging ; do
+  heroku ps:restart -a ${app} ;
   sleep 5 ;
 done
 ```
