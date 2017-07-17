@@ -9893,6 +9893,9 @@ libwww-perl
 libwxbase2.8-0
 libwxbase2.8-dbg
 libwxbase2.8-dev
+libwxgtk-media2.8-0
+libwxgtk-media2.8-dbg
+libwxgtk-media2.8-dev
 libwxgtk2.8-0
 libwxgtk2.8-dbg
 libwxgtk2.8-dev
