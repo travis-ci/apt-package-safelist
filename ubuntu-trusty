@@ -250,6 +250,7 @@ automake:i386
 autopoint
 autotools-dev
 autotools-dev:i386
+avfs
 avr-libc
 awesome
 awscli
