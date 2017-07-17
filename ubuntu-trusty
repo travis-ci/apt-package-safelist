@@ -7618,6 +7618,8 @@ libmpfr-doc
 libmpfr4
 libmpfr4-dbg
 libmpfr4:i386
+libmpg123-0
+libmpg123-dev
 libmpv-dbg
 libmpv-dev
 libmpv1
@@ -10711,6 +10713,7 @@ mp3splt
 mp3val
 mp4v2-dbg
 mp4v2-utils
+mpg123
 mpich2python
 mplayer
 mplayer-dbg
