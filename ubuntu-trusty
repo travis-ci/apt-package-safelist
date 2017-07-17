@@ -7835,6 +7835,9 @@ libnetpbm9
 libnetpbm9-dev
 libnettle4
 libnettle4:i386
+libnewlib-arm-none-eabi
+libnewlib-dev
+libnewlib-doc
 libnewt0.52
 libnewt0.52:i386
 libnfc-bin
@@ -10845,6 +10848,7 @@ netpbm:i386
 nettle-bin
 nettle-dbg
 nettle-dev
+newlib-source
 nginx
 nginx-common
 nginx-common:i386
