@@ -8638,8 +8638,11 @@ libqt5svg5
 libqt5svg5-dev
 libqt5svg5-private-dev
 libqt5test5
+libqt5webkit5
+libqt5webkit5-dbg
 libqt5webkit5-dev
 libqt5webkit5-dev:i386
+libqt5webkit5-qmlwebkitplugin
 libqt5websockets5
 libqt5websockets5-dev
 libqt5widgets5
@@ -11987,6 +11990,7 @@ python-vtkgdcm
 python-vtkgdcm:i386
 python-wadllib
 python-wadllib:i386
+python-webkitwx
 python-wheel
 python-wheel-common
 python-wnck
@@ -12412,6 +12416,7 @@ qttools5-examples-dbg
 qttools5-private-dev
 qttranslations5-l10n
 qtwebkit5-doc
+qtwebkit5-doc-html
 qtwebsockets5-dbg
 qtwebsockets5-doc
 qtwebsockets5-doc-html
@@ -13154,6 +13159,7 @@ wammu
 wammu:i386
 wavpack
 wcslib-dev
+webkitwx-headers
 webp
 weex
 weex:i386
