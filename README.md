@@ -23,7 +23,7 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
    repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___+in+_PRECISE_OR_TRUSTY_).
    Be sure to replace `__PACKAGE__` in the issue title, and
    to indicate in the issue title whether you'd want the package
-   in Precse or Trusty. If none is specified, we will test it on Precse.
+   in Precise or Trusty. If none is specified, we will test it on Precise.
 
 0. The initial steps for package approval process is automated.
   1. This means that the issues' subject should follow exactly the one indicated.
