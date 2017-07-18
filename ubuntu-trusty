@@ -248,6 +248,7 @@ automake1.9
 automake1.9:i386
 automake:i386
 autopoint
+autoremove
 autotools-dev
 autotools-dev:i386
 avahi-autoipd
@@ -682,6 +683,7 @@ cups-server-common
 curl
 curl-udeb
 curl:i386
+cvs
 cvsps
 cx-freeze
 cxxtest
@@ -6109,6 +6111,7 @@ libghc-parsec3-prof
 libghc-random-dev
 libghc-random-doc
 libghc-random-prof
+libghc-readline-dev
 libghc-sha-dev
 libghc-sha-doc
 libghc-sha-prof
@@ -8237,6 +8240,7 @@ libp11-kit-dev
 libp11-kit-dev:i386
 libp11-kit0
 libp11-kit0:i386
+libpackagekit-glib2-dev
 libpam-cap
 libpam-cap:i386
 libpam-ck-connector
@@ -11138,6 +11142,7 @@ oracle-java8-installer:i386
 oracle-java8-set-default
 oracle-java9-installer
 oracle-java9-installer:i386
+original-awk
 osc
 osmosis
 otf-freefont
@@ -11634,6 +11639,7 @@ python-dbus-dbg
 python-dbus-dev
 python-dbus-doc
 python-dbus:i386
+python-debian
 python-demjson
 python-demjson:i386
 python-descartes
@@ -11641,6 +11647,8 @@ python-dev
 python-dev:i386
 python-distro-info
 python-distutils-extra
+python-django
+python-django-tagging
 python-doc
 python-docutils
 python-empy
@@ -11686,6 +11694,7 @@ python-gi-dbg
 python-gi-dev
 python-gi:i386
 python-glade2
+python-gmpy
 python-gmsh
 python-gnome2-desktop-dev
 python-gnomekeyring
@@ -11743,6 +11752,7 @@ python-ldns:i386
 python-libhamlib2
 python-liblcms
 python-libproxy
+python-libssh2
 python-libsvm
 python-libxml2
 python-libxml2-dbg
@@ -12010,6 +12020,7 @@ python-stem
 python-subunit
 python-suds
 python-support
+python-svn
 python-swiftclient
 python-sympy
 python-sympy-doc
@@ -12677,6 +12688,7 @@ silversearcher-ag
 sip-dbg
 sip-dev
 sitecopy
+slang-gsl
 slapd
 sloccount
 smartmontools
