@@ -742,6 +742,7 @@ diffstat
 diffstat:i386
 diffutils
 diffutils:i386
+dirmngr
 discount
 ditaa
 djview
@@ -1682,6 +1683,9 @@ gnome-mplayer
 gnome-mplayer-dbg
 gnome-session-canberra
 gnupg
+gnupg-agent
+gnupg2
+gnupg2-dbg
 gnupg:i386
 gnuplot
 gnuplot-data
@@ -1806,7 +1810,9 @@ gpc-doc
 gpc-doc:i386
 gpc:i386
 gperf
+gpgsm
 gpgv
+gpgv2
 gpgv:i386
 gphoto2
 gpp
@@ -12018,6 +12024,7 @@ sbuild
 scala
 scala-doc
 scala-library
+scdaemon
 scikits.timeseries
 scikits.timeseries:i386
 scons
