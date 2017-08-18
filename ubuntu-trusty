@@ -10284,6 +10284,7 @@ libxslt1.1:i386
 libxss-dev
 libxss-dev:i386
 libxss1
+libxss1-dbg
 libxss1:i386
 libxstream-java
 libxstream-java:i386
