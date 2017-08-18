@@ -9288,9 +9288,12 @@ libsoxr-dev
 libsoxr-lsr0
 libsoxr0
 libsparsehash-dev
+libspatialindex-c3
 libspatialindex-c4v5
 libspatialindex-dbg
 libspatialindex-dev
+libspatialindex3
+libspatialindex3-dbg
 libspatialindex4v5
 libspatialite-dbg
 libspatialite-dev
