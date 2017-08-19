@@ -2102,6 +2102,7 @@ hunspell-ro
 hunspell-sh
 hunspell-sh:i386
 hunspell-sr
+hunspell-sv-se
 hunspell-tools
 hunspell-vi
 hwloc
@@ -2117,6 +2118,7 @@ hyphen-sh
 hyphen-sh:i386
 hyphen-sl
 hyphen-sr
+hyphen-sv
 hyphen-zu
 i2c-tools
 ia32-libs
