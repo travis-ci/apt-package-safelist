@@ -9580,6 +9580,7 @@ libtclap-dev:i386
 libtcltk-ruby
 libtcmalloc-minimal0
 libtcmalloc-minimal0-dbg
+libtcnative-1
 libtdb1
 libtdb1:i386
 libterm-readkey-perl
