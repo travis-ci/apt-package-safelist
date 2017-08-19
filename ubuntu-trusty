@@ -282,6 +282,7 @@ bc
 bc:i386
 bedtools
 bedtools-test
+biber
 biblatex
 bibutils
 bibutils:i386
