@@ -10975,6 +10975,7 @@ nodejs-dbg:i386
 nodejs-dev
 nodejs-dev:i386
 nodejs:i386
+normalize-audio
 notification-daemon
 notification-daemon:i386
 notmuch
