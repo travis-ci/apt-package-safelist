@@ -9236,6 +9236,11 @@ libsigsegv2
 libsigsegv2:i386
 libsimage-dev
 libsimage20
+libsimgear-dev
+libsimgearcore3.0.0
+libsimgearcore3.0.0-dbg
+libsimgearscene3.0.0
+libsimgearscene3.0.0-dbg
 libslang2
 libslang2:i386
 libslice34
@@ -12700,6 +12705,7 @@ shtool:i386
 shunit2
 shunit2:i386
 silversearcher-ag
+simgear-dev
 sip-dbg
 sip-dev
 sitecopy
