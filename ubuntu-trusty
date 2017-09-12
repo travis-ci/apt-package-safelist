@@ -5144,6 +5144,8 @@ libcap2:i386
 libcc1-0
 libcc1-0:i386
 libccolamd2.8.0
+libcdk5
+libcdk5-dev
 libcdt4
 libcdt4:i386
 libcdt5
