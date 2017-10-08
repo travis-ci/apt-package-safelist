@@ -7307,6 +7307,9 @@ libmail-sendmail-perl
 libmail-sendmail-perl:i386
 libmapnik-dev
 libmapnik3.0
+libmariadbclient-dev
+libmariadbclient18
+libmariadbd-dev
 libmarkdown2
 libmarkdown2-dbg
 libmarkdown2-dev
@@ -10699,6 +10702,15 @@ manpages:i386
 mapnik-doc
 mapnik-utils
 mapnik-vector-tile
+mariadb-client
+mariadb-client-5.5
+mariadb-client-core-5.5
+mariadb-common
+mariadb-server
+mariadb-server-5.5
+mariadb-server-core-5.5
+mariadb-test
+mariadb-test-5.5
 markdown
 markdown:i386
 mawk
