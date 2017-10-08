@@ -9035,6 +9035,8 @@ libsdl-mixer1.2-dev
 libsdl-net1.2
 libsdl-net1.2-dbg
 libsdl-net1.2-dev
+libsdl-sound1.2
+libsdl-sound1.2-dev
 libsdl-ttf2.0-0
 libsdl-ttf2.0-dev
 libsdl1.2-dbg
