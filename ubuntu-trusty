@@ -843,6 +843,11 @@ e2tools
 e2tools:i386
 eatmydata
 eatmydata:i386
+eclipse-cdt
+eclipse-cdt-autotools
+eclipse-cdt-jni
+eclipse-cdt-launch-remote
+eclipse-cdt-qt
 ed
 efl-dbg
 efl-doc
