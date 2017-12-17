@@ -11332,6 +11332,7 @@ pinfo
 pinfo:i386
 pkg-config
 pkg-config-arm-linux-gnueabihf
+pkg-config-powerpc-linux-gnu
 pkg-config:i386
 pkg-test
 pkg-test-illiterate
