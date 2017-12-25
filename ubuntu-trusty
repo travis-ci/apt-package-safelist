@@ -9543,6 +9543,8 @@ libsvm3
 libsvm3-java
 libsvn1
 libsvn1:i386
+libswe-dev
+libswe0
 libswitch-perl
 libswitch-perl:i386
 libsword-common
@@ -12817,6 +12819,7 @@ sudo
 sudo:i386
 supervisor
 supervisor-doc
+swe-basic-data
 swftools
 swftools-dbg
 swig
