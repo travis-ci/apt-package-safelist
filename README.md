@@ -19,7 +19,7 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
    ***Please [search first](https://github.com/travis-ci/apt-package-whitelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
 
    If one doesn't exist please
-   open an issue requesting the package you need in the [this
+   open an issue requesting the package you need in [this
    repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___+in+_PRECISE_OR_TRUSTY_).
    Be sure to replace `__PACKAGE__` in the issue title, and
    to indicate in the issue title whether you'd want the package
