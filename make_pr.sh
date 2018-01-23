@@ -1,7 +1,5 @@
 #! /usr/bin/env bash
 
-set -o errexit
-
 ANSI_RED="\033[31;1m"
 ANSI_GREEN="\033[32;1m"
 ANSI_RESET="\033[0m"
