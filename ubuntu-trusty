@@ -426,10 +426,13 @@ chefdk
 chefdk:i386
 chkconfig
 chktex
+chrome-remote-desktop
 chromium-browser
 chromium-browser-l10n
 chromium-browser-l10n:i386
 chromium-browser:i386
+chromium-chromedriver
+chromium-codecs-ffmpeg
 chromium-codecs-ffmpeg-extr
 chromium-codecs-ffmpeg-extra
 chromium-codecs-ffmpeg-extra:i386
@@ -8363,6 +8366,7 @@ libphonenumber6
 libphonenumber6-dev
 libphonenumber6-java
 libphonenumber7
+libphonenumber7-dev
 libphonenumber7-java
 libphonon-dev
 libphonon-dev:i386
