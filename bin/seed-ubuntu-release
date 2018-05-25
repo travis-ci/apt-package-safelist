@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+
+function print_usage() {
+  echo "$0 old new"
+}
+
+function check() {
+  local pkg raw arch
+
+  pkg=$1
+  raw=$1
+
+  if [[ $pkg =~ :i386$ ]]; then
+    pkg=${raw%*:i386}
+    arch=i386
+  else
+    arch=amd64
+  fi
+
+  echo "Checking $raw"
+
+  url="https://api.launchpad.net/1.0/ubuntu/+archive/primary?ws.op=getPublishedBinaries&binary_name=${pkg}&exact_match=true&distro_arch_series=https://api.launchpad.net/1.0/ubuntu/${new}/${arch}&status=Published"
+  if [ $(curl -sSf $url | jq .total_size) -gt 0 ]; then
+    echo $raw >> $new_file
+  else
+    echo "$pkg not found at $url"
+    echo $raw >> $not_found_file
+  fi
+}
+
+main() {
+  if [ "$#" -lt 2 ]; then
+    print_usage
+    exit 1
+  fi
+
+  local old new dir root pkg raw
+
+  old=$1
+  new=$2
+
+  dir=$(dirname $0)
+  root="$dir/.."
+  old_file="$root/ubuntu-$old"
+  new_file="$root/ubuntu-$new"
+  not_found_file="$root/ubuntu-$new-not-found"
+
+  rm -f $new_file $not_found_file
+
+  for pkg in $(cat $old_file); do
+    check $pkg
+  done
+}
+
+main "$@"
