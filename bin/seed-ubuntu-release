@@ -20,7 +20,7 @@ function check() {
   echo "Checking $raw"
 
   url="https://api.launchpad.net/1.0/ubuntu/+archive/primary?ws.op=getPublishedBinaries&binary_name=${pkg}&exact_match=true&distro_arch_series=https://api.launchpad.net/1.0/ubuntu/${new}/${arch}&status=Published"
-  if [ $(curl -sSf $url | jq .total_size) -gt 0 ]; then
+  if [ $(curl -sSf --retry 3 $url | jq .total_size) -gt 0 ]; then
     echo $raw >> $new_file
   else
     echo "$pkg not found at $url"
