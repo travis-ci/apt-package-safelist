@@ -67,6 +67,7 @@ apt-transport-https:i386
 apt-utils
 apt-utils:i386
 apt:i386
+arc
 arduino
 arduino-core
 arduino-mk
