@@ -7173,6 +7173,8 @@ libllvm4.0
 libllvm4.0-dbg
 libllvm5.0
 libllvm5.0-dbg
+liblmdb-dev
+liblmdb0
 liblo-dev
 liblo-tools
 liblo7
@@ -10640,6 +10642,9 @@ llvm-gcc-4.6:i386
 llvm-runtime
 llvm-runtime:i386
 llvm:i386
+lmdb-dbg
+lmdb-doc
+lmdb-utils
 lmodern
 locales
 locales:i386
