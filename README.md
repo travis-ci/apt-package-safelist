@@ -12,8 +12,8 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
 **PLEASE READ CAREFULLY!**
 
-0. Check the list of approved packages for your build environment ([`ubuntu-precise`](./ubuntu-precise) or [`ubuntu-trusty`](./ubuntu-trusty)).
-0. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-safelist/issues)
+1. Check the list of approved packages for your build environment ([`ubuntu-precise`](./ubuntu-precise) or [`ubuntu-trusty`](./ubuntu-trusty)).
+1. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-safelist/issues)
    and [pull requests](https://github.com/travis-ci/apt-package-safelist/pulls) requesting the package you want.
 
    ***Please [search first](https://github.com/travis-ci/apt-package-safelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
@@ -25,27 +25,21 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
    to indicate in the issue title whether you'd want the package
    in Precise or Trusty. If none is specified, we will test it on Precise.
 
-0. The initial steps for package approval process is automated.
-  1. This means that the issues' subject should follow exactly the one indicated.
-  That is, there should be **exactly one package** per issue.
-  The process would not work with multiple package requests in one issue.
-  1. If the source package defines multiple packages, those will be processed at once.
-  In this case, list only one.
-0. PRs are not accepted, since we have not run tests on them.
-0. The automation process will test the source package as described below.
-  1. If no issues are found, a PR will be opened, and it will be merged shortly thereafter.
-  1. If no matching source packages is found, a comment indicating this is posted on the issue.
-  This means that either the package name is incorrect, or that your request requires
-  a package repository that is not currently listed in [APT source safelist](https://github.com/travis-ci/apt-source-safelist).
-  1. The command
-
-    ```shell
-    grep -R -i -H -C5 -E --color 'set(uid|euid|gid)' --exclude install-sh .
-    ```
-
-  is run on the source package.
-  If any file matches, a comment to this effect will be posted on the issue, prompting further examination.
-  If no further problems are found in the further examination, it will be added to the list.
+1. The initial steps for package approval process is automated.
+    * This means that the issues' subject should follow exactly the one indicated.
+      That is, there should be **exactly one package** per issue.
+      The process would not work with multiple package requests in one issue.
+    * If the source package defines multiple packages, those will be processed at once.
+      In this case, list only one.
+1. PRs are not accepted, since we have not run tests on them.
+1. The automation process will test the source package as described below.
+    * If no issues are found, a PR will be opened, and it will be merged shortly thereafter.
+    * If no matching source packages is found, a comment indicating this is posted on the issue.
+    This means that either the package name is incorrect, or that your request requires
+    a package repository that is not currently listed in [APT source safelist](https://github.com/travis-ci/apt-source-safelist).
+    * The command `grep -R -i -H -C5 -E --color 'set(uid|euid|gid)' --exclude install-sh .` is run on the source package.
+      If any file matches, a comment to this effect will be posted on the issue, prompting further examination.
+      If no further problems are found in the further examination, it will be added to the list.
 
 ### nitty gritty details
 
@@ -54,16 +48,16 @@ would open up a container to potential attack from a neighbor.  The primary conc
 and their property :metal:.  The steps go like this (for ubuntu precise), much of which is also available as the
 `travis-download-deb-sources` executable within the vagrant box:
 
-0. Bring up the vagrant box: `vagrant up trusty`
-0. SSH into the vagrant box: `vagrant ssh trusty`
-0. Start the Travis Ruby container: `sudo -u ubuntu -i docker run -v /var/tmp:/var/tmp -d travis:ruby`
-0. Get the container's IP address: `docker inspect <container-id>`
-0. SSH into the container: `ssh travis@<container-ip>` (password=`travis`)
-0. Freshen up the apt cache: `sudo apt-get update`
-0. Move into the shared dir or sub directory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
-0. Grab the package sources: `apt-get source <package-name>`
-0. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *pre* *post* *inst*` (see [inspecting packages](#inspecting-packages))
-0. If no malicious or goofy bits are found, :thumbsup: :shipit:
+1. Bring up the vagrant box: `vagrant up trusty`
+1. SSH into the vagrant box: `vagrant ssh trusty`
+1. Start the Travis Ruby container: `sudo -u ubuntu -i docker run -v /var/tmp:/var/tmp -d travis:ruby`
+1. Get the container's IP address: `docker inspect <container-id>`
+1. SSH into the container: `ssh travis@<container-ip>` (password=`travis`)
+1. Freshen up the apt cache: `sudo apt-get update`
+1. Move into the shared dir or sub directory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
+1. Grab the package sources: `apt-get source <package-name>`
+1. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *pre* *post* *inst*` (see [inspecting packages](#inspecting-packages))
+1. If no malicious or goofy bits are found, :thumbsup: :shipit:
 
 #### `pre-commit` hook
 
@@ -79,10 +73,10 @@ This ensures that the files we need are always sorted without duplicates or blan
 
 ### The slightly simplified version:
 
-0. Bring up the vagrant box: `vagrant up trusty`
-0. SSH into the vagrant box: `vagrant ssh trusty`
-0. Run the `travis-download-deb-sources` script for the package in question, e.g.: `sudo -u ubuntu -i travis-download-deb-sources git`
-0. Proceed with inspecting the `debian/*pre*` and `debian/*post*` hook scripts. (see [inspecting packages](#inspecting-packages))
+1. Bring up the vagrant box: `vagrant up trusty`
+1. SSH into the vagrant box: `vagrant ssh trusty`
+1. Run the `travis-download-deb-sources` script for the package in question, e.g.: `sudo -u ubuntu -i travis-download-deb-sources git`
+1. Proceed with inspecting the `debian/*pre*` and `debian/*post*` hook scripts. (see [inspecting packages](#inspecting-packages))
 
 All together now, for `poppler-utils`:
 
