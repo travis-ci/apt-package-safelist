@@ -167,14 +167,14 @@ fi
 
 curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 	-d "{\"title\":\"Pull request for ${ISSUE_PACKAGE}\",\"body\":\"Resolves travis-ci/${ISSUE_REPO}#${ISSUE_NUMBER}.\n${COMMENT}\",\"head\":\"${BRANCH}\",\"base\":\"master\"}" \
-	https://api.github.com/repos/travis-ci/apt-package-whitelist/pulls > pr_payload
+	https://api.github.com/repos/travis-ci/apt-package-safelist/pulls > pr_payload
 if [ $? -eq 0 -a ${has_setuid} -gt 0 ]; then
 	curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
 		-d "[\"textual-suid-present\"]" \
 		$(jq .issue_url pr_payload | cut -f2 -d\")/labels
 fi
 curl -X POST -fsS -H "Content-Type: application/json" -H "Authorization: token ${GITHUB_OAUTH_TOKEN}" \
-	-d "[\"apt-whitelist-check-run\"]" \
+	-d "[\"apt-safelist-check-run\"]" \
 	https://api.github.com/repos/travis-ci/${ISSUE_REPO}/issues/${ISSUE_NUMBER}/labels
 
 git checkout $DEFAULT_BRANCH
