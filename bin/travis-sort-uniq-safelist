@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+def main
+  safelist = ARGV.first
+  abort 'Missing safelist' if safelist.nil?
+
+  puts File.read(safelist).split($/).map(&:strip).sort.uniq.reject(&:empty?).join($/)
+  0
+end
+
+exit(main) if $PROGRAM_NAME == __FILE__

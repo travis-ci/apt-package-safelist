@@ -1,4 +1,4 @@
-# APT package whitelist
+# APT package safelist
 
 We have a container-based infrastructure which runs docker. Because docker containers are not fully isolated, the use of `sudo` is disallowed on that environment, to prevent builds from breaking out to the host machine. We do however want to allow the installation of some packages via apt.
 
@@ -13,14 +13,14 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 **PLEASE READ CAREFULLY!**
 
 0. Check the list of approved packages for your build environment ([`ubuntu-precise`](./ubuntu-precise) or [`ubuntu-trusty`](./ubuntu-trusty)).
-0. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-whitelist/issues)
-   and [pull requests](https://github.com/travis-ci/apt-package-whitelist/pulls) requesting the package you want.
+0. If it's not in there, check for existing [issues](https://github.com/travis-ci/apt-package-safelist/issues)
+   and [pull requests](https://github.com/travis-ci/apt-package-safelist/pulls) requesting the package you want.
 
-   ***Please [search first](https://github.com/travis-ci/apt-package-whitelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
+   ***Please [search first](https://github.com/travis-ci/apt-package-safelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
 
    If one doesn't exist please
    open an issue requesting the package you need in [this
-   repo](https://github.com/travis-ci/apt-package-whitelist/issues/new?title=APT+whitelist+request+for+___PACKAGE___+in+_PRECISE_OR_TRUSTY_).
+   repo](https://github.com/travis-ci/apt-package-safelist/issues/new?title=APT+safelist+request+for+___PACKAGE___+in+_PRECISE_OR_TRUSTY_).
    Be sure to replace `__PACKAGE__` in the issue title, and
    to indicate in the issue title whether you'd want the package
    in Precise or Trusty. If none is specified, we will test it on Precise.
@@ -36,7 +36,7 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
   1. If no issues are found, a PR will be opened, and it will be merged shortly thereafter.
   1. If no matching source packages is found, a comment indicating this is posted on the issue.
   This means that either the package name is incorrect, or that your request requires
-  a package repository that is not currently listed in [APT source whitelist](https://github.com/travis-ci/apt-source-whitelist).
+  a package repository that is not currently listed in [APT source safelist](https://github.com/travis-ci/apt-source-safelist).
   1. The command
 
     ```shell
@@ -125,15 +125,15 @@ vi *{pre,post,inst}*
 
 ### github API handy bits
 
-There is a helper script at `./bin/travis-list-apt-whitelist-issues` which may be used to query the open APT whitelist
+There is a helper script at `./bin/travis-list-apt-safelist-issues` which may be used to query the open APT safelist
 requests, as well as for automatic commit message formatting, e.g.:
 
 ``` bash
 # list everything
-./bin/travis-list-apt-whitelist-issues
+./bin/travis-list-apt-safelist-issues
 
 # Show only the generated commit messages
-./bin/travis-list-apt-whitelist-issues | jq -r .commit_message
+./bin/travis-list-apt-safelist-issues | jq -r .commit_message
 ```
 
 ### @meatballhat's workflow
@@ -190,7 +190,7 @@ done
 Grab the generated commit message
 
 ``` bash
-./bin/travis-list-apt-whitelist-issues | jq -r '.commit_message' | grep -A2 abc
+./bin/travis-list-apt-safelist-issues | jq -r '.commit_message' | grep -A2 abc
 ```
 
 Commit and push, then restart all `travis-build` apps with a bit o' sleep
