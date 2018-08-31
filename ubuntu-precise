@@ -6459,6 +6459,7 @@ libhypre-dev
 libi2c-dev
 libib-util
 libib-util:i386
+libiberty-dev
 libibus-1.0-5
 libibus-1.0-dev
 libibverbs-dev
