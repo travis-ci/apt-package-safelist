@@ -10341,6 +10341,8 @@ libxv1-dbg
 libxv1:i386
 libxvidcore-dev
 libxvidcore4
+libxwiimote-dev
+libxwiimote1
 libxxf86dga1
 libxxf86dga1:i386
 libxxf86vm-dev
@@ -13503,6 +13505,7 @@ xutils-dev
 xutils-dev:i386
 xvfb
 xvfb:i386
+xwiimote
 xz-lzma
 xz-lzma:i386
 xz-utils
