@@ -843,6 +843,8 @@ emboss-lib:i386
 emboss-test
 emboss-test:i386
 emboss:i386
+emscripten
+emscripten-doc
 enchant
 enchant:i386
 enscript
