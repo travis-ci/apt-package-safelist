@@ -1423,6 +1423,8 @@ gerbv
 gettext
 gettext-base
 gettext-base:i386
+gettext-doc
+gettext-el
 gettext:i386
 gforth
 gforth-common
@@ -4337,6 +4339,8 @@ libaspell-dev
 libaspell-dev:i386
 libaspell15
 libaspell15:i386
+libasprintf-dev
+libasprintf0v5
 libass-dev
 libass5
 libassimp-dev
@@ -5805,6 +5809,7 @@ libgeos-c1
 libgeos-c1:i386
 libgeos-dev
 libgeos-dev:i386
+libgettextpo-dev
 libgettextpo0
 libgettextpo0:i386
 libgexiv2-2
