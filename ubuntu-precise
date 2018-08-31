@@ -8936,6 +8936,8 @@ libssl1.0.0:i386
 libstartup-notification0
 libstartup-notification0-dev
 libstartup-notification0:i386
+libstatgrab-dev
+libstatgrab10
 libstdc++-4.8-dev
 libstdc++-4.8-dev:i386
 libstdc++-4.8-doc
@@ -12005,6 +12007,7 @@ rubygems-doc
 rubygems1.8
 s3cmd
 s3cmd:i386
+saidar
 samba
 samba-common
 samba-common-bin
@@ -12125,6 +12128,7 @@ sshfs-dbg
 sshpass
 ssl-cert
 ssl-cert:i386
+statgrab
 statsmodels
 statsmodels:i386
 strace
