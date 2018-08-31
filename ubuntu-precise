@@ -2186,6 +2186,9 @@ jshon
 jsvc
 jsvc:i386
 jtreg
+julia
+julia-common
+julia-doc
 junit4
 junit4:i386
 k3b
