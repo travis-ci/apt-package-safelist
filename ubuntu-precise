@@ -8584,6 +8584,7 @@ libsam4
 libsamplerate0
 libsamplerate0-dev
 libsane
+libsane-bin
 libsane-common
 libsane-dbg
 libsane-dev
@@ -12018,6 +12019,7 @@ samba-vfs-modules
 samplerate-programs
 samtools
 samtools:i386
+sane-utils
 sasl2-bin
 sbc-dbg
 sbc-tools
