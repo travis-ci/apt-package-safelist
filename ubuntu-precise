@@ -12566,6 +12566,7 @@ vlc-plugin-svg:i386
 vlc-plugin-zvbi
 vlc-plugin-zvbi:i386
 vlc:i386
+vnc4server
 voms-clients
 voms-dbg
 voms-dev
@@ -12785,6 +12786,7 @@ xutils-dev
 xutils-dev:i386
 xvfb
 xvfb:i386
+xvnc4viewer
 xz-lzma
 xz-lzma:i386
 xz-utils
