@@ -9881,6 +9881,8 @@ libzmq3
 libzmq3-dev
 libzmq3-dev:i386
 libzmq3:i386
+libzmq5
+libzmq5-dbg
 libzookeeper-java
 libzookeeper-java-doc
 libzookeeper-mt-dev
