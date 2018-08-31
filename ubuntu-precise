@@ -2086,6 +2086,7 @@ icnsutils
 icnsutils:i386
 icoutils
 idle
+idle-python3.1
 idle-python3.5
 idle3
 idn
@@ -8160,6 +8161,7 @@ libpython3-all-dev
 libpython3-dbg
 libpython3-dev
 libpython3-stdlib
+libpython3.1
 libpython3.2
 libpython3.2:i386
 libpython3.5
@@ -11725,6 +11727,17 @@ python3-yaml-dbg
 python3-yara
 python3-zmq
 python3-zmq-dbg
+python3.1
+python3.1-complete
+python3.1-dbg
+python3.1-dev
+python3.1-doc
+python3.1-examples
+python3.1-gdbm
+python3.1-gdbm-dbg
+python3.1-minimal
+python3.1-tk
+python3.1-tk-dbg
 python3.2
 python3.2-dev
 python3.2-dev:i386
