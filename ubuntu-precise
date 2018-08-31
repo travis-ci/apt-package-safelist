@@ -916,6 +916,7 @@ evince
 evince-common
 evince-dbg
 evince-gtk
+ewf-tools
 execstack
 exif
 exiftran
@@ -5453,6 +5454,9 @@ libevtlog-dev
 libevtlog0
 libevtlog0-dbg
 libevview3-3
+libewf-dbg
+libewf-dev
+libewf2
 libexempi-dev
 libexempi3
 libexempi3-dbg
@@ -11176,6 +11180,7 @@ python-ldap
 python-ldap-dbg
 python-ldns
 python-ldns:i386
+python-libewf
 python-libhamlib2
 python-liblcms
 python-libproxy
