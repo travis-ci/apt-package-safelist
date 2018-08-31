@@ -10156,6 +10156,9 @@ mawk
 mawk:i386
 mbr
 mbr-udeb
+mc
+mc-data
+mc-dbg
 mcl
 md5deep
 md5deep:i386
