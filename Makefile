@@ -1,7 +1,7 @@
 SHELL := /usr/bin/env bash
 
-DISTROS ?= ubuntu-precise ubuntu-trusty
-DISTRO ?= ubuntu-precise
+DISTROS ?= ubuntu-precise ubuntu-trusty ubuntu-xenial
+DISTRO ?= ubuntu-trusty
 PACKAGE ?=
 
 PACKAGE_MANIFESTS := \
@@ -10,7 +10,10 @@ PACKAGE_MANIFESTS := \
 	.packages/precise-updates \
 	.packages/trusty \
 	.packages/trusty-backports \
-	.packages/trusty-updates
+	.packages/trusty-updates \
+	.packages/xenial \
+	.packages/xenial-backports \
+	.packages/xenial-updates
 
 PACKAGE_MANIFEST_FILTER := gunzip | grep -vE '^(All|Generated|Copyright|See)' | grep -v '^$$'
 
@@ -20,7 +23,7 @@ help:
 	@echo
 	@echo "Available targets:"
 	@echo "       sort - sort $(DISTROS) in place"
-	@echo "        add - add a package and sort, e.g. 'make add PACKAGE=foo DISTRO=ubuntu-precise'"
+	@echo "        add - add a package and sort, e.g. 'make add PACKAGE=foo DISTRO=ubuntu-trusty'"
 	@echo "  manifests - populate known package manifests"
 	@echo
 	@echo "Defaults:"
