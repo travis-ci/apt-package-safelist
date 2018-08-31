@@ -9070,6 +9070,9 @@ libselinux1
 libselinux1:i386
 libsensors4
 libsensors4:i386
+libserial-dev
+libserial-doc
+libserial0
 libservlet2.5-java
 libservlet2.5-java:i386
 libservlet3.0-java
