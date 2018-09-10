@@ -2007,6 +2007,8 @@ gsfonts-x11:i386
 gsfonts:i386
 gsl-bin
 gsl-bin:i386
+gss-doc
+gss-man
 gssdp-tools
 gstreamer-tools
 gstreamer0.10-alsa
@@ -6451,6 +6453,9 @@ libgsl0-prof
 libgsl0-prof:i386
 libgsl0ldbl
 libgsl0ldbl:i386
+libgss-dbg
+libgss-dev
+libgss3
 libgssapi-krb5-2
 libgssapi-krb5-2:i386
 libgssapi3-heimdal
