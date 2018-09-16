@@ -8583,6 +8583,12 @@ libqb0
 libqb0-dbg
 libqd-dev
 libqd0
+libqdbm++-dev
+libqdbm-dev
+libqdbm-java
+libqdbm-perl
+libqdbm14
+libqdbm3++c2
 libqglviewer-dev
 libqglviewer-dev-qt4
 libqglviewer-doc
@@ -10300,6 +10306,8 @@ libxpm4-dbg
 libxpm4:i386
 libxpp3-java
 libxpp3-java:i386
+libxqdbm-dev
+libxqdbm3c2
 libxqilla-dev
 libxqilla6v5
 libxrandr-dev
@@ -12418,6 +12426,9 @@ python3.5-tk-dbg
 python3.5-venv
 python3:i386
 python:i386
+qdbm-cgi
+qdbm-doc
+qdbm-util
 qdbus
 qdbus-qt5
 qdbus:i386
@@ -12664,6 +12675,7 @@ ruby-mysql
 ruby-mysql:i386
 ruby-name-clash
 ruby-notmuch
+ruby-qdbm
 ruby-ronn
 ruby-rrd
 ruby-simpleextension-dh-auto-install-destdir
