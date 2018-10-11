@@ -1624,6 +1624,7 @@ gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
 gir1.2-gtkclutter-1.0
 gir1.2-gtkspell3-3.0
+gir1.2-gtop-2.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
@@ -6223,6 +6224,10 @@ libgtkspell-dev
 libgtkspell0
 libgtkspell3-3-0
 libgtkspell3-3-dev
+libgtop2-7
+libgtop2-common
+libgtop2-dev
+libgtop2-doc
 libgts-0.7-5
 libgts-bin
 libgts-dbg
