@@ -1943,6 +1943,10 @@ gtk-sharp3-examples
 gtk-sharp3-gapi
 guile-1.8-libs
 guile-1.8-libs:i386
+guile-2.0
+guile-2.0-dev
+guile-2.0-doc
+guile-2.0-libs
 gv
 gvfs
 gvfs-backends
