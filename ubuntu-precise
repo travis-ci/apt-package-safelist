@@ -4269,6 +4269,7 @@ libapr1-dbg
 libapr1-dev
 libapr1:i386
 libaprutil1
+libaprutil1-dbd-freetds
 libaprutil1-dbd-mysql
 libaprutil1-dbd-odbc
 libaprutil1-dbd-pgsql
