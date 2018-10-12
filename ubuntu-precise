@@ -10794,6 +10794,7 @@ postgresql-9.1-postgis-2.1
 postgresql-9.1-postgis-2.1:i386
 postgresql-9.1-postgis-scripts
 postgresql-9.1-postgis-scripts:i386
+postgresql-9.1-slony1-2
 postgresql-9.1:i386
 postgresql-9.2
 postgresql-9.2-plv8
@@ -12063,6 +12064,8 @@ sip-dev
 sitecopy
 slapd
 sloccount
+slony1-2-bin
+slony1-2-doc
 smartmontools
 smbclient
 smistrip
