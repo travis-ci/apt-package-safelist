@@ -755,6 +755,8 @@ dmeventd
 dmsetup
 dmsetup-udeb
 dmsetup:i386
+dnet-common
+dnet-progs
 dnsmasq
 dnsmasq-base
 dnsmasq-utils
@@ -5307,6 +5309,8 @@ libdjvulibre-text
 libdjvulibre-text:i386
 libdjvulibre21
 libdjvulibre21:i386
+libdnet
+libdnet-dev
 libdpkg-perl
 libdpkg-perl:i386
 libdrm-dev
