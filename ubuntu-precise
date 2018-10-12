@@ -10126,6 +10126,10 @@ luajit
 luarocks
 lvm2
 lvm2-udeb
+lynx
+lynx-cur
+lynx-cur-wrapper
+lynx-dev
 lyx
 lyx-common
 lyx-dbg
