@@ -12171,6 +12171,9 @@ tcl:i386
 tclcurl
 tcllib
 tclmagick
+tclx8.4
+tclx8.4-dev
+tclx8.4-doc
 tclxapian
 tclxml
 tclxml-dev
