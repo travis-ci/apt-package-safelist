@@ -2086,6 +2086,7 @@ icnsutils
 icnsutils:i386
 icoutils
 idle
+idle-python2.7
 idle-python3.5
 idle3
 idn
@@ -11517,8 +11518,11 @@ python2.6-minimal
 python2.6-minimal:i386
 python2.6:i386
 python2.7
+python2.7-dbg
 python2.7-dev
 python2.7-dev:i386
+python2.7-doc
+python2.7-examples
 python2.7-minimal
 python2.7-minimal:i386
 python2.7:i386
