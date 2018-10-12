@@ -1626,6 +1626,7 @@ gir1.2-gtkclutter-1.0
 gir1.2-gtkspell3-3.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
+gir1.2-networkmanager-1.0
 gir1.2-notify-0.7
 gir1.2-pango-1.0
 gir1.2-pango-1.0:i386
@@ -7569,6 +7570,12 @@ libnl-xfrm-3-dev
 libnlopt-dev
 libnlopt-guile0
 libnlopt0
+libnm-glib-dev
+libnm-glib-vpn-dev
+libnm-glib-vpn1
+libnm-glib4
+libnm-util-dev
+libnm-util2
 libnoise-dev
 libnoise0
 libnotify-bin
@@ -10395,6 +10402,9 @@ netpbm:i386
 nettle-bin
 nettle-dbg
 nettle-dev
+network-manager
+network-manager-dbg
+network-manager-dev
 nginx
 nginx-common
 nginx-common:i386
