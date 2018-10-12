@@ -263,6 +263,7 @@ bash:i386
 bats
 bc
 bc:i386
+beanstalkd
 bedtools
 bedtools-test
 biblatex
