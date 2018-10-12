@@ -10411,6 +10411,7 @@ ninja-build
 ninja-build-doc
 ninja-build:i386
 nkf
+nmap
 node-less
 node-underscore
 nodejs
@@ -12809,6 +12810,7 @@ z80asm
 z80dasm
 zbar-dbg
 zbar-tools
+zenmap
 zephyr-clients
 zephyr-server
 zephyr-server-krb5
