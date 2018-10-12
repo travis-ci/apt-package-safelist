@@ -10980,6 +10980,7 @@ puredata-doc
 puredata-extra
 puredata-gui
 puredata-utils
+pv
 pvlib
 pvlib:i386
 pwgen
