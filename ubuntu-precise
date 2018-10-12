@@ -3975,6 +3975,11 @@ lib32cilkrts5
 lib32cilkrts5-dbg
 lib32cilkrts5-dbg:i386
 lib32cilkrts5:i386
+lib32cublas4
+lib32cudart4
+lib32cufft4
+lib32curand4
+lib32cusparse4
 lib32gcc-4.7-dev
 lib32gcc-4.8-dev
 lib32gcc-4.9-dev
@@ -4026,6 +4031,7 @@ lib32ncurses5-dev
 lib32ncurses5:i386
 lib32ncursesw5
 lib32ncursesw5-dev
+lib32npp4
 lib32objc-4.7-dev
 lib32objc-4.8-dev
 lib32objc-4.9-dev
@@ -5142,8 +5148,11 @@ libct4
 libctpl-dev
 libctpl-doc
 libctpl2
+libcublas4
 libcublas6.5
+libcudart4
 libcudart6.5
+libcufft4
 libcufft6.5
 libcufftw6.5
 libcuinj32-6.5
@@ -5173,6 +5182,7 @@ libcupsppdc1-dev
 libcupti-dev
 libcupti-doc
 libcupti6.5
+libcurand4
 libcurand6.5
 libcurl3
 libcurl3-dbg
@@ -5185,6 +5195,7 @@ libcurl4-gnutls-dev
 libcurl4-nss-dev
 libcurl4-openssl-dev
 libcurl4-openssl-dev:i386
+libcusparse4
 libcusparse6.5
 libcv-dev
 libcv-dev:i386
@@ -7579,6 +7590,7 @@ libnotify4
 libnotify4:i386
 libnotmuch-dev
 libnotmuch4
+libnpp4
 libnppc6.5
 libnppi6.5
 libnpps6.5
@@ -10443,6 +10455,7 @@ nvidia-cg-dev
 nvidia-cg-doc
 nvidia-cg-toolkit
 nvidia-common
+nvidia-compute-profiler
 nvidia-cuda-dev
 nvidia-cuda-doc
 nvidia-cuda-gdb
