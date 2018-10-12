@@ -12021,6 +12021,9 @@ samtools:i386
 sasl2-bin
 sbc-dbg
 sbc-tools
+sbcl
+sbcl-doc
+sbcl-source
 sbuild
 scala
 scala-doc
