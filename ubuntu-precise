@@ -402,6 +402,7 @@ chef
 chef:i386
 chefdk
 chefdk:i386
+chicken-bin
 chkconfig
 chktex
 chromium-browser
@@ -4958,6 +4959,8 @@ libcgraph5
 libcgraph5:i386
 libcgraph6
 libchemistry-openbabel-perl
+libchicken-dev
+libchicken6
 libcholmod2.1.2
 libchromaprint-dev
 libchromaprint-dev:i386
