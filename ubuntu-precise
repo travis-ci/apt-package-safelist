@@ -12003,6 +12003,7 @@ ruby:i386
 rubygems
 rubygems-doc
 rubygems1.8
+runit
 s3cmd
 s3cmd:i386
 samba
