@@ -7811,6 +7811,9 @@ libopenjpeg5
 libopenjpeg5-dbg
 libopenmpi-dev
 libopenmpi-dev:i386
+libopenmpi1.5-2
+libopenmpi1.5-dbg
+libopenmpi1.5-dev
 libopenmpi1.6
 libopenmpi1.6-dbg
 libopenscenegraph-dev
@@ -10572,6 +10575,10 @@ openmpi-bin:i386
 openmpi-checkpoint
 openmpi-common
 openmpi-doc
+openmpi1.5-bin
+openmpi1.5-checkpoint
+openmpi1.5-common
+openmpi1.5-doc
 openmpi:i386
 openmpipython
 openscenegraph
