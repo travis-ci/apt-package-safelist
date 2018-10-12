@@ -8650,7 +8650,9 @@ libsecret-1-0
 libsecret-1-dev
 libsecret-common
 libsecret-tools
+libselinux-ruby1.8
 libselinux1
+libselinux1-dev
 libselinux1:i386
 libsensors4
 libsensors4:i386
@@ -11400,6 +11402,7 @@ python-scipy
 python-scipy-dbg
 python-scipy-doc
 python-scipy:i386
+python-selinux
 python-serial
 python-serial:i386
 python-setuptools
@@ -11993,6 +11996,7 @@ ruby-name-clash
 ruby-notmuch
 ruby-ronn
 ruby-rrd
+ruby-selinux
 ruby-simpleextension-dh-auto-install-destdir
 ruby-simpleextension-dh-auto-install-destdir-doc
 ruby-xapian
@@ -12038,6 +12042,7 @@ seaborn
 seaborn:i386
 sed
 sed:i386
+selinux-utils
 sensible-utils
 sensible-utils:i386
 seqtk
