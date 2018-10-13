@@ -791,6 +791,7 @@ dpkg-dev:i386
 dpkg:i386
 dput
 drush
+dselect
 dsniff
 dtdinst
 dvb-tools
@@ -5307,6 +5308,7 @@ libdjvulibre-text
 libdjvulibre-text:i386
 libdjvulibre21
 libdjvulibre21:i386
+libdpkg-dev
 libdpkg-perl
 libdpkg-perl:i386
 libdrm-dev
