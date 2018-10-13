@@ -9427,6 +9427,11 @@ libwinpr-timezone0.1
 libwinpr-utils0.1
 libwinpr-winhttp0.1
 libwinpr-winsock0.1
+libwireshark-data
+libwireshark-dev
+libwireshark1
+libwiretap-dev
+libwiretap1
 libwmf-dev
 libwmf-dev:i386
 libwmf0.2-7
@@ -9441,6 +9446,8 @@ libwrap0
 libwrap0-dev
 libwrap0-dev:i386
 libwrap0:i386
+libwsutil-dev
+libwsutil1
 libwv-1.2-4
 libwv-dev
 libwww-perl
@@ -12417,6 +12424,7 @@ tre-agrep
 tree
 tree:i386
 trimmomatic
+tshark
 tsocks
 ttf-dejavu
 ttf-dejavu-core
@@ -12599,6 +12607,11 @@ wireless-tools
 wireless-tools-udeb
 wireless-tools-udeb:i386
 wireless-tools:i386
+wireshark
+wireshark-common
+wireshark-dbg
+wireshark-dev
+wireshark-doc
 wise
 wise-doc
 wise-doc:i386
