@@ -9594,6 +9594,9 @@ libxcb-shm0-dev
 libxcb-shm0-dev:i386
 libxcb-shm0:i386
 libxcb-sync-dev
+libxcb-sync0
+libxcb-sync0-dbg
+libxcb-sync0-dev
 libxcb-sync1
 libxcb-sync1-dbg
 libxcb-util0
