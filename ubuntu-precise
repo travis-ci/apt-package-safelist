@@ -956,6 +956,8 @@ finch
 finch-dev
 findutils
 findutils:i386
+finger
+fingerd
 fiona
 fiona-doc
 fiona:i386
