@@ -12112,6 +12112,13 @@ sqlite3-doc:i386
 sqlite3:i386
 squashfs-tools
 squashfs-tools-dbg
+squid
+squid-cgi
+squid-common
+squid3
+squid3-common
+squid3-dbg
+squidclient
 srecord
 srtp-docs
 srtp-utils
