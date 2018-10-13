@@ -6966,6 +6966,8 @@ libmagickwand4:i386
 libmail-sendmail-perl
 libmail-sendmail-perl:i386
 libmapnik-dev
+libmapnik2-2.0
+libmapnik2-dev
 libmapnik3.0
 libmarkdown2
 libmarkdown2-dbg
@@ -11203,6 +11205,7 @@ python-magic
 python-mako
 python-mako-doc
 python-mapnik
+python-mapnik2
 python-markdown
 python-markdown-doc
 python-markupsafe
