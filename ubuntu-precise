@@ -5269,6 +5269,10 @@ libdc1394-22-dbg
 libdc1394-22-dev
 libdc1394-22-doc
 libdc1394-utils
+libdcerpc-dev
+libdcerpc-server-dev
+libdcerpc-server0
+libdcerpc0
 libdcmtk2
 libdcmtk2-dev
 libdcmtk2-dev:i386
@@ -5788,6 +5792,8 @@ libgenders0
 libgenders0-dev
 libgenometools0
 libgenometools0-dev
+libgensec-dev
+libgensec0
 libgeocoding7
 libgeoip-dev
 libgeoip-dev:i386
@@ -7494,6 +7500,10 @@ libncursesw5-dbg
 libncursesw5-dev
 libncursesw5-dev:i386
 libncursesw5:i386
+libndr-dev
+libndr-standard-dev
+libndr-standard0
+libndr0
 libneko0
 libnemesis3
 libneon27-gnutls
@@ -8371,6 +8381,8 @@ librecode-dev
 librecode0
 libregexp-java
 libregexp-java:i386
+libregistry-dev
+libregistry0
 librelp-dev
 librelp0
 libreoffice
@@ -8581,6 +8593,16 @@ libruli4
 libruli4-dev
 libsam-dev
 libsam4
+libsamba-credentials-dev
+libsamba-credentials0
+libsamba-hostconfig-dev
+libsamba-hostconfig0
+libsamba-policy-dev
+libsamba-policy0
+libsamba-util-dev
+libsamba-util0
+libsamdb-dev
+libsamdb0
 libsamplerate0
 libsamplerate0-dev
 libsane
@@ -8807,6 +8829,8 @@ libsm6
 libsm6:i386
 libsmbclient
 libsmbclient-dev
+libsmbclient-raw-dev
+libsmbclient-raw0
 libsmbsharemodes-dev
 libsmbsharemodes0
 libsmi2-common
@@ -9206,6 +9230,8 @@ libtommath-docs
 libtommath0
 libtool
 libtool:i386
+libtorture-dev
+libtorture0
 libtotem-pg-dev
 libtotem-pg5
 libtrang-java
@@ -12015,6 +12041,11 @@ samba-dsdb-modules
 samba-libs
 samba-testsuite
 samba-vfs-modules
+samba4
+samba4-clients
+samba4-common-bin
+samba4-dev
+samba4-testsuite
 samplerate-programs
 samtools
 samtools:i386
@@ -12592,6 +12623,7 @@ whiptail
 whiptail:i386
 whois
 winbind
+winbind4
 winbind:i386
 wine
 wine:i386
