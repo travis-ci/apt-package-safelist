@@ -9253,6 +9253,8 @@ libunwind-dev
 libunwind-setjmp0
 libunwind-setjmp0-dbg
 libunwind-setjmp0-dev
+libunwind7
+libunwind7-dev
 libunwind8
 libunwind8-dbg
 libunwind8-dev
