@@ -12086,6 +12086,7 @@ source-highlight
 sox
 sparse
 spatialite-bin
+spawn-fcgi
 specific
 specific:i386
 speech-dispatcher
