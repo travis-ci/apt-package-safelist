@@ -9892,6 +9892,14 @@ libzopfli-dev
 libzopfli1
 libzzip-0-13
 libzzip-dev
+lighttpd
+lighttpd-dev
+lighttpd-doc
+lighttpd-mod-cml
+lighttpd-mod-magnet
+lighttpd-mod-mysql-vhost
+lighttpd-mod-trigger-b4-dl
+lighttpd-mod-webdav
 lilo
 lilo-doc
 linklint
