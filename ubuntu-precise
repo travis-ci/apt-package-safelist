@@ -319,6 +319,16 @@ bitcoin-tx
 bitcoind
 bjam
 blender-ogrexml
+bluetooth
+bluez
+bluez-alsa
+bluez-audio
+bluez-compat
+bluez-cups
+bluez-dbg
+bluez-gstreamer
+bluez-pcmcia-support
+bluez-utils
 boost-build
 botan1.10-dbg
 bottleneck
