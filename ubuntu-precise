@@ -8176,6 +8176,10 @@ libqb-dev
 libqb-doc
 libqb0
 libqb0-dbg
+libqca2
+libqca2-dbg
+libqca2-dev
+libqca2-doc
 libqd-dev
 libqd0
 libqglviewer-dev
