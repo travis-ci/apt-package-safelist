@@ -2135,6 +2135,7 @@ iodbc
 iodbc:i386
 iperf
 ipmitool
+ipopd
 iproute
 iproute-doc
 iproute2
@@ -4809,6 +4810,8 @@ libc++abi1
 libc-ares-dev
 libc-bin
 libc-bin:i386
+libc-client2007e
+libc-client2007e-dev
 libc-dev-bin
 libc-dev-bin:i386
 libc6
@@ -10206,6 +10209,7 @@ minisat
 minisat2
 miniupnpc
 mksh
+mlock
 mmdb-bin
 module-init-tools
 module-init-tools:i386
@@ -12502,6 +12506,8 @@ util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+uw-imapd
+uw-mailutils
 v4l-utils
 va-driver-all
 vagrant
