@@ -9721,7 +9721,12 @@ libxml2-udeb
 libxml2-utils
 libxml2-utils:i386
 libxml2:i386
+libxmlrpc-c++4
+libxmlrpc-c++4-dev
+libxmlrpc-c3-dev
 libxmlrpc-core-c3
+libxmlrpc-core-c3-dev
+libxmlrpc-core-c3-udeb
 libxmlrpc-core-c3:i386
 libxmlsec1
 libxmlsec1-dev
@@ -12689,6 +12694,7 @@ xlswriter
 xlswriter:i386
 xml-core
 xml-core:i386
+xmlrpc-api-utils
 xmlsec1
 xmlstarlet
 xmltex
