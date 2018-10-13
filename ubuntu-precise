@@ -8548,6 +8548,12 @@ libriemann-client-dev
 libriemann-client0
 libroken18-heimdal
 libroken18-heimdal:i386
+librpm-dbg
+librpm-dev
+librpm2
+librpmbuild2
+librpmio2
+librpmsign0
 librrd-dev
 librrd-ruby
 librrd-ruby1.8
@@ -11382,6 +11388,7 @@ python-requests-toolbelt-doc
 python-requests-whl
 python-restkit
 python-roman
+python-rpm
 python-rpy
 python-rpy-doc
 python-rpy-doc:i386
@@ -11957,6 +11964,9 @@ riak:i386
 riemann-c-client
 rlfe
 rpm
+rpm-common
+rpm-i18n
+rpm2cpio
 rpm:i386
 rpmlint
 rrdcached
