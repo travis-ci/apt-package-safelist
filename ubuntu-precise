@@ -9289,6 +9289,9 @@ libusb-1.0-0-udeb:i386
 libusb-1.0-0:i386
 libusb-1.0-doc
 libusb-dev
+libuser
+libuser1
+libuser1-dev
 libustr-1.0-1
 libustr-1.0-1-dbg
 libustr-dev
@@ -11180,6 +11183,7 @@ python-libhamlib2
 python-liblcms
 python-libproxy
 python-libsvm
+python-libuser
 python-libxml2
 python-libxml2-dbg
 python-libxslt1
