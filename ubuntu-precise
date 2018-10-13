@@ -11759,7 +11759,11 @@ qdbus:i386
 qemu
 qemu-block-extra
 qemu-guest-agent
+qemu-keymaps
 qemu-kvm
+qemu-kvm-extras
+qemu-kvm-extras-static
+qemu-kvm-spice
 qemu-system
 qemu-system-arm
 qemu-system-common
