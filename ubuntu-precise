@@ -1793,10 +1793,16 @@ gobjc-powerpc64le-linux-gnu
 gobjc-s390x-linux-gnu
 gobjc:i386
 gobject-introspection
+golang
+golang-dbg
+golang-doc
 golang-github-influxdb-influxdb-dev
 golang-github-jteeuwen-go-bindata-dev
 golang-github-spf13-hugo-dev
+golang-go
+golang-mode
 golang-redhat-audit-dev
+golang-src
 google-chrome-beta
 google-chrome-stable
 google-chrome-unstable
@@ -2193,6 +2199,7 @@ k3b-data
 k3b-dbg
 k3b-extrathemes
 k3b-i18n
+kate-syntax-go
 kbd
 kbd:i386
 kcov
@@ -12538,6 +12545,7 @@ vim-nox
 vim-puppet
 vim-runtime
 vim-runtime:i386
+vim-syntax-go
 vim-tiny
 vim-tiny:i386
 vim:i386
