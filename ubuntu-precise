@@ -263,10 +263,12 @@ bash:i386
 bats
 bc
 bc:i386
+bcc
 bedtools
 bedtools-test
 biblatex
 bibutils
+bin86
 binary_package.name
 binfmt-support
 binfmt-support:i386
@@ -820,6 +822,7 @@ elfutils:i386
 elinks
 elinks-data
 elinks-doc
+elks-libc
 emacs23-bin-common
 emacs23-bin-common:i386
 emacs23-common
