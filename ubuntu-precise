@@ -12647,6 +12647,8 @@ x11proto-xf86vidmode-dev
 x11proto-xf86vidmode-dev:i386
 x11proto-xinerama-dev
 x11proto-xinerama-dev:i386
+x11vnc
+x11vnc-data
 x264
 xapian-doc
 xapian-examples
