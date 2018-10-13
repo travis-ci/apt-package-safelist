@@ -12163,6 +12163,9 @@ tcl
 tcl-dev
 tcl-dev:i386
 tcl-tls
+tcl8.4
+tcl8.4-dev
+tcl8.4-doc
 tcl8.5
 tcl8.5-dev
 tcl8.5-dev:i386
