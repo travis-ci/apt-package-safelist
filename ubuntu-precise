@@ -1943,6 +1943,7 @@ gtk-sharp3-examples
 gtk-sharp3-gapi
 guile-1.8-libs
 guile-1.8-libs:i386
+guile-gnutls
 gv
 gvfs
 gvfs-backends
@@ -6064,8 +6065,12 @@ libgnutls-openssl27:i386
 libgnutls26
 libgnutls26-dbg
 libgnutls26:i386
+libgnutls28
+libgnutls28-dbg
+libgnutls28-dev
 libgnutlsxx27
 libgnutlsxx27:i386
+libgnutlsxx28
 libgo0
 libgo0-dbg
 libgo4
