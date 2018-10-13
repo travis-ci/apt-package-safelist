@@ -925,6 +925,7 @@ expect
 expect-dev
 expect-dev:i386
 expect:i386
+extlinux
 exuberant-ctags
 eyed3
 faac
@@ -12149,6 +12150,9 @@ swig3.0-doc
 swig3.0-examples
 swig:i386
 sysbench
+syslinux
+syslinux-common
+syslinux-udeb
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
