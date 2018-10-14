@@ -6907,6 +6907,8 @@ libirrlicht1.8-dbg
 libiscsi-bin
 libiscsi-dev
 libiscsi2
+libisl-dbg
+libisl-dev
 libisl10
 libisl10:i386
 libisoburn-dbg
