@@ -1105,6 +1105,7 @@ freetds-bin
 freetds-common
 freetds-dev
 freetds-dev:i386
+freetype2-demos
 fsharp
 ftdi-eeprom
 ftdi-eeprom:i386
@@ -5825,6 +5826,7 @@ libfreerdp-utils1.1
 libfreetype6
 libfreetype6-dev
 libfreetype6-dev:i386
+libfreetype6-udeb
 libfreetype6:i386
 libfreexl-dev
 libfreexl1
