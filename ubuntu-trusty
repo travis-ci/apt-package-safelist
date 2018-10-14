@@ -1056,6 +1056,7 @@ folium:i386
 fontconfig
 fontconfig-config
 fontconfig-config:i386
+fontconfig-udeb
 fontconfig:i386
 fontforge
 fontforge-common
@@ -5790,6 +5791,7 @@ libfltk1.3-dev
 libfluidsynth-dev
 libfluidsynth1
 libfontconfig1
+libfontconfig1-dbg
 libfontconfig1-dev
 libfontconfig1-dev:i386
 libfontconfig1:i386
