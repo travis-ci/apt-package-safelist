@@ -2063,6 +2063,9 @@ happy-1.19.4:i386
 happy-1.19.5
 happy-1.19.5:i386
 happy:i386
+haproxy
+haproxy-dbg
+haproxy-doc
 hardening-includes
 hardening-wrapper
 hardening-wrapper:i386
@@ -13234,6 +13237,7 @@ vim-doc
 vim-gnome
 vim-gtk
 vim-gui-common
+vim-haproxy
 vim-nox
 vim-puppet
 vim-runtime
