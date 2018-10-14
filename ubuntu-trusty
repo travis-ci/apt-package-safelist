@@ -4186,6 +4186,8 @@ lib32quadmath0
 lib32quadmath0-dbg
 lib32quadmath0-dbg:i386
 lib32quadmath0:i386
+lib32readline-gplv2-dev
+lib32readline5
 lib32readline6
 lib32readline6-dev
 lib32stdc++-4.8-dev
@@ -4332,6 +4334,8 @@ lib64quadmath0
 lib64quadmath0-dbg
 lib64quadmath0-dbg:i386
 lib64quadmath0:i386
+lib64readline-gplv2-dev
+lib64readline5
 lib64readline6
 lib64readline6-dev
 lib64stdc++-4.8-dev
@@ -8772,6 +8776,7 @@ libreadline-dev:i386
 libreadline-gplv2-dev
 libreadline-gplv2-dev:i386
 libreadline5
+libreadline5-dbg
 libreadline5:i386
 libreadline6
 libreadline6-dbg
