@@ -11157,6 +11157,10 @@ openmpi-common
 openmpi-doc
 openmpi:i386
 openmpipython
+openscad
+openscad-dbg
+openscad-testing
+openscad-testing-data
 openscenegraph
 openscenegraph-doc
 openscenegraph-examples
