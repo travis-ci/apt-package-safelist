@@ -5732,6 +5732,7 @@ libfbembed2.5
 libfbembed2.5:i386
 libfcgi-dev
 libfcgi-dev:i386
+libfcgi0ldbl
 libfdk-aac-dev
 libfdk-aac1
 libfdt-dev
