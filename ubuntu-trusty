@@ -5363,6 +5363,7 @@ libcrypto++-utils
 libcrypto++-utils:i386
 libcrypto++9v5
 libcrypto++9v5-dbg
+libcrypto1.0.0-udeb
 libcryptsetup-dev
 libcryptsetup4
 libcryptsetup4-udeb
@@ -9395,6 +9396,8 @@ libssl-doc:i386
 libssl0.9.8
 libssl0.9.8:i386
 libssl1.0.0
+libssl1.0.0-dbg
+libssl1.0.0-udeb
 libssl1.0.0:i386
 libstartup-notification0
 libstartup-notification0-dev
