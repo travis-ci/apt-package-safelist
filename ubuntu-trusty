@@ -1722,6 +1722,7 @@ git-daemon-sysvinit
 git-doc
 git-el
 git-email
+git-ftp
 git-gui
 git-man
 git-man:i386
