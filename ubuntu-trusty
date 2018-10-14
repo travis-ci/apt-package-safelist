@@ -1434,7 +1434,13 @@ gcovr
 gdal-bin
 gdal-bin:i386
 gdb
+gdb-doc
+gdb-minimal
+gdb-multiarch
+gdb-source
+gdb64
 gdb:i386
+gdbserver
 gdc
 gdc-4.8
 gdc-4.8-arm-linux-gnueabihf
