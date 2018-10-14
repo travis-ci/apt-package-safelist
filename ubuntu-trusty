@@ -9282,6 +9282,8 @@ libsnmp-perl
 libsnmp-perl:i386
 libsnmp15
 libsnmp15:i386
+libsofthsm
+libsofthsm-dev
 libsofthsm2
 libsofthsm2-dev
 libsoil-dev
@@ -12754,6 +12756,9 @@ socklog
 socklog-run
 socklog-run:i386
 socklog:i386
+softhsm
+softhsm-common
+softhsm-dbg
 softhsm2
 softhsm2-common
 softhsm2-dbg
