@@ -339,7 +339,11 @@ bitcoin-qt
 bitcoin-tx
 bitcoind
 bjam
+blender
+blender-data
+blender-dbg
 blender-ogrexml
+blender-snapshot
 boost-build
 botan1.10-dbg
 bottleneck
