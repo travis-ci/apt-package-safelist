@@ -5855,6 +5855,7 @@ libftdipp1-dev
 libfuse-dev
 libfuse2
 libfuse2:i386
+libfuzzer-3.9-dev
 libfuzzer-4.0-dev
 libfuzzer-5.0-dev
 libfuzzy-dev
@@ -7169,6 +7170,8 @@ libllvm3.8
 libllvm3.8-dbg
 libllvm3.9
 libllvm3.9-dbg
+libllvm3.9v4
+libllvm3.9v4-dbg
 libllvm4.0
 libllvm4.0-dbg
 libllvm5.0
@@ -10621,6 +10624,7 @@ llvm-3.9-dev
 llvm-3.9-doc
 llvm-3.9-examples
 llvm-3.9-runtime
+llvm-3.9-tools
 llvm-4.0
 llvm-4.0-dev
 llvm-4.0-doc
