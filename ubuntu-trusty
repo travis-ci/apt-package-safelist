@@ -1765,6 +1765,7 @@ gnome-common
 gnome-doc-utils
 gnome-icon-theme-extras
 gnome-icon-theme-symbolic
+gnome-keyring
 gnome-mplayer
 gnome-mplayer-dbg
 gnome-session-canberra
@@ -8259,6 +8260,7 @@ libowfat-dietlibc-dev
 libowfat0
 libp11-kit-dev
 libp11-kit-dev:i386
+libp11-kit-gnome-keyring
 libp11-kit0
 libp11-kit0:i386
 libpackagekit-glib2-dev
@@ -8270,6 +8272,7 @@ libpam-cracklib
 libpam-cracklib:i386
 libpam-doc
 libpam-doc:i386
+libpam-gnome-keyring
 libpam-modules
 libpam-modules-bin
 libpam-modules-bin:i386
