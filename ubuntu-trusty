@@ -11149,7 +11149,6 @@ openjpip-dec-server
 openjpip-server
 openjpip-viewer
 openjpip-viewer-xerces
-openmpi
 openmpi-bin
 openmpi-bin:i386
 openmpi-checkpoint
