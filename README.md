@@ -18,23 +18,23 @@ travis-build](https://github.com/travis-ci/travis-build/blob/master/lib/travis/b
 
    ***Please [search first](https://github.com/travis-ci/apt-package-safelist/pulls?utf8=%E2%9C%93&q=is%3Aopen+FOO+).***
 
-   If one doesn't exist please
+   If one doesn't exist, please
    open an issue requesting the package you need in [this
    repo](https://github.com/travis-ci/apt-package-safelist/issues/new?title=APT+safelist+request+for+___PACKAGE___+in+_PRECISE_OR_TRUSTY_).
    Be sure to replace `__PACKAGE__` in the issue title, and
    to indicate in the issue title whether you'd want the package
    in Precise or Trusty. If none is specified, we will test it on Precise.
 
-1. The initial steps for package approval process is automated.
+1. The initial steps for package approval process are automated.
     * This means that the issues' subject should follow exactly the one indicated.
       That is, there should be **exactly one package** per issue.
       The process would not work with multiple package requests in one issue.
     * If the source package defines multiple packages, those will be processed at once.
       In this case, list only one.
-1. PRs are not accepted, since we have not run tests on them.
+1. PRs are not accepted since we have not run tests on them.
 1. The automation process will test the source package as described below.
     * If no issues are found, a PR will be opened, and it will be merged shortly thereafter.
-    * If no matching source packages is found, a comment indicating this is posted on the issue.
+    * If no matching source packages are found, a comment indicating this is posted on the issue.
     This means that either the package name is incorrect, or that your request requires
     a package repository that is not currently listed in [APT source safelist](https://github.com/travis-ci/apt-source-safelist).
     * The command `grep -R -i -H -C5 -E --color 'set(uid|euid|gid)' --exclude install-sh .` is run on the source package.
@@ -54,7 +54,7 @@ and their property :metal:.  The steps go like this (for ubuntu precise), much o
 1. Get the container's IP address: `docker inspect <container-id>`
 1. SSH into the container: `ssh travis@<container-ip>` (password=`travis`)
 1. Freshen up the apt cache: `sudo apt-get update`
-1. Move into the shared dir or sub directory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
+1. Move into the shared dir or subdirectory, e.g.: `mkdir -p /var/tmp/deb-sources ; cd /var/tmp/deb-sources`
 1. Grab the package sources: `apt-get source <package-name>`
 1. Take a look at the package's extracted hooks: `cd <package-name>/debian ; vim *pre* *post* *inst*` (see [inspecting packages](#inspecting-packages))
 1. If no malicious or goofy bits are found, :thumbsup: :shipit:
@@ -117,7 +117,7 @@ shopt -s nullglob
 vi *{pre,post,inst}*
 ```
 
-### github API handy bits
+### GitHub API handy bits
 
 There is a helper script at `./bin/travis-list-apt-safelist-issues` which may be used to query the open APT safelist
 requests, as well as for automatic commit message formatting, e.g.:
@@ -152,7 +152,7 @@ Edit any matches for `set(uid|euid|gid|egid)`
 vim $(grep -l -R -i -E 'set(uid|euid|gid)' . | grep -v -E '\binstall-sh\b')
 ```
 
-Edit any debian package files
+Edit any Debian package files
 
 ``` bash
 for d in $(find . -name debian) ; do
@@ -170,7 +170,7 @@ for d in $(find . -name debian) ; do
 done | xargs echo
 ```
 
-Back outside of the Vagrant box, pass this list of packages for addition.  Adding both the package name and its' `:i386` variant is not always necessary, but doesn't hurt.
+Back outside of the Vagrant box, pass this list of packages for addition.  Adding both the package name and its `:i386` variant is not always necessary, but doesn't hurt.
 
 (If you don't have the `pre-commit` hook)
 
