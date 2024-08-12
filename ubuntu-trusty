@@ -592,12 +592,6 @@ corosync
 corosync-dev
 corosync-doc
 corosync-notifyd
-couchdb
-couchdb-bin
-couchdb-bin:i386
-couchdb-common
-couchdb-common:i386
-couchdb:i386
 cowsay
 cowsay-off
 cpanminus
