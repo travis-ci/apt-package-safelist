@@ -675,6 +675,9 @@ db-util:i386
 dblatex
 dbtoepub
 dbus
+dbus-1-dbg
+dbus-1-doc
+dbus-udeb
 dbus-x11
 dbus-x11:i386
 dbus:i386
@@ -5241,7 +5244,9 @@ libdbi-perl:i386
 libdbi1
 libdbi1-dbg
 libdbus-1-3
+libdbus-1-3-udeb
 libdbus-1-3:i386
+libdbus-1-dev
 libdbus-glib-1-2
 libdbus-glib-1-2-dbg
 libdbus-glib-1-2:i386
