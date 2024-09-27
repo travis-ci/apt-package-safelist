@@ -5295,10 +5295,10 @@ libdirectfb-bin-udeb
 libdirectfb-dev
 libdirectfb-extra
 libdirectfb-extra-dbg
-libdiscid-dev
 libdiscid-doc
 libdiscid0
 libdiscid0-dbg
+libdiscid0-dev
 libdispatch-dev
 libdispatch0
 libdjvulibre-dev
