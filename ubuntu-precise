@@ -9332,6 +9332,11 @@ libvips-dev
 libvips-doc
 libvips-tools
 libvips38
+libvirt-bin
+libvirt-dev
+libvirt-doc
+libvirt0
+libvirt0-dbg
 libvisio-0.1-1
 libvisio-dev
 libvisio-doc
@@ -11180,6 +11185,7 @@ python-libhamlib2
 python-liblcms
 python-libproxy
 python-libsvm
+python-libvirt
 python-libxml2
 python-libxml2-dbg
 python-libxslt1
