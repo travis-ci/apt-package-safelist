@@ -837,6 +837,12 @@ e2tools
 e2tools:i386
 eatmydata
 eatmydata:i386
+eclipse
+eclipse-jdt
+eclipse-pde
+eclipse-platform
+eclipse-platform-data
+eclipse-rcp
 ed
 efl-dbg
 efl-doc
@@ -5634,6 +5640,7 @@ libenet7
 libenet7-dbg
 libepsilon0
 libepsilon0:i386
+libequinox-osgi-java
 liberasurecode-dev
 liberasurecode1
 liberror-perl
