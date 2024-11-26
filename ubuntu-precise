@@ -705,6 +705,7 @@ debianutils:i386
 debmirror
 debootstrap
 debootstrap:i386
+debugedit
 default-jdk
 default-jdk-doc
 default-jre
@@ -8548,6 +8549,12 @@ libriemann-client-dev
 libriemann-client0
 libroken18-heimdal
 libroken18-heimdal:i386
+librpm-dbg
+librpm-dev
+librpm3
+librpmbuild3
+librpmio3
+librpmsign3
 librrd-dev
 librrd-ruby
 librrd-ruby1.8
@@ -11382,6 +11389,7 @@ python-requests-toolbelt-doc
 python-requests-whl
 python-restkit
 python-roman
+python-rpm
 python-rpy
 python-rpy-doc
 python-rpy-doc:i386
@@ -11690,6 +11698,7 @@ python3-requests
 python3-requests-oauthlib
 python3-requests-toolbelt
 python3-roman
+python3-rpm
 python3-scipy
 python3-scipy-dbg
 python3-setuptools
@@ -11957,6 +11966,9 @@ riak:i386
 riemann-c-client
 rlfe
 rpm
+rpm-common
+rpm-i18n
+rpm2cpio
 rpm:i386
 rpmlint
 rrdcached
