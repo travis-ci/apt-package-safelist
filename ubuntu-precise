@@ -12157,6 +12157,11 @@ t1lib-bin
 tango-icon-theme
 tar
 tar:i386
+tarantool
+tarantool-client
+tarantool-client-dbg
+tarantool-common
+tarantool-dbg
 tbb-examples
 tcc
 tcl
