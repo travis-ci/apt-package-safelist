@@ -9367,6 +9367,11 @@ libvpx2
 libvpx2-dbg
 libvpx3
 libvpx3-dbg
+libvte-common
+libvte-dev
+libvte-doc
+libvte9
+libvte9-udeb
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
@@ -11455,6 +11460,7 @@ python-urllib3
 python-vipscc
 python-virtualenv
 python-virtualenv:i386
+python-vte
 python-vtk
 python-vtk:i386
 python-vtkgdcm
