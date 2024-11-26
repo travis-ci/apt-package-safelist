@@ -528,6 +528,11 @@ cmake-data:i386
 cmake-dbg
 cmake-doc
 cmake-qt-gui
+cmake3
+cmake3-curses-gui
+cmake3-data
+cmake3-doc
+cmake3-qt-gui
 cmake:i386
 cmap-adobe-japan1
 cmap-adobe-japan1:i386
