@@ -10614,6 +10614,10 @@ pandoc-data
 pandoc:i386
 parallel
 parallel:i386
+paraview
+paraview-dev
+paraview-doc
+paraview-python
 parmetis-doc
 parmetis-test
 passwd
