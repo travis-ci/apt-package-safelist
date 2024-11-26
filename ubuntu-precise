@@ -737,6 +737,10 @@ dia-gnome
 dia-libs
 dialog
 diatheke
+dict
+dictd
+dictfmt
+dictzip
 dieharder
 diffstat
 diffstat:i386
