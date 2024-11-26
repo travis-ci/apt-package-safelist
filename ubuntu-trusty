@@ -10739,6 +10739,7 @@ mesa-common-dev
 mesa-common-dev:i386
 mesa-utils
 mesa-utils:i386
+meshlab
 metacity
 metacity-common
 metis
