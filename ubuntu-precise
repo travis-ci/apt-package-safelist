@@ -2145,6 +2145,7 @@ iptables-dev
 iptables:i386
 ipv6calc
 ir-keytable
+ircd-irc2
 isc-dhcp-client
 isc-dhcp-client:i386
 isc-dhcp-common
