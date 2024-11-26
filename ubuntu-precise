@@ -6051,6 +6051,9 @@ libgnome2-bin
 libgnome2-bin:i386
 libgnome2-common
 libgnome2-common:i386
+libgnome2-dbg
+libgnome2-dev
+libgnome2-doc
 libgnomeui-dev
 libgnomevfs2-0
 libgnomevfs2-0:i386
