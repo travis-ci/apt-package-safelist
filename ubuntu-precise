@@ -10375,6 +10375,8 @@ ncurses-term
 ncurses6
 ncursest-examples
 ncursest6
+ndisc6
+ndisc6-udeb
 neko
 neko-dev
 net-tools
@@ -11933,6 +11935,8 @@ rapidjson-doc
 raptor2-utils
 rdesktop
 rdmacm-utils
+rdnssd
+rdnssd-udeb
 re2c
 readline-common
 readline-common:i386
