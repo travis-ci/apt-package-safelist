@@ -925,6 +925,7 @@ expect
 expect-dev
 expect-dev:i386
 expect:i386
+explain
 exuberant-ctags
 eyed3
 faac
@@ -5472,6 +5473,9 @@ libexpat1-dev:i386
 libexpat1-udeb
 libexpat1:i386
 libexpect-perl
+libexplain-dev
+libexplain30
+libexplain30-dbg
 libextlib-ocaml
 libextlib-ocaml-dev
 libfaac-dev
