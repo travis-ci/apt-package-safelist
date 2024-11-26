@@ -394,6 +394,7 @@ ccache:i386
 cdbs
 cdbs-testsuite
 cdialog
+cdrkit-doc
 check
 checkpolicy
 checkstyle
@@ -1409,6 +1410,7 @@ gem2deb-test-runner
 genders
 genext2fs
 gengetopt
+genisoimage
 genometools
 genometools-common
 genometools-dbg
@@ -2064,6 +2066,7 @@ ice34-translators
 ice34-translators:i386
 icebox
 icebox:i386
+icedax
 icedtea-6-jre-cacao
 icedtea-6-jre-cacao:i386
 icedtea-6-jre-jamvm
@@ -12605,6 +12608,7 @@ wise-doc:i386
 wise:i386
 wkhtmltopdf
 wkhtmltopdf:i386
+wodim
 wv
 wvdial
 wx-common
