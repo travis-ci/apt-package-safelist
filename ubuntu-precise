@@ -10788,6 +10788,7 @@ postgis-gui
 postgresql-9.0-plv8
 postgresql-9.0-plv8:i386
 postgresql-9.1
+postgresql-9.1-plproxy
 postgresql-9.1-plv8
 postgresql-9.1-plv8:i386
 postgresql-9.1-postgis-2.1
