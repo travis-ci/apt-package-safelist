@@ -268,6 +268,10 @@ bedtools-test
 biblatex
 bibutils
 binary_package.name
+bind9
+bind9-doc
+bind9-host
+bind9utils
 binfmt-support
 binfmt-support:i386
 binutils
@@ -1994,6 +1998,7 @@ hledger
 hlint
 hmmer
 hmmer-doc
+host
 hostname
 hostname:i386
 hscolour
@@ -4463,8 +4468,10 @@ libbcel-java-doc:i386
 libbcel-java:i386
 libbibutils-dev
 libbibutils2
+libbind-dev
 libbind4
 libbind4-dev
+libbind9-80
 libbio-perl-perl
 libbio-perl-run-perl
 libbison-dev
@@ -5307,6 +5314,7 @@ libdjvulibre-text
 libdjvulibre-text:i386
 libdjvulibre21
 libdjvulibre21:i386
+libdns81
 libdpkg-perl
 libdpkg-perl:i386
 libdrm-dev
@@ -6573,6 +6581,9 @@ libirrlicht1.7a
 libirrlicht1.7a:i386
 libirrlicht1.8
 libirrlicht1.8-dbg
+libisc83
+libisccc80
+libisccfg82
 libiscsi-bin
 libiscsi-dev
 libiscsi2
@@ -6920,6 +6931,7 @@ liblwgeom-2.1.8
 liblwgeom-2.2-5
 liblwgeom-2.3-0
 liblwgeom-dev
+liblwres80
 liblz4-1
 liblz4-1-dbg
 liblz4-dev
@@ -10126,6 +10138,7 @@ luajit
 luarocks
 lvm2
 lvm2-udeb
+lwresd
 lyx
 lyx-common
 lyx-dbg
