@@ -4255,6 +4255,7 @@ libapache2-mod-php5
 libapache2-mod-php5:i386
 libapache2-mod-php5filter
 libapache2-mod-php5filter:i386
+libapache2-svn
 libapp-nopaste-perl
 libapp-nopaste-perl:i386
 libappindicator-dev
@@ -9072,6 +9073,12 @@ libsvm-java
 libsvm-tools
 libsvm3
 libsvm3-java
+libsvn-dev
+libsvn-doc
+libsvn-java
+libsvn-perl
+libsvn-ruby
+libsvn-ruby1.8
 libsvn1
 libsvn1:i386
 libswitch-perl
@@ -11432,6 +11439,8 @@ python-stdnum
 python-stdnum-doc
 python-stem
 python-subunit
+python-subversion
+python-subversion-dbg
 python-suds
 python-support
 python-swiftclient
@@ -12131,6 +12140,7 @@ strace
 strace:i386
 subunit
 subversion
+subversion-tools
 subversion:i386
 sudo
 sudo:i386
