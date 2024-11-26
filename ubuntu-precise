@@ -9095,6 +9095,8 @@ libsynctex-dev
 libsynctex1
 libsys-hostname-long-perl
 libsys-hostname-long-perl:i386
+libsyslog-ng-3.3.4
+libsyslog-ng-dev
 libt1-5
 libt1-5-dbg
 libt1-dev
@@ -12149,6 +12151,12 @@ swig3.0-doc
 swig3.0-examples
 swig:i386
 sysbench
+syslog-ng
+syslog-ng-core
+syslog-ng-dbg
+syslog-ng-mod-json
+syslog-ng-mod-mongodb
+syslog-ng-mod-sql
 sysv-rc
 sysv-rc:i386
 sysvinit-utils
