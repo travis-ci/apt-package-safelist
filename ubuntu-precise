@@ -6920,6 +6920,7 @@ liblwgeom-2.1.8
 liblwgeom-2.2-5
 liblwgeom-2.3-0
 liblwgeom-dev
+liblxc1
 liblz4-1
 liblz4-1-dbg
 liblz4-dev
@@ -10126,6 +10127,11 @@ luajit
 luarocks
 lvm2
 lvm2-udeb
+lxc
+lxc-dbg
+lxc-dev
+lxc-templates
+lxc-tests
 lyx
 lyx-common
 lyx-dbg
@@ -11595,6 +11601,7 @@ python3-jsonschema
 python3-lockfile
 python3-lttngust
 python3-lvm2
+python3-lxc
 python3-lxml
 python3-lxml-dbg
 python3-magic
