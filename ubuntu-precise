@@ -394,6 +394,8 @@ ccache:i386
 cdbs
 cdbs-testsuite
 cdialog
+cfengine2
+cfengine2-dbg
 check
 checkpolicy
 checkstyle
