@@ -9381,6 +9381,9 @@ libvulkan-dev
 libvulkan1
 libwavpack-dev
 libwavpack1
+libwayland-dev
+libwayland0
+libwayland0-dbg
 libwbclient-dev
 libwbclient-dev:i386
 libwbclient0
