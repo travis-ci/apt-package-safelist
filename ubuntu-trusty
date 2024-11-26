@@ -4050,6 +4050,7 @@ lcl-utils
 lcl-utils-1.4.4
 lcov
 ldap-utils
+ldirectord
 ldnsutils
 ldnsutils:i386
 lebiniou
@@ -12615,6 +12616,8 @@ reprepro
 reptyr
 resolvconf
 resolvconf:i386
+resource-agents
+resource-agents-dev
 rhino
 rhino-doc
 ri
