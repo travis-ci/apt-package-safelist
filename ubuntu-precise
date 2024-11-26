@@ -9367,6 +9367,11 @@ libvpx2
 libvpx2-dbg
 libvpx3
 libvpx3-dbg
+libvtk-java
+libvtk5-dev
+libvtk5-qt4-dev
+libvtk5.8
+libvtk5.8-qt4
 libvtkgdcm-cil
 libvtkgdcm-cil:i386
 libvtkgdcm-java
@@ -12163,6 +12168,7 @@ tcl
 tcl-dev
 tcl-dev:i386
 tcl-tls
+tcl-vtk
 tcl8.5
 tcl8.5-dev
 tcl8.5-dev:i386
@@ -12574,6 +12580,8 @@ voms-server
 vorbis-tools
 vpnc
 vpx-tools
+vtk-doc
+vtk-examples
 vulkan-utils
 w3c-linkchecker
 wamerican
