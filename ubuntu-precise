@@ -947,6 +947,9 @@ ffmpeg:i386
 fftw-dev
 fftw-docs
 fftw2
+fglrx
+fglrx-amdcccle
+fglrx-dev
 figlet
 file
 file-dbg
