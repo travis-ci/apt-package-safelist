@@ -6891,6 +6891,8 @@ liblua5.1-0-dev:i386
 liblua5.1-0:i386
 liblua5.1-bitop-dev
 liblua5.1-bitop0
+liblua5.1-lpeg-dev
+liblua5.1-lpeg2
 liblua5.1-rrd-dev
 liblua5.1-rrd0
 liblua5.2-0
