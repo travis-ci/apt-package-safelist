@@ -651,6 +651,7 @@ cups-dbg
 cups-ipp-utils
 cups-ppdc
 cups-server-common
+cupsddk
 curl
 curl-udeb
 curl:i386
@@ -5163,6 +5164,8 @@ libcups2-dev
 libcups2:i386
 libcupscgi1
 libcupscgi1-dev
+libcupsdriver1
+libcupsdriver1-dev
 libcupsimage2
 libcupsimage2-dev
 libcupsimage2:i386
