@@ -10341,8 +10341,10 @@ mysql-server-core-5.5
 mysql-server-core-5.5:i386
 mysql-server-core-5.6
 mysql-server:i386
+mysql-source-5.5
 mysql-source-5.6
 mysql-testsuite
+mysql-testsuite-5.5
 mysql-testsuite-5.6
 mythes-ca
 mythes-cs
