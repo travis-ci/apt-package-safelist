@@ -10634,6 +10634,16 @@ pdftk
 pdftk-dbg
 pdftk:i386
 pdl
+pdns-backend-geo
+pdns-backend-ldap
+pdns-backend-lua
+pdns-backend-mysql
+pdns-backend-pgsql
+pdns-backend-pipe
+pdns-backend-sqlite
+pdns-backend-sqlite3
+pdns-server
+pdns-server-dbg
 pep257
 pep8
 percona-toolkit
