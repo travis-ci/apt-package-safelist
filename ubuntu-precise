@@ -795,6 +795,8 @@ dsniff
 dtdinst
 dvb-tools
 dvbpsi-utils
+dvd+rw-tools
+dvd+rw-tools-dbg
 dvi2tty
 dvipng
 dvipng:i386
@@ -1851,6 +1853,7 @@ gromacs-mpich
 gromacs-openmpi
 groovy
 groovy:i386
+growisofs
 grub-common
 grub-coreboot
 grub-coreboot-bin
