@@ -829,7 +829,14 @@ emacs23-gtk:i386
 emacs23-nox
 emacs23-nox:i386
 emacs24
+emacs24-bin-common
+emacs24-common
+emacs24-dbg
+emacs24-el
+emacs24-lucid
+emacs24-lucid-dbg
 emacs24-nox
+emacs24-nox-dbg
 emacs24:i386
 emacsen-common
 emacsen-common:i386
