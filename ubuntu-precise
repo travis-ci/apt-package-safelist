@@ -394,6 +394,7 @@ ccache:i386
 cdbs
 cdbs-testsuite
 cdialog
+cfdisk-udeb
 check
 checkpolicy
 checkstyle
@@ -937,6 +938,7 @@ fakeroot:i386
 faketime
 fasm
 fbi
+fdisk-udeb
 feh
 ffmpeg
 ffmpeg-dbg
@@ -4475,7 +4477,9 @@ libblas-dev
 libblas-dev:i386
 libblas3gf
 libblas3gf:i386
+libblkid-dev
 libblkid1
+libblkid1-udeb
 libblkid1:i386
 libblocksruntime-dev
 libblocksruntime0
@@ -7319,7 +7323,9 @@ libmono2.0-cil
 libmono2.0-cil:i386
 libmonogame-cil
 libmonogame-cil-dev
+libmount-dev
 libmount1
+libmount1-udeb
 libmount1:i386
 libmozjs185-1.0
 libmozjs185-1.0:i386
@@ -9299,6 +9305,7 @@ libutfcpp-dev
 libutfcpp-doc
 libuuid-tiny-perl
 libuuid1
+libuuid1-udeb
 libuuid1:i386
 libv4l-0
 libv4l-dev
@@ -12498,10 +12505,13 @@ urweb
 urweb-doc
 urweb-mode
 util-linux
+util-linux-locales
+util-linux-udeb
 util-linux:i386
 uuid
 uuid-dev
 uuid-dev:i386
+uuid-runtime
 v4l-utils
 va-driver-all
 vagrant
