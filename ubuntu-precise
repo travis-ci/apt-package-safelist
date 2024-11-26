@@ -9128,6 +9128,7 @@ libtbb-doc
 libtbb2
 libtbb2-dbg
 libtcc-dev
+libtcl8.4
 libtclap-dev
 libtcltk-ruby
 libtcmalloc-minimal0
@@ -12163,6 +12164,9 @@ tcl
 tcl-dev
 tcl-dev:i386
 tcl-tls
+tcl8.4
+tcl8.4-dev
+tcl8.4-doc
 tcl8.5
 tcl8.5-dev
 tcl8.5-dev:i386
