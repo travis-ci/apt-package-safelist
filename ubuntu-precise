@@ -12138,6 +12138,11 @@ supervisor
 supervisor-doc
 swftools
 swftools-dbg
+swi-prolog
+swi-prolog-java
+swi-prolog-nox
+swi-prolog-odbc
+swi-prolog-x
 swig
 swig-doc
 swig-examples
