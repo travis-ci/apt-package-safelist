@@ -12033,6 +12033,10 @@ scons:i386
 scotch
 scotch-dbg
 scratchbox2
+sdcc
+sdcc-doc
+sdcc-libraries
+sdcc-ucsim
 seabios
 seaborn
 seaborn:i386
