@@ -73,6 +73,8 @@ arduino-mk
 aria2
 asciidoc
 asciidoc:i386
+asciidoctor
+asciidoctor-doc
 ash
 aspcud
 aspcud:i386
