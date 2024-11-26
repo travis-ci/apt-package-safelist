@@ -801,9 +801,14 @@ dvipng:i386
 dvipsk-ja
 dwarfdump
 dwdiff
+e2fsck-static
 e2fslibs
+e2fslibs-dbg
+e2fslibs-dev
 e2fslibs:i386
 e2fsprogs
+e2fsprogs-dbg
+e2fsprogs-udeb
 e2fsprogs:i386
 e2tools
 eatmydata
@@ -5061,6 +5066,7 @@ libcollectdclient-dev:i386
 libcollectdclient0
 libcollectdclient0:i386
 libcomerr2
+libcomerr2-dbg
 libcomerr2:i386
 libcommons-beanutils-java
 libcommons-beanutils-java:i386
@@ -8910,6 +8916,7 @@ libsrecord0-dbg
 libsrtp0
 libsrtp0-dev
 libss2
+libss2-dbg
 libss2:i386
 libssh-4
 libssh-dbg
@@ -12115,6 +12122,7 @@ squashfs-tools-dbg
 srecord
 srtp-docs
 srtp-utils
+ss-dev
 ssdeep
 ssh
 ssh-import-id
