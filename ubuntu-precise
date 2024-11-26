@@ -7346,6 +7346,12 @@ libmpfr4
 libmpfr4:i386
 libmpg123-0
 libmpg123-dev
+libmpich-mpd1.0-dev
+libmpich-mpd1.0gf
+libmpich-shmem1.0-dev
+libmpich-shmem1.0gf
+libmpich1.0-dev
+libmpich1.0gf
 libmpv-dbg
 libmpv-dev
 libmpv1
@@ -10274,7 +10280,12 @@ mp3splt
 mp3val
 mp4v2-dbg
 mp4v2-utils
+mpe-source
 mpg123
+mpi-doc
+mpich-bin
+mpich-mpd-bin
+mpich-shmem-bin
 mpich2python
 mplayer
 mplayer-dbg
