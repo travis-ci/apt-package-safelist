@@ -395,6 +395,7 @@ cdbs
 cdbs-testsuite
 cdialog
 check
+checkinstall
 checkpolicy
 checkstyle
 checkstyle:i386
