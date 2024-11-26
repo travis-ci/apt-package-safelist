@@ -1624,6 +1624,7 @@ gir1.2-gtk-2.0:i386
 gir1.2-gtk-3.0
 gir1.2-gtkclutter-1.0
 gir1.2-gtkspell3-3.0
+gir1.2-gudev-1.0
 gir1.2-harfbuzz-0.0
 gir1.2-ibus-1.0
 gir1.2-notify-0.7
@@ -9229,6 +9230,7 @@ libucl-dev
 libucl1
 libudev-dev
 libudev0
+libudev0-udeb
 libudev0:i386
 libudisks2-0
 libudisks2-dev
@@ -12452,6 +12454,7 @@ ucspi-tcp-ipv6
 udeb
 udeb:i386
 udev
+udev-udeb
 udev:i386
 udisks
 udisks2
