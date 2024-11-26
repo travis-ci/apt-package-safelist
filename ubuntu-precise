@@ -6155,6 +6155,14 @@ libgs9-common:i386
 libgs9:i386
 libgsasl7
 libgsasl7-dev
+libgsf-1-114
+libgsf-1-114-dbg
+libgsf-1-common
+libgsf-1-dev
+libgsf-bin
+libgsf-gnome-1-114
+libgsf-gnome-1-114-dbg
+libgsf-gnome-1-dev
 libgsl0-dbg
 libgsl0-dbg:i386
 libgsl0-dev
