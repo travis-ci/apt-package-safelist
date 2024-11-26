@@ -12050,6 +12050,8 @@ sgml-base:i386
 shapelib
 shared-mime-info
 shared-mime-info:i386
+sharutils
+sharutils-doc
 shellcheck
 shiboken
 shiboken-dbg
