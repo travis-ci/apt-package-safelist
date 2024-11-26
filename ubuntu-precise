@@ -666,6 +666,8 @@ cython-dbg
 cython-doc
 cython3
 cython3-dbg
+daemontools
+daemontools-run
 darcs
 dash
 dash:i386
