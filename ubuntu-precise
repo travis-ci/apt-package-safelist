@@ -10587,6 +10587,11 @@ openssh-server
 openssh-server:i386
 openssl
 openssl:i386
+openswan
+openswan-dbg
+openswan-doc
+openswan-modules-dkms
+openswan-modules-source
 optipng
 optipng:i386
 oracle-java7-installer
