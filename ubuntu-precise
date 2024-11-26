@@ -927,6 +927,7 @@ expect-dev:i386
 expect:i386
 exuberant-ctags
 eyed3
+f2c
 faac
 faad
 faad2-dbg
