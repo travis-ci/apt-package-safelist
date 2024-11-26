@@ -1682,6 +1682,7 @@ gnome-doc-utils
 gnome-mplayer
 gnome-mplayer-dbg
 gnome-session-canberra
+gnulib
 gnupg
 gnupg-agent
 gnupg2
