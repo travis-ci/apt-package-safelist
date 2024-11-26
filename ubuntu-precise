@@ -1423,6 +1423,8 @@ gerbv
 gettext
 gettext-base
 gettext-base:i386
+gettext-doc
+gettext-el
 gettext:i386
 gforth
 gforth-common
