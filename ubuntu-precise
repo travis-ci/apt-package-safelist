@@ -394,6 +394,15 @@ ccache:i386
 cdbs
 cdbs-testsuite
 cdialog
+ceph
+ceph-common
+ceph-common-dbg
+ceph-dbg
+ceph-fs-common
+ceph-fs-common-dbg
+ceph-mds
+ceph-mds-dbg
+ceph-resource-agents
 check
 checkpolicy
 checkstyle
@@ -1314,6 +1323,8 @@ gccgo-powerpc64le-linux-gnu
 gccgo-s390x-linux-gnu
 gccgo:i386
 gccxml
+gceph
+gceph-dbg
 gcj-4.8
 gcj-4.8-jdk
 gcj-4.8-jre
@@ -4930,6 +4941,9 @@ libccolamd2.8.0
 libcdt4
 libcdt4:i386
 libcdt5
+libcephfs-dev
+libcephfs1
+libcephfs1-dbg
 libcereal-dev
 libcereal-doc
 libcext-dev
@@ -8326,6 +8340,9 @@ librabbitmq-dev
 librabbitmq1
 libradiusclient-ng-dev
 libradiusclient-ng2
+librados-dev
+librados2
+librados2-dbg
 libraptor2-0
 libraptor2-0-dbg
 libraptor2-dev
@@ -8345,6 +8362,9 @@ libraw1394-11-dbg
 libraw1394-dev
 libraw1394-doc
 libraw1394-tools
+librbd-dev
+librbd1
+librbd1-dbg
 librdf-storage-mysql
 librdf-storage-postgresql
 librdf-storage-sqlite
@@ -10453,6 +10473,7 @@ nvidia-profiler
 nvidia-visual-profiler
 oath-dbg
 oathtool
+obsync
 ocaml
 ocaml-base
 ocaml-base-nox
@@ -11053,6 +11074,7 @@ python-bzrlib:i386
 python-cairo
 python-cairo-dbg
 python-cairo-dev
+python-ceph
 python-cffi
 python-cffi-backend
 python-cffi-backend-dbg
